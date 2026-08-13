@@ -1,0 +1,6127 @@
+{
+  "harness": "annotation_eval",
+  "dataset": "in_tool_annotation",
+  "verdict_labels": [
+    "Supported",
+    "Partially Supported",
+    "Not Supported",
+    "NEI"
+  ],
+  "n_sessions": 8,
+  "n_reports": 8,
+  "session_ids": [
+    "05d7f82c89ad42bbb983ac36e265ad13",
+    "4a609692681946af9e14fba66b911683",
+    "668e0024b0814d9181768736da410902",
+    "91a46d3587e840fdb1b4a46d42ffca7c",
+    "97d9cf9f953043638b91654a5833fdb6",
+    "a4bcdb84de344556b9b29545fb3b4608",
+    "f21df9ba94974b7ab657f229ef157fc2",
+    "ffe31a75069c4e00ad13e5d0048ed1ff"
+  ],
+  "aggregate": {
+    "n_rows": 153,
+    "coverage": {
+      "n_rows": 153,
+      "n_complete": 153,
+      "n_incomplete": 0,
+      "n_kept": 145,
+      "n_dropped_false_positive": 8,
+      "n_added_tool_missed": 0,
+      "n_reference_removed": 0,
+      "n_unique_citances": 101,
+      "detected_citances": 153
+    },
+    "stage1_citance_detection": {
+      "pair_level": {
+        "tp": 145,
+        "fp": 8,
+        "fn": 0,
+        "precision": 0.9477,
+        "recall": 1.0,
+        "f1": 0.9732,
+        "skipped_incomplete": 0
+      },
+      "citance_level": {
+        "tp": 95,
+        "fp": 6,
+        "fn": 0,
+        "precision": 0.9406,
+        "recall": 1.0,
+        "f1": 0.9694,
+        "skipped_incomplete": 0,
+        "n_unique_citances": 101
+      },
+      "citance_text_edit": {
+        "available": true,
+        "n": 145,
+        "mean_similarity": 0.9824,
+        "exact_match_rate": 0.9517,
+        "n_exact": 138,
+        "n_edited": 7
+      },
+      "attribution": {
+        "available": true,
+        "n_answered": 133,
+        "n_correct": 112,
+        "n_wrong": 21,
+        "accuracy": 0.8421,
+        "n_corrected_claim_given": 20,
+        "by_flag": {
+          "enumeration": {
+            "n": 2,
+            "correct": 2,
+            "accuracy": 1.0
+          },
+          "attributional": {
+            "n": 43,
+            "correct": 42,
+            "accuracy": 0.9767
+          },
+          "plain": {
+            "n": 88,
+            "correct": 68,
+            "accuracy": 0.7727
+          }
+        }
+      }
+    },
+    "stage2_reference_mapping": {
+      "n_proposed": 153,
+      "n_kept": 145,
+      "n_rejected": 0,
+      "rejection_rate": 0.0,
+      "n_kept_with_both_keys": 145,
+      "n_remapped": 0,
+      "accuracy_over_kept": 1.0,
+      "accuracy_over_proposed": 0.9477
+    },
+    "stage2_reference_resolution": {
+      "suspect_match_score_threshold": 0.9,
+      "n_confirmed_corrections": 8,
+      "confirmed_corrections": [
+        {
+          "claim_id": "baevski2020wav2vec20",
+          "reference_key": "baevski2020wav2vec2",
+          "resolved_title": "",
+          "match_score": null,
+          "gold_verdict": "Supported",
+          "ai_verdict": "Supported",
+          "n_gold_evidence": 1,
+          "corrected_to": "",
+          "note": ""
+        },
+        {
+          "claim_id": "carletta2007ami4",
+          "reference_key": "carletta2007ami",
+          "resolved_title": "",
+          "match_score": null,
+          "gold_verdict": "Supported",
+          "ai_verdict": "Supported",
+          "n_gold_evidence": 1,
+          "corrected_to": "",
+          "note": ""
+        },
+        {
+          "claim_id": "godfrey1992switchboard2",
+          "reference_key": "godfrey1992switchboard",
+          "resolved_title": "",
+          "match_score": null,
+          "gold_verdict": "Supported",
+          "ai_verdict": "NEI",
+          "n_gold_evidence": 1,
+          "corrected_to": "",
+          "note": ""
+        },
+        {
+          "claim_id": "graves2006ctc10",
+          "reference_key": "graves2006ctc",
+          "resolved_title": "",
+          "match_score": null,
+          "gold_verdict": "Supported",
+          "ai_verdict": "Supported",
+          "n_gold_evidence": 4,
+          "corrected_to": "",
+          "note": ""
+        },
+        {
+          "claim_id": "xu2023efficient12",
+          "reference_key": "xu2023efficient",
+          "resolved_title": "",
+          "match_score": null,
+          "gold_verdict": "NEI",
+          "ai_verdict": "NEI",
+          "n_gold_evidence": 0,
+          "corrected_to": "https://arxiv.org/abs/2304.06795",
+          "note": ""
+        },
+        {
+          "claim_id": "zhang2021nemo13",
+          "reference_key": "zhang2021nemo",
+          "resolved_title": "",
+          "match_score": null,
+          "gold_verdict": "Supported",
+          "ai_verdict": "Supported",
+          "n_gold_evidence": 1,
+          "corrected_to": "",
+          "note": ""
+        },
+        {
+          "claim_id": "pan2024automatically12",
+          "reference_key": "pan2024automatically",
+          "resolved_title": "",
+          "match_score": null,
+          "gold_verdict": "Supported",
+          "ai_verdict": "Supported",
+          "n_gold_evidence": 6,
+          "corrected_to": "",
+          "note": ""
+        },
+        {
+          "claim_id": "snell2025scaling15",
+          "reference_key": "snell2025scaling",
+          "resolved_title": "",
+          "match_score": null,
+          "gold_verdict": "Supported",
+          "ai_verdict": "Supported",
+          "n_gold_evidence": 2,
+          "corrected_to": "2408.03314",
+          "note": ""
+        }
+      ],
+      "n_pipeline_empty_gold_supported": 5,
+      "n_suspected_wrong_paper": 2,
+      "suspected_wrong_paper": [
+        {
+          "claim_id": "abadi2016tensorflow34",
+          "reference_key": "abadi2016tensorflow",
+          "resolved_title": "TensorFlow:",
+          "match_score": 0.125,
+          "gold_verdict": "Partially Supported",
+          "ai_verdict": "NEI",
+          "n_gold_evidence": 2
+        },
+        {
+          "claim_id": "grice1975logic12",
+          "reference_key": "grice1975logic",
+          "resolved_title": "Grice1975.doc",
+          "match_score": 0.015,
+          "gold_verdict": "Partially Supported",
+          "ai_verdict": "NEI",
+          "n_gold_evidence": 2
+        }
+      ]
+    },
+    "stage3_evidence_localization": {
+      "match_method": "NFKD+alnum-squash containment, fuzzy>=0.85",
+      "n_positive_kept": 129,
+      "n_scored": 125,
+      "n_excluded_no_gold_evidence": 4,
+      "n_with_empty_ai_evidence": 1,
+      "micro": {
+        "gold_total": 257,
+        "gold_found": 234,
+        "ai_total": 443,
+        "ai_correct": 233,
+        "recall": 0.9105,
+        "precision": 0.526,
+        "f1": 0.6668
+      },
+      "macro": {
+        "recall": 0.9067,
+        "precision": 0.5381,
+        "f1": 0.6508
+      },
+      "per_citance": [
+        {
+          "claim_id": "Gu20162",
+          "reference_key": "Gu2016",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 3,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 1.0,
+          "f1": 1.0
+        },
+        {
+          "claim_id": "Mnih20130",
+          "reference_key": "Mnih2013",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.6667,
+          "f1": 0.8
+        },
+        {
+          "claim_id": "Robbel20164",
+          "reference_key": "Robbel2016",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 4,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.25,
+          "f1": 0.4
+        },
+        {
+          "claim_id": "Schulman201713",
+          "reference_key": "Schulman2017",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "Silver20171",
+          "reference_key": "Silver2017",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.6667,
+          "f1": 0.8
+        },
+        {
+          "claim_id": "Spector20183",
+          "reference_key": "Spector2018",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 4,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "Vaswani201712",
+          "reference_key": "Vaswani2017",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 5,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.4,
+          "f1": 0.5714
+        },
+        {
+          "claim_id": "Zaheer20178",
+          "reference_key": "Zaheer2017",
+          "verdict": "Partially Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 4,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "jaderberg201511",
+          "reference_key": "jaderberg2015",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 4,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "luong201510",
+          "reference_key": "luong2015",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 4,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "xu20159",
+          "reference_key": "xu2015",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 5,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 0.6,
+          "f1": 0.75
+        },
+        {
+          "claim_id": "Clark2017SimpleAE27",
+          "reference_key": "Clark2017SimpleAE",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 4,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "Howard2018FinetunedLM0",
+          "reference_key": "Howard2018FinetunedLM",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 3,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 1.0,
+          "f1": 1.0
+        },
+        {
+          "claim_id": "Krishnamurthy2017NeuralSP26",
+          "reference_key": "Krishnamurthy2017NeuralSP",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "Krishnamurthy2017NeuralSP5",
+          "reference_key": "Krishnamurthy2017NeuralSP",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 0.6667,
+          "precision": 0.6667,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "Peters2018DeepCW22",
+          "reference_key": "Peters2018DeepCW",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 2,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "Peters2018DeepCW24",
+          "reference_key": "Peters2018DeepCW",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 2,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "Peters2018DeepCW25",
+          "reference_key": "Peters2018DeepCW",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 4,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.25,
+          "f1": 0.4
+        },
+        {
+          "claim_id": "Stern2017AMS14",
+          "reference_key": "Stern2017AMS",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 4,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 0.75,
+          "f1": 0.8571
+        },
+        {
+          "claim_id": "Stern2017AMS23",
+          "reference_key": "Stern2017AMS",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 4,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "Vaswani2017AttentionIA1",
+          "reference_key": "Vaswani2017AttentionIA",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 2,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "Witten1999DataMP29",
+          "reference_key": "Witten1999DataMP",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 2,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "abadi2016tensorflow34",
+          "reference_key": "abadi2016tensorflow",
+          "verdict": "Partially Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.6667,
+          "f1": 0.8
+        },
+        {
+          "claim_id": "cheng2016long11",
+          "reference_key": "cheng2016long",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.6667,
+          "f1": 0.8
+        },
+        {
+          "claim_id": "cho2014learning10",
+          "reference_key": "cho2014learning",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "he2017deep15",
+          "reference_key": "he2017deep",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 1,
+          "n_ai": 4,
+          "n_ai_correct": 1,
+          "recall": 0.5,
+          "precision": 0.25,
+          "f1": 0.3333
+        },
+        {
+          "claim_id": "he2017deep17",
+          "reference_key": "he2017deep",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "he2017deep3",
+          "reference_key": "he2017deep",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.6667,
+          "f1": 0.8
+        },
+        {
+          "claim_id": "klein2017opennmt38",
+          "reference_key": "klein2017opennmt",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.6667,
+          "f1": 0.8
+        },
+        {
+          "claim_id": "lee2017end13",
+          "reference_key": "lee2017end",
+          "verdict": "Supported",
+          "n_gold": 4,
+          "n_gold_found": 4,
+          "n_ai": 5,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 0.6,
+          "f1": 0.75
+        },
+        {
+          "claim_id": "lee2017end4",
+          "reference_key": "lee2017end",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.6667,
+          "f1": 0.8
+        },
+        {
+          "claim_id": "lee2017recurrent12",
+          "reference_key": "lee2017recurrent",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 2,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "manning2014stanford28",
+          "reference_key": "manning2014stanford",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 1,
+          "n_ai": 4,
+          "n_ai_correct": 1,
+          "recall": 0.3333,
+          "precision": 0.25,
+          "f1": 0.2857
+        },
+        {
+          "claim_id": "miller2017parlai37",
+          "reference_key": "miller2017parlai",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 2,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "palmer2005proposition16",
+          "reference_key": "palmer2005proposition",
+          "verdict": "Partially Supported",
+          "n_gold": 4,
+          "n_gold_found": 3,
+          "n_ai": 4,
+          "n_ai_correct": 3,
+          "recall": 0.75,
+          "precision": 0.75,
+          "f1": 0.75
+        },
+        {
+          "claim_id": "paszke2017automatic6",
+          "reference_key": "paszke2017automatic",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "peters2017semi8",
+          "reference_key": "peters2017semi",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 0.6667,
+          "precision": 0.6667,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "rajpurkar2016squad7",
+          "reference_key": "rajpurkar2016squad",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.6667,
+          "f1": 0.8
+        },
+        {
+          "claim_id": "scikit-learn30",
+          "reference_key": "scikit-learn",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.6667,
+          "f1": 0.8
+        },
+        {
+          "claim_id": "seo2017bidirectional18",
+          "reference_key": "seo2017bidirectional",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 3,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 1.0,
+          "f1": 1.0
+        },
+        {
+          "claim_id": "snli:emnlp201521",
+          "reference_key": "snli:emnlp2015",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "zhou2015end2",
+          "reference_key": "zhou2015end",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 0.6667,
+          "precision": 0.6667,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "Bapna_201919",
+          "reference_key": "Bapna_2019",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 5,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 0.6,
+          "f1": 0.75
+        },
+        {
+          "claim_id": "alberti2019bert14",
+          "reference_key": "alberti2019bert",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 0,
+          "n_ai": 3,
+          "n_ai_correct": 0,
+          "recall": 0.0,
+          "precision": 0.0,
+          "f1": 0.0
+        },
+        {
+          "claim_id": "arora2017asimple7",
+          "reference_key": "arora2017asimple",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "cer2018universal8",
+          "reference_key": "cer2018universal",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 1.0,
+          "f1": 1.0
+        },
+        {
+          "claim_id": "devlin2018bert6",
+          "reference_key": "devlin2018bert",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 1,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 1.0,
+          "f1": 1.0
+        },
+        {
+          "claim_id": "grice1975logic12",
+          "reference_key": "grice1975logic",
+          "verdict": "Partially Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 4,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "holtzman2019curious11",
+          "reference_key": "holtzman2019curious",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "natural_questions_477613",
+          "reference_key": "natural_questions_47761",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.6667,
+          "f1": 0.8
+        },
+        {
+          "claim_id": "radford2019language10",
+          "reference_key": "radford2019language",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 1,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 1.0,
+          "f1": 1.0
+        },
+        {
+          "claim_id": "radford2019language15",
+          "reference_key": "radford2019language",
+          "verdict": "Partially Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "radford2019language2",
+          "reference_key": "radford2019language",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 0.5,
+          "precision": 0.3333,
+          "f1": 0.4
+        },
+        {
+          "claim_id": "radford2019language20",
+          "reference_key": "radford2019language",
+          "verdict": "Partially Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 2,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "radford2019language4",
+          "reference_key": "radford2019language",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "radford2019language5",
+          "reference_key": "radford2019language",
+          "verdict": "Partially Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 2,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "rajpurkar2016squad0",
+          "reference_key": "rajpurkar2016squad",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.6667,
+          "f1": 0.8
+        },
+        {
+          "claim_id": "snli:emnlp20159",
+          "reference_key": "snli:emnlp2015",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "yogatama2019learning1",
+          "reference_key": "yogatama2019learning",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 4,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 0.75,
+          "f1": 0.8571
+        },
+        {
+          "claim_id": "baevski2020wav2vec20",
+          "reference_key": "baevski2020wav2vec2",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 2,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "carletta2007ami4",
+          "reference_key": "carletta2007ami",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 2,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "delrio2022earnings228",
+          "reference_key": "delrio2022earnings22",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 6,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "delrio21_interspeech7",
+          "reference_key": "delrio21_interspeech",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 0,
+          "n_ai": 5,
+          "n_ai_correct": 0,
+          "recall": 0.0,
+          "precision": 0.0,
+          "f1": 0.0
+        },
+        {
+          "claim_id": "godfrey1992switchboard2",
+          "reference_key": "godfrey1992switchboard",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 0,
+          "n_ai": 0,
+          "n_ai_correct": 0,
+          "recall": 0.0,
+          "precision": 0.0,
+          "f1": 0.0
+        },
+        {
+          "claim_id": "graves2006ctc10",
+          "reference_key": "graves2006ctc",
+          "verdict": "Supported",
+          "n_gold": 4,
+          "n_gold_found": 4,
+          "n_ai": 6,
+          "n_ai_correct": 4,
+          "recall": 1.0,
+          "precision": 0.6667,
+          "f1": 0.8
+        },
+        {
+          "claim_id": "kuchaiev2019nemo9",
+          "reference_key": "kuchaiev2019nemo",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.6667,
+          "f1": 0.8
+        },
+        {
+          "claim_id": "radford2022whisper1",
+          "reference_key": "radford2022whisper",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.6667,
+          "f1": 0.8
+        },
+        {
+          "claim_id": "radford2022whisper11",
+          "reference_key": "radford2022whisper",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "spgispeech26",
+          "reference_key": "spgispeech2",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 4,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.25,
+          "f1": 0.4
+        },
+        {
+          "claim_id": "spgispeech5",
+          "reference_key": "spgispeech",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 4,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "zhang2021nemo13",
+          "reference_key": "zhang2021nemo",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "Caruana1",
+          "reference_key": "Caruana",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 5,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 0.6,
+          "f1": 0.75
+        },
+        {
+          "claim_id": "Caruana3",
+          "reference_key": "Caruana",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 7,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 0.4286,
+          "f1": 0.6
+        },
+        {
+          "claim_id": "Caruana4",
+          "reference_key": "Caruana",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 3,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 1.0,
+          "f1": 1.0
+        },
+        {
+          "claim_id": "Dietterich20000",
+          "reference_key": "Dietterich2000",
+          "verdict": "Partially Supported",
+          "n_gold": 2,
+          "n_gold_found": 0,
+          "n_ai": 7,
+          "n_ai_correct": 0,
+          "recall": 0.0,
+          "precision": 0.0,
+          "f1": 0.0
+        },
+        {
+          "claim_id": "LiZhaoHuangGong7",
+          "reference_key": "LiZhaoHuangGong",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 7,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 0.4286,
+          "f1": 0.6
+        },
+        {
+          "claim_id": "SPM6",
+          "reference_key": "SPM",
+          "verdict": "Supported",
+          "n_gold": 4,
+          "n_gold_found": 3,
+          "n_ai": 4,
+          "n_ai_correct": 3,
+          "recall": 0.75,
+          "precision": 0.75,
+          "f1": 0.75
+        },
+        {
+          "claim_id": "brain-stuff9",
+          "reference_key": "brain-stuff",
+          "verdict": "Partially Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 5,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.4,
+          "f1": 0.5714
+        },
+        {
+          "claim_id": "dropout5",
+          "reference_key": "dropout",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 3,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 1.0,
+          "f1": 1.0
+        },
+        {
+          "claim_id": "srivastava2014dropout2",
+          "reference_key": "srivastava2014dropout",
+          "verdict": "Supported",
+          "n_gold": 4,
+          "n_gold_found": 4,
+          "n_ai": 4,
+          "n_ai_correct": 4,
+          "recall": 1.0,
+          "precision": 1.0,
+          "f1": 1.0
+        },
+        {
+          "claim_id": "boratko2018arc22",
+          "reference_key": "boratko2018arc",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 5,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 0.6,
+          "f1": 0.75
+        },
+        {
+          "claim_id": "bowman2021benchmarking21",
+          "reference_key": "bowman2021benchmarking",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 6,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "clark2018arc25",
+          "reference_key": "clark2018arc",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "doddapaneni2024blindspots4",
+          "reference_key": "doddapaneni2024blindspots",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 2,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 1.0,
+          "f1": 1.0
+        },
+        {
+          "claim_id": "dubois2024lengthcontrolled3",
+          "reference_key": "dubois2024lengthcontrolled",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.6667,
+          "f1": 0.8
+        },
+        {
+          "claim_id": "gu2025surveyjudge5",
+          "reference_key": "gu2025surveyjudge",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 4,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 0.75,
+          "f1": 0.8571
+        },
+        {
+          "claim_id": "hendrycks2021math24",
+          "reference_key": "hendrycks2021math",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "huang2024cannot9",
+          "reference_key": "huang2024cannot",
+          "verdict": "Supported",
+          "n_gold": 4,
+          "n_gold_found": 4,
+          "n_ai": 5,
+          "n_ai_correct": 4,
+          "recall": 1.0,
+          "precision": 0.8,
+          "f1": 0.8889
+        },
+        {
+          "claim_id": "huidrom2023consensustaxonomy23",
+          "reference_key": "huidrom2023consensustaxonomy",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.6667,
+          "f1": 0.8
+        },
+        {
+          "claim_id": "jones2022biases20",
+          "reference_key": "jones2022biases",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 4,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 0.75,
+          "f1": 0.8571
+        },
+        {
+          "claim_id": "kamoi2024when11",
+          "reference_key": "kamoi2024when",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 4,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 0.75,
+          "f1": 0.8571
+        },
+        {
+          "claim_id": "liu2023geval0",
+          "reference_key": "liu2023geval",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 0.5,
+          "precision": 0.3333,
+          "f1": 0.4
+        },
+        {
+          "claim_id": "madaan2023selfrefine7",
+          "reference_key": "madaan2023selfrefine",
+          "verdict": "Supported",
+          "n_gold": 4,
+          "n_gold_found": 4,
+          "n_ai": 7,
+          "n_ai_correct": 4,
+          "recall": 1.0,
+          "precision": 0.5714,
+          "f1": 0.7273
+        },
+        {
+          "claim_id": "manvi2024adaptive16",
+          "reference_key": "manvi2024adaptive",
+          "verdict": "Supported",
+          "n_gold": 4,
+          "n_gold_found": 4,
+          "n_ai": 4,
+          "n_ai_correct": 4,
+          "recall": 1.0,
+          "precision": 1.0,
+          "f1": 1.0
+        },
+        {
+          "claim_id": "muennighoff2025s117",
+          "reference_key": "muennighoff2025s1",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 4,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "pan2024automatically12",
+          "reference_key": "pan2024automatically",
+          "verdict": "Supported",
+          "n_gold": 6,
+          "n_gold_found": 6,
+          "n_ai": 6,
+          "n_ai_correct": 6,
+          "recall": 1.0,
+          "precision": 1.0,
+          "f1": 1.0
+        },
+        {
+          "claim_id": "ribeiro2020checklist18",
+          "reference_key": "ribeiro2020checklist",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 5,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 0.6,
+          "f1": 0.75
+        },
+        {
+          "claim_id": "shinn2023reflexion8",
+          "reference_key": "shinn2023reflexion",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 6,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "snell2025scaling15",
+          "reference_key": "snell2025scaling",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 5,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.4,
+          "f1": 0.5714
+        },
+        {
+          "claim_id": "wang2023selfconsistency14",
+          "reference_key": "wang2023selfconsistency",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 6,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "wang2024notfair2",
+          "reference_key": "wang2024notfair",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 3,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 1.0,
+          "f1": 1.0
+        },
+        {
+          "claim_id": "wei2022chain13",
+          "reference_key": "wei2022chain",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 0,
+          "n_ai": 3,
+          "n_ai_correct": 0,
+          "recall": 0.0,
+          "precision": 0.0,
+          "f1": 0.0
+        },
+        {
+          "claim_id": "wu2024keycondition10",
+          "reference_key": "wu2024keycondition",
+          "verdict": "Supported",
+          "n_gold": 5,
+          "n_gold_found": 5,
+          "n_ai": 5,
+          "n_ai_correct": 5,
+          "recall": 1.0,
+          "precision": 1.0,
+          "f1": 1.0
+        },
+        {
+          "claim_id": "xiao2023evaluating19",
+          "reference_key": "xiao2023evaluating",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 4,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 0.75,
+          "f1": 0.8571
+        },
+        {
+          "claim_id": "yang2026judgechangesdoesmeasurement6",
+          "reference_key": "yang2026judgechangesdoesmeasurement",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 4,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "zheng2023judge1",
+          "reference_key": "zheng2023judge",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 4,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.25,
+          "f1": 0.4
+        },
+        {
+          "claim_id": "lin2014microsoft8",
+          "reference_key": "lin2014microsoft",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 3,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 1.0,
+          "f1": 1.0
+        },
+        {
+          "claim_id": "lin2017feature7",
+          "reference_key": "lin2017feature",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.6667,
+          "f1": 0.8
+        },
+        {
+          "claim_id": "parham2017animal11",
+          "reference_key": "parham2017animal",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 4,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "pascal13",
+          "reference_key": "pascal",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 2,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "redmon2017yolo90003",
+          "reference_key": "redmon2017yolo9000",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 0,
+          "n_ai": 3,
+          "n_ai_correct": 0,
+          "recall": 0.0,
+          "precision": 0.0,
+          "f1": 0.0
+        },
+        {
+          "claim_id": "ren2015faster4",
+          "reference_key": "ren2015faster",
+          "verdict": "Partially Supported",
+          "n_gold": 2,
+          "n_gold_found": 0,
+          "n_ai": 4,
+          "n_ai_correct": 0,
+          "recall": 0.0,
+          "precision": 0.0,
+          "f1": 0.0
+        },
+        {
+          "claim_id": "ren2015faster5",
+          "reference_key": "ren2015faster",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 2,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "claim_id": "russakovsky2015best10",
+          "reference_key": "russakovsky2015best",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 1,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 1.0,
+          "f1": 1.0
+        },
+        {
+          "claim_id": "2d11",
+          "reference_key": "2d",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "adaptive12",
+          "reference_key": "adaptive",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 1,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 1.0,
+          "f1": 1.0
+        },
+        {
+          "claim_id": "adaptive9",
+          "reference_key": "adaptive",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 5,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.2,
+          "f1": 0.3333
+        },
+        {
+          "claim_id": "anthropic0",
+          "reference_key": "anthropic",
+          "verdict": "Supported",
+          "n_gold": 2,
+          "n_gold_found": 2,
+          "n_ai": 3,
+          "n_ai_correct": 2,
+          "recall": 1.0,
+          "precision": 0.6667,
+          "f1": 0.8
+        },
+        {
+          "claim_id": "ericson178",
+          "reference_key": "ericson17",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 5,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.2,
+          "f1": 0.3333
+        },
+        {
+          "claim_id": "faded10",
+          "reference_key": "faded",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "macneil20242",
+          "reference_key": "macneil2024",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 0,
+          "n_ai": 3,
+          "n_ai_correct": 0,
+          "recall": 0.0,
+          "precision": 0.0,
+          "f1": 0.0
+        },
+        {
+          "claim_id": "messer243",
+          "reference_key": "messer24",
+          "verdict": "Partially Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 4,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.25,
+          "f1": 0.4
+        },
+        {
+          "claim_id": "patra216",
+          "reference_key": "patra21",
+          "verdict": "Supported",
+          "n_gold": 3,
+          "n_gold_found": 3,
+          "n_ai": 4,
+          "n_ai_correct": 3,
+          "recall": 1.0,
+          "precision": 0.75,
+          "f1": 0.8571
+        },
+        {
+          "claim_id": "russinovich1",
+          "reference_key": "russinovich",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        },
+        {
+          "claim_id": "syslit7",
+          "reference_key": "syslit",
+          "verdict": "Supported",
+          "n_gold": 1,
+          "n_gold_found": 1,
+          "n_ai": 3,
+          "n_ai_correct": 1,
+          "recall": 1.0,
+          "precision": 0.3333,
+          "f1": 0.5
+        }
+      ]
+    },
+    "stage4_verdict": {
+      "n_scored": 145,
+      "four_class": {
+        "n": 145,
+        "accuracy": 0.7103,
+        "macro_f1": 0.5036,
+        "cohen_kappa": 0.3641,
+        "per_class": {
+          "Supported": {
+            "precision": 0.9565,
+            "recall": 0.7458,
+            "f1": 0.8381,
+            "support": 118
+          },
+          "Partially Supported": {
+            "precision": 0.1471,
+            "recall": 0.4545,
+            "f1": 0.2222,
+            "support": 11
+          },
+          "Not Supported": {
+            "precision": 0.25,
+            "recall": 0.5,
+            "f1": 0.3333,
+            "support": 2
+          },
+          "NEI": {
+            "precision": 0.6,
+            "recall": 0.6429,
+            "f1": 0.6207,
+            "support": 14
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 88,
+            "Partially Supported": 25,
+            "Not Supported": 2,
+            "NEI": 3
+          },
+          "Partially Supported": {
+            "Supported": 3,
+            "Partially Supported": 5,
+            "Not Supported": 0,
+            "NEI": 3
+          },
+          "Not Supported": {
+            "Supported": 0,
+            "Partially Supported": 1,
+            "Not Supported": 1,
+            "NEI": 0
+          },
+          "NEI": {
+            "Supported": 1,
+            "Partially Supported": 3,
+            "Not Supported": 1,
+            "NEI": 9
+          }
+        }
+      },
+      "lenient_3class": {
+        "n": 145,
+        "accuracy": 0.9034,
+        "macro_f1": 0.6343,
+        "cohen_kappa": 0.5541,
+        "per_class": {
+          "Supported": {
+            "precision": 0.9603,
+            "recall": 0.938,
+            "f1": 0.949,
+            "support": 129
+          },
+          "Refuted": {
+            "precision": 0.25,
+            "recall": 0.5,
+            "f1": 0.3333,
+            "support": 2
+          },
+          "NEI": {
+            "precision": 0.6,
+            "recall": 0.6429,
+            "f1": 0.6207,
+            "support": 14
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 121,
+            "Refuted": 2,
+            "NEI": 6
+          },
+          "Refuted": {
+            "Supported": 1,
+            "Refuted": 1,
+            "NEI": 0
+          },
+          "NEI": {
+            "Supported": 4,
+            "Refuted": 1,
+            "NEI": 9
+          }
+        }
+      },
+      "agreement": {
+        "claim_type": {
+          "available": true,
+          "n": 145,
+          "gold_col": "claim_type",
+          "ai_col": "ai_claim_type",
+          "agreement": 0.9586,
+          "n_agree": 139,
+          "confusion": {
+            "background": {
+              "background": 77
+            },
+            "causal": {
+              "causal": 12
+            },
+            "comparative": {
+              "comparative": 3
+            },
+            "other": {
+              "other": 44,
+              "background": 5
+            },
+            "predictive": {
+              "predictive": 2
+            },
+            "proportional": {
+              "proportional": 1
+            },
+            "statistical": {
+              "other": 1
+            }
+          }
+        },
+        "is_ambiguous": {
+          "available": true,
+          "n": 145,
+          "gold_col": "is_ambiguous",
+          "ai_col": "ai_is_ambiguous",
+          "agreement": 1.0,
+          "n_agree": 145,
+          "confusion": {
+            "False": {
+              "False": 143
+            },
+            "True": {
+              "True": 2
+            }
+          }
+        },
+        "is_overstatement": {
+          "available": true,
+          "n": 131,
+          "gold_col": "is_overstatement",
+          "ai_col": "ai_is_overstatement",
+          "agreement": 0.916,
+          "n_agree": 120,
+          "confusion": {
+            "False": {
+              "False": 119,
+              "True": 11
+            },
+            "True": {
+              "True": 1
+            }
+          }
+        }
+      },
+      "confidence_calibration": {
+        "tool_confidence": {
+          "available": true,
+          "n": 145,
+          "mean_confidence": 0.9293,
+          "accuracy": 0.7103,
+          "calibration_gap": 0.219,
+          "buckets": [
+            {
+              "range": "[0.00,0.50)",
+              "n": 4,
+              "mean_confidence": 0.0,
+              "accuracy": 0.75
+            },
+            {
+              "range": "[0.85,1.01)",
+              "n": 141,
+              "mean_confidence": 0.9557,
+              "accuracy": 0.7092
+            }
+          ]
+        },
+        "annotator_confidence": {
+          "available": true,
+          "n": 143,
+          "by_band": {
+            "high": {
+              "n": 67,
+              "accuracy": 0.7313
+            },
+            "low": {
+              "n": 28,
+              "accuracy": 0.5714
+            },
+            "medium": {
+              "n": 48,
+              "accuracy": 0.75
+            }
+          }
+        }
+      }
+    }
+  },
+  "by_report": {
+    "03909c5709a64b288582e600ba9a6449": {
+      "report_id": "03909c5709a64b288582e600ba9a6449",
+      "arxiv_id": "1905.02698",
+      "participants": [
+        "annotator-1"
+      ],
+      "session_ids": [
+        "97d9cf9f953043638b91654a5833fdb6"
+      ],
+      "n_sessions": 1,
+      "n_rows_collapsed": 0,
+      "detected_citances": 14,
+      "n_rows": 14,
+      "coverage": {
+        "n_rows": 14,
+        "n_complete": 14,
+        "n_incomplete": 0,
+        "n_kept": 13,
+        "n_dropped_false_positive": 1,
+        "n_added_tool_missed": 0,
+        "n_reference_removed": 0,
+        "n_unique_citances": 10,
+        "detected_citances": 14,
+        "progress": {
+          "n_entries": 14,
+          "n_resolved": 14,
+          "n_complete": 14,
+          "finished": true,
+          "has_feedback": false,
+          "total": 14,
+          "pct": 100,
+          "done": true
+        },
+        "n_detected_unannotated": 0
+      },
+      "stage1_citance_detection": {
+        "pair_level": {
+          "tp": 13,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.9286,
+          "recall": 1.0,
+          "f1": 0.963,
+          "skipped_incomplete": 0
+        },
+        "citance_level": {
+          "tp": 9,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.9,
+          "recall": 1.0,
+          "f1": 0.9474,
+          "skipped_incomplete": 0,
+          "n_unique_citances": 10
+        },
+        "citance_text_edit": {
+          "available": true,
+          "n": 13,
+          "mean_similarity": 1.0,
+          "exact_match_rate": 1.0,
+          "n_exact": 13,
+          "n_edited": 0
+        },
+        "attribution": {
+          "available": true,
+          "n_answered": 13,
+          "n_correct": 6,
+          "n_wrong": 7,
+          "accuracy": 0.4615,
+          "n_corrected_claim_given": 7,
+          "by_flag": {
+            "enumeration": {
+              "n": 0,
+              "correct": 0,
+              "accuracy": null
+            },
+            "attributional": {
+              "n": 1,
+              "correct": 1,
+              "accuracy": 1.0
+            },
+            "plain": {
+              "n": 12,
+              "correct": 5,
+              "accuracy": 0.4167
+            }
+          }
+        }
+      },
+      "stage2_reference_mapping": {
+        "n_proposed": 14,
+        "n_kept": 13,
+        "n_rejected": 0,
+        "rejection_rate": 0.0,
+        "n_kept_with_both_keys": 13,
+        "n_remapped": 0,
+        "accuracy_over_kept": 1.0,
+        "accuracy_over_proposed": 0.9286
+      },
+      "stage2_reference_resolution": {
+        "suspect_match_score_threshold": 0.9,
+        "n_confirmed_corrections": 0,
+        "confirmed_corrections": [],
+        "n_pipeline_empty_gold_supported": 0,
+        "n_suspected_wrong_paper": 0,
+        "suspected_wrong_paper": []
+      },
+      "stage3_evidence_localization": {
+        "match_method": "NFKD+alnum-squash containment, fuzzy>=0.85",
+        "n_positive_kept": 11,
+        "n_scored": 11,
+        "n_excluded_no_gold_evidence": 0,
+        "n_with_empty_ai_evidence": 0,
+        "micro": {
+          "gold_total": 22,
+          "gold_found": 22,
+          "ai_total": 42,
+          "ai_correct": 22,
+          "recall": 1.0,
+          "precision": 0.5238,
+          "f1": 0.6875
+        },
+        "macro": {
+          "recall": 1.0,
+          "precision": 0.5379,
+          "f1": 0.6807
+        },
+        "per_citance": [
+          {
+            "claim_id": "Gu20162",
+            "reference_key": "Gu2016",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 3,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          },
+          {
+            "claim_id": "Mnih20130",
+            "reference_key": "Mnih2013",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.6667,
+            "f1": 0.8
+          },
+          {
+            "claim_id": "Robbel20164",
+            "reference_key": "Robbel2016",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 4,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.25,
+            "f1": 0.4
+          },
+          {
+            "claim_id": "Schulman201713",
+            "reference_key": "Schulman2017",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          },
+          {
+            "claim_id": "Silver20171",
+            "reference_key": "Silver2017",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.6667,
+            "f1": 0.8
+          },
+          {
+            "claim_id": "Spector20183",
+            "reference_key": "Spector2018",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 4,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "Vaswani201712",
+            "reference_key": "Vaswani2017",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 5,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.4,
+            "f1": 0.5714
+          },
+          {
+            "claim_id": "Zaheer20178",
+            "reference_key": "Zaheer2017",
+            "verdict": "Partially Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 4,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "jaderberg201511",
+            "reference_key": "jaderberg2015",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 4,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "luong201510",
+            "reference_key": "luong2015",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 4,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "xu20159",
+            "reference_key": "xu2015",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 5,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 0.6,
+            "f1": 0.75
+          }
+        ]
+      },
+      "stage4_verdict": {
+        "n_scored": 13,
+        "four_class": {
+          "n": 13,
+          "accuracy": 0.3846,
+          "macro_f1": 0.1929,
+          "cohen_kappa": 0.1333,
+          "per_class": {
+            "Supported": {
+              "precision": 1.0,
+              "recall": 0.4,
+              "f1": 0.5714,
+              "support": 10
+            },
+            "Partially Supported": {
+              "precision": 0.1111,
+              "recall": 1.0,
+              "f1": 0.2,
+              "support": 1
+            },
+            "Not Supported": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 1
+            },
+            "NEI": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 1
+            }
+          },
+          "confusion": {
+            "Supported": {
+              "Supported": 4,
+              "Partially Supported": 6,
+              "Not Supported": 0,
+              "NEI": 0
+            },
+            "Partially Supported": {
+              "Supported": 0,
+              "Partially Supported": 1,
+              "Not Supported": 0,
+              "NEI": 0
+            },
+            "Not Supported": {
+              "Supported": 0,
+              "Partially Supported": 1,
+              "Not Supported": 0,
+              "NEI": 0
+            },
+            "NEI": {
+              "Supported": 0,
+              "Partially Supported": 1,
+              "Not Supported": 0,
+              "NEI": 0
+            }
+          }
+        },
+        "lenient_3class": {
+          "n": 13,
+          "accuracy": 0.8462,
+          "macro_f1": 0.3056,
+          "cohen_kappa": 0.0,
+          "per_class": {
+            "Supported": {
+              "precision": 0.8462,
+              "recall": 1.0,
+              "f1": 0.9167,
+              "support": 11
+            },
+            "Refuted": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 1
+            },
+            "NEI": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 1
+            }
+          },
+          "confusion": {
+            "Supported": {
+              "Supported": 11,
+              "Refuted": 0,
+              "NEI": 0
+            },
+            "Refuted": {
+              "Supported": 1,
+              "Refuted": 0,
+              "NEI": 0
+            },
+            "NEI": {
+              "Supported": 1,
+              "Refuted": 0,
+              "NEI": 0
+            }
+          }
+        },
+        "agreement": {
+          "claim_type": {
+            "available": true,
+            "n": 13,
+            "gold_col": "claim_type",
+            "ai_col": "ai_claim_type",
+            "agreement": 1.0,
+            "n_agree": 13,
+            "confusion": {
+              "background": {
+                "background": 11
+              },
+              "other": {
+                "other": 1
+              },
+              "proportional": {
+                "proportional": 1
+              }
+            }
+          },
+          "is_ambiguous": {
+            "available": true,
+            "n": 13,
+            "gold_col": "is_ambiguous",
+            "ai_col": "ai_is_ambiguous",
+            "agreement": 1.0,
+            "n_agree": 13,
+            "confusion": {
+              "False": {
+                "False": 13
+              }
+            }
+          },
+          "is_overstatement": {
+            "available": true,
+            "n": 12,
+            "gold_col": "is_overstatement",
+            "ai_col": "ai_is_overstatement",
+            "agreement": 0.75,
+            "n_agree": 9,
+            "confusion": {
+              "False": {
+                "False": 9,
+                "True": 3
+              }
+            }
+          }
+        },
+        "confidence_calibration": {
+          "tool_confidence": {
+            "available": true,
+            "n": 13,
+            "mean_confidence": 0.9185,
+            "accuracy": 0.3846,
+            "calibration_gap": 0.5338,
+            "buckets": [
+              {
+                "range": "[0.85,1.01)",
+                "n": 13,
+                "mean_confidence": 0.9185,
+                "accuracy": 0.3846
+              }
+            ]
+          },
+          "annotator_confidence": {
+            "available": true,
+            "n": 13,
+            "by_band": {
+              "high": {
+                "n": 2,
+                "accuracy": 0.5
+              },
+              "low": {
+                "n": 6,
+                "accuracy": 0.1667
+              },
+              "medium": {
+                "n": 5,
+                "accuracy": 0.6
+              }
+            }
+          }
+        }
+      }
+    },
+    "0ef2f81b7a824b5891f6fc46ee7ecc7c": {
+      "report_id": "0ef2f81b7a824b5891f6fc46ee7ecc7c",
+      "arxiv_id": "1803.07640",
+      "participants": [
+        "annotator-1"
+      ],
+      "session_ids": [
+        "ffe31a75069c4e00ad13e5d0048ed1ff"
+      ],
+      "n_sessions": 1,
+      "n_rows_collapsed": 0,
+      "detected_citances": 39,
+      "n_rows": 39,
+      "coverage": {
+        "n_rows": 39,
+        "n_complete": 39,
+        "n_incomplete": 0,
+        "n_kept": 39,
+        "n_dropped_false_positive": 0,
+        "n_added_tool_missed": 0,
+        "n_reference_removed": 0,
+        "n_unique_citances": 20,
+        "detected_citances": 39,
+        "progress": {
+          "n_entries": 39,
+          "n_resolved": 39,
+          "n_complete": 39,
+          "finished": true,
+          "has_feedback": false,
+          "total": 39,
+          "pct": 100,
+          "done": true
+        },
+        "n_detected_unannotated": 0
+      },
+      "stage1_citance_detection": {
+        "pair_level": {
+          "tp": 39,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "skipped_incomplete": 0
+        },
+        "citance_level": {
+          "tp": 20,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "skipped_incomplete": 0,
+          "n_unique_citances": 20
+        },
+        "citance_text_edit": {
+          "available": true,
+          "n": 39,
+          "mean_similarity": 1.0,
+          "exact_match_rate": 1.0,
+          "n_exact": 39,
+          "n_edited": 0
+        },
+        "attribution": {
+          "available": true,
+          "n_answered": 38,
+          "n_correct": 33,
+          "n_wrong": 5,
+          "accuracy": 0.8684,
+          "n_corrected_claim_given": 5,
+          "by_flag": {
+            "enumeration": {
+              "n": 0,
+              "correct": 0,
+              "accuracy": null
+            },
+            "attributional": {
+              "n": 19,
+              "correct": 18,
+              "accuracy": 0.9474
+            },
+            "plain": {
+              "n": 19,
+              "correct": 15,
+              "accuracy": 0.7895
+            }
+          }
+        }
+      },
+      "stage2_reference_mapping": {
+        "n_proposed": 39,
+        "n_kept": 39,
+        "n_rejected": 0,
+        "rejection_rate": 0.0,
+        "n_kept_with_both_keys": 39,
+        "n_remapped": 0,
+        "accuracy_over_kept": 1.0,
+        "accuracy_over_proposed": 1.0
+      },
+      "stage2_reference_resolution": {
+        "suspect_match_score_threshold": 0.9,
+        "n_confirmed_corrections": 0,
+        "confirmed_corrections": [],
+        "n_pipeline_empty_gold_supported": 2,
+        "n_suspected_wrong_paper": 1,
+        "suspected_wrong_paper": [
+          {
+            "claim_id": "abadi2016tensorflow34",
+            "reference_key": "abadi2016tensorflow",
+            "resolved_title": "TensorFlow:",
+            "match_score": 0.125,
+            "gold_verdict": "Partially Supported",
+            "ai_verdict": "NEI",
+            "n_gold_evidence": 2
+          }
+        ]
+      },
+      "stage3_evidence_localization": {
+        "match_method": "NFKD+alnum-squash containment, fuzzy>=0.85",
+        "n_positive_kept": 34,
+        "n_scored": 31,
+        "n_excluded_no_gold_evidence": 3,
+        "n_with_empty_ai_evidence": 0,
+        "micro": {
+          "gold_total": 62,
+          "gold_found": 55,
+          "ai_total": 96,
+          "ai_correct": 53,
+          "recall": 0.8871,
+          "precision": 0.5521,
+          "f1": 0.6806
+        },
+        "macro": {
+          "recall": 0.922,
+          "precision": 0.5543,
+          "f1": 0.6713
+        },
+        "per_citance": [
+          {
+            "claim_id": "Clark2017SimpleAE27",
+            "reference_key": "Clark2017SimpleAE",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 4,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "Howard2018FinetunedLM0",
+            "reference_key": "Howard2018FinetunedLM",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 3,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          },
+          {
+            "claim_id": "Krishnamurthy2017NeuralSP26",
+            "reference_key": "Krishnamurthy2017NeuralSP",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          },
+          {
+            "claim_id": "Krishnamurthy2017NeuralSP5",
+            "reference_key": "Krishnamurthy2017NeuralSP",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 0.6667,
+            "precision": 0.6667,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "Peters2018DeepCW22",
+            "reference_key": "Peters2018DeepCW",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 2,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "Peters2018DeepCW24",
+            "reference_key": "Peters2018DeepCW",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 2,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "Peters2018DeepCW25",
+            "reference_key": "Peters2018DeepCW",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 4,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.25,
+            "f1": 0.4
+          },
+          {
+            "claim_id": "Stern2017AMS14",
+            "reference_key": "Stern2017AMS",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 4,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 0.75,
+            "f1": 0.8571
+          },
+          {
+            "claim_id": "Stern2017AMS23",
+            "reference_key": "Stern2017AMS",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 4,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "Vaswani2017AttentionIA1",
+            "reference_key": "Vaswani2017AttentionIA",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 2,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "Witten1999DataMP29",
+            "reference_key": "Witten1999DataMP",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 2,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "abadi2016tensorflow34",
+            "reference_key": "abadi2016tensorflow",
+            "verdict": "Partially Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.6667,
+            "f1": 0.8
+          },
+          {
+            "claim_id": "cheng2016long11",
+            "reference_key": "cheng2016long",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.6667,
+            "f1": 0.8
+          },
+          {
+            "claim_id": "cho2014learning10",
+            "reference_key": "cho2014learning",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          },
+          {
+            "claim_id": "he2017deep15",
+            "reference_key": "he2017deep",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 1,
+            "n_ai": 4,
+            "n_ai_correct": 1,
+            "recall": 0.5,
+            "precision": 0.25,
+            "f1": 0.3333
+          },
+          {
+            "claim_id": "he2017deep17",
+            "reference_key": "he2017deep",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          },
+          {
+            "claim_id": "he2017deep3",
+            "reference_key": "he2017deep",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.6667,
+            "f1": 0.8
+          },
+          {
+            "claim_id": "klein2017opennmt38",
+            "reference_key": "klein2017opennmt",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.6667,
+            "f1": 0.8
+          },
+          {
+            "claim_id": "lee2017end13",
+            "reference_key": "lee2017end",
+            "verdict": "Supported",
+            "n_gold": 4,
+            "n_gold_found": 4,
+            "n_ai": 5,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 0.6,
+            "f1": 0.75
+          },
+          {
+            "claim_id": "lee2017end4",
+            "reference_key": "lee2017end",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.6667,
+            "f1": 0.8
+          },
+          {
+            "claim_id": "lee2017recurrent12",
+            "reference_key": "lee2017recurrent",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 2,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "manning2014stanford28",
+            "reference_key": "manning2014stanford",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 1,
+            "n_ai": 4,
+            "n_ai_correct": 1,
+            "recall": 0.3333,
+            "precision": 0.25,
+            "f1": 0.2857
+          },
+          {
+            "claim_id": "miller2017parlai37",
+            "reference_key": "miller2017parlai",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 2,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "palmer2005proposition16",
+            "reference_key": "palmer2005proposition",
+            "verdict": "Partially Supported",
+            "n_gold": 4,
+            "n_gold_found": 3,
+            "n_ai": 4,
+            "n_ai_correct": 3,
+            "recall": 0.75,
+            "precision": 0.75,
+            "f1": 0.75
+          },
+          {
+            "claim_id": "paszke2017automatic6",
+            "reference_key": "paszke2017automatic",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          },
+          {
+            "claim_id": "peters2017semi8",
+            "reference_key": "peters2017semi",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 0.6667,
+            "precision": 0.6667,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "rajpurkar2016squad7",
+            "reference_key": "rajpurkar2016squad",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.6667,
+            "f1": 0.8
+          },
+          {
+            "claim_id": "scikit-learn30",
+            "reference_key": "scikit-learn",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.6667,
+            "f1": 0.8
+          },
+          {
+            "claim_id": "seo2017bidirectional18",
+            "reference_key": "seo2017bidirectional",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 3,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          },
+          {
+            "claim_id": "snli:emnlp201521",
+            "reference_key": "snli:emnlp2015",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          },
+          {
+            "claim_id": "zhou2015end2",
+            "reference_key": "zhou2015end",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 0.6667,
+            "precision": 0.6667,
+            "f1": 0.6667
+          }
+        ]
+      },
+      "stage4_verdict": {
+        "n_scored": 39,
+        "four_class": {
+          "n": 39,
+          "accuracy": 0.7692,
+          "macro_f1": 0.4022,
+          "cohen_kappa": 0.4311,
+          "per_class": {
+            "Supported": {
+              "precision": 0.963,
+              "recall": 0.8125,
+              "f1": 0.8814,
+              "support": 32
+            },
+            "Partially Supported": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 2
+            },
+            "Not Supported": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 0
+            },
+            "NEI": {
+              "precision": 0.6667,
+              "recall": 0.8,
+              "f1": 0.7273,
+              "support": 5
+            }
+          },
+          "confusion": {
+            "Supported": {
+              "Supported": 26,
+              "Partially Supported": 4,
+              "Not Supported": 1,
+              "NEI": 1
+            },
+            "Partially Supported": {
+              "Supported": 1,
+              "Partially Supported": 0,
+              "Not Supported": 0,
+              "NEI": 1
+            },
+            "Not Supported": {
+              "Supported": 0,
+              "Partially Supported": 0,
+              "Not Supported": 0,
+              "NEI": 0
+            },
+            "NEI": {
+              "Supported": 0,
+              "Partially Supported": 1,
+              "Not Supported": 0,
+              "NEI": 4
+            }
+          }
+        },
+        "lenient_3class": {
+          "n": 39,
+          "accuracy": 0.8974,
+          "macro_f1": 0.5556,
+          "cohen_kappa": 0.6129,
+          "per_class": {
+            "Supported": {
+              "precision": 0.9688,
+              "recall": 0.9118,
+              "f1": 0.9394,
+              "support": 34
+            },
+            "Refuted": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 0
+            },
+            "NEI": {
+              "precision": 0.6667,
+              "recall": 0.8,
+              "f1": 0.7273,
+              "support": 5
+            }
+          },
+          "confusion": {
+            "Supported": {
+              "Supported": 31,
+              "Refuted": 1,
+              "NEI": 2
+            },
+            "Refuted": {
+              "Supported": 0,
+              "Refuted": 0,
+              "NEI": 0
+            },
+            "NEI": {
+              "Supported": 1,
+              "Refuted": 0,
+              "NEI": 4
+            }
+          }
+        },
+        "agreement": {
+          "claim_type": {
+            "available": true,
+            "n": 39,
+            "gold_col": "claim_type",
+            "ai_col": "ai_claim_type",
+            "agreement": 0.8462,
+            "n_agree": 33,
+            "confusion": {
+              "background": {
+                "background": 14
+              },
+              "comparative": {
+                "comparative": 1
+              },
+              "other": {
+                "other": 18,
+                "background": 5
+              },
+              "statistical": {
+                "other": 1
+              }
+            }
+          },
+          "is_ambiguous": {
+            "available": true,
+            "n": 39,
+            "gold_col": "is_ambiguous",
+            "ai_col": "ai_is_ambiguous",
+            "agreement": 1.0,
+            "n_agree": 39,
+            "confusion": {
+              "False": {
+                "False": 39
+              }
+            }
+          },
+          "is_overstatement": {
+            "available": true,
+            "n": 34,
+            "gold_col": "is_overstatement",
+            "ai_col": "ai_is_overstatement",
+            "agreement": 0.8824,
+            "n_agree": 30,
+            "confusion": {
+              "False": {
+                "False": 30,
+                "True": 4
+              }
+            }
+          }
+        },
+        "confidence_calibration": {
+          "tool_confidence": {
+            "available": true,
+            "n": 39,
+            "mean_confidence": 0.9318,
+            "accuracy": 0.7692,
+            "calibration_gap": 0.1626,
+            "buckets": [
+              {
+                "range": "[0.00,0.50)",
+                "n": 1,
+                "mean_confidence": 0.0,
+                "accuracy": 1.0
+              },
+              {
+                "range": "[0.85,1.01)",
+                "n": 38,
+                "mean_confidence": 0.9563,
+                "accuracy": 0.7632
+              }
+            ]
+          },
+          "annotator_confidence": {
+            "available": true,
+            "n": 39,
+            "by_band": {
+              "high": {
+                "n": 11,
+                "accuracy": 0.7273
+              },
+              "low": {
+                "n": 5,
+                "accuracy": 0.8
+              },
+              "medium": {
+                "n": 23,
+                "accuracy": 0.7826
+              }
+            }
+          }
+        }
+      }
+    },
+    "6bcc9f6f32df4b59a427e4cd83381f61": {
+      "report_id": "6bcc9f6f32df4b59a427e4cd83381f61",
+      "arxiv_id": "1911.08340",
+      "participants": [
+        "annotator-1"
+      ],
+      "session_ids": [
+        "a4bcdb84de344556b9b29545fb3b4608"
+      ],
+      "n_sessions": 1,
+      "n_rows_collapsed": 0,
+      "detected_citances": 21,
+      "n_rows": 21,
+      "coverage": {
+        "n_rows": 21,
+        "n_complete": 21,
+        "n_incomplete": 0,
+        "n_kept": 19,
+        "n_dropped_false_positive": 2,
+        "n_added_tool_missed": 0,
+        "n_reference_removed": 0,
+        "n_unique_citances": 20,
+        "detected_citances": 21,
+        "progress": {
+          "n_entries": 21,
+          "n_resolved": 21,
+          "n_complete": 21,
+          "finished": true,
+          "has_feedback": false,
+          "total": 21,
+          "pct": 100,
+          "done": true
+        },
+        "n_detected_unannotated": 0
+      },
+      "stage1_citance_detection": {
+        "pair_level": {
+          "tp": 19,
+          "fp": 2,
+          "fn": 0,
+          "precision": 0.9048,
+          "recall": 1.0,
+          "f1": 0.95,
+          "skipped_incomplete": 0
+        },
+        "citance_level": {
+          "tp": 19,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.95,
+          "recall": 1.0,
+          "f1": 0.9744,
+          "skipped_incomplete": 0,
+          "n_unique_citances": 20
+        },
+        "citance_text_edit": {
+          "available": true,
+          "n": 19,
+          "mean_similarity": 1.0,
+          "exact_match_rate": 1.0,
+          "n_exact": 19,
+          "n_edited": 0
+        },
+        "attribution": {
+          "available": true,
+          "n_answered": 19,
+          "n_correct": 16,
+          "n_wrong": 3,
+          "accuracy": 0.8421,
+          "n_corrected_claim_given": 3,
+          "by_flag": {
+            "enumeration": {
+              "n": 0,
+              "correct": 0,
+              "accuracy": null
+            },
+            "attributional": {
+              "n": 7,
+              "correct": 7,
+              "accuracy": 1.0
+            },
+            "plain": {
+              "n": 12,
+              "correct": 9,
+              "accuracy": 0.75
+            }
+          }
+        }
+      },
+      "stage2_reference_mapping": {
+        "n_proposed": 21,
+        "n_kept": 19,
+        "n_rejected": 0,
+        "rejection_rate": 0.0,
+        "n_kept_with_both_keys": 19,
+        "n_remapped": 0,
+        "accuracy_over_kept": 1.0,
+        "accuracy_over_proposed": 0.9048
+      },
+      "stage2_reference_resolution": {
+        "suspect_match_score_threshold": 0.9,
+        "n_confirmed_corrections": 0,
+        "confirmed_corrections": [],
+        "n_pipeline_empty_gold_supported": 1,
+        "n_suspected_wrong_paper": 1,
+        "suspected_wrong_paper": [
+          {
+            "claim_id": "grice1975logic12",
+            "reference_key": "grice1975logic",
+            "resolved_title": "Grice1975.doc",
+            "match_score": 0.015,
+            "gold_verdict": "Partially Supported",
+            "ai_verdict": "NEI",
+            "n_gold_evidence": 2
+          }
+        ]
+      },
+      "stage3_evidence_localization": {
+        "match_method": "NFKD+alnum-squash containment, fuzzy>=0.85",
+        "n_positive_kept": 17,
+        "n_scored": 17,
+        "n_excluded_no_gold_evidence": 0,
+        "n_with_empty_ai_evidence": 0,
+        "micro": {
+          "gold_total": 27,
+          "gold_found": 24,
+          "ai_total": 49,
+          "ai_correct": 25,
+          "recall": 0.8889,
+          "precision": 0.5102,
+          "f1": 0.6483
+        },
+        "macro": {
+          "recall": 0.9118,
+          "precision": 0.5402,
+          "f1": 0.6534
+        },
+        "per_citance": [
+          {
+            "claim_id": "Bapna_201919",
+            "reference_key": "Bapna_2019",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 5,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 0.6,
+            "f1": 0.75
+          },
+          {
+            "claim_id": "alberti2019bert14",
+            "reference_key": "alberti2019bert",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 0,
+            "n_ai": 3,
+            "n_ai_correct": 0,
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0.0
+          },
+          {
+            "claim_id": "arora2017asimple7",
+            "reference_key": "arora2017asimple",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          },
+          {
+            "claim_id": "cer2018universal8",
+            "reference_key": "cer2018universal",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          },
+          {
+            "claim_id": "devlin2018bert6",
+            "reference_key": "devlin2018bert",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 1,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          },
+          {
+            "claim_id": "grice1975logic12",
+            "reference_key": "grice1975logic",
+            "verdict": "Partially Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 4,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "holtzman2019curious11",
+            "reference_key": "holtzman2019curious",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          },
+          {
+            "claim_id": "natural_questions_477613",
+            "reference_key": "natural_questions_47761",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.6667,
+            "f1": 0.8
+          },
+          {
+            "claim_id": "radford2019language10",
+            "reference_key": "radford2019language",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 1,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          },
+          {
+            "claim_id": "radford2019language15",
+            "reference_key": "radford2019language",
+            "verdict": "Partially Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          },
+          {
+            "claim_id": "radford2019language2",
+            "reference_key": "radford2019language",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 0.5,
+            "precision": 0.3333,
+            "f1": 0.4
+          },
+          {
+            "claim_id": "radford2019language20",
+            "reference_key": "radford2019language",
+            "verdict": "Partially Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 2,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "radford2019language4",
+            "reference_key": "radford2019language",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          },
+          {
+            "claim_id": "radford2019language5",
+            "reference_key": "radford2019language",
+            "verdict": "Partially Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 2,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "rajpurkar2016squad0",
+            "reference_key": "rajpurkar2016squad",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.6667,
+            "f1": 0.8
+          },
+          {
+            "claim_id": "snli:emnlp20159",
+            "reference_key": "snli:emnlp2015",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          },
+          {
+            "claim_id": "yogatama2019learning1",
+            "reference_key": "yogatama2019learning",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 4,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 0.75,
+            "f1": 0.8571
+          }
+        ]
+      },
+      "stage4_verdict": {
+        "n_scored": 19,
+        "four_class": {
+          "n": 19,
+          "accuracy": 0.7368,
+          "macro_f1": 0.3472,
+          "cohen_kappa": 0.4099,
+          "per_class": {
+            "Supported": {
+              "precision": 0.8571,
+              "recall": 0.9231,
+              "f1": 0.8889,
+              "support": 13
+            },
+            "Partially Supported": {
+              "precision": 0.5,
+              "recall": 0.5,
+              "f1": 0.5,
+              "support": 4
+            },
+            "Not Supported": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 0
+            },
+            "NEI": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 2
+            }
+          },
+          "confusion": {
+            "Supported": {
+              "Supported": 12,
+              "Partially Supported": 1,
+              "Not Supported": 0,
+              "NEI": 0
+            },
+            "Partially Supported": {
+              "Supported": 1,
+              "Partially Supported": 2,
+              "Not Supported": 0,
+              "NEI": 1
+            },
+            "Not Supported": {
+              "Supported": 0,
+              "Partially Supported": 0,
+              "Not Supported": 0,
+              "NEI": 0
+            },
+            "NEI": {
+              "Supported": 1,
+              "Partially Supported": 1,
+              "Not Supported": 0,
+              "NEI": 0
+            }
+          }
+        },
+        "lenient_3class": {
+          "n": 19,
+          "accuracy": 0.8421,
+          "macro_f1": 0.3048,
+          "cohen_kappa": -0.0755,
+          "per_class": {
+            "Supported": {
+              "precision": 0.8889,
+              "recall": 0.9412,
+              "f1": 0.9143,
+              "support": 17
+            },
+            "Refuted": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 0
+            },
+            "NEI": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 2
+            }
+          },
+          "confusion": {
+            "Supported": {
+              "Supported": 16,
+              "Refuted": 0,
+              "NEI": 1
+            },
+            "Refuted": {
+              "Supported": 0,
+              "Refuted": 0,
+              "NEI": 0
+            },
+            "NEI": {
+              "Supported": 2,
+              "Refuted": 0,
+              "NEI": 0
+            }
+          }
+        },
+        "agreement": {
+          "claim_type": {
+            "available": true,
+            "n": 19,
+            "gold_col": "claim_type",
+            "ai_col": "ai_claim_type",
+            "agreement": 1.0,
+            "n_agree": 19,
+            "confusion": {
+              "background": {
+                "background": 10
+              },
+              "causal": {
+                "causal": 2
+              },
+              "other": {
+                "other": 7
+              }
+            }
+          },
+          "is_ambiguous": {
+            "available": true,
+            "n": 19,
+            "gold_col": "is_ambiguous",
+            "ai_col": "ai_is_ambiguous",
+            "agreement": 1.0,
+            "n_agree": 19,
+            "confusion": {
+              "False": {
+                "False": 17
+              },
+              "True": {
+                "True": 2
+              }
+            }
+          },
+          "is_overstatement": {
+            "available": true,
+            "n": 17,
+            "gold_col": "is_overstatement",
+            "ai_col": "ai_is_overstatement",
+            "agreement": 0.9412,
+            "n_agree": 16,
+            "confusion": {
+              "False": {
+                "False": 16,
+                "True": 1
+              }
+            }
+          }
+        },
+        "confidence_calibration": {
+          "tool_confidence": {
+            "available": true,
+            "n": 19,
+            "mean_confidence": 0.9558,
+            "accuracy": 0.7368,
+            "calibration_gap": 0.2189,
+            "buckets": [
+              {
+                "range": "[0.85,1.01)",
+                "n": 19,
+                "mean_confidence": 0.9558,
+                "accuracy": 0.7368
+              }
+            ]
+          },
+          "annotator_confidence": {
+            "available": true,
+            "n": 19,
+            "by_band": {
+              "high": {
+                "n": 4,
+                "accuracy": 1.0
+              },
+              "low": {
+                "n": 8,
+                "accuracy": 0.625
+              },
+              "medium": {
+                "n": 7,
+                "accuracy": 0.7143
+              }
+            }
+          }
+        }
+      }
+    },
+    "8991236a1afc41928d5e2e144f0e2a43": {
+      "report_id": "8991236a1afc41928d5e2e144f0e2a43",
+      "arxiv_id": "2607.23813",
+      "participants": [
+        "annotator-1"
+      ],
+      "session_ids": [
+        "668e0024b0814d9181768736da410902"
+      ],
+      "n_sessions": 1,
+      "n_rows_collapsed": 0,
+      "detected_citances": 14,
+      "n_rows": 14,
+      "coverage": {
+        "n_rows": 14,
+        "n_complete": 14,
+        "n_incomplete": 0,
+        "n_kept": 14,
+        "n_dropped_false_positive": 0,
+        "n_added_tool_missed": 0,
+        "n_reference_removed": 0,
+        "n_unique_citances": 8,
+        "detected_citances": 14,
+        "progress": {
+          "n_entries": 14,
+          "n_resolved": 14,
+          "n_complete": 14,
+          "finished": false,
+          "has_feedback": false,
+          "total": 14,
+          "pct": 100,
+          "done": true
+        },
+        "n_detected_unannotated": 0
+      },
+      "stage1_citance_detection": {
+        "pair_level": {
+          "tp": 14,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "skipped_incomplete": 0
+        },
+        "citance_level": {
+          "tp": 8,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "skipped_incomplete": 0,
+          "n_unique_citances": 8
+        },
+        "citance_text_edit": {
+          "available": true,
+          "n": 14,
+          "mean_similarity": 0.9865,
+          "exact_match_rate": 0.8571,
+          "n_exact": 12,
+          "n_edited": 2
+        },
+        "attribution": {
+          "available": true,
+          "n_answered": 9,
+          "n_correct": 9,
+          "n_wrong": 0,
+          "accuracy": 1.0,
+          "n_corrected_claim_given": 0,
+          "by_flag": {
+            "enumeration": {
+              "n": 2,
+              "correct": 2,
+              "accuracy": 1.0
+            },
+            "attributional": {
+              "n": 5,
+              "correct": 5,
+              "accuracy": 1.0
+            },
+            "plain": {
+              "n": 2,
+              "correct": 2,
+              "accuracy": 1.0
+            }
+          }
+        }
+      },
+      "stage2_reference_mapping": {
+        "n_proposed": 14,
+        "n_kept": 14,
+        "n_rejected": 0,
+        "rejection_rate": 0.0,
+        "n_kept_with_both_keys": 14,
+        "n_remapped": 0,
+        "accuracy_over_kept": 1.0,
+        "accuracy_over_proposed": 1.0
+      },
+      "stage2_reference_resolution": {
+        "suspect_match_score_threshold": 0.9,
+        "n_confirmed_corrections": 6,
+        "confirmed_corrections": [
+          {
+            "claim_id": "baevski2020wav2vec20",
+            "reference_key": "baevski2020wav2vec2",
+            "resolved_title": "",
+            "match_score": null,
+            "gold_verdict": "Supported",
+            "ai_verdict": "Supported",
+            "n_gold_evidence": 1,
+            "corrected_to": "",
+            "note": ""
+          },
+          {
+            "claim_id": "carletta2007ami4",
+            "reference_key": "carletta2007ami",
+            "resolved_title": "",
+            "match_score": null,
+            "gold_verdict": "Supported",
+            "ai_verdict": "Supported",
+            "n_gold_evidence": 1,
+            "corrected_to": "",
+            "note": ""
+          },
+          {
+            "claim_id": "godfrey1992switchboard2",
+            "reference_key": "godfrey1992switchboard",
+            "resolved_title": "",
+            "match_score": null,
+            "gold_verdict": "Supported",
+            "ai_verdict": "NEI",
+            "n_gold_evidence": 1,
+            "corrected_to": "",
+            "note": ""
+          },
+          {
+            "claim_id": "graves2006ctc10",
+            "reference_key": "graves2006ctc",
+            "resolved_title": "",
+            "match_score": null,
+            "gold_verdict": "Supported",
+            "ai_verdict": "Supported",
+            "n_gold_evidence": 4,
+            "corrected_to": "",
+            "note": ""
+          },
+          {
+            "claim_id": "xu2023efficient12",
+            "reference_key": "xu2023efficient",
+            "resolved_title": "",
+            "match_score": null,
+            "gold_verdict": "NEI",
+            "ai_verdict": "NEI",
+            "n_gold_evidence": 0,
+            "corrected_to": "https://arxiv.org/abs/2304.06795",
+            "note": ""
+          },
+          {
+            "claim_id": "zhang2021nemo13",
+            "reference_key": "zhang2021nemo",
+            "resolved_title": "",
+            "match_score": null,
+            "gold_verdict": "Supported",
+            "ai_verdict": "Supported",
+            "n_gold_evidence": 1,
+            "corrected_to": "",
+            "note": ""
+          }
+        ],
+        "n_pipeline_empty_gold_supported": 1,
+        "n_suspected_wrong_paper": 0,
+        "suspected_wrong_paper": []
+      },
+      "stage3_evidence_localization": {
+        "match_method": "NFKD+alnum-squash containment, fuzzy>=0.85",
+        "n_positive_kept": 12,
+        "n_scored": 12,
+        "n_excluded_no_gold_evidence": 0,
+        "n_with_empty_ai_evidence": 1,
+        "micro": {
+          "gold_total": 19,
+          "gold_found": 17,
+          "ai_total": 41,
+          "ai_correct": 17,
+          "recall": 0.8947,
+          "precision": 0.4146,
+          "f1": 0.5667
+        },
+        "macro": {
+          "recall": 0.8333,
+          "precision": 0.3958,
+          "f1": 0.525
+        },
+        "per_citance": [
+          {
+            "claim_id": "baevski2020wav2vec20",
+            "reference_key": "baevski2020wav2vec2",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 2,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "carletta2007ami4",
+            "reference_key": "carletta2007ami",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 2,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "delrio2022earnings228",
+            "reference_key": "delrio2022earnings22",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 6,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          },
+          {
+            "claim_id": "delrio21_interspeech7",
+            "reference_key": "delrio21_interspeech",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 0,
+            "n_ai": 5,
+            "n_ai_correct": 0,
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0.0
+          },
+          {
+            "claim_id": "godfrey1992switchboard2",
+            "reference_key": "godfrey1992switchboard",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 0,
+            "n_ai": 0,
+            "n_ai_correct": 0,
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0.0
+          },
+          {
+            "claim_id": "graves2006ctc10",
+            "reference_key": "graves2006ctc",
+            "verdict": "Supported",
+            "n_gold": 4,
+            "n_gold_found": 4,
+            "n_ai": 6,
+            "n_ai_correct": 4,
+            "recall": 1.0,
+            "precision": 0.6667,
+            "f1": 0.8
+          },
+          {
+            "claim_id": "kuchaiev2019nemo9",
+            "reference_key": "kuchaiev2019nemo",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.6667,
+            "f1": 0.8
+          },
+          {
+            "claim_id": "radford2022whisper1",
+            "reference_key": "radford2022whisper",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.6667,
+            "f1": 0.8
+          },
+          {
+            "claim_id": "radford2022whisper11",
+            "reference_key": "radford2022whisper",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          },
+          {
+            "claim_id": "spgispeech26",
+            "reference_key": "spgispeech2",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 4,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.25,
+            "f1": 0.4
+          },
+          {
+            "claim_id": "spgispeech5",
+            "reference_key": "spgispeech",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 4,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "zhang2021nemo13",
+            "reference_key": "zhang2021nemo",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          }
+        ]
+      },
+      "stage4_verdict": {
+        "n_scored": 14,
+        "four_class": {
+          "n": 14,
+          "accuracy": 0.6429,
+          "macro_f1": 0.3842,
+          "cohen_kappa": 0.3396,
+          "per_class": {
+            "Supported": {
+              "precision": 1.0,
+              "recall": 0.5833,
+              "f1": 0.7368,
+              "support": 12
+            },
+            "Partially Supported": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 0
+            },
+            "Not Supported": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 0
+            },
+            "NEI": {
+              "precision": 0.6667,
+              "recall": 1.0,
+              "f1": 0.8,
+              "support": 2
+            }
+          },
+          "confusion": {
+            "Supported": {
+              "Supported": 7,
+              "Partially Supported": 4,
+              "Not Supported": 0,
+              "NEI": 1
+            },
+            "Partially Supported": {
+              "Supported": 0,
+              "Partially Supported": 0,
+              "Not Supported": 0,
+              "NEI": 0
+            },
+            "Not Supported": {
+              "Supported": 0,
+              "Partially Supported": 0,
+              "Not Supported": 0,
+              "NEI": 0
+            },
+            "NEI": {
+              "Supported": 0,
+              "Partially Supported": 0,
+              "Not Supported": 0,
+              "NEI": 2
+            }
+          }
+        },
+        "lenient_3class": {
+          "n": 14,
+          "accuracy": 0.9286,
+          "macro_f1": 0.5855,
+          "cohen_kappa": 0.7586,
+          "per_class": {
+            "Supported": {
+              "precision": 1.0,
+              "recall": 0.9167,
+              "f1": 0.9565,
+              "support": 12
+            },
+            "Refuted": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 0
+            },
+            "NEI": {
+              "precision": 0.6667,
+              "recall": 1.0,
+              "f1": 0.8,
+              "support": 2
+            }
+          },
+          "confusion": {
+            "Supported": {
+              "Supported": 11,
+              "Refuted": 0,
+              "NEI": 1
+            },
+            "Refuted": {
+              "Supported": 0,
+              "Refuted": 0,
+              "NEI": 0
+            },
+            "NEI": {
+              "Supported": 0,
+              "Refuted": 0,
+              "NEI": 2
+            }
+          }
+        },
+        "agreement": {
+          "claim_type": {
+            "available": true,
+            "n": 14,
+            "gold_col": "claim_type",
+            "ai_col": "ai_claim_type",
+            "agreement": 1.0,
+            "n_agree": 14,
+            "confusion": {
+              "background": {
+                "background": 7
+              },
+              "other": {
+                "other": 7
+              }
+            }
+          },
+          "is_ambiguous": {
+            "available": true,
+            "n": 14,
+            "gold_col": "is_ambiguous",
+            "ai_col": "ai_is_ambiguous",
+            "agreement": 1.0,
+            "n_agree": 14,
+            "confusion": {
+              "False": {
+                "False": 14
+              }
+            }
+          },
+          "is_overstatement": {
+            "available": true,
+            "n": 12,
+            "gold_col": "is_overstatement",
+            "ai_col": "ai_is_overstatement",
+            "agreement": 1.0,
+            "n_agree": 12,
+            "confusion": {
+              "False": {
+                "False": 12
+              }
+            }
+          }
+        },
+        "confidence_calibration": {
+          "tool_confidence": {
+            "available": true,
+            "n": 14,
+            "mean_confidence": 0.9007,
+            "accuracy": 0.6429,
+            "calibration_gap": 0.2579,
+            "buckets": [
+              {
+                "range": "[0.00,0.50)",
+                "n": 1,
+                "mean_confidence": 0.0,
+                "accuracy": 1.0
+              },
+              {
+                "range": "[0.85,1.01)",
+                "n": 13,
+                "mean_confidence": 0.97,
+                "accuracy": 0.6154
+              }
+            ]
+          },
+          "annotator_confidence": {
+            "available": true,
+            "n": 13,
+            "by_band": {
+              "high": {
+                "n": 12,
+                "accuracy": 0.5833
+              },
+              "medium": {
+                "n": 1,
+                "accuracy": 1.0
+              }
+            }
+          }
+        }
+      }
+    },
+    "a3e0239a18b34eef81caf6c53df50529": {
+      "report_id": "a3e0239a18b34eef81caf6c53df50529",
+      "arxiv_id": "1503.02531",
+      "participants": [
+        "annotator-1"
+      ],
+      "session_ids": [
+        "4a609692681946af9e14fba66b911683"
+      ],
+      "n_sessions": 1,
+      "n_rows_collapsed": 0,
+      "detected_citances": 11,
+      "n_rows": 11,
+      "coverage": {
+        "n_rows": 11,
+        "n_complete": 11,
+        "n_incomplete": 0,
+        "n_kept": 11,
+        "n_dropped_false_positive": 0,
+        "n_added_tool_missed": 0,
+        "n_reference_removed": 0,
+        "n_unique_citances": 11,
+        "detected_citances": 11,
+        "progress": {
+          "n_entries": 11,
+          "n_resolved": 11,
+          "n_complete": 11,
+          "finished": true,
+          "has_feedback": false,
+          "total": 11,
+          "pct": 100,
+          "done": true
+        },
+        "n_detected_unannotated": 0
+      },
+      "stage1_citance_detection": {
+        "pair_level": {
+          "tp": 11,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "skipped_incomplete": 0
+        },
+        "citance_level": {
+          "tp": 11,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "skipped_incomplete": 0,
+          "n_unique_citances": 11
+        },
+        "citance_text_edit": {
+          "available": true,
+          "n": 11,
+          "mean_similarity": 1.0,
+          "exact_match_rate": 1.0,
+          "n_exact": 11,
+          "n_edited": 0
+        },
+        "attribution": {
+          "available": true,
+          "n_answered": 11,
+          "n_correct": 9,
+          "n_wrong": 2,
+          "accuracy": 0.8182,
+          "n_corrected_claim_given": 2,
+          "by_flag": {
+            "enumeration": {
+              "n": 0,
+              "correct": 0,
+              "accuracy": null
+            },
+            "attributional": {
+              "n": 2,
+              "correct": 2,
+              "accuracy": 1.0
+            },
+            "plain": {
+              "n": 9,
+              "correct": 7,
+              "accuracy": 0.7778
+            }
+          }
+        }
+      },
+      "stage2_reference_mapping": {
+        "n_proposed": 11,
+        "n_kept": 11,
+        "n_rejected": 0,
+        "rejection_rate": 0.0,
+        "n_kept_with_both_keys": 11,
+        "n_remapped": 0,
+        "accuracy_over_kept": 1.0,
+        "accuracy_over_proposed": 1.0
+      },
+      "stage2_reference_resolution": {
+        "suspect_match_score_threshold": 0.9,
+        "n_confirmed_corrections": 0,
+        "confirmed_corrections": [],
+        "n_pipeline_empty_gold_supported": 0,
+        "n_suspected_wrong_paper": 0,
+        "suspected_wrong_paper": []
+      },
+      "stage3_evidence_localization": {
+        "match_method": "NFKD+alnum-squash containment, fuzzy>=0.85",
+        "n_positive_kept": 9,
+        "n_scored": 9,
+        "n_excluded_no_gold_evidence": 0,
+        "n_with_empty_ai_evidence": 0,
+        "micro": {
+          "gold_total": 27,
+          "gold_found": 24,
+          "ai_total": 45,
+          "ai_correct": 24,
+          "recall": 0.8889,
+          "precision": 0.5333,
+          "f1": 0.6667
+        },
+        "macro": {
+          "recall": 0.8611,
+          "precision": 0.623,
+          "f1": 0.6968
+        },
+        "per_citance": [
+          {
+            "claim_id": "Caruana1",
+            "reference_key": "Caruana",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 5,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 0.6,
+            "f1": 0.75
+          },
+          {
+            "claim_id": "Caruana3",
+            "reference_key": "Caruana",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 7,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 0.4286,
+            "f1": 0.6
+          },
+          {
+            "claim_id": "Caruana4",
+            "reference_key": "Caruana",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 3,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          },
+          {
+            "claim_id": "Dietterich20000",
+            "reference_key": "Dietterich2000",
+            "verdict": "Partially Supported",
+            "n_gold": 2,
+            "n_gold_found": 0,
+            "n_ai": 7,
+            "n_ai_correct": 0,
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0.0
+          },
+          {
+            "claim_id": "LiZhaoHuangGong7",
+            "reference_key": "LiZhaoHuangGong",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 7,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 0.4286,
+            "f1": 0.6
+          },
+          {
+            "claim_id": "SPM6",
+            "reference_key": "SPM",
+            "verdict": "Supported",
+            "n_gold": 4,
+            "n_gold_found": 3,
+            "n_ai": 4,
+            "n_ai_correct": 3,
+            "recall": 0.75,
+            "precision": 0.75,
+            "f1": 0.75
+          },
+          {
+            "claim_id": "brain-stuff9",
+            "reference_key": "brain-stuff",
+            "verdict": "Partially Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 5,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.4,
+            "f1": 0.5714
+          },
+          {
+            "claim_id": "dropout5",
+            "reference_key": "dropout",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 3,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          },
+          {
+            "claim_id": "srivastava2014dropout2",
+            "reference_key": "srivastava2014dropout",
+            "verdict": "Supported",
+            "n_gold": 4,
+            "n_gold_found": 4,
+            "n_ai": 4,
+            "n_ai_correct": 4,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          }
+        ]
+      },
+      "stage4_verdict": {
+        "n_scored": 11,
+        "four_class": {
+          "n": 11,
+          "accuracy": 0.8182,
+          "macro_f1": 0.625,
+          "cohen_kappa": 0.7027,
+          "per_class": {
+            "Supported": {
+              "precision": 1.0,
+              "recall": 0.7143,
+              "f1": 0.8333,
+              "support": 7
+            },
+            "Partially Supported": {
+              "precision": 0.5,
+              "recall": 1.0,
+              "f1": 0.6667,
+              "support": 2
+            },
+            "Not Supported": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 0
+            },
+            "NEI": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "support": 2
+            }
+          },
+          "confusion": {
+            "Supported": {
+              "Supported": 5,
+              "Partially Supported": 2,
+              "Not Supported": 0,
+              "NEI": 0
+            },
+            "Partially Supported": {
+              "Supported": 0,
+              "Partially Supported": 2,
+              "Not Supported": 0,
+              "NEI": 0
+            },
+            "Not Supported": {
+              "Supported": 0,
+              "Partially Supported": 0,
+              "Not Supported": 0,
+              "NEI": 0
+            },
+            "NEI": {
+              "Supported": 0,
+              "Partially Supported": 0,
+              "Not Supported": 0,
+              "NEI": 2
+            }
+          }
+        },
+        "lenient_3class": {
+          "n": 11,
+          "accuracy": 1.0,
+          "macro_f1": 0.6667,
+          "cohen_kappa": 1.0,
+          "per_class": {
+            "Supported": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "support": 9
+            },
+            "Refuted": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 0
+            },
+            "NEI": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "support": 2
+            }
+          },
+          "confusion": {
+            "Supported": {
+              "Supported": 9,
+              "Refuted": 0,
+              "NEI": 0
+            },
+            "Refuted": {
+              "Supported": 0,
+              "Refuted": 0,
+              "NEI": 0
+            },
+            "NEI": {
+              "Supported": 0,
+              "Refuted": 0,
+              "NEI": 2
+            }
+          }
+        },
+        "agreement": {
+          "claim_type": {
+            "available": true,
+            "n": 11,
+            "gold_col": "claim_type",
+            "ai_col": "ai_claim_type",
+            "agreement": 1.0,
+            "n_agree": 11,
+            "confusion": {
+              "background": {
+                "background": 8
+              },
+              "causal": {
+                "causal": 1
+              },
+              "other": {
+                "other": 2
+              }
+            }
+          },
+          "is_ambiguous": {
+            "available": true,
+            "n": 11,
+            "gold_col": "is_ambiguous",
+            "ai_col": "ai_is_ambiguous",
+            "agreement": 1.0,
+            "n_agree": 11,
+            "confusion": {
+              "False": {
+                "False": 11
+              }
+            }
+          },
+          "is_overstatement": {
+            "available": true,
+            "n": 9,
+            "gold_col": "is_overstatement",
+            "ai_col": "ai_is_overstatement",
+            "agreement": 1.0,
+            "n_agree": 9,
+            "confusion": {
+              "False": {
+                "False": 8
+              },
+              "True": {
+                "True": 1
+              }
+            }
+          }
+        },
+        "confidence_calibration": {
+          "tool_confidence": {
+            "available": true,
+            "n": 11,
+            "mean_confidence": 0.9627,
+            "accuracy": 0.8182,
+            "calibration_gap": 0.1445,
+            "buckets": [
+              {
+                "range": "[0.85,1.01)",
+                "n": 11,
+                "mean_confidence": 0.9627,
+                "accuracy": 0.8182
+              }
+            ]
+          },
+          "annotator_confidence": {
+            "available": true,
+            "n": 11,
+            "by_band": {
+              "high": {
+                "n": 1,
+                "accuracy": 1.0
+              },
+              "low": {
+                "n": 6,
+                "accuracy": 0.8333
+              },
+              "medium": {
+                "n": 4,
+                "accuracy": 0.75
+              }
+            }
+          }
+        }
+      }
+    },
+    "bf2d676b63dd4264aedba2488dfbab48": {
+      "report_id": "bf2d676b63dd4264aedba2488dfbab48",
+      "arxiv_id": "2607.24268",
+      "participants": [
+        "annotator-1"
+      ],
+      "session_ids": [
+        "91a46d3587e840fdb1b4a46d42ffca7c"
+      ],
+      "n_sessions": 1,
+      "n_rows_collapsed": 0,
+      "detected_citances": 27,
+      "n_rows": 27,
+      "coverage": {
+        "n_rows": 27,
+        "n_complete": 27,
+        "n_incomplete": 0,
+        "n_kept": 27,
+        "n_dropped_false_positive": 0,
+        "n_added_tool_missed": 0,
+        "n_reference_removed": 0,
+        "n_unique_citances": 10,
+        "detected_citances": 27,
+        "progress": {
+          "n_entries": 27,
+          "n_resolved": 27,
+          "n_complete": 27,
+          "finished": false,
+          "has_feedback": false,
+          "total": 27,
+          "pct": 100,
+          "done": true
+        },
+        "n_detected_unannotated": 0
+      },
+      "stage1_citance_detection": {
+        "pair_level": {
+          "tp": 27,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "skipped_incomplete": 0
+        },
+        "citance_level": {
+          "tp": 10,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "skipped_incomplete": 0,
+          "n_unique_citances": 10
+        },
+        "citance_text_edit": {
+          "available": true,
+          "n": 27,
+          "mean_similarity": 0.9123,
+          "exact_match_rate": 0.8148,
+          "n_exact": 22,
+          "n_edited": 5
+        },
+        "attribution": {
+          "available": true,
+          "n_answered": 22,
+          "n_correct": 19,
+          "n_wrong": 3,
+          "accuracy": 0.8636,
+          "n_corrected_claim_given": 2,
+          "by_flag": {
+            "enumeration": {
+              "n": 0,
+              "correct": 0,
+              "accuracy": null
+            },
+            "attributional": {
+              "n": 0,
+              "correct": 0,
+              "accuracy": null
+            },
+            "plain": {
+              "n": 22,
+              "correct": 19,
+              "accuracy": 0.8636
+            }
+          }
+        }
+      },
+      "stage2_reference_mapping": {
+        "n_proposed": 27,
+        "n_kept": 27,
+        "n_rejected": 0,
+        "rejection_rate": 0.0,
+        "n_kept_with_both_keys": 27,
+        "n_remapped": 0,
+        "accuracy_over_kept": 1.0,
+        "accuracy_over_proposed": 1.0
+      },
+      "stage2_reference_resolution": {
+        "suspect_match_score_threshold": 0.9,
+        "n_confirmed_corrections": 2,
+        "confirmed_corrections": [
+          {
+            "claim_id": "pan2024automatically12",
+            "reference_key": "pan2024automatically",
+            "resolved_title": "",
+            "match_score": null,
+            "gold_verdict": "Supported",
+            "ai_verdict": "Supported",
+            "n_gold_evidence": 6,
+            "corrected_to": "",
+            "note": ""
+          },
+          {
+            "claim_id": "snell2025scaling15",
+            "reference_key": "snell2025scaling",
+            "resolved_title": "",
+            "match_score": null,
+            "gold_verdict": "Supported",
+            "ai_verdict": "Supported",
+            "n_gold_evidence": 2,
+            "corrected_to": "2408.03314",
+            "note": ""
+          }
+        ],
+        "n_pipeline_empty_gold_supported": 0,
+        "n_suspected_wrong_paper": 0,
+        "suspected_wrong_paper": []
+      },
+      "stage3_evidence_localization": {
+        "match_method": "NFKD+alnum-squash containment, fuzzy>=0.85",
+        "n_positive_kept": 26,
+        "n_scored": 26,
+        "n_excluded_no_gold_evidence": 0,
+        "n_with_empty_ai_evidence": 0,
+        "micro": {
+          "gold_total": 72,
+          "gold_found": 69,
+          "ai_total": 111,
+          "ai_correct": 69,
+          "recall": 0.9583,
+          "precision": 0.6216,
+          "f1": 0.7541
+        },
+        "macro": {
+          "recall": 0.9423,
+          "precision": 0.6175,
+          "f1": 0.725
+        },
+        "per_citance": [
+          {
+            "claim_id": "boratko2018arc22",
+            "reference_key": "boratko2018arc",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 5,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 0.6,
+            "f1": 0.75
+          },
+          {
+            "claim_id": "bowman2021benchmarking21",
+            "reference_key": "bowman2021benchmarking",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 6,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "clark2018arc25",
+            "reference_key": "clark2018arc",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          },
+          {
+            "claim_id": "doddapaneni2024blindspots4",
+            "reference_key": "doddapaneni2024blindspots",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 2,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          },
+          {
+            "claim_id": "dubois2024lengthcontrolled3",
+            "reference_key": "dubois2024lengthcontrolled",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.6667,
+            "f1": 0.8
+          },
+          {
+            "claim_id": "gu2025surveyjudge5",
+            "reference_key": "gu2025surveyjudge",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 4,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 0.75,
+            "f1": 0.8571
+          },
+          {
+            "claim_id": "hendrycks2021math24",
+            "reference_key": "hendrycks2021math",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          },
+          {
+            "claim_id": "huang2024cannot9",
+            "reference_key": "huang2024cannot",
+            "verdict": "Supported",
+            "n_gold": 4,
+            "n_gold_found": 4,
+            "n_ai": 5,
+            "n_ai_correct": 4,
+            "recall": 1.0,
+            "precision": 0.8,
+            "f1": 0.8889
+          },
+          {
+            "claim_id": "huidrom2023consensustaxonomy23",
+            "reference_key": "huidrom2023consensustaxonomy",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.6667,
+            "f1": 0.8
+          },
+          {
+            "claim_id": "jones2022biases20",
+            "reference_key": "jones2022biases",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 4,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 0.75,
+            "f1": 0.8571
+          },
+          {
+            "claim_id": "kamoi2024when11",
+            "reference_key": "kamoi2024when",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 4,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 0.75,
+            "f1": 0.8571
+          },
+          {
+            "claim_id": "liu2023geval0",
+            "reference_key": "liu2023geval",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 0.5,
+            "precision": 0.3333,
+            "f1": 0.4
+          },
+          {
+            "claim_id": "madaan2023selfrefine7",
+            "reference_key": "madaan2023selfrefine",
+            "verdict": "Supported",
+            "n_gold": 4,
+            "n_gold_found": 4,
+            "n_ai": 7,
+            "n_ai_correct": 4,
+            "recall": 1.0,
+            "precision": 0.5714,
+            "f1": 0.7273
+          },
+          {
+            "claim_id": "manvi2024adaptive16",
+            "reference_key": "manvi2024adaptive",
+            "verdict": "Supported",
+            "n_gold": 4,
+            "n_gold_found": 4,
+            "n_ai": 4,
+            "n_ai_correct": 4,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          },
+          {
+            "claim_id": "muennighoff2025s117",
+            "reference_key": "muennighoff2025s1",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 4,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "pan2024automatically12",
+            "reference_key": "pan2024automatically",
+            "verdict": "Supported",
+            "n_gold": 6,
+            "n_gold_found": 6,
+            "n_ai": 6,
+            "n_ai_correct": 6,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          },
+          {
+            "claim_id": "ribeiro2020checklist18",
+            "reference_key": "ribeiro2020checklist",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 5,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 0.6,
+            "f1": 0.75
+          },
+          {
+            "claim_id": "shinn2023reflexion8",
+            "reference_key": "shinn2023reflexion",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 6,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "snell2025scaling15",
+            "reference_key": "snell2025scaling",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 5,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.4,
+            "f1": 0.5714
+          },
+          {
+            "claim_id": "wang2023selfconsistency14",
+            "reference_key": "wang2023selfconsistency",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 6,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "wang2024notfair2",
+            "reference_key": "wang2024notfair",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 3,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          },
+          {
+            "claim_id": "wei2022chain13",
+            "reference_key": "wei2022chain",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 0,
+            "n_ai": 3,
+            "n_ai_correct": 0,
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0.0
+          },
+          {
+            "claim_id": "wu2024keycondition10",
+            "reference_key": "wu2024keycondition",
+            "verdict": "Supported",
+            "n_gold": 5,
+            "n_gold_found": 5,
+            "n_ai": 5,
+            "n_ai_correct": 5,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          },
+          {
+            "claim_id": "xiao2023evaluating19",
+            "reference_key": "xiao2023evaluating",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 4,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 0.75,
+            "f1": 0.8571
+          },
+          {
+            "claim_id": "yang2026judgechangesdoesmeasurement6",
+            "reference_key": "yang2026judgechangesdoesmeasurement",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 4,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "zheng2023judge1",
+            "reference_key": "zheng2023judge",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 4,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.25,
+            "f1": 0.4
+          }
+        ]
+      },
+      "stage4_verdict": {
+        "n_scored": 27,
+        "four_class": {
+          "n": 27,
+          "accuracy": 0.7037,
+          "macro_f1": 0.3712,
+          "cohen_kappa": 0.166,
+          "per_class": {
+            "Supported": {
+              "precision": 1.0,
+              "recall": 0.6923,
+              "f1": 0.8182,
+              "support": 26
+            },
+            "Partially Supported": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 0
+            },
+            "Not Supported": {
+              "precision": 0.5,
+              "recall": 1.0,
+              "f1": 0.6667,
+              "support": 1
+            },
+            "NEI": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 0
+            }
+          },
+          "confusion": {
+            "Supported": {
+              "Supported": 18,
+              "Partially Supported": 7,
+              "Not Supported": 1,
+              "NEI": 0
+            },
+            "Partially Supported": {
+              "Supported": 0,
+              "Partially Supported": 0,
+              "Not Supported": 0,
+              "NEI": 0
+            },
+            "Not Supported": {
+              "Supported": 0,
+              "Partially Supported": 0,
+              "Not Supported": 1,
+              "NEI": 0
+            },
+            "NEI": {
+              "Supported": 0,
+              "Partially Supported": 0,
+              "Not Supported": 0,
+              "NEI": 0
+            }
+          }
+        },
+        "lenient_3class": {
+          "n": 27,
+          "accuracy": 0.963,
+          "macro_f1": 0.549,
+          "cohen_kappa": 0.6494,
+          "per_class": {
+            "Supported": {
+              "precision": 1.0,
+              "recall": 0.9615,
+              "f1": 0.9804,
+              "support": 26
+            },
+            "Refuted": {
+              "precision": 0.5,
+              "recall": 1.0,
+              "f1": 0.6667,
+              "support": 1
+            },
+            "NEI": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 0
+            }
+          },
+          "confusion": {
+            "Supported": {
+              "Supported": 25,
+              "Refuted": 1,
+              "NEI": 0
+            },
+            "Refuted": {
+              "Supported": 0,
+              "Refuted": 1,
+              "NEI": 0
+            },
+            "NEI": {
+              "Supported": 0,
+              "Refuted": 0,
+              "NEI": 0
+            }
+          }
+        },
+        "agreement": {
+          "claim_type": {
+            "available": true,
+            "n": 27,
+            "gold_col": "claim_type",
+            "ai_col": "ai_claim_type",
+            "agreement": 1.0,
+            "n_agree": 27,
+            "confusion": {
+              "background": {
+                "background": 17
+              },
+              "causal": {
+                "causal": 8
+              },
+              "predictive": {
+                "predictive": 2
+              }
+            }
+          },
+          "is_ambiguous": {
+            "available": true,
+            "n": 27,
+            "gold_col": "is_ambiguous",
+            "ai_col": "ai_is_ambiguous",
+            "agreement": 1.0,
+            "n_agree": 27,
+            "confusion": {
+              "False": {
+                "False": 27
+              }
+            }
+          },
+          "is_overstatement": {
+            "available": true,
+            "n": 27,
+            "gold_col": "is_overstatement",
+            "ai_col": "ai_is_overstatement",
+            "agreement": 0.9259,
+            "n_agree": 25,
+            "confusion": {
+              "False": {
+                "False": 25,
+                "True": 2
+              }
+            }
+          }
+        },
+        "confidence_calibration": {
+          "tool_confidence": {
+            "available": true,
+            "n": 27,
+            "mean_confidence": 0.9537,
+            "accuracy": 0.7037,
+            "calibration_gap": 0.25,
+            "buckets": [
+              {
+                "range": "[0.85,1.01)",
+                "n": 27,
+                "mean_confidence": 0.9537,
+                "accuracy": 0.7037
+              }
+            ]
+          },
+          "annotator_confidence": {
+            "available": true,
+            "n": 27,
+            "by_band": {
+              "high": {
+                "n": 26,
+                "accuracy": 0.6923
+              },
+              "medium": {
+                "n": 1,
+                "accuracy": 1.0
+              }
+            }
+          }
+        }
+      }
+    },
+    "efd1d3ef3fbf45ff9e3a4478ed8cf5bd": {
+      "report_id": "efd1d3ef3fbf45ff9e3a4478ed8cf5bd",
+      "arxiv_id": "1804.02767",
+      "participants": [
+        "annotator-1"
+      ],
+      "session_ids": [
+        "05d7f82c89ad42bbb983ac36e265ad13"
+      ],
+      "n_sessions": 1,
+      "n_rows_collapsed": 0,
+      "detected_citances": 14,
+      "n_rows": 14,
+      "coverage": {
+        "n_rows": 14,
+        "n_complete": 14,
+        "n_incomplete": 0,
+        "n_kept": 9,
+        "n_dropped_false_positive": 5,
+        "n_added_tool_missed": 0,
+        "n_reference_removed": 0,
+        "n_unique_citances": 12,
+        "detected_citances": 14,
+        "progress": {
+          "n_entries": 14,
+          "n_resolved": 14,
+          "n_complete": 14,
+          "finished": true,
+          "has_feedback": false,
+          "total": 14,
+          "pct": 100,
+          "done": true
+        },
+        "n_detected_unannotated": 0
+      },
+      "stage1_citance_detection": {
+        "pair_level": {
+          "tp": 9,
+          "fp": 5,
+          "fn": 0,
+          "precision": 0.6429,
+          "recall": 1.0,
+          "f1": 0.7826,
+          "skipped_incomplete": 0
+        },
+        "citance_level": {
+          "tp": 8,
+          "fp": 4,
+          "fn": 0,
+          "precision": 0.6667,
+          "recall": 1.0,
+          "f1": 0.8,
+          "skipped_incomplete": 0,
+          "n_unique_citances": 12
+        },
+        "citance_text_edit": {
+          "available": true,
+          "n": 9,
+          "mean_similarity": 1.0,
+          "exact_match_rate": 1.0,
+          "n_exact": 9,
+          "n_edited": 0
+        },
+        "attribution": {
+          "available": true,
+          "n_answered": 9,
+          "n_correct": 8,
+          "n_wrong": 1,
+          "accuracy": 0.8889,
+          "n_corrected_claim_given": 1,
+          "by_flag": {
+            "enumeration": {
+              "n": 0,
+              "correct": 0,
+              "accuracy": null
+            },
+            "attributional": {
+              "n": 5,
+              "correct": 5,
+              "accuracy": 1.0
+            },
+            "plain": {
+              "n": 4,
+              "correct": 3,
+              "accuracy": 0.75
+            }
+          }
+        }
+      },
+      "stage2_reference_mapping": {
+        "n_proposed": 14,
+        "n_kept": 9,
+        "n_rejected": 0,
+        "rejection_rate": 0.0,
+        "n_kept_with_both_keys": 9,
+        "n_remapped": 0,
+        "accuracy_over_kept": 1.0,
+        "accuracy_over_proposed": 0.6429
+      },
+      "stage2_reference_resolution": {
+        "suspect_match_score_threshold": 0.9,
+        "n_confirmed_corrections": 0,
+        "confirmed_corrections": [],
+        "n_pipeline_empty_gold_supported": 0,
+        "n_suspected_wrong_paper": 0,
+        "suspected_wrong_paper": []
+      },
+      "stage3_evidence_localization": {
+        "match_method": "NFKD+alnum-squash containment, fuzzy>=0.85",
+        "n_positive_kept": 9,
+        "n_scored": 8,
+        "n_excluded_no_gold_evidence": 1,
+        "n_with_empty_ai_evidence": 0,
+        "micro": {
+          "gold_total": 14,
+          "gold_found": 10,
+          "ai_total": 22,
+          "ai_correct": 10,
+          "recall": 0.7143,
+          "precision": 0.4545,
+          "f1": 0.5556
+        },
+        "macro": {
+          "recall": 0.75,
+          "precision": 0.5208,
+          "f1": 0.6
+        },
+        "per_citance": [
+          {
+            "claim_id": "lin2014microsoft8",
+            "reference_key": "lin2014microsoft",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 3,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          },
+          {
+            "claim_id": "lin2017feature7",
+            "reference_key": "lin2017feature",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.6667,
+            "f1": 0.8
+          },
+          {
+            "claim_id": "parham2017animal11",
+            "reference_key": "parham2017animal",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 4,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "pascal13",
+            "reference_key": "pascal",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 2,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "redmon2017yolo90003",
+            "reference_key": "redmon2017yolo9000",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 0,
+            "n_ai": 3,
+            "n_ai_correct": 0,
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0.0
+          },
+          {
+            "claim_id": "ren2015faster4",
+            "reference_key": "ren2015faster",
+            "verdict": "Partially Supported",
+            "n_gold": 2,
+            "n_gold_found": 0,
+            "n_ai": 4,
+            "n_ai_correct": 0,
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0.0
+          },
+          {
+            "claim_id": "ren2015faster5",
+            "reference_key": "ren2015faster",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 2,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.5,
+            "f1": 0.6667
+          },
+          {
+            "claim_id": "russakovsky2015best10",
+            "reference_key": "russakovsky2015best",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 1,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          }
+        ]
+      },
+      "stage4_verdict": {
+        "n_scored": 9,
+        "four_class": {
+          "n": 9,
+          "accuracy": 0.7778,
+          "macro_f1": 0.2188,
+          "cohen_kappa": -0.0588,
+          "per_class": {
+            "Supported": {
+              "precision": 0.875,
+              "recall": 0.875,
+              "f1": 0.875,
+              "support": 8
+            },
+            "Partially Supported": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 1
+            },
+            "Not Supported": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 0
+            },
+            "NEI": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 0
+            }
+          },
+          "confusion": {
+            "Supported": {
+              "Supported": 7,
+              "Partially Supported": 0,
+              "Not Supported": 0,
+              "NEI": 1
+            },
+            "Partially Supported": {
+              "Supported": 1,
+              "Partially Supported": 0,
+              "Not Supported": 0,
+              "NEI": 0
+            },
+            "Not Supported": {
+              "Supported": 0,
+              "Partially Supported": 0,
+              "Not Supported": 0,
+              "NEI": 0
+            },
+            "NEI": {
+              "Supported": 0,
+              "Partially Supported": 0,
+              "Not Supported": 0,
+              "NEI": 0
+            }
+          }
+        },
+        "lenient_3class": {
+          "n": 9,
+          "accuracy": 0.8889,
+          "macro_f1": 0.3137,
+          "cohen_kappa": 0.0,
+          "per_class": {
+            "Supported": {
+              "precision": 1.0,
+              "recall": 0.8889,
+              "f1": 0.9412,
+              "support": 9
+            },
+            "Refuted": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 0
+            },
+            "NEI": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 0
+            }
+          },
+          "confusion": {
+            "Supported": {
+              "Supported": 8,
+              "Refuted": 0,
+              "NEI": 1
+            },
+            "Refuted": {
+              "Supported": 0,
+              "Refuted": 0,
+              "NEI": 0
+            },
+            "NEI": {
+              "Supported": 0,
+              "Refuted": 0,
+              "NEI": 0
+            }
+          }
+        },
+        "agreement": {
+          "claim_type": {
+            "available": true,
+            "n": 9,
+            "gold_col": "claim_type",
+            "ai_col": "ai_claim_type",
+            "agreement": 1.0,
+            "n_agree": 9,
+            "confusion": {
+              "background": {
+                "background": 3
+              },
+              "causal": {
+                "causal": 1
+              },
+              "other": {
+                "other": 5
+              }
+            }
+          },
+          "is_ambiguous": {
+            "available": true,
+            "n": 9,
+            "gold_col": "is_ambiguous",
+            "ai_col": "ai_is_ambiguous",
+            "agreement": 1.0,
+            "n_agree": 9,
+            "confusion": {
+              "False": {
+                "False": 9
+              }
+            }
+          },
+          "is_overstatement": {
+            "available": true,
+            "n": 9,
+            "gold_col": "is_overstatement",
+            "ai_col": "ai_is_overstatement",
+            "agreement": 1.0,
+            "n_agree": 9,
+            "confusion": {
+              "False": {
+                "False": 9
+              }
+            }
+          }
+        },
+        "confidence_calibration": {
+          "tool_confidence": {
+            "available": true,
+            "n": 9,
+            "mean_confidence": 0.8744,
+            "accuracy": 0.7778,
+            "calibration_gap": 0.0967,
+            "buckets": [
+              {
+                "range": "[0.00,0.50)",
+                "n": 1,
+                "mean_confidence": 0.0,
+                "accuracy": 0.0
+              },
+              {
+                "range": "[0.85,1.01)",
+                "n": 8,
+                "mean_confidence": 0.9838,
+                "accuracy": 0.875
+              }
+            ]
+          },
+          "annotator_confidence": {
+            "available": true,
+            "n": 9,
+            "by_band": {
+              "high": {
+                "n": 1,
+                "accuracy": 1.0
+              },
+              "low": {
+                "n": 2,
+                "accuracy": 0.5
+              },
+              "medium": {
+                "n": 6,
+                "accuracy": 0.8333
+              }
+            }
+          }
+        }
+      }
+    },
+    "f7c16d6748f5474499aa37b36b3d31cf": {
+      "report_id": "f7c16d6748f5474499aa37b36b3d31cf",
+      "arxiv_id": "2607.16494",
+      "participants": [
+        "annotator-1"
+      ],
+      "session_ids": [
+        "f21df9ba94974b7ab657f229ef157fc2"
+      ],
+      "n_sessions": 1,
+      "n_rows_collapsed": 0,
+      "detected_citances": 13,
+      "n_rows": 13,
+      "coverage": {
+        "n_rows": 13,
+        "n_complete": 13,
+        "n_incomplete": 0,
+        "n_kept": 13,
+        "n_dropped_false_positive": 0,
+        "n_added_tool_missed": 0,
+        "n_reference_removed": 0,
+        "n_unique_citances": 10,
+        "detected_citances": 13,
+        "progress": {
+          "n_entries": 13,
+          "n_resolved": 13,
+          "n_complete": 13,
+          "finished": false,
+          "has_feedback": false,
+          "total": 13,
+          "pct": 100,
+          "done": true
+        },
+        "n_detected_unannotated": 0
+      },
+      "stage1_citance_detection": {
+        "pair_level": {
+          "tp": 13,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "skipped_incomplete": 0
+        },
+        "citance_level": {
+          "tp": 10,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "skipped_incomplete": 0,
+          "n_unique_citances": 10
+        },
+        "citance_text_edit": {
+          "available": true,
+          "n": 13,
+          "mean_similarity": 1.0,
+          "exact_match_rate": 1.0,
+          "n_exact": 13,
+          "n_edited": 0
+        },
+        "attribution": {
+          "available": true,
+          "n_answered": 12,
+          "n_correct": 12,
+          "n_wrong": 0,
+          "accuracy": 1.0,
+          "n_corrected_claim_given": 0,
+          "by_flag": {
+            "enumeration": {
+              "n": 0,
+              "correct": 0,
+              "accuracy": null
+            },
+            "attributional": {
+              "n": 4,
+              "correct": 4,
+              "accuracy": 1.0
+            },
+            "plain": {
+              "n": 8,
+              "correct": 8,
+              "accuracy": 1.0
+            }
+          }
+        }
+      },
+      "stage2_reference_mapping": {
+        "n_proposed": 13,
+        "n_kept": 13,
+        "n_rejected": 0,
+        "rejection_rate": 0.0,
+        "n_kept_with_both_keys": 13,
+        "n_remapped": 0,
+        "accuracy_over_kept": 1.0,
+        "accuracy_over_proposed": 1.0
+      },
+      "stage2_reference_resolution": {
+        "suspect_match_score_threshold": 0.9,
+        "n_confirmed_corrections": 0,
+        "confirmed_corrections": [],
+        "n_pipeline_empty_gold_supported": 1,
+        "n_suspected_wrong_paper": 0,
+        "suspected_wrong_paper": []
+      },
+      "stage3_evidence_localization": {
+        "match_method": "NFKD+alnum-squash containment, fuzzy>=0.85",
+        "n_positive_kept": 11,
+        "n_scored": 11,
+        "n_excluded_no_gold_evidence": 0,
+        "n_with_empty_ai_evidence": 0,
+        "micro": {
+          "gold_total": 14,
+          "gold_found": 13,
+          "ai_total": 37,
+          "ai_correct": 13,
+          "recall": 0.9286,
+          "precision": 0.3514,
+          "f1": 0.5098
+        },
+        "macro": {
+          "recall": 0.9091,
+          "precision": 0.4,
+          "f1": 0.5203
+        },
+        "per_citance": [
+          {
+            "claim_id": "2d11",
+            "reference_key": "2d",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          },
+          {
+            "claim_id": "adaptive12",
+            "reference_key": "adaptive",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 1,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 1.0,
+            "f1": 1.0
+          },
+          {
+            "claim_id": "adaptive9",
+            "reference_key": "adaptive",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 5,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.2,
+            "f1": 0.3333
+          },
+          {
+            "claim_id": "anthropic0",
+            "reference_key": "anthropic",
+            "verdict": "Supported",
+            "n_gold": 2,
+            "n_gold_found": 2,
+            "n_ai": 3,
+            "n_ai_correct": 2,
+            "recall": 1.0,
+            "precision": 0.6667,
+            "f1": 0.8
+          },
+          {
+            "claim_id": "ericson178",
+            "reference_key": "ericson17",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 5,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.2,
+            "f1": 0.3333
+          },
+          {
+            "claim_id": "faded10",
+            "reference_key": "faded",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          },
+          {
+            "claim_id": "macneil20242",
+            "reference_key": "macneil2024",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 0,
+            "n_ai": 3,
+            "n_ai_correct": 0,
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0.0
+          },
+          {
+            "claim_id": "messer243",
+            "reference_key": "messer24",
+            "verdict": "Partially Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 4,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.25,
+            "f1": 0.4
+          },
+          {
+            "claim_id": "patra216",
+            "reference_key": "patra21",
+            "verdict": "Supported",
+            "n_gold": 3,
+            "n_gold_found": 3,
+            "n_ai": 4,
+            "n_ai_correct": 3,
+            "recall": 1.0,
+            "precision": 0.75,
+            "f1": 0.8571
+          },
+          {
+            "claim_id": "russinovich1",
+            "reference_key": "russinovich",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          },
+          {
+            "claim_id": "syslit7",
+            "reference_key": "syslit",
+            "verdict": "Supported",
+            "n_gold": 1,
+            "n_gold_found": 1,
+            "n_ai": 3,
+            "n_ai_correct": 1,
+            "recall": 1.0,
+            "precision": 0.3333,
+            "f1": 0.5
+          }
+        ]
+      },
+      "stage4_verdict": {
+        "n_scored": 13,
+        "four_class": {
+          "n": 13,
+          "accuracy": 0.7692,
+          "macro_f1": 0.3618,
+          "cohen_kappa": 0.473,
+          "per_class": {
+            "Supported": {
+              "precision": 1.0,
+              "recall": 0.9,
+              "f1": 0.9474,
+              "support": 10
+            },
+            "Partially Supported": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 1
+            },
+            "Not Supported": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 0
+            },
+            "NEI": {
+              "precision": 0.5,
+              "recall": 0.5,
+              "f1": 0.5,
+              "support": 2
+            }
+          },
+          "confusion": {
+            "Supported": {
+              "Supported": 9,
+              "Partially Supported": 1,
+              "Not Supported": 0,
+              "NEI": 0
+            },
+            "Partially Supported": {
+              "Supported": 0,
+              "Partially Supported": 0,
+              "Not Supported": 0,
+              "NEI": 1
+            },
+            "Not Supported": {
+              "Supported": 0,
+              "Partially Supported": 0,
+              "Not Supported": 0,
+              "NEI": 0
+            },
+            "NEI": {
+              "Supported": 0,
+              "Partially Supported": 0,
+              "Not Supported": 1,
+              "NEI": 1
+            }
+          }
+        },
+        "lenient_3class": {
+          "n": 13,
+          "accuracy": 0.8462,
+          "macro_f1": 0.4841,
+          "cohen_kappa": 0.5273,
+          "per_class": {
+            "Supported": {
+              "precision": 1.0,
+              "recall": 0.9091,
+              "f1": 0.9524,
+              "support": 11
+            },
+            "Refuted": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 0
+            },
+            "NEI": {
+              "precision": 0.5,
+              "recall": 0.5,
+              "f1": 0.5,
+              "support": 2
+            }
+          },
+          "confusion": {
+            "Supported": {
+              "Supported": 10,
+              "Refuted": 0,
+              "NEI": 1
+            },
+            "Refuted": {
+              "Supported": 0,
+              "Refuted": 0,
+              "NEI": 0
+            },
+            "NEI": {
+              "Supported": 0,
+              "Refuted": 1,
+              "NEI": 1
+            }
+          }
+        },
+        "agreement": {
+          "claim_type": {
+            "available": true,
+            "n": 13,
+            "gold_col": "claim_type",
+            "ai_col": "ai_claim_type",
+            "agreement": 1.0,
+            "n_agree": 13,
+            "confusion": {
+              "background": {
+                "background": 7
+              },
+              "comparative": {
+                "comparative": 2
+              },
+              "other": {
+                "other": 4
+              }
+            }
+          },
+          "is_ambiguous": {
+            "available": true,
+            "n": 13,
+            "gold_col": "is_ambiguous",
+            "ai_col": "ai_is_ambiguous",
+            "agreement": 1.0,
+            "n_agree": 13,
+            "confusion": {
+              "False": {
+                "False": 13
+              }
+            }
+          },
+          "is_overstatement": {
+            "available": true,
+            "n": 11,
+            "gold_col": "is_overstatement",
+            "ai_col": "ai_is_overstatement",
+            "agreement": 0.9091,
+            "n_agree": 10,
+            "confusion": {
+              "False": {
+                "False": 10,
+                "True": 1
+              }
+            }
+          }
+        },
+        "confidence_calibration": {
+          "tool_confidence": {
+            "available": true,
+            "n": 13,
+            "mean_confidence": 0.8838,
+            "accuracy": 0.7692,
+            "calibration_gap": 0.1146,
+            "buckets": [
+              {
+                "range": "[0.00,0.50)",
+                "n": 1,
+                "mean_confidence": 0.0,
+                "accuracy": 1.0
+              },
+              {
+                "range": "[0.85,1.01)",
+                "n": 12,
+                "mean_confidence": 0.9575,
+                "accuracy": 0.75
+              }
+            ]
+          },
+          "annotator_confidence": {
+            "available": true,
+            "n": 12,
+            "by_band": {
+              "high": {
+                "n": 10,
+                "accuracy": 0.9
+              },
+              "low": {
+                "n": 1,
+                "accuracy": 0.0
+              },
+              "medium": {
+                "n": 1,
+                "accuracy": 0.0
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+ "description": "Regex-only detection on the same 300 CiteWorth paragraphs (no LLM).",
+ "harness": "eval/diagnostics/_diag_regex_detection_f1.py (development repo)",
+ "captured": "re-run 2026-08-13, byte-identical to the reported values",
+ "n_paragraphs": 300,
+ "n_sentences": 1703,
+ "n_gold_citances": 578,
+ "tp": 578,
+ "fp": 12,
+ "fn": 0,
+ "tn": 1113,
+ "precision": 0.98,
+ "recall": 1.0,
+ "f1": 0.99
+}

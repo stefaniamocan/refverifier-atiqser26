@@ -1,0 +1,536 @@
+\begin{thebibliography}{89}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Agarwal and Bottou(2014)]{AB14}
+A.~Agarwal and L.~Bottou.
+\newblock A lower bound for the optimization of finite sums.
+\newblock \emph{Arxiv preprint arXiv:1410.0723}, 2014.
+
+\bibitem[Allen-Zhu and Orecchia(2014)]{AO14}
+Z.~Allen-Zhu and L.~Orecchia.
+\newblock Linear coupling: An ultimate unification of gradient and mirror
+  descent.
+\newblock \emph{Arxiv preprint arXiv:1407.1537}, 2014.
+
+\bibitem[Anstreicher(1998)]{Ans98}
+K.~M. Anstreicher.
+\newblock Towards a practical volumetric cutting plane method for convex
+  programming.
+\newblock \emph{SIAM Journal on Optimization}, 9\penalty0 (1):\penalty0
+  190--206, 1998.
+
+\bibitem[Audibert et~al.(2011)Audibert, Bubeck, and Munos]{ABM11}
+J.Y Audibert, S.~Bubeck, and R.~Munos.
+\newblock Bandit view on noisy optimization.
+\newblock In S.~Sra, S.~Nowozin, and S.~Wright, editors, \emph{Optimization for
+  Machine Learning}. MIT press, 2011.
+
+\bibitem[Audibert et~al.(2014)Audibert, Bubeck, and Lugosi]{ABL14}
+J.Y. Audibert, S.~Bubeck, and G.~Lugosi.
+\newblock Regret in online combinatorial optimization.
+\newblock \emph{Mathematics of Operations Research}, 39:\penalty0 31--45, 2014.
+
+\bibitem[Bach(2013)]{Bac13}
+F.~Bach.
+\newblock Learning with submodular functions: A convex optimization
+  perspective.
+\newblock \emph{Foundations and Trends{\textregistered} in Machine Learning},
+  6\penalty0 (2-3):\penalty0 145--373, 2013.
+
+\bibitem[Bach and Moulines(2013)]{BM13}
+F.~Bach and E.~Moulines.
+\newblock Non-strongly-convex smooth stochastic approximation with convergence
+  rate o(1/n).
+\newblock In \emph{Advances in Neural Information Processing Systems (NIPS)},
+  2013.
+
+\bibitem[Bach et~al.(2012)Bach, Jenatton, Mairal, and Obozinski]{BJMO12}
+F.~Bach, R.~Jenatton, J.~Mairal, and G.~Obozinski.
+\newblock Optimization with sparsity-inducing penalties.
+\newblock \emph{Foundations and Trends{\textregistered} in Machine Learning},
+  4\penalty0 (1):\penalty0 1--106, 2012.
+
+\bibitem[Barak(2014)]{Bar14}
+B.~Barak.
+\newblock Sum of squares upper bounds, lower bounds, and open questions.
+\newblock Lecture Notes, 2014.
+
+\bibitem[Beck and Teboulle(2003)]{BT03}
+A.~Beck and M.~Teboulle.
+\newblock {M}irror {D}escent and nonlinear projected subgradient methods for
+  convex optimization.
+\newblock \emph{Operations Research Letters}, 31\penalty0 (3):\penalty0
+  167--175, 2003.
+
+\bibitem[Beck and Teboulle(2009)]{BT09}
+A.~Beck and M.~Teboulle.
+\newblock A fast iterative shrinkage-thresholding algorithm for linear inverse
+  problems.
+\newblock \emph{SIAM Journal on Imaging Sciences}, 2\penalty0 (1):\penalty0
+  183--202, 2009.
+
+\bibitem[Ben-Tal and Nemirovski(2001)]{BN01}
+A.~Ben-Tal and A.~Nemirovski.
+\newblock \emph{Lectures on modern convex optimization: analysis, algorithms,
+  and engineering applications}.
+\newblock Society for Industrial and Applied Mathematics (SIAM), 2001.
+
+\bibitem[Bertsimas and Vempala(2004)]{BerVem04}
+D.~Bertsimas and S.~Vempala.
+\newblock Solving convex programs by random walks.
+\newblock \emph{Journal of the ACM}, 51:\penalty0 540--556, 2004.
+
+\bibitem[Boyd and Vandenberghe(2004)]{BV04}
+S.~Boyd and L.~Vandenberghe.
+\newblock \emph{Convex Optimization}.
+\newblock Cambridge University Press, 2004.
+
+\bibitem[Boyd et~al.(2011)Boyd, Parikh, Chu, Peleato, and Eckstein]{BPCPE11}
+S.~Boyd, N.~Parikh, E.~Chu, B.~Peleato, and J.~Eckstein.
+\newblock Distributed optimization and statistical learning via the alternating
+  direction method of multipliers.
+\newblock \emph{Foundations and Trends{\textregistered} in Machine Learning},
+  3\penalty0 (1):\penalty0 1--122, 2011.
+
+\bibitem[Bubeck(2011)]{Bub11}
+S.~Bubeck.
+\newblock Introduction to online optimization.
+\newblock Lecture Notes, 2011.
+
+\bibitem[Bubeck and Cesa-Bianchi(2012)]{BC12}
+S.~Bubeck and N.~Cesa-Bianchi.
+\newblock Regret analysis of stochastic and nonstochastic multi-armed bandit
+  problems.
+\newblock \emph{Foundations and Trends{\textregistered} in Machine Learning},
+  5\penalty0 (1):\penalty0 1--122, 2012.
+
+\bibitem[Bubeck and Eldan(2014)]{BE14}
+S.~Bubeck and R.~Eldan.
+\newblock The entropic barrier: a simple and optimal universal self-concordant
+  barrier.
+\newblock \emph{Arxiv preprint arXiv:1412.1587}, 2014.
+
+\bibitem[Bubeck et~al.(2015{\natexlab{a}})Bubeck, Eldan, and Lehec]{BEL15}
+S.~Bubeck, R.~Eldan, and J.~Lehec.
+\newblock Sampling from a log-concave distribution with projected langevin
+  monte carlo.
+\newblock \emph{Arxiv preprint arXiv:1507.02564}, 2015{\natexlab{a}}.
+
+\bibitem[Bubeck et~al.(2015{\natexlab{b}})Bubeck, Lee, and Singh]{BLS15}
+S.~Bubeck, Y.-T. Lee, and M.~Singh.
+\newblock A geometric alternative to nesterov's accelerated gradient descent.
+\newblock \emph{Arxiv preprint arXiv:1506.08187}, 2015{\natexlab{b}}.
+
+\bibitem[Cand{\`e}s and Recht(2009)]{CR09}
+E.~Cand{\`e}s and B.~Recht.
+\newblock Exact matrix completion via convex optimization.
+\newblock \emph{Foundations of Computational mathematics}, 9\penalty0
+  (6):\penalty0 717--772, 2009.
+
+\bibitem[Cauchy(1847)]{Cau47}
+A.~Cauchy.
+\newblock M{\'e}thode g{\'e}n{\'e}rale pour la r{\'e}solution des systemes
+  d'{\'e}quations simultan{\'e}es.
+\newblock \emph{Comp. Rend. Sci. Paris}, 25\penalty0 (1847):\penalty0 536--538,
+  1847.
+
+\bibitem[Cesa-Bianchi and Lugosi(2006)]{CL06}
+N.~Cesa-Bianchi and G.~Lugosi.
+\newblock \emph{Prediction, Learning, and Games}.
+\newblock Cambridge University Press, 2006.
+
+\bibitem[Chambolle and Pock(2011)]{CP11}
+A.~Chambolle and T.~Pock.
+\newblock A first-order primal-dual algorithm for convex problems with
+  applications to imaging.
+\newblock \emph{Journal of Mathematical Imaging and Vision}, 40\penalty0
+  (1):\penalty0 120--145, 2011.
+
+\bibitem[Clarkson et~al.(2012)Clarkson, Hazan, and Woodruff]{CHW12}
+K.~Clarkson, E.~Hazan, and D.~Woodruff.
+\newblock Sublinear optimization for machine learning.
+\newblock \emph{Journal of the ACM}, 2012.
+
+\bibitem[Conn et~al.(2009)Conn, Scheinberg, and Vicente]{CSV09}
+A.~Conn, K.~Scheinberg, and L.~Vicente.
+\newblock \emph{Introduction to Derivative-Free Optimization}.
+\newblock Society for Industrial and Applied Mathematics (SIAM), 2009.
+
+\bibitem[Cover(1992)]{Cov92}
+T.~M. Cover.
+\newblock 1990 shannon lecture.
+\newblock \emph{IEEE information theory society newsletter}, 42\penalty0 (4),
+  1992.
+
+\bibitem[d'Aspremont(2008)]{Asp08}
+A.~d'Aspremont.
+\newblock Smooth optimization with approximate gradient.
+\newblock \emph{SIAM Journal on Optimization}, 19\penalty0 (3):\penalty0
+  1171--1183, 2008.
+
+\bibitem[Defazio et~al.(2014)Defazio, Bach, and Lacoste-Julien]{DBLJ14}
+A.~Defazio, F.~Bach, and S.~Lacoste-Julien.
+\newblock Saga: A fast incremental gradient method with support for
+  non-strongly convex composite objectives.
+\newblock In \emph{Advances in Neural Information Processing Systems (NIPS)},
+  2014.
+
+\bibitem[Dekel et~al.(2012)Dekel, Gilad-Bachrach, Shamir, and Xiao]{DGBSX12}
+O.~Dekel, R.~Gilad-Bachrach, O.~Shamir, and L.~Xiao.
+\newblock Optimal distributed online prediction using mini-batches.
+\newblock \emph{Journal of Machine Learning Research}, 13:\penalty0 165--202,
+  2012.
+
+\bibitem[Duchi et~al.(2010)Duchi, Shalev-Shwartz, Singer, and Tewari]{DSSST10}
+J.~Duchi, S.~Shalev-Shwartz, Y.~Singer, and A.~Tewari.
+\newblock Composite objective mirror descent.
+\newblock In \emph{Proceedings of the 23rd Annual Conference on Learning Theory
+  (COLT)}, 2010.
+
+\bibitem[Dunn and Harshbarger(1978)]{DH78}
+J.~C. Dunn and S.~Harshbarger.
+\newblock Conditional gradient algorithms with open loop step size rules.
+\newblock \emph{Journal of Mathematical Analysis and Applications}, 62\penalty0
+  (2):\penalty0 432--444, 1978.
+
+\bibitem[Frank and Wolfe(1956)]{FW56}
+M.~Frank and P.~Wolfe.
+\newblock An algorithm for quadratic programming.
+\newblock \emph{Naval research logistics quarterly}, 3\penalty0 (1-2):\penalty0
+  95--110, 1956.
+
+\bibitem[Friedlander and Tseng(2007)]{FT07}
+M.~P. Friedlander and P.~Tseng.
+\newblock Exact regularization of convex programs.
+\newblock \emph{SIAM Journal on Optimization}, 18\penalty0 (4):\penalty0
+  1326--1350, 2007.
+
+\bibitem[Goemans and Williamson(1995)]{GW95}
+M.~Goemans and D.~Williamson.
+\newblock Improved approximation algorithms for maximum cut and satisfiability
+  problems using semidefinite programming.
+\newblock \emph{Journal of the ACM}, 42\penalty0 (6):\penalty0 1115--1145,
+  1995.
+
+\bibitem[Grigoriadis and Khachiyan(1995)]{GK95}
+M.~D. Grigoriadis and L.~G. Khachiyan.
+\newblock A sublinear-time randomized approximation algorithm for matrix games.
+\newblock \emph{Operations Research Letters}, 18:\penalty0 53--58, 1995.
+
+\bibitem[Gr{\"u}nbaum(1960)]{Gru60}
+B.~Gr{\"u}nbaum.
+\newblock Partitions of mass-distributions and of convex bodies by hyperplanes.
+\newblock \emph{Pacific J. Math}, 10\penalty0 (4):\penalty0 1257--1261, 1960.
+
+\bibitem[Hastie et~al.(2001)Hastie, Tibshirani, and Friedman]{HTF01}
+T.~Hastie, R.~Tibshirani, and J.~Friedman.
+\newblock \emph{The Elements of Statistical Learning}.
+\newblock Springer, 2001.
+
+\bibitem[Hazan(2011)]{Haz11}
+E.~Hazan.
+\newblock The convex optimization approach to regret minimization.
+\newblock In S.~Sra, S.~Nowozin, and S.~Wright, editors, \emph{Optimization for
+  Machine Learning}, pages 287--303. MIT press, 2011.
+
+\bibitem[Jaggi(2013)]{Jag13}
+M.~Jaggi.
+\newblock Revisiting frank-wolfe: Projection-free sparse convex optimization.
+\newblock In \emph{Proceedings of the 30th International Conference on Machine
+  Learning (ICML)}, pages 427--435, 2013.
+
+\bibitem[Jain et~al.(2013)Jain, Netrapalli, and Sanghavi]{JNS13}
+P.~Jain, P.~Netrapalli, and S.~Sanghavi.
+\newblock Low-rank matrix completion using alternating minimization.
+\newblock In \emph{Proceedings of the Forty-fifth Annual ACM Symposium on
+  Theory of Computing}, STOC '13, pages 665--674, 2013.
+
+\bibitem[Johnson and Zhang(2013)]{JZ13}
+R.~Johnson and T.~Zhang.
+\newblock Accelerating stochastic gradient descent using predictive variance
+  reduction.
+\newblock In \emph{Advances in Neural Information Processing Systems (NIPS)},
+  2013.
+
+\bibitem[Jones(1992)]{Jon92}
+L.~K. Jones.
+\newblock A simple lemma on greedy approximation in hilbert space and
+  convergence rates for projection pursuit regression and neural network
+  training.
+\newblock \emph{Annals of Statistics}, pages 608--613, 1992.
+
+\bibitem[Juditsky and Nemirovski(2011{\natexlab{a}})]{JN11a}
+A.~Juditsky and A.~Nemirovski.
+\newblock First-order methods for nonsmooth convex large-scale optimization, i:
+  General purpose methods.
+\newblock In S.~Sra, S.~Nowozin, and S.~Wright, editors, \emph{Optimization for
+  Machine Learning}, pages 121--147. MIT press, 2011{\natexlab{a}}.
+
+\bibitem[Juditsky and Nemirovski(2011{\natexlab{b}})]{JN11b}
+A.~Juditsky and A.~Nemirovski.
+\newblock First-order methods for nonsmooth convex large-scale optimization,
+  ii: Utilizing problem's structure.
+\newblock In S.~Sra, S.~Nowozin, and S.~Wright, editors, \emph{Optimization for
+  Machine Learning}, pages 149--183. MIT press, 2011{\natexlab{b}}.
+
+\bibitem[Karmarkar(1984)]{Kar84}
+N.~Karmarkar.
+\newblock A new polynomial-time algorithm for linear programming.
+\newblock \emph{Combinatorica}, 4:\penalty0 373--395, 1984.
+
+\bibitem[Lacoste-Julien et~al.(2012)Lacoste-Julien, Schmidt, and Bach]{LJSB12}
+S.~Lacoste-Julien, M.~Schmidt, and F.~Bach.
+\newblock A simpler approach to obtaining an o (1/t) convergence rate for the
+  projected stochastic subgradient method.
+\newblock \emph{arXiv preprint arXiv:1212.2002}, 2012.
+
+\bibitem[{Le Roux} et~al.(2012){Le Roux}, Schmidt, and Bach]{LRSB12}
+N.~{Le Roux}, M.~Schmidt, and F.~Bach.
+\newblock A stochastic gradient method with an exponential convergence rate for
+  strongly-convex optimization with finite training sets.
+\newblock In \emph{Advances in Neural Information Processing Systems (NIPS)},
+  2012.
+
+\bibitem[Lee and Sidford(2013)]{LS13}
+Y.-T. Lee and A.~Sidford.
+\newblock Path finding i :solving linear programs with Õ(sqrt(rank)) linear
+  system solves.
+\newblock \emph{Arxiv preprint arXiv:1312.6677}, 2013.
+
+\bibitem[Lee et~al.(2015)Lee, Sidford, and Wong]{LSW15}
+Y.-T. Lee, A.~Sidford, and S.~C.-W Wong.
+\newblock A faster cutting plane method and its implications for combinatorial
+  and convex optimization.
+\newblock \emph{abs/1508.04874}, 2015.
+
+\bibitem[Levin(1965)]{Lev65}
+A.~Levin.
+\newblock On an algorithm for the minimization of convex functions.
+\newblock In \emph{Soviet Mathematics Doklady}, volume 160, pages 1244--1247,
+  1965.
+
+\bibitem[Lov\'asz(1998)]{Lov98}
+L.~Lov\'asz.
+\newblock Hit-and-run mixes fast.
+\newblock \emph{Math. Prog.}, 86:\penalty0 443--461, 1998.
+
+\bibitem[Lugosi(2010)]{Lug10}
+G.~Lugosi.
+\newblock Comment on: $\ell_1$-penalization for mixture regression models.
+\newblock \emph{Test}, 19\penalty0 (2):\penalty0 259--263, 2010.
+
+\bibitem[Maculan and de~Paula(1989)]{MP89}
+N.~Maculan and G.~G. de~Paula.
+\newblock A linear-time median-finding algorithm for projecting a vector on the
+  simplex of rn.
+\newblock \emph{Operations research letters}, 8\penalty0 (4):\penalty0
+  219--222, 1989.
+
+\bibitem[Nemirovski(1982)]{Nem82}
+A.~Nemirovski.
+\newblock Orth-method for smooth convex optimization.
+\newblock \emph{Izvestia AN SSSR, Ser. Tekhnicheskaya Kibernetika}, 2, 1982.
+
+\bibitem[Nemirovski(1995)]{Nem95}
+A.~Nemirovski.
+\newblock Information-based complexity of convex programming.
+\newblock \emph{Lecture Notes}, 1995.
+
+\bibitem[Nemirovski(2004{\natexlab{a}})]{Nem04}
+A.~Nemirovski.
+\newblock Prox-method with rate of convergence o (1/t) for variational
+  inequalities with lipschitz continuous monotone operators and smooth
+  convex-concave saddle point problems.
+\newblock \emph{SIAM Journal on Optimization}, 15\penalty0 (1):\penalty0
+  229--251, 2004{\natexlab{a}}.
+
+\bibitem[Nemirovski(2004{\natexlab{b}})]{Nem04b}
+A.~Nemirovski.
+\newblock Interior point polynomial time methods in convex programming.
+\newblock \emph{Lecture Notes}, 2004{\natexlab{b}}.
+
+\bibitem[Nemirovski and Yudin(1983)]{NY83}
+A.~Nemirovski and D.~Yudin.
+\newblock \emph{Problem Complexity and Method Efficiency in Optimization}.
+\newblock Wiley Interscience, 1983.
+
+\bibitem[Nesterov(1983)]{Nes83}
+Y.~Nesterov.
+\newblock A method of solving a convex programming problem with convergence
+  rate o($1/k^2$).
+\newblock \emph{Soviet Mathematics Doklady}, 27\penalty0 (2):\penalty0
+  372--376, 1983.
+
+\bibitem[Nesterov(1997)]{Nes97}
+Y.~Nesterov.
+\newblock Quality of semidefinite relaxation for nonconvex quadratic
+  optimization.
+\newblock CORE Discussion Papers 1997019, Universit\'e catholique de Louvain,
+  Center for Operations Research and Econometrics (CORE), 1997.
+
+\bibitem[Nesterov(2004{\natexlab{a}})]{Nes04}
+Y.~Nesterov.
+\newblock \emph{Introductory lectures on convex optimization: A basic course}.
+\newblock Kluwer Academic Publishers, 2004{\natexlab{a}}.
+
+\bibitem[Nesterov(2004{\natexlab{b}})]{Nes04b}
+Y.~Nesterov.
+\newblock Smooth minimization of non-smooth functions.
+\newblock \emph{Mathematical programming}, 103\penalty0 (1):\penalty0 127--152,
+  2004{\natexlab{b}}.
+
+\bibitem[Nesterov(2007)]{Nes07}
+Y.~Nesterov.
+\newblock Gradient methods for minimizing composite objective function.
+\newblock Core discussion papers, Universit{\'e} catholique de Louvain, Center
+  for Operations Research and Econometrics (CORE), 2007.
+
+\bibitem[Nesterov(2012)]{Nes12}
+Y.~Nesterov.
+\newblock Efficiency of coordinate descent methods on huge-scale optimization
+  problems.
+\newblock \emph{SIAM Journal on Optimization}, 22:\penalty0 341--362, 2012.
+
+\bibitem[Nesterov and Nemirovski(1994)]{NN94}
+Y.~Nesterov and A.~Nemirovski.
+\newblock \emph{Interior-point polynomial algorithms in convex programming}.
+\newblock Society for Industrial and Applied Mathematics (SIAM), 1994.
+
+\bibitem[Newman(1965)]{New65}
+D.~Newman.
+\newblock Location of the maximum on unimodal surfaces.
+\newblock \emph{Journal of the ACM}, 12\penalty0 (3):\penalty0 395--398, 1965.
+
+\bibitem[Nocedal and Wright(2006)]{NW06}
+J.~Nocedal and S.~J. Wright.
+\newblock \emph{Numerical Optimization}.
+\newblock Springer, 2006.
+
+\bibitem[Parikh and Boyd(2013)]{PB13}
+N.~Parikh and S.~Boyd.
+\newblock Proximal algorithms.
+\newblock \emph{Foundations and Trends{\textregistered} in Optimization},
+  1\penalty0 (3):\penalty0 123--231, 2013.
+
+\bibitem[Rakhlin(2009)]{Rak09}
+A.~Rakhlin.
+\newblock Lecture notes on online learning.
+\newblock 2009.
+
+\bibitem[Renegar(2001)]{Ren01}
+J.~Renegar.
+\newblock \emph{A mathematical view of interior-point methods in convex
+  optimization}, volume~3.
+\newblock Siam, 2001.
+
+\bibitem[Richt\'arik and Tak\'ac(2012)]{RT12}
+P.~Richt\'arik and M.~Tak\'ac.
+\newblock Parallel coordinate descent methods for big data optimization.
+\newblock \emph{Arxiv preprint arXiv:1212.0873}, 2012.
+
+\bibitem[Robbins and Monro(1951)]{RM51}
+H.~Robbins and S.~Monro.
+\newblock A stochastic approximation method.
+\newblock \emph{Annals of Mathematical Statistics}, 22:\penalty0 400--407,
+  1951.
+
+\bibitem[Rockafellar(1970)]{Roc70}
+R.~Rockafellar.
+\newblock \emph{Convex Analysis}.
+\newblock Princeton University Press, 1970.
+
+\bibitem[Rudelson(1999)]{Rud99}
+M.~Rudelson.
+\newblock Random vectors in the isotropic position.
+\newblock \emph{Journal of Functional Analysis}, 164:\penalty0 60--72, 1999.
+
+\bibitem[Schmidt et~al.(2011)Schmidt, Le~Roux, and Bach]{SLRB11}
+M.~Schmidt, N.~Le~Roux, and F.~Bach.
+\newblock Convergence rates of inexact proximal-gradient methods for convex
+  optimization.
+\newblock In \emph{Advances in neural information processing systems}, pages
+  1458--1466, 2011.
+
+\bibitem[Sch{\"o}lkopf and Smola(2002)]{SS02}
+B.~Sch{\"o}lkopf and A.~Smola.
+\newblock \emph{Learning with kernels}.
+\newblock MIT Press, 2002.
+
+\bibitem[Shalev-Shwartz and Ben-David(2014)]{SSS14}
+S.~Shalev-Shwartz and S.~Ben-David.
+\newblock \emph{Understanding Machine Learning: From Theory to Algorithms}.
+\newblock Cambridge University Press, 2014.
+
+\bibitem[Shalev-Shwartz and Zhang(2013{\natexlab{a}})]{SSZ13}
+S.~Shalev-Shwartz and T.~Zhang.
+\newblock Stochastic dual coordinate ascent methods for regularized loss
+  minimization.
+\newblock \emph{Journal of Machine Learning Research}, 14:\penalty0 567--599,
+  2013{\natexlab{a}}.
+
+\bibitem[Shalev-Shwartz and Zhang(2013{\natexlab{b}})]{SSZ13b}
+S.~Shalev-Shwartz and T.~Zhang.
+\newblock Accelerated mini-batch stochastic dual coordinate ascent.
+\newblock In \emph{Advances in Neural Information Processing Systems (NIPS)},
+  2013{\natexlab{b}}.
+
+\bibitem[Su et~al.(2014)Su, Boyd, and Cand{\`e}s]{SBC14}
+W.~Su, S.~Boyd, and E.~Cand{\`e}s.
+\newblock A differential equation for modeling nesterov's accelerated gradient
+  method: Theory and insights.
+\newblock In \emph{Advances in Neural Information Processing Systems (NIPS)},
+  2014.
+
+\bibitem[Tibshirani(1996)]{Tib96}
+R.~Tibshirani.
+\newblock Regression shrinkage and selection via the lasso.
+\newblock \emph{Journal of the Royal Statistical Society. Series B
+  (Methodological)}, 58\penalty0 (1):\penalty0 pp. 267--288, 1996.
+
+\bibitem[Tseng(2008)]{Tse08}
+P.~Tseng.
+\newblock On accelerated proximal gradient methods for convex-concave
+  optimization.
+\newblock 2008.
+
+\bibitem[Tsybakov(2003)]{Tsy03}
+A.~Tsybakov.
+\newblock Optimal rates of aggregation.
+\newblock In \emph{Conference on Learning Theory (COLT)}, pages 303--313. 2003.
+
+\bibitem[Vaidya(1989)]{Vai89}
+P.~M. Vaidya.
+\newblock A new algorithm for minimizing convex functions over convex sets.
+\newblock In \emph{Foundations of Computer Science, 1989., 30th Annual
+  Symposium on}, pages 338--343, 1989.
+
+\bibitem[Vaidya(1996)]{Vai96}
+P.~M. Vaidya.
+\newblock A new algorithm for minimizing convex functions over convex sets.
+\newblock \emph{Mathematical programming}, 73\penalty0 (3):\penalty0 291--341,
+  1996.
+
+\bibitem[Wright et~al.(2009)Wright, Nowak, and Figueiredo]{WNF09}
+S.~J. Wright, R.~D. Nowak, and M.~A.~T. Figueiredo.
+\newblock Sparse reconstruction by separable approximation.
+\newblock \emph{IEEE Transactions on Signal Processing}, 57\penalty0
+  (7):\penalty0 2479--2493, 2009.
+
+\bibitem[Xiao(2010)]{Xia10}
+L.~Xiao.
+\newblock Dual averaging methods for regularized stochastic learning and online
+  optimization.
+\newblock \emph{Journal of Machine Learning Research}, 11:\penalty0 2543--2596,
+  2010.
+
+\bibitem[Zhang and Xiao(2014)]{ZX14}
+Y.~Zhang and L.~Xiao.
+\newblock Stochastic primal-dual coordinate method for regularized empirical
+  risk minimization.
+\newblock \emph{Arxiv preprint arXiv:1409.3257}, 2014.
+
+\end{thebibliography}

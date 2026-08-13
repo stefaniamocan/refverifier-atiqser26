@@ -1,0 +1,113 @@
+{
+  "arm": "llm_evidence",
+  "dataset": "citationintegrity",
+  "split": null,
+  "model": "gpt-5.6-terra",
+  "reasoning_effort": "high",
+  "n_examples": 80,
+  "localization": {
+    "n_with_gold": 65,
+    "hit_rate": 0.6769,
+    "near_rate": 0.1231,
+    "miss_rate": 0.2,
+    "mrr": 0.5151,
+    "mean_recall_at_k": 0.5145
+  },
+  "verdict_lenient": {
+    "n": 80,
+    "accuracy": 0.6125,
+    "macro_f1": 0.4031,
+    "per_class": {
+      "Supported": {
+        "precision": 0.6232,
+        "recall": 0.9348,
+        "f1": 0.7478,
+        "support": 46
+      },
+      "Refuted": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 18
+      },
+      "NEI": {
+        "precision": 0.6,
+        "recall": 0.375,
+        "f1": 0.4615,
+        "support": 16
+      }
+    },
+    "confusion": {
+      "Supported": {
+        "Supported": 43,
+        "Refuted": 1,
+        "NEI": 2
+      },
+      "Refuted": {
+        "Supported": 16,
+        "Refuted": 0,
+        "NEI": 2
+      },
+      "NEI": {
+        "Supported": 10,
+        "Refuted": 0,
+        "NEI": 6
+      }
+    }
+  },
+  "verdict_strict": {
+    "n": 80,
+    "accuracy": 0.45,
+    "macro_f1": 0.3388,
+    "per_class": {
+      "Supported": {
+        "precision": 0.7778,
+        "recall": 0.4565,
+        "f1": 0.5753,
+        "support": 46
+      },
+      "Refuted": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 18
+      },
+      "NEI": {
+        "precision": 0.2885,
+        "recall": 0.9375,
+        "f1": 0.4412,
+        "support": 16
+      }
+    },
+    "confusion": {
+      "Supported": {
+        "Supported": 21,
+        "Refuted": 1,
+        "NEI": 24
+      },
+      "Refuted": {
+        "Supported": 5,
+        "Refuted": 0,
+        "NEI": 13
+      },
+      "NEI": {
+        "Supported": 1,
+        "Refuted": 0,
+        "NEI": 15
+      }
+    }
+  },
+  "tokens": {
+    "prompt": 998608,
+    "completion": 41458,
+    "total": 1040066,
+    "calls": 80,
+    "cost_usd": 3.11839,
+    "pricing": {
+      "currency": "USD",
+      "as_of": "2026-07-10",
+      "source": "OpenAI: https://developers.openai.com/api/docs/pricing (fetched 2026-07-10). Anthropic: https://platform.claude.com/docs/en/about-claude/models/overview (rates as of 2026-06-04). DeepSeek: https://api-docs.deepseek.com/quick_start/pricing/ (fetched 2026-07-10). All rates USD per 1,000,000 tokens."
+    }
+  },
+  "wall_clock_s": 594.75
+}

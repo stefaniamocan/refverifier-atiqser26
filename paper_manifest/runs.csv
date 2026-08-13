@@ -1,0 +1,16 @@
+run_id,paper_location,dataset_n,model_effort,seed,artifact
+S1-citeworth,Table 1 + Stage 1 prose,"CiteWorth test, 300 paragraphs",gpt-5.6-terra / medium (regex column model-free),,runs/stage1/citeworth/
+S1-pdf-latex,Stage 1 prose,10 arXiv papers (8 with cite truth),none (regex),,runs/stage1/pdf_vs_latex/
+S2-availability,Table 2 + Stage 2 prose,992 refs / 23 source papers,none (retrieval chain),,runs/stage2_availability/
+S3-scifact-loc,Table 3 + prose,SciFact n=100 (64 scored),"embedder (MiniLM), k=3",,runs/stage3/scifact_localization/
+S3-sweep,Table 3,"Citation-Integrity, 65 with spans",encoder/reranker arms,,runs/stage3/sweep/
+S3-merged-citint,Stage 3 prose,Citation-Integrity n=80,gpt-5.6-terra / high,,runs/stage3/merged/citationintegrity/
+S3-merged-scifact,Stage 3 prose,SciFact n=100,gpt-5.6-terra / high,,runs/stage3/merged/scifact/
+S4-gold-scifact,Table 4,SciFact n=100,gpt-5.6-terra / high,,runs/stage4/gold/scifact/
+S4-gold-scitance,Table 4,SCitance n=100,gpt-5.6-terra / high,,runs/stage4/gold/scitance/
+S4-gold-sciciteval,Table 4,SciCiteVal n=100,gpt-5.6-terra / high,,runs/stage4/gold/sciciteval/
+S4-gold-citint,Table 4 + Table 5,Citation-Integrity n=100,gpt-5.6-terra / high,20260622,runs/stage4/gold/citationintegrity/
+S4-sweep,Table 5,Citation-Integrity n=100 (seeded),"nano low/high, mini, Nemotron, terra low/medium/high",20260622,runs/stage4/sweep/
+E2E-annotation,Table 6 + abstract,"8 arXiv manuscripts, 145 pairs",gpt-5.6-terra (S1 low / S4 high),,runs/end_to_end/annotation/
+runtime,End-to-end prose + abstract,16 field manuscripts,gpt-5.6-terra,,withheld:human-subjects
+survey,Qualitative section + figure,"11 respondents, 10 closed items",n/a (human respondents),,runs/survey/

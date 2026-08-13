@@ -1,0 +1,396 @@
+{
+ "stage": "stage2_retrieval_availability",
+ "availability_definition": "resolved_full_text_pdf",
+ "availability_definition_note": "A reference is 'available' iff resolve_reference returns found=True, i.e. a full-text PDF was downloaded and opened. Abstract-only hits do NOT count. The declared-OA rate (oa_crosscheck) is reported separately as an upper bound.",
+ "n_source_papers": 23,
+ "n_references": 992,
+ "counts": {
+  "resolved": 571,
+  "unresolved": 421
+ },
+ "resolution_rate": 0.5756,
+ "per_source_resolved": {
+  "cache": 497,
+  "library": 0,
+  "upload": 0,
+  "arxiv": 0,
+  "arxiv_title": 0,
+  "semantic_scholar": 0,
+  "crossref": 0,
+  "openalex": 0,
+  "unpaywall": 10,
+  "europe_pmc": 58,
+  "core": 6,
+  "scholarly": 0
+ },
+ "per_source_rate": {
+  "cache": 0.501,
+  "library": 0.0,
+  "upload": 0.0,
+  "arxiv": 0.0,
+  "arxiv_title": 0.0,
+  "semantic_scholar": 0.0,
+  "crossref": 0.0,
+  "openalex": 0.0,
+  "unpaywall": 0.0101,
+  "europe_pmc": 0.0585,
+  "core": 0.006,
+  "scholarly": 0.0
+ },
+ "identifier_coverage": {
+  "with_doi": 117,
+  "with_arxiv_id": 139,
+  "with_doi_or_arxiv": 256,
+  "with_neither": 736
+ },
+ "resolution_by_identifier": {
+  "has_doi_or_arxiv": {
+   "resolved": 237,
+   "total": 256,
+   "rate": 0.9258
+  },
+  "no_identifier": {
+   "resolved": 334,
+   "total": 736,
+   "rate": 0.4538
+  }
+ },
+ "by_reference_age": {
+  "<=2015": {
+   "resolved": 273,
+   "references": 605,
+   "rate": 0.4512
+  },
+  "2016-2019": {
+   "resolved": 48,
+   "references": 58,
+   "rate": 0.8276
+  },
+  "2020-2022": {
+   "resolved": 52,
+   "references": 58,
+   "rate": 0.8966
+  },
+  "unknown": {
+   "resolved": 198,
+   "references": 271,
+   "rate": 0.7306
+  }
+ },
+ "per_source_paper": {
+  "1011.3027": {
+   "resolved": 34,
+   "references": 64,
+   "rate": 0.5312
+  },
+  "1207.7214": {
+   "resolved": 102,
+   "references": 119,
+   "rate": 0.8571
+  },
+  "1405.4980": {
+   "resolved": 39,
+   "references": 76,
+   "rate": 0.5132
+  },
+  "1706.03762": {
+   "resolved": 33,
+   "references": 40,
+   "rate": 0.825
+  },
+  "1810.04805": {
+   "resolved": 46,
+   "references": 56,
+   "rate": 0.8214
+  },
+  "2004.14974": {
+   "resolved": 33,
+   "references": 41,
+   "rate": 0.8049
+  },
+  "2105.10912": {
+   "resolved": 26,
+   "references": 33,
+   "rate": 0.7879
+  },
+  "2109.10453": {
+   "resolved": 12,
+   "references": 15,
+   "rate": 0.8
+  },
+  "2203.02155": {
+   "resolved": 86,
+   "references": 90,
+   "rate": 0.9556
+  },
+  "bio_MED_10647931": {
+   "resolved": 11,
+   "references": 38,
+   "rate": 0.2895
+  },
+  "bio_MED_10829079": {
+   "resolved": 16,
+   "references": 37,
+   "rate": 0.4324
+  },
+  "bio_MED_12130773": {
+   "resolved": 8,
+   "references": 36,
+   "rate": 0.2222
+  },
+  "bio_MED_16199517": {
+   "resolved": 8,
+   "references": 33,
+   "rate": 0.2424
+  },
+  "bio_MED_17562483": {
+   "resolved": 8,
+   "references": 40,
+   "rate": 0.2
+  },
+  "bio_MED_21376230": {
+   "resolved": 12,
+   "references": 40,
+   "rate": 0.3
+  },
+  "bio_MED_21514250": {
+   "resolved": 2,
+   "references": 24,
+   "rate": 0.0833
+  },
+  "bio_MED_22437870": {
+   "resolved": 16,
+   "references": 40,
+   "rate": 0.4
+  },
+  "bio_MED_25554246": {
+   "resolved": 22,
+   "references": 34,
+   "rate": 0.6471
+  },
+  "bio_MED_25822800": {
+   "resolved": 16,
+   "references": 26,
+   "rate": 0.6154
+  },
+  "bio_MED_32007143": {
+   "resolved": 14,
+   "references": 23,
+   "rate": 0.6087
+  },
+  "bio_MED_33538338": {
+   "resolved": 13,
+   "references": 32,
+   "rate": 0.4062
+  },
+  "bio_MED_6828386": {
+   "resolved": 8,
+   "references": 20,
+   "rate": 0.4
+  },
+  "bio_MED_9310563": {
+   "resolved": 6,
+   "references": 35,
+   "rate": 0.1714
+  }
+ },
+ "by_domain": {
+  "biomedical": {
+   "resolved": 160,
+   "references": 458,
+   "rate": 0.3493
+  },
+  "math": {
+   "resolved": 73,
+   "references": 140,
+   "rate": 0.5214
+  },
+  "nlp_ml": {
+   "resolved": 236,
+   "references": 275,
+   "rate": 0.8582
+  },
+  "physics": {
+   "resolved": 102,
+   "references": 119,
+   "rate": 0.8571
+  }
+ },
+ "resolution_precision": {
+  "checked": 571,
+  "verified": 529,
+  "rate": 0.9264,
+  "mean_score": 0.9084,
+  "threshold": 0.6,
+  "suspect_keys": [
+   "bio_MED_10647931_001",
+   "bio_MED_10647931_002",
+   "bio_MED_10647931_027",
+   "bio_MED_10647931_037",
+   "bio_MED_12130773_013",
+   "bio_MED_12130773_017",
+   "bio_MED_21376230_023",
+   "bio_MED_22437870_009",
+   "bio_MED_25554246_008",
+   "bio_MED_25822800_000",
+   "bio_MED_32007143_017",
+   "bio_MED_9310563_006",
+   "bio_MED_9310563_037",
+   "Spira:1995rr",
+   "Anastasiou:2002yz",
+   "Ravindran:2003um",
+   "Catani:2003zt",
+   "Anastasiou:2008tj",
+   "Anastasiou:2012hx",
+   "deFlorian:2011xf",
+   "Brein:2003wg",
+   "Beenakker:2002nc",
+   "Djouadi:1997yw",
+   "Bredenstein:2006ha",
+   "Alioli:2008tz",
+   "mcatnlo",
+   "Kersevan:2004yg",
+   "gg2WW",
+   "pythia",
+   "Corcella:2000bw",
+   "Gleisberg:2008ta",
+   "Jadach:1993hs",
+   "atlassim",
+   "PTT_OPAL",
+   "PTT_ZBoson",
+   "Cacciari:2008gp",
+   "Barr:2009mx",
+   "Campbell:2006xx",
+   "Cov92",
+   "brown-etal:1992:_class",
+   "vincent:2008",
+   "madaan2022memory"
+  ]
+ },
+ "oa_crosscheck": {
+  "declared_oa": 558,
+  "n_checked": 852,
+  "declared_oa_rate": 0.6549,
+  "dois_discovered_for_crosscheck": 599,
+  "unresolved_split": {
+   "retrievable_but_chain_missed": 113,
+   "not_retrievable_by_anyone": 231,
+   "unknown": 77
+  },
+  "missed_keys": [
+   "bio_MED_10647931_013",
+   "bio_MED_10647931_021",
+   "bio_MED_10647931_023",
+   "bio_MED_10829079_000",
+   "bio_MED_10829079_003",
+   "bio_MED_10829079_006",
+   "bio_MED_10829079_012",
+   "bio_MED_10829079_019",
+   "bio_MED_10829079_020",
+   "bio_MED_10829079_030",
+   "bio_MED_10829079_031",
+   "bio_MED_12130773_002",
+   "bio_MED_16199517_001",
+   "bio_MED_16199517_008",
+   "bio_MED_16199517_016",
+   "bio_MED_16199517_018",
+   "bio_MED_16199517_028",
+   "bio_MED_16199517_030",
+   "bio_MED_17562483_001",
+   "bio_MED_17562483_003",
+   "bio_MED_17562483_004",
+   "bio_MED_17562483_010",
+   "bio_MED_17562483_012",
+   "bio_MED_17562483_014",
+   "bio_MED_17562483_022",
+   "bio_MED_17562483_024",
+   "bio_MED_17562483_035",
+   "bio_MED_17562483_036",
+   "bio_MED_21376230_000",
+   "bio_MED_21376230_001",
+   "bio_MED_21376230_004",
+   "bio_MED_21376230_010",
+   "bio_MED_21376230_012",
+   "bio_MED_21376230_014",
+   "bio_MED_21376230_017",
+   "bio_MED_21376230_032",
+   "bio_MED_21376230_035",
+   "bio_MED_21376230_039",
+   "bio_MED_21514250_000",
+   "bio_MED_21514250_003",
+   "bio_MED_21514250_006",
+   "bio_MED_21514250_008",
+   "bio_MED_21514250_012",
+   "bio_MED_21514250_016",
+   "bio_MED_21514250_017",
+   "bio_MED_21514250_021",
+   "bio_MED_21514250_023",
+   "bio_MED_22437870_002",
+   "bio_MED_22437870_005",
+   "bio_MED_22437870_007",
+   "bio_MED_22437870_012",
+   "bio_MED_22437870_015",
+   "bio_MED_22437870_017",
+   "bio_MED_22437870_021",
+   "bio_MED_22437870_023",
+   "bio_MED_22437870_026",
+   "bio_MED_22437870_027",
+   "bio_MED_22437870_030",
+   "bio_MED_22437870_032",
+   "bio_MED_25554246_002",
+   "bio_MED_25554246_011",
+   "bio_MED_25554246_019",
+   "bio_MED_25554246_027",
+   "bio_MED_25822800_007",
+   "bio_MED_25822800_012",
+   "bio_MED_32007143_010",
+   "bio_MED_32007143_011",
+   "bio_MED_32007143_013",
+   "bio_MED_32007143_014",
+   "bio_MED_33538338_000",
+   "bio_MED_33538338_013",
+   "bio_MED_33538338_014",
+   "bio_MED_33538338_016",
+   "bio_MED_33538338_018",
+   "bio_MED_33538338_021",
+   "bio_MED_33538338_025",
+   "bio_MED_33538338_029",
+   "bio_MED_33538338_032",
+   "bio_MED_33538338_033",
+   "bio_MED_33538338_035",
+   "bio_MED_33538338_038",
+   "bio_MED_6828386_003",
+   "bio_MED_6828386_009",
+   "bio_MED_6828386_010",
+   "bio_MED_6828386_013",
+   "bio_MED_6828386_018",
+   "bio_MED_9310563_000",
+   "bio_MED_9310563_005",
+   "bio_MED_9310563_014",
+   "bio_MED_9310563_022",
+   "Geman",
+   "Johnstone",
+   "Latala",
+   "Silverstein",
+   "Tal2",
+   "tHooft:1972fi",
+   "1748-0221-3-08-S08001",
+   "Chatrchyan:2012tx",
+   "Djouadi:1991tka",
+   "Aad:2011rr",
+   "ATLAS-4.7fbHWW",
+   "Jon92",
+   "Lev65",
+   "mcclosky-etAl:2006:NAACL",
+   "petrov-EtAl:2006:ACL",
+   "srivastava2014dropout",
+   "blitzer-mcdonald-pereira:2006:_domain",
+   "nakov2018overview",
+   "Vlachos2014FactCT",
+   "bird2008acl",
+   "dougan2014ncbi",
+   "kim2004introduction",
+   "alipourfard2021OSF"
+  ]
+ }
+}

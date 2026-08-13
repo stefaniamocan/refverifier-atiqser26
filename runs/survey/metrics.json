@@ -1,0 +1,85 @@
+{
+  "study": "Acceptance survey (closed items)",
+  "n_respondents": 11,
+  "n_closed_items": 10,
+  "scale": "1-7 (1 strongly disagree, 4 neutral, 7 strongly agree)",
+  "released": "closed items only; timestamps and free-text excluded (see SCHEMA.md)",
+  "per_item": {
+    "B1": {
+      "question": "Using the tool would enhance my performance in checking whether cited sources support claims.",
+      "n": 11,
+      "median": 6,
+      "min": 5,
+      "max": 7
+    },
+    "B2": {
+      "question": "Using the tool would enhance my effectiveness in identifying unsupported claims.",
+      "n": 11,
+      "median": 6,
+      "min": 5,
+      "max": 7
+    },
+    "B3": {
+      "question": "Using the tool would make citation-support verification easier.",
+      "n": 11,
+      "median": 6,
+      "min": 4,
+      "max": 7
+    },
+    "B4": {
+      "question": "I would find the tool useful for checking citation support in scientific manuscripts.",
+      "n": 11,
+      "median": 6,
+      "min": 5,
+      "max": 7
+    },
+    "C1": {
+      "question": "Learning to operate the tool was easy for me.",
+      "n": 11,
+      "median": 6,
+      "min": 5,
+      "max": 7
+    },
+    "E1": {
+      "question": "The tool found all relevant claims in the manuscript.",
+      "n": 11,
+      "median": 6,
+      "min": 2,
+      "max": 7
+    },
+    "E2": {
+      "question": "The tool presented the correct evidence passages for the claims.",
+      "n": 11,
+      "median": 6,
+      "min": 4,
+      "max": 6
+    },
+    "E3": {
+      "question": "The tool's verdicts were correct, or at least plausible.",
+      "n": 11,
+      "median": 6,
+      "min": 4,
+      "max": 6
+    },
+    "E4": {
+      "question": "For claims the tool marked as Supported, I would accept the verdict without checking the source myself.",
+      "n": 11,
+      "median": 5,
+      "min": 2,
+      "max": 7
+    },
+    "E5": {
+      "question": "For claims the tool marked as Not Supported, I would check the source myself before accepting the verdict.",
+      "n": 11,
+      "median": 7,
+      "min": 2,
+      "max": 7
+    }
+  },
+  "perceived_usefulness_B1_B4": {
+    "median_of_respondent_means": 6,
+    "min_respondent_mean": 5,
+    "n_ratings": 44,
+    "n_ratings_at_or_above_somewhat_agree": 43
+  }
+}

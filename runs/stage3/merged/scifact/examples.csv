@@ -1,0 +1,101 @@
+example_id,dataset,gold_label,verdict_raw,verdict_lenient,verdict_strict,paper_relevant,n_evidence,loc_result,rank_first,recall_at_k,confidence,is_overstatement
+scifact-1-31715818,scifact,NEI,NEI,NEI,NEI,True,1,,,,0.94,False
+scifact-3-14717500,scifact,Supported,NEI,NEI,NEI,True,2,hit,1,0.6667,0.95,False
+scifact-5-13734012,scifact,Supported,Supported,Supported,Supported,True,1,hit,1,1.0,0.98,False
+scifact-13-1606628,scifact,NEI,NEI,NEI,NEI,False,0,,,,0.99,False
+scifact-36-5152028,scifact,NEI,NEI,NEI,NEI,True,0,,,,0.98,False
+scifact-36-11705328,scifact,NEI,NEI,NEI,NEI,True,2,,,,0.97,False
+scifact-42-18174210,scifact,Refuted,Not Supported,Refuted,Refuted,True,3,hit,1,1.0,0.99,False
+scifact-48-13734012,scifact,Refuted,NEI,NEI,NEI,True,2,hit,1,1.0,0.97,False
+scifact-49-5953485,scifact,Supported,Partially Supported,Supported,NEI,True,1,hit,1,1.0,0.93,False
+scifact-50-12580014,scifact,Supported,Supported,Supported,Supported,True,1,hit,1,1.0,0.99,False
+scifact-51-45638119,scifact,Refuted,Not Supported,Refuted,Refuted,True,1,hit,1,1.0,0.99,False
+scifact-53-45638119,scifact,Supported,Supported,Supported,Supported,True,1,hit,1,1.0,0.99,False
+scifact-54-49556906,scifact,Refuted,Not Supported,Refuted,Refuted,True,2,hit,1,1.0,0.99,False
+scifact-56-4709641,scifact,Supported,Partially Supported,Supported,NEI,True,2,hit,1,1.0,0.93,False
+scifact-57-4709641,scifact,Refuted,Partially Supported,Supported,NEI,True,1,hit,1,1.0,0.98,False
+scifact-70-5956380,scifact,Supported,Partially Supported,Supported,NEI,True,2,hit,1,1.0,0.91,True
+scifact-70-4414547,scifact,Supported,Partially Supported,Supported,NEI,True,1,hit,1,1.0,0.9,True
+scifact-72-6076903,scifact,NEI,Supported,Supported,Supported,True,2,,,,0.9,False
+scifact-75-4387784,scifact,NEI,NEI,NEI,NEI,True,2,,,,0.97,False
+scifact-94-1215116,scifact,NEI,NEI,NEI,NEI,True,1,,,,0.98,False
+scifact-99-18810195,scifact,NEI,NEI,NEI,NEI,False,0,,,,0.98,False
+scifact-100-4381486,scifact,Supported,Supported,Supported,Supported,True,1,hit,1,1.0,0.99,False
+scifact-113-6157837,scifact,Supported,Supported,Supported,Supported,True,3,hit,1,1.0,0.99,False
+scifact-115-33872649,scifact,Refuted,NEI,NEI,NEI,True,2,hit,2,1.0,0.94,False
+scifact-118-6372244,scifact,Supported,Supported,Supported,Supported,True,2,hit,1,1.0,0.99,False
+scifact-124-4883040,scifact,Supported,Supported,Supported,Supported,True,2,hit,1,1.0,0.99,False
+scifact-127-21598000,scifact,NEI,NEI,NEI,NEI,True,1,,,,0.9,False
+scifact-128-8290953,scifact,NEI,NEI,NEI,NEI,True,1,,,,0.98,False
+scifact-129-27768226,scifact,Refuted,Not Supported,Refuted,Refuted,True,2,hit,1,0.75,0.99,False
+scifact-130-27768226,scifact,Supported,Partially Supported,Supported,NEI,True,3,hit,1,0.75,0.94,True
+scifact-132-7975937,scifact,NEI,NEI,NEI,NEI,True,2,,,,0.95,False
+scifact-133-38485364,scifact,NEI,Partially Supported,Supported,NEI,True,2,,,,0.92,False
+scifact-133-6969753,scifact,NEI,NEI,NEI,NEI,True,2,,,,0.97,False
+scifact-133-17934082,scifact,NEI,NEI,NEI,NEI,True,1,,,,0.98,False
+scifact-133-16280642,scifact,Supported,Partially Supported,Supported,NEI,True,2,hit,1,1.0,0.9,True
+scifact-133-12640810,scifact,NEI,NEI,NEI,NEI,True,1,,,,0.94,False
+scifact-137-26016929,scifact,Supported,Partially Supported,Supported,NEI,True,2,hit,1,1.0,0.93,True
+scifact-141-6955746,scifact,NEI,NEI,NEI,NEI,True,2,,,,0.93,False
+scifact-141-14437255,scifact,Supported,Supported,Supported,Supported,True,2,hit,1,0.5,0.98,False
+scifact-142-10582939,scifact,Refuted,Not Supported,Refuted,Refuted,True,1,hit,1,1.0,0.99,False
+scifact-143-10582939,scifact,Supported,Supported,Supported,Supported,True,2,hit,1,1.0,0.98,False
+scifact-146-10582939,scifact,Supported,Supported,Supported,Supported,True,2,hit,1,1.0,0.99,False
+scifact-148-1084345,scifact,Supported,Partially Supported,Supported,NEI,True,2,hit,1,1.0,0.94,True
+scifact-163-18872233,scifact,Supported,Partially Supported,Supported,NEI,True,2,hit,1,1.0,0.93,True
+scifact-171-12670680,scifact,Refuted,Not Supported,Refuted,Refuted,True,2,hit,1,1.0,0.99,False
+scifact-179-16322674,scifact,Supported,Partially Supported,Supported,NEI,True,2,hit,1,0.6667,0.95,True
+scifact-179-27123743,scifact,Supported,Supported,Supported,Supported,True,1,hit,1,1.0,0.96,False
+scifact-179-23557241,scifact,Supported,Supported,Supported,Supported,True,1,hit,1,1.0,0.99,False
+scifact-179-17450673,scifact,Supported,Supported,Supported,Supported,True,2,hit,1,0.5,0.99,False
+scifact-180-16966326,scifact,Refuted,Not Supported,Refuted,Refuted,True,1,hit,1,1.0,0.99,False
+scifact-183-12827098,scifact,Refuted,Partially Supported,Supported,NEI,True,2,hit,2,1.0,0.78,True
+scifact-185-18340282,scifact,Refuted,Not Supported,Refuted,Refuted,True,2,hit,1,1.0,0.99,True
+scifact-198-2177022,scifact,NEI,NEI,NEI,NEI,True,1,,,,0.98,False
+scifact-208-13519661,scifact,Supported,Not Supported,Refuted,Refuted,True,2,hit,2,1.0,0.96,True
+scifact-212-22038539,scifact,Refuted,Not Supported,Refuted,Refuted,True,2,hit,1,0.8,0.99,False
+scifact-213-13625993,scifact,NEI,NEI,NEI,NEI,True,2,,,,0.94,True
+scifact-216-21366394,scifact,Refuted,Not Supported,Refuted,Refuted,True,1,hit,1,1.0,0.99,False
+scifact-217-21366394,scifact,Supported,Supported,Supported,Supported,True,1,hit,1,1.0,0.99,False
+scifact-218-21366394,scifact,Supported,Supported,Supported,Supported,True,2,hit,1,1.0,0.98,False
+scifact-219-21366394,scifact,Refuted,Not Supported,Refuted,Refuted,True,2,hit,1,1.0,0.99,False
+scifact-230-3067015,scifact,Supported,Partially Supported,Supported,NEI,True,1,hit,1,1.0,0.94,True
+scifact-232-10536636,scifact,NEI,NEI,NEI,NEI,True,1,,,,0.98,False
+scifact-233-4388470,scifact,Refuted,Not Supported,Refuted,Refuted,True,2,hit,1,1.0,0.99,False
+scifact-236-4388470,scifact,Supported,NEI,NEI,NEI,True,2,hit,1,1.0,0.93,False
+scifact-237-4942718,scifact,NEI,NEI,NEI,NEI,True,2,,,,0.97,False
+scifact-238-2251426,scifact,NEI,NEI,NEI,NEI,True,1,,,,0.96,False
+scifact-239-14079881,scifact,Supported,Partially Supported,Supported,NEI,True,1,hit,1,1.0,0.9,True
+scifact-248-1568684,scifact,Supported,Supported,Supported,Supported,True,1,hit,1,0.6667,0.99,False
+scifact-249-1568684,scifact,Refuted,Not Supported,Refuted,Refuted,True,1,hit,1,0.6667,0.99,False
+scifact-261-1122279,scifact,Supported,Partially Supported,Supported,NEI,True,3,hit,1,0.5,0.93,True
+scifact-261-10697096,scifact,Supported,Supported,Supported,Supported,True,2,hit,1,1.0,0.97,False
+scifact-268-970012,scifact,NEI,NEI,NEI,NEI,True,1,,,,0.96,False
+scifact-269-970012,scifact,NEI,NEI,NEI,NEI,True,1,,,,0.97,False
+scifact-274-11614737,scifact,Refuted,Not Supported,Refuted,Refuted,True,3,hit,1,1.0,0.99,False
+scifact-275-4961038,scifact,Supported,Partially Supported,Supported,NEI,True,1,hit,1,1.0,0.94,True
+scifact-275-14241418,scifact,Supported,NEI,NEI,NEI,False,2,miss,,0.0,0.99,False
+scifact-275-14819804,scifact,NEI,NEI,NEI,NEI,True,2,,,,0.96,False
+scifact-279-14376683,scifact,Supported,Supported,Supported,Supported,True,1,hit,1,1.0,0.99,False
+scifact-294-10874408,scifact,NEI,NEI,NEI,NEI,True,2,,,,0.97,False
+scifact-295-20310709,scifact,Supported,Supported,Supported,Supported,True,2,hit,1,0.5,0.94,False
+scifact-298-39381118,scifact,Supported,Partially Supported,Supported,NEI,True,1,hit,1,1.0,0.94,True
+scifact-300-3553087,scifact,NEI,NEI,NEI,NEI,True,1,,,,0.98,False
+scifact-303-4388470,scifact,NEI,NEI,NEI,NEI,True,1,,,,0.98,False
+scifact-312-6173523,scifact,NEI,NEI,NEI,NEI,True,1,,,,0.97,False
+scifact-314-4347374,scifact,Supported,Partially Supported,Supported,NEI,True,2,hit,1,1.0,0.93,True
+scifact-324-2014909,scifact,NEI,NEI,NEI,NEI,True,2,,,,0.9,False
+scifact-327-17997584,scifact,Supported,Supported,Supported,Supported,True,1,hit,1,1.0,0.99,False
+scifact-338-23349986,scifact,Refuted,Not Supported,Refuted,Refuted,True,2,hit,1,1.0,0.99,False
+scifact-343-7873737,scifact,NEI,NEI,NEI,NEI,True,3,,,,0.98,False
+scifact-343-5884524,scifact,Supported,NEI,NEI,NEI,True,2,hit,1,1.0,0.98,False
+scifact-350-16927286,scifact,NEI,Partially Supported,Supported,NEI,True,2,,,,0.9,True
+scifact-354-8774475,scifact,NEI,Not Supported,Refuted,Refuted,True,3,,,,0.99,False
+scifact-362-38587347,scifact,NEI,Partially Supported,Supported,NEI,True,1,,,,0.94,False
+scifact-380-19005293,scifact,Supported,Supported,Supported,Supported,True,2,hit,1,1.0,0.94,False
+scifact-384-13770184,scifact,NEI,NEI,NEI,NEI,True,2,,,,0.9,False
+scifact-385-9955779,scifact,Supported,Supported,Supported,Supported,True,2,hit,1,1.0,0.98,False
+scifact-385-9767444,scifact,NEI,Supported,Supported,Supported,True,3,,,,0.99,False
+scifact-386-16495649,scifact,Supported,Supported,Supported,Supported,True,1,hit,1,0.5,0.99,False
+scifact-388-1148122,scifact,NEI,NEI,NEI,NEI,True,2,,,,0.98,False
+scifact-399-791050,scifact,Supported,Supported,Supported,Supported,True,2,hit,1,1.0,0.98,False

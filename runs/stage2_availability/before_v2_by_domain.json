@@ -1,0 +1,25 @@
+{
+ "description": "by_domain block of the run BEFORE Europe PMC + CORE were added; only the biomedical rate (0.21) is cited in the paper.",
+ "by_domain": {
+  "biomedical": {
+   "resolved": 96,
+   "references": 458,
+   "rate": 0.2096
+  },
+  "math": {
+   "resolved": 73,
+   "references": 140,
+   "rate": 0.5214
+  },
+  "nlp_ml": {
+   "resolved": 229,
+   "references": 275,
+   "rate": 0.8327
+  },
+  "physics": {
+   "resolved": 96,
+   "references": 119,
+   "rate": 0.8067
+  }
+ }
+}

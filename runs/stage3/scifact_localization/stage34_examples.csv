@@ -1,0 +1,101 @@
+example_id,dataset,claim_type,gold_label,localization,rank_first_correct,recall_at_k,verdict_gold,verdict_located,verdict_located_neighbours,verdict_full
+scifact-1-31715818,scifact,statistical,NEI,n/a,,0.0,NEI,Not Supported,Not Supported,Not Supported
+scifact-3-14717500,scifact,statistical,Supported,hit,1,0.667,Not Supported,NEI,NEI,NEI
+scifact-5-13734012,scifact,statistical,Supported,hit,1,1.0,Not Supported,Partially Supported,Partially Supported,Partially Supported
+scifact-13-1606628,scifact,statistical,NEI,n/a,,0.0,NEI,Not Supported,Not Supported,Not Supported
+scifact-36-5152028,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-36-11705328,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-42-18174210,scifact,statistical,Refuted,hit,1,1.0,Not Supported,Not Supported,Not Supported,Not Supported
+scifact-48-13734012,scifact,statistical,Refuted,hit,3,1.0,Not Supported,Not Supported,Not Supported,Not Supported
+scifact-49-5953485,scifact,statistical,Supported,hit,1,0.5,Supported,Supported,Supported,Supported
+scifact-50-12580014,scifact,statistical,Supported,hit,1,1.0,Supported,Supported,Supported,Supported
+scifact-51-45638119,scifact,statistical,Refuted,hit,1,1.0,Not Supported,Not Supported,Not Supported,Not Supported
+scifact-53-45638119,scifact,statistical,Supported,hit,1,1.0,Supported,Supported,Supported,Supported
+scifact-54-49556906,scifact,statistical,Refuted,hit,2,0.667,Not Supported,Not Supported,Not Supported,Not Supported
+scifact-56-4709641,scifact,statistical,Supported,hit,1,1.0,Partially Supported,Partially Supported,Partially Supported,Supported
+scifact-57-4709641,scifact,statistical,Refuted,hit,1,1.0,Partially Supported,Partially Supported,Partially Supported,Partially Supported
+scifact-70-5956380,scifact,statistical,Supported,hit,1,1.0,Supported,Supported,Partially Supported,Partially Supported
+scifact-70-4414547,scifact,statistical,Supported,hit,1,1.0,Supported,Supported,Supported,Supported
+scifact-72-6076903,scifact,statistical,NEI,n/a,,0.0,NEI,Not Supported,Partially Supported,NEI
+scifact-75-4387784,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-94-1215116,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-99-18810195,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-100-4381486,scifact,statistical,Supported,hit,2,1.0,Supported,Supported,Supported,Supported
+scifact-113-6157837,scifact,statistical,Supported,hit,1,1.0,Supported,Supported,Supported,Supported
+scifact-115-33872649,scifact,statistical,Refuted,near,,0.0,NEI,NEI,NEI,NEI
+scifact-118-6372244,scifact,statistical,Supported,hit,1,1.0,Supported,Supported,Supported,Supported
+scifact-124-4883040,scifact,statistical,Supported,hit,1,1.0,Supported,Supported,Supported,Supported
+scifact-127-21598000,scifact,statistical,NEI,n/a,,0.0,NEI,Not Supported,Not Supported,Not Supported
+scifact-128-8290953,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-129-27768226,scifact,statistical,Refuted,hit,2,0.25,Not Supported,Not Supported,Not Supported,Not Supported
+scifact-130-27768226,scifact,statistical,Supported,hit,1,0.5,Supported,Supported,Supported,Supported
+scifact-132-7975937,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-133-38485364,scifact,statistical,NEI,n/a,,0.0,NEI,Not Supported,Not Supported,Not Supported
+scifact-133-6969753,scifact,statistical,NEI,n/a,,0.0,NEI,Not Supported,Not Supported,Not Supported
+scifact-133-17934082,scifact,statistical,NEI,n/a,,0.0,NEI,Not Supported,Not Supported,Not Supported
+scifact-133-16280642,scifact,statistical,Supported,hit,1,1.0,Partially Supported,Partially Supported,Partially Supported,Partially Supported
+scifact-133-12640810,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-137-26016929,scifact,statistical,Supported,hit,1,0.5,Supported,Supported,Supported,Supported
+scifact-141-6955746,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-141-14437255,scifact,statistical,Supported,hit,1,0.833,Supported,Supported,Supported,Partially Supported
+scifact-142-10582939,scifact,statistical,Refuted,hit,1,1.0,Not Supported,Not Supported,Not Supported,Not Supported
+scifact-143-10582939,scifact,statistical,Supported,hit,1,1.0,Supported,Supported,Supported,Supported
+scifact-146-10582939,scifact,statistical,Supported,miss,,0.0,Supported,NEI,Supported,Supported
+scifact-148-1084345,scifact,statistical,Supported,hit,1,1.0,Supported,Supported,Supported,Partially Supported
+scifact-163-18872233,scifact,statistical,Supported,hit,2,0.5,Supported,Partially Supported,Partially Supported,Partially Supported
+scifact-171-12670680,scifact,statistical,Refuted,hit,1,0.667,Not Supported,Not Supported,Not Supported,Not Supported
+scifact-179-16322674,scifact,statistical,Supported,hit,2,0.333,Supported,Supported,Supported,Supported
+scifact-179-27123743,scifact,statistical,Supported,hit,2,0.5,Supported,Supported,Supported,Supported
+scifact-179-23557241,scifact,statistical,Supported,hit,1,1.0,Supported,Supported,Supported,Supported
+scifact-179-17450673,scifact,statistical,Supported,hit,1,1.0,Supported,Supported,Supported,Supported
+scifact-180-16966326,scifact,statistical,Refuted,hit,1,1.0,NEI,Not Supported,Not Supported,Not Supported
+scifact-183-12827098,scifact,statistical,Refuted,miss,,0.0,NEI,Not Supported,Not Supported,NEI
+scifact-185-18340282,scifact,statistical,Refuted,hit,1,1.0,Not Supported,NEI,NEI,Not Supported
+scifact-198-2177022,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-208-13519661,scifact,statistical,Supported,hit,1,1.0,Partially Supported,Supported,Partially Supported,Not Supported
+scifact-212-22038539,scifact,statistical,Refuted,hit,1,0.2,Not Supported,Not Supported,Not Supported,Not Supported
+scifact-213-13625993,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-216-21366394,scifact,statistical,Refuted,hit,1,1.0,Supported,Not Supported,Not Supported,Not Supported
+scifact-217-21366394,scifact,statistical,Supported,hit,1,1.0,Supported,Supported,Supported,Supported
+scifact-218-21366394,scifact,statistical,Supported,hit,1,0.667,Supported,Partially Supported,Supported,Supported
+scifact-219-21366394,scifact,statistical,Refuted,hit,2,0.5,Supported,Not Supported,Supported,Not Supported
+scifact-230-3067015,scifact,statistical,Supported,hit,1,1.0,Supported,Partially Supported,Partially Supported,Supported
+scifact-232-10536636,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-233-4388470,scifact,statistical,Refuted,hit,1,0.667,Not Supported,Not Supported,NEI,Not Supported
+scifact-236-4388470,scifact,statistical,Supported,hit,1,0.667,NEI,Partially Supported,NEI,Partially Supported
+scifact-237-4942718,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-238-2251426,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-239-14079881,scifact,statistical,Supported,hit,1,1.0,Partially Supported,Partially Supported,Supported,Partially Supported
+scifact-248-1568684,scifact,statistical,Supported,hit,1,0.667,Supported,Supported,Supported,Supported
+scifact-249-1568684,scifact,statistical,Refuted,hit,1,0.667,Not Supported,Not Supported,Not Supported,Not Supported
+scifact-261-1122279,scifact,statistical,Supported,hit,2,0.5,Partially Supported,Partially Supported,Partially Supported,Partially Supported
+scifact-261-10697096,scifact,statistical,Supported,hit,1,1.0,Supported,Partially Supported,Supported,Supported
+scifact-268-970012,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-269-970012,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-274-11614737,scifact,statistical,Refuted,hit,1,0.5,Partially Supported,Not Supported,Not Supported,Not Supported
+scifact-275-4961038,scifact,statistical,Supported,hit,1,0.5,Not Supported,Partially Supported,Supported,Supported
+scifact-275-14241418,scifact,statistical,Supported,hit,3,1.0,Not Supported,NEI,NEI,NEI
+scifact-275-14819804,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-279-14376683,scifact,statistical,Supported,hit,2,1.0,Supported,Supported,Supported,Supported
+scifact-294-10874408,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-295-20310709,scifact,statistical,Supported,hit,1,1.0,Supported,Partially Supported,Supported,Supported
+scifact-298-39381118,scifact,statistical,Supported,hit,1,1.0,Supported,Supported,Partially Supported,Supported
+scifact-300-3553087,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-303-4388470,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-312-6173523,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-314-4347374,scifact,statistical,Supported,hit,1,0.5,Partially Supported,Partially Supported,Partially Supported,Partially Supported
+scifact-324-2014909,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-327-17997584,scifact,statistical,Supported,hit,1,1.0,Supported,Supported,Supported,Supported
+scifact-338-23349986,scifact,statistical,Refuted,hit,1,1.0,Not Supported,Not Supported,Not Supported,Not Supported
+scifact-343-7873737,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-343-5884524,scifact,statistical,Supported,miss,,0.0,NEI,NEI,NEI,NEI
+scifact-350-16927286,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-354-8774475,scifact,statistical,NEI,n/a,,0.0,NEI,Not Supported,Not Supported,Not Supported
+scifact-362-38587347,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-380-19005293,scifact,statistical,Supported,hit,1,1.0,Supported,Supported,Supported,Supported
+scifact-384-13770184,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-385-9955779,scifact,statistical,Supported,hit,2,1.0,NEI,Supported,Supported,Partially Supported
+scifact-385-9767444,scifact,statistical,NEI,n/a,,0.0,NEI,Supported,Supported,Supported
+scifact-386-16495649,scifact,statistical,Supported,hit,1,0.5,Supported,Supported,Supported,Supported
+scifact-388-1148122,scifact,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+scifact-399-791050,scifact,statistical,Supported,hit,1,1.0,Supported,Supported,Supported,Supported

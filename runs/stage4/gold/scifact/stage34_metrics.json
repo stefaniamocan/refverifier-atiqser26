@@ -1,0 +1,523 @@
+{
+  "stage": "stage34_evidence_verdict",
+  "eval_labels": [
+    "Supported",
+    "Refuted",
+    "NEI"
+  ],
+  "verdict_collapse": {
+    "decision": "report-both (O-1)",
+    "lenient": {
+      "Supported": "Supported",
+      "Partially Supported": "Supported",
+      "Not Supported": "Refuted",
+      "NEI": "NEI"
+    },
+    "strict": {
+      "Supported": "Supported",
+      "Partially Supported": "NEI",
+      "Not Supported": "Refuted",
+      "NEI": "NEI"
+    }
+  },
+  "n_examples": 100,
+  "localization": {
+    "n_examples": 100,
+    "n_scored": 64,
+    "counts": {
+      "hit": 63,
+      "near": 0,
+      "miss": 1,
+      "n/a": 36
+    },
+    "hit_rate": 0.9844,
+    "mrr": 0.8932,
+    "mean_recall_at_k": 0.85,
+    "by_claim_type": {
+      "other": {
+        "n/a": 36,
+        "hit": 63,
+        "miss": 1
+      }
+    }
+  },
+  "localization_neighbours": {
+    "description": "coverage scored against the located+neighbours region (fair unit for passage-level gold); larger unit, so not a pure quality gain",
+    "n_scored": 64,
+    "counts": {
+      "hit": 64,
+      "near": 0,
+      "miss": 0,
+      "n/a": 36
+    },
+    "hit_rate": 1.0,
+    "mrr": 0.9427,
+    "mean_recall_at_k": 0.9896
+  },
+  "localization_latency": {
+    "n_units": 100,
+    "total_s": 24.0759,
+    "mean_s_per_unit": 0.2408,
+    "median_s_per_unit": 0.1286,
+    "p95_s_per_unit": 0.5576
+  },
+  "verdict_by_condition": {
+    "gold_evidence": {
+      "lenient": {
+        "n": 100,
+        "accuracy": 0.91,
+        "balanced_accuracy": 0.8928,
+        "macro_f1": 0.8897,
+        "per_class": {
+          "Supported": {
+            "precision": 0.9524,
+            "recall": 0.8889,
+            "f1": 0.9195,
+            "support": 45
+          },
+          "Refuted": {
+            "precision": 0.7895,
+            "recall": 0.7895,
+            "f1": 0.7895,
+            "support": 19
+          },
+          "NEI": {
+            "precision": 0.9231,
+            "recall": 1.0,
+            "f1": 0.96,
+            "support": 36
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 40,
+            "Refuted": 4,
+            "NEI": 1
+          },
+          "Refuted": {
+            "Supported": 2,
+            "Refuted": 15,
+            "NEI": 2
+          },
+          "NEI": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 36
+          }
+        }
+      },
+      "strict": {
+        "n": 100,
+        "accuracy": 0.65,
+        "balanced_accuracy": 0.7002,
+        "macro_f1": 0.6544,
+        "per_class": {
+          "Supported": {
+            "precision": 1.0,
+            "recall": 0.3111,
+            "f1": 0.4746,
+            "support": 45
+          },
+          "Refuted": {
+            "precision": 0.7895,
+            "recall": 0.7895,
+            "f1": 0.7895,
+            "support": 19
+          },
+          "NEI": {
+            "precision": 0.5373,
+            "recall": 1.0,
+            "f1": 0.699,
+            "support": 36
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 14,
+            "Refuted": 4,
+            "NEI": 27
+          },
+          "Refuted": {
+            "Supported": 0,
+            "Refuted": 15,
+            "NEI": 4
+          },
+          "NEI": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 36
+          }
+        }
+      }
+    },
+    "located": {
+      "lenient": {
+        "n": 100,
+        "accuracy": 0.81,
+        "balanced_accuracy": 0.8002,
+        "macro_f1": 0.7871,
+        "per_class": {
+          "Supported": {
+            "precision": 0.9091,
+            "recall": 0.8889,
+            "f1": 0.8989,
+            "support": 45
+          },
+          "Refuted": {
+            "precision": 0.625,
+            "recall": 0.7895,
+            "f1": 0.6977,
+            "support": 19
+          },
+          "NEI": {
+            "precision": 0.8125,
+            "recall": 0.7222,
+            "f1": 0.7647,
+            "support": 36
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 40,
+            "Refuted": 2,
+            "NEI": 3
+          },
+          "Refuted": {
+            "Supported": 1,
+            "Refuted": 15,
+            "NEI": 3
+          },
+          "NEI": {
+            "Supported": 3,
+            "Refuted": 7,
+            "NEI": 26
+          }
+        }
+      },
+      "strict": {
+        "n": 100,
+        "accuracy": 0.55,
+        "balanced_accuracy": 0.6113,
+        "macro_f1": 0.559,
+        "per_class": {
+          "Supported": {
+            "precision": 0.9231,
+            "recall": 0.2667,
+            "f1": 0.4138,
+            "support": 45
+          },
+          "Refuted": {
+            "precision": 0.625,
+            "recall": 0.7895,
+            "f1": 0.6977,
+            "support": 19
+          },
+          "NEI": {
+            "precision": 0.4444,
+            "recall": 0.7778,
+            "f1": 0.5657,
+            "support": 36
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 12,
+            "Refuted": 2,
+            "NEI": 31
+          },
+          "Refuted": {
+            "Supported": 0,
+            "Refuted": 15,
+            "NEI": 4
+          },
+          "NEI": {
+            "Supported": 1,
+            "Refuted": 7,
+            "NEI": 28
+          }
+        }
+      }
+    },
+    "located_neighbours": {
+      "lenient": {
+        "n": 100,
+        "accuracy": 0.83,
+        "balanced_accuracy": 0.8233,
+        "macro_f1": 0.8108,
+        "per_class": {
+          "Supported": {
+            "precision": 0.8936,
+            "recall": 0.9333,
+            "f1": 0.913,
+            "support": 45
+          },
+          "Refuted": {
+            "precision": 0.6957,
+            "recall": 0.8421,
+            "f1": 0.7619,
+            "support": 19
+          },
+          "NEI": {
+            "precision": 0.8333,
+            "recall": 0.6944,
+            "f1": 0.7576,
+            "support": 36
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 42,
+            "Refuted": 0,
+            "NEI": 3
+          },
+          "Refuted": {
+            "Supported": 1,
+            "Refuted": 16,
+            "NEI": 2
+          },
+          "NEI": {
+            "Supported": 4,
+            "Refuted": 7,
+            "NEI": 25
+          }
+        }
+      },
+      "strict": {
+        "n": 100,
+        "accuracy": 0.61,
+        "balanced_accuracy": 0.6659,
+        "macro_f1": 0.6304,
+        "per_class": {
+          "Supported": {
+            "precision": 0.9444,
+            "recall": 0.3778,
+            "f1": 0.5397,
+            "support": 45
+          },
+          "Refuted": {
+            "precision": 0.6957,
+            "recall": 0.8421,
+            "f1": 0.7619,
+            "support": 19
+          },
+          "NEI": {
+            "precision": 0.4746,
+            "recall": 0.7778,
+            "f1": 0.5895,
+            "support": 36
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 17,
+            "Refuted": 0,
+            "NEI": 28
+          },
+          "Refuted": {
+            "Supported": 0,
+            "Refuted": 16,
+            "NEI": 3
+          },
+          "NEI": {
+            "Supported": 1,
+            "Refuted": 7,
+            "NEI": 28
+          }
+        }
+      }
+    }
+  },
+  "verdict_by_claim_type_gold_evidence": {
+    "other": {
+      "lenient": {
+        "n": 100,
+        "accuracy": 0.91,
+        "balanced_accuracy": 0.8928,
+        "macro_f1": 0.8897
+      },
+      "strict": {
+        "n": 100,
+        "accuracy": 0.65,
+        "balanced_accuracy": 0.7002,
+        "macro_f1": 0.6544
+      }
+    }
+  },
+  "ablation_accuracy_by_condition": {
+    "gold_evidence": {
+      "lenient": 0.91,
+      "strict": 0.65
+    },
+    "located": {
+      "lenient": 0.81,
+      "strict": 0.55
+    },
+    "located_neighbours": {
+      "lenient": 0.83,
+      "strict": 0.61
+    }
+  },
+  "context_size_by_condition": {
+    "gold_evidence": {
+      "mean_words": 37.1
+    },
+    "located": {
+      "mean_words": 161.3
+    },
+    "located_neighbours": {
+      "mean_words": 320.1
+    }
+  },
+  "latency_by_condition": {
+    "gold_evidence": {
+      "n_units": 100,
+      "total_s": 376.0768,
+      "mean_s_per_unit": 3.7608,
+      "median_s_per_unit": 3.016,
+      "p95_s_per_unit": 9.9202,
+      "mean_s": 3.761
+    },
+    "located": {
+      "n_units": 100,
+      "total_s": 566.8316,
+      "mean_s_per_unit": 5.6683,
+      "median_s_per_unit": 5.1319,
+      "p95_s_per_unit": 12.9422,
+      "mean_s": 5.668
+    },
+    "located_neighbours": {
+      "n_units": 100,
+      "total_s": 560.4158,
+      "mean_s_per_unit": 5.6042,
+      "median_s_per_unit": 5.3863,
+      "p95_s_per_unit": 9.324,
+      "mean_s": 5.604
+    }
+  },
+  "token_by_condition": {
+    "gold_evidence": {
+      "prompt": 78173,
+      "completion": 25499,
+      "total": 103672,
+      "calls": 59,
+      "mean_total_per_verdict": 1036.7,
+      "cost_usd": 0.577918
+    },
+    "located": {
+      "prompt": 135670,
+      "completion": 39687,
+      "total": 175357,
+      "calls": 92,
+      "mean_total_per_verdict": 1753.6,
+      "cost_usd": 0.93448
+    },
+    "located_neighbours": {
+      "prompt": 159876,
+      "completion": 37916,
+      "total": 197792,
+      "calls": 93,
+      "mean_total_per_verdict": 1977.9,
+      "cost_usd": 0.96843
+    }
+  },
+  "negation_baseline": {
+    "n": 100,
+    "accuracy": 0.41,
+    "balanced_accuracy": 0.3138,
+    "macro_f1": 0.2205,
+    "per_class": {
+      "Supported": {
+        "precision": 0.4444,
+        "recall": 0.8889,
+        "f1": 0.5926,
+        "support": 45
+      },
+      "Refuted": {
+        "precision": 0.1,
+        "recall": 0.0526,
+        "f1": 0.069,
+        "support": 19
+      },
+      "NEI": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 36
+      }
+    },
+    "confusion": {
+      "Supported": {
+        "Supported": 40,
+        "Refuted": 5,
+        "NEI": 0
+      },
+      "Refuted": {
+        "Supported": 18,
+        "Refuted": 1,
+        "NEI": 0
+      },
+      "NEI": {
+        "Supported": 32,
+        "Refuted": 4,
+        "NEI": 0
+      }
+    },
+    "rule": "predict Refuted iff the claim contains a negation cue, else Supported (never reads evidence, never predicts NEI)",
+    "cue_rate_by_gold": {
+      "Supported": 0.1111,
+      "Refuted": 0.0526,
+      "NEI": 0.1111
+    }
+  },
+  "timing": {
+    "wall_clock_s": 1527.44,
+    "throughput_examples_per_s": 0.065,
+    "llm_calls": 244,
+    "tokens": {
+      "prompt": 373719,
+      "completion": 103102,
+      "total": 476821,
+      "cost_usd": 2.480828
+    },
+    "localization_cold_start_s": 10.3872
+  },
+  "run": {
+    "dataset": "scifact",
+    "split": "test",
+    "n_examples": 100,
+    "balance": "none",
+    "pool_splits": false,
+    "k_located_sentences": 3,
+    "chunk_size_W": 3,
+    "localization_hint": true,
+    "ablate_full": false,
+    "seed": null,
+    "model": "gpt-5.6-terra",
+    "reasoning_effort": "high",
+    "retrieval": {
+      "profile": null,
+      "embed_model": "all-MiniLM-L6-v2",
+      "embed_trust_remote_code": false,
+      "embed_max_seq_length": 0,
+      "hybrid": true,
+      "rerank": true,
+      "rerank_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "rerank_model_effective": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+      "rerank_downgraded": false,
+      "rerank_candidates": 25,
+      "rerank_trust_remote_code": false,
+      "use_html": false
+    }
+  },
+  "pricing": {
+    "model": "gpt-5.6-terra",
+    "rate_per_1m": {
+      "input_per_1m": 2.5,
+      "cached_input_per_1m": 0.25,
+      "output_per_1m": 15.0
+    },
+    "currency": "USD",
+    "as_of": "2026-07-10",
+    "source": "OpenAI: https://developers.openai.com/api/docs/pricing (fetched 2026-07-10). Anthropic: https://platform.claude.com/docs/en/about-claude/models/overview (rates as of 2026-06-04). DeepSeek: https://api-docs.deepseek.com/quick_start/pricing/ (fetched 2026-07-10). All rates USD per 1,000,000 tokens."
+  }
+}

@@ -1,0 +1,101 @@
+example_id,dataset,claim_type,gold_label,localization,rank_first_correct,recall_at_k,verdict_gold,verdict_located,verdict_located_neighbours,verdict_full
+citint-387,citationintegrity,statistical,Supported,hit,1,0.5,Partially Supported,Partially Supported,Partially Supported,Partially Supported
+citint-370,citationintegrity,statistical,NEI,n/a,,0.0,NEI,Partially Supported,Partially Supported,Partially Supported
+citint-360,citationintegrity,statistical,Supported,hit,1,0.5,Supported,Partially Supported,NEI,NEI
+citint-493,citationintegrity,statistical,Supported,hit,1,1.0,Partially Supported,Partially Supported,NEI,Partially Supported
+citint-250,citationintegrity,statistical,Refuted,miss,,0.0,NEI,Supported,Partially Supported,Supported
+citint-496,citationintegrity,statistical,NEI,n/a,,0.0,NEI,Not Supported,Not Supported,NEI
+citint-295,citationintegrity,statistical,Refuted,hit,2,1.0,Supported,Supported,Supported,Supported
+citint-209,citationintegrity,statistical,NEI,n/a,,0.0,NEI,Partially Supported,Partially Supported,Partially Supported
+citint-139,citationintegrity,statistical,Supported,near,,0.0,Supported,NEI,Partially Supported,Partially Supported
+citint-136,citationintegrity,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+citint-522,citationintegrity,statistical,Refuted,near,,0.0,Not Supported,Partially Supported,Partially Supported,Supported
+citint-270,citationintegrity,statistical,Supported,miss,,0.0,Supported,NEI,Supported,Partially Supported
+citint-215,citationintegrity,statistical,Supported,hit,2,0.5,Supported,Partially Supported,Supported,Supported
+citint-65,citationintegrity,statistical,Supported,near,,0.0,Not Supported,NEI,Partially Supported,NEI
+citint-265,citationintegrity,statistical,Supported,near,,0.0,Supported,Partially Supported,Supported,Supported
+citint-439,citationintegrity,statistical,Supported,miss,,0.0,NEI,NEI,Not Supported,NEI
+citint-103,citationintegrity,statistical,Supported,near,,0.0,NEI,Partially Supported,Supported,Supported
+citint-550,citationintegrity,statistical,Supported,hit,1,1.0,Partially Supported,Partially Supported,Partially Supported,Partially Supported
+citint-76,citationintegrity,statistical,Supported,hit,2,0.429,Supported,Partially Supported,Supported,Supported
+citint-53,citationintegrity,statistical,Supported,hit,3,0.4,Not Supported,NEI,Partially Supported,NEI
+citint-243,citationintegrity,statistical,Refuted,miss,,0.0,NEI,NEI,NEI,NEI
+citint-177,citationintegrity,statistical,Refuted,miss,,0.0,Not Supported,NEI,Partially Supported,Not Supported
+citint-309,citationintegrity,statistical,Refuted,hit,1,1.0,NEI,NEI,NEI,NEI
+citint-477,citationintegrity,statistical,NEI,n/a,,0.0,NEI,Not Supported,Not Supported,Partially Supported
+citint-350,citationintegrity,statistical,Supported,hit,2,0.5,Not Supported,Not Supported,Not Supported,Not Supported
+citint-455,citationintegrity,statistical,Supported,hit,1,1.0,Partially Supported,Supported,Supported,Supported
+citint-501,citationintegrity,statistical,NEI,n/a,,0.0,NEI,Not Supported,Not Supported,Not Supported
+citint-518,citationintegrity,statistical,NEI,n/a,,0.0,NEI,NEI,Partially Supported,Partially Supported
+citint-235,citationintegrity,statistical,Refuted,miss,,0.0,Not Supported,NEI,NEI,Partially Supported
+citint-361,citationintegrity,statistical,Supported,hit,1,1.0,Partially Supported,Supported,Supported,Supported
+citint-14,citationintegrity,statistical,Supported,miss,,0.0,Supported,NEI,NEI,Partially Supported
+citint-258,citationintegrity,statistical,Supported,miss,,0.0,Not Supported,NEI,NEI,NEI
+citint-382,citationintegrity,statistical,Supported,hit,1,0.333,Partially Supported,Partially Supported,Partially Supported,Partially Supported
+citint-180,citationintegrity,statistical,Supported,hit,3,1.0,NEI,Partially Supported,Partially Supported,NEI
+citint-168,citationintegrity,statistical,Supported,hit,2,0.667,Partially Supported,Partially Supported,Partially Supported,Partially Supported
+citint-227,citationintegrity,statistical,Supported,hit,2,0.5,NEI,Partially Supported,NEI,Not Supported
+citint-220,citationintegrity,statistical,Supported,hit,2,0.5,Partially Supported,Supported,Partially Supported,Not Supported
+citint-379,citationintegrity,statistical,Refuted,miss,,0.0,Partially Supported,NEI,NEI,Partially Supported
+citint-264,citationintegrity,statistical,Supported,miss,,0.0,Supported,Partially Supported,Partially Supported,Partially Supported
+citint-407,citationintegrity,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+citint-261,citationintegrity,statistical,Supported,near,,0.0,NEI,NEI,NEI,Not Supported
+citint-238,citationintegrity,statistical,Supported,hit,1,0.25,Partially Supported,Partially Supported,Partially Supported,Partially Supported
+citint-105,citationintegrity,statistical,Refuted,miss,,0.0,NEI,Not Supported,Not Supported,Partially Supported
+citint-37,citationintegrity,statistical,NEI,n/a,,0.0,NEI,Not Supported,Not Supported,NEI
+citint-318,citationintegrity,statistical,Supported,hit,1,1.0,Partially Supported,Supported,Partially Supported,Partially Supported
+citint-433,citationintegrity,statistical,Supported,hit,3,0.143,Not Supported,Not Supported,Not Supported,Not Supported
+citint-101,citationintegrity,statistical,Supported,near,,0.0,NEI,Partially Supported,Partially Supported,Partially Supported
+citint-403,citationintegrity,statistical,Supported,hit,3,0.5,Partially Supported,Partially Supported,Partially Supported,Partially Supported
+citint-527,citationintegrity,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+citint-317,citationintegrity,statistical,Supported,hit,1,1.0,Partially Supported,Partially Supported,Partially Supported,Partially Supported
+citint-165,citationintegrity,statistical,Supported,near,,0.0,Partially Supported,Partially Supported,Partially Supported,NEI
+citint-314,citationintegrity,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+citint-4,citationintegrity,statistical,Supported,near,,0.0,Partially Supported,Supported,Supported,Partially Supported
+citint-478,citationintegrity,statistical,Supported,hit,1,0.5,Not Supported,Partially Supported,Partially Supported,Partially Supported
+citint-110,citationintegrity,statistical,Supported,hit,2,1.0,NEI,Partially Supported,NEI,Partially Supported
+citint-595,citationintegrity,statistical,Supported,hit,1,0.25,Partially Supported,Partially Supported,Partially Supported,Partially Supported
+citint-547,citationintegrity,statistical,Supported,hit,2,1.0,NEI,NEI,NEI,NEI
+citint-153,citationintegrity,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+citint-58,citationintegrity,statistical,Supported,hit,2,0.833,Not Supported,NEI,NEI,NEI
+citint-302,citationintegrity,statistical,Supported,hit,1,0.5,Partially Supported,Partially Supported,Partially Supported,Partially Supported
+citint-245,citationintegrity,statistical,Refuted,miss,,0.0,NEI,NEI,NEI,NEI
+citint-390,citationintegrity,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+citint-290,citationintegrity,statistical,NEI,n/a,,0.0,NEI,Partially Supported,Supported,Partially Supported
+citint-421,citationintegrity,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,Partially Supported
+citint-446,citationintegrity,statistical,Supported,near,,0.0,Not Supported,Partially Supported,Partially Supported,Partially Supported
+citint-39,citationintegrity,statistical,Supported,near,,0.0,NEI,NEI,NEI,NEI
+citint-589,citationintegrity,statistical,Supported,miss,,0.0,NEI,NEI,NEI,NEI
+citint-470,citationintegrity,statistical,Supported,miss,,0.0,NEI,NEI,NEI,NEI
+citint-75,citationintegrity,statistical,Supported,miss,,0.0,NEI,Partially Supported,Supported,Supported
+citint-35,citationintegrity,statistical,Supported,hit,2,1.0,Not Supported,Partially Supported,Partially Supported,Partially Supported
+citint-24,citationintegrity,statistical,NEI,n/a,,0.0,NEI,Partially Supported,Partially Supported,Partially Supported
+citint-284,citationintegrity,statistical,Supported,hit,1,0.5,Supported,Supported,Supported,Supported
+citint-426,citationintegrity,statistical,Refuted,hit,1,0.5,Partially Supported,Partially Supported,Partially Supported,Partially Supported
+citint-545,citationintegrity,statistical,Supported,hit,1,0.667,NEI,Supported,Supported,Supported
+citint-241,citationintegrity,statistical,Supported,near,,0.0,Not Supported,NEI,NEI,NEI
+citint-89,citationintegrity,statistical,Supported,hit,1,0.75,Supported,Supported,Supported,Supported
+citint-88,citationintegrity,statistical,Supported,hit,1,0.429,Not Supported,NEI,NEI,NEI
+citint-378,citationintegrity,statistical,Supported,miss,,0.0,NEI,NEI,NEI,Supported
+citint-262,citationintegrity,statistical,Supported,miss,,0.0,Not Supported,NEI,NEI,NEI
+citint-485,citationintegrity,statistical,Supported,hit,1,1.0,NEI,NEI,Not Supported,NEI
+citint-462,citationintegrity,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+citint-40,citationintegrity,statistical,Supported,miss,,0.0,Not Supported,NEI,NEI,NEI
+citint-19,citationintegrity,statistical,Supported,miss,,0.0,NEI,Supported,Supported,Supported
+citint-117,citationintegrity,statistical,Supported,near,,0.0,Partially Supported,Partially Supported,Partially Supported,Supported
+citint-114,citationintegrity,statistical,Supported,miss,,0.0,Supported,NEI,NEI,Supported
+citint-59,citationintegrity,statistical,Supported,hit,1,1.0,Partially Supported,Partially Supported,Partially Supported,Partially Supported
+citint-143,citationintegrity,statistical,Supported,near,,0.0,NEI,NEI,NEI,NEI
+citint-291,citationintegrity,statistical,NEI,n/a,,0.0,NEI,Partially Supported,Partially Supported,Partially Supported
+citint-464,citationintegrity,statistical,Supported,miss,,0.0,NEI,Partially Supported,Partially Supported,Supported
+citint-452,citationintegrity,statistical,Supported,miss,,0.0,Partially Supported,Partially Supported,Partially Supported,Partially Supported
+citint-434,citationintegrity,statistical,Supported,near,,0.0,Supported,Not Supported,Not Supported,Supported
+citint-536,citationintegrity,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+citint-316,citationintegrity,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+citint-368,citationintegrity,statistical,Supported,hit,1,0.167,Partially Supported,NEI,Partially Supported,Partially Supported
+citint-31,citationintegrity,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+citint-212,citationintegrity,statistical,Supported,near,,0.0,NEI,NEI,NEI,NEI
+citint-558,citationintegrity,statistical,Supported,hit,3,1.0,NEI,Partially Supported,Partially Supported,Partially Supported
+citint-47,citationintegrity,statistical,NEI,n/a,,0.0,NEI,NEI,NEI,NEI
+citint-422,citationintegrity,statistical,NEI,n/a,,0.0,NEI,Partially Supported,Partially Supported,Partially Supported
+citint-222,citationintegrity,statistical,Supported,near,,0.0,Supported,Partially Supported,Supported,Supported

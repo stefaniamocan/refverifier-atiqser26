@@ -1,0 +1,993 @@
+source_paper,domain,citation_key,title,year,doi,has_arxiv_id,resolved,resolved_via,declared_oa,retrievable_by_anyone,discovered_doi,title_match_score
+bio_MED_10647931,biomedical,bio_MED_10647931_000,"Signal transduction and signal modulation by cell adhesion receptors: the role of integrins, cadherins, immunoglobulin-cell adhesion molecules, and selectins.",1998,,False,False,,False,False,10.1016/s0031-6997(24)01359-0,
+bio_MED_10647931,biomedical,bio_MED_10647931_001,Apoptosis control by death and decoy receptors.,1999,,False,True,cache,False,False,10.1016/s0955-0674(99)80034-9,0.4
+bio_MED_10647931,biomedical,bio_MED_10647931_002,Extrinsic regulators of epithelial tumor progression,2000,,False,True,cache,False,False,10.1016/s0959-437x(99)00043-x,0.4
+bio_MED_10647931,biomedical,bio_MED_10647931_003,Angiogenesis and apoptosis are cellular parameters of neoplastic progression in transgenic mouse models of tumorigenesis.,1998,,False,True,cache,True,True,10.1387/ijdb.9853830,0.7
+bio_MED_10647931,biomedical,bio_MED_10647931_004,Effects of angiogenesis inhibitors on multistage carcinogenesis in mice.,1999,,False,False,,False,False,10.1126/science.284.5415.808,
+bio_MED_10647931,biomedical,bio_MED_10647931_006,Extension of life-span by introduction of telomerase into normal human cells.,1998,,False,False,,False,False,10.1126/science.279.5349.349,
+bio_MED_10647931,biomedical,bio_MED_10647931_007,How tumors become angiogenic.,1996,,False,False,,False,False,10.1016/s0065-230x(08)60862-3,
+bio_MED_10647931,biomedical,bio_MED_10647931_008,Telomerase and the maintenance of chromosome ends.,1999,,False,False,,False,False,10.1016/s0955-0674(99)80043-x,
+bio_MED_10647931,biomedical,bio_MED_10647931_009,Telomere elongation in immortal human cells without detectable telomerase activity.,1995,,False,True,cache,True,True,10.1002/j.1460-2075.1995.tb00098.x,1.0
+bio_MED_10647931,biomedical,bio_MED_10647931_010,Src-related protein tyrosine kinases are physically associated with the surface antigen CD36 in human dermal microvascular endothelial cells.,1994,,False,False,,False,False,10.1016/0014-5793(94)00814-0,
+bio_MED_10647931,biomedical,bio_MED_10647931_011,The IGF axis and programmed cell death.,1999,,False,False,,False,False,10.1046/j.1440-1711.1999.00822.x,
+bio_MED_10647931,biomedical,bio_MED_10647931_012,New insights into tumor suppression: PTEN suppresses tumor formation by restraining the phosphoinositide 3-kinase/AKT pathway.,1999,,False,True,cache,True,True,10.1073/pnas.96.8.4240,1.0
+bio_MED_10647931,biomedical,bio_MED_10647931_013,Changing views of the role of matrix metalloproteinases in metastasis.,1997,,False,False,,True,True,10.1093/jnci/89.17.1260,
+bio_MED_10647931,biomedical,bio_MED_10647931_014,The INK4a/ARF tumor suppressor: one gene--two products--two pathways.,1998,,False,False,,False,False,10.1016/s0968-0004(98)01236-5,
+bio_MED_10647931,biomedical,bio_MED_10647931_015,The role of the cell-adhesion molecule E-cadherin as a tumour-suppressor gene.,1999,,False,False,,False,False,10.1016/s0968-0004(98)01343-7,
+bio_MED_10647931,biomedical,bio_MED_10647931_016,A second signal supplied by insulin-like growth factor II in oncogene-induced tumorigenesis.,1994,,False,False,,False,False,10.1038/369414a0,
+bio_MED_10647931,biomedical,bio_MED_10647931_017,At the crossroads of inflammation and tumorigenesis.,1999,,False,True,europe_pmc,True,True,10.1084/jem.190.10.1367,1.0
+bio_MED_10647931,biomedical,bio_MED_10647931_018,Telomere shortening associated with chromosome instability is arrested in immortal cells which express telomerase activity.,1992,,False,True,europe_pmc,True,True,10.1002/j.1460-2075.1992.tb05245.x,1.0
+bio_MED_10647931,biomedical,bio_MED_10647931_019,"Dissociation among in vitro telomerase activity, telomere maintenance, and cellular immortalization.",1998,,False,True,europe_pmc,True,True,10.1073/pnas.95.25.14723,1.0
+bio_MED_10647931,biomedical,bio_MED_10647931_020,Matrix metalloproteinases and the development of cancer.,1996,,False,False,,,,,
+bio_MED_10647931,biomedical,bio_MED_10647931_021,Inflammatory mast cells up-regulate angiogenesis during squamous epithelial carcinogenesis.,1999,,False,False,,True,True,10.1101/gad.13.11.1382,
+bio_MED_10647931,biomedical,bio_MED_10647931_022,Control of angiogenesis in fibroblasts by p53 regulation of thrombospondin-1.,1994,,False,False,,False,False,10.1126/science.7521539,
+bio_MED_10647931,biomedical,bio_MED_10647931_023,The viral oncoprotein E1A blocks transforming growth factor β-mediated induction of p21/WAF1/Cip1 and p15/INK4B Mol,1997,,False,False,,True,True,10.1128/mcb.17.4.2030,
+bio_MED_10647931,biomedical,bio_MED_10647931_024,erbB-2 is a potent oncogene when overexpressed in NIH/3T3 cells.,1987,,False,False,,False,False,10.1126/science.2885917,
+bio_MED_10647931,biomedical,bio_MED_10647931_025,Mechanisms and consequences of activation of protein kinase B/Akt.,1998,,False,False,,False,False,10.1016/s0955-0674(98)80149-x,
+bio_MED_10647931,biomedical,bio_MED_10647931_026,The human papilloma virus-16 E7 oncoprotein is able to bind to the retinoblastoma gene product.,1989,,False,False,,False,False,10.1126/science.2537532,
+bio_MED_10647931,biomedical,bio_MED_10647931_027,A matter of life and cell death.,1998,,False,True,cache,,,,0.25
+bio_MED_10647931,biomedical,bio_MED_10647931_028,Growth factors,1997,,False,False,,,,,
+bio_MED_10647931,biomedical,bio_MED_10647931_029,Neural cell adhesion molecule (N-CAM) in gastrointestinal neoplasias.,1997,,False,False,,,,,
+bio_MED_10647931,biomedical,bio_MED_10647931_030,Two MAD tails: what the recent knockouts of Mad1 and Mxi1 tell us about the MYC/MAX/MAD network.,1999,,False,False,,False,False,10.1016/s0304-419x(99)00012-8,
+bio_MED_10647931,biomedical,bio_MED_10647931_031,Tumor angiogenesis,1997,,False,False,,,,,
+bio_MED_10647931,biomedical,bio_MED_10647931_033,Resistance to inhibition of cell growth by transforming growth factor-beta and its role in oncogenesis.,1993,,False,False,,,,,
+bio_MED_10647931,biomedical,bio_MED_10647931_034,The mechanism of cancer-mediated conversion of plasminogen to the angiogenesis inhibitor angiostatin.,1997,,False,False,,False,False,10.1016/s0268-9499(97)80255-x,
+bio_MED_10647931,biomedical,bio_MED_10647931_035,Integrin signaling.,1999,,False,False,,False,False,10.1007/springerreference_33846,
+bio_MED_10647931,biomedical,bio_MED_10647931_036,Mitochondria and apoptosis.,1998,,False,False,,,,,
+bio_MED_10647931,biomedical,bio_MED_10647931_037,Short dysfunctional telomeres impair tumorigenesis in the INK4a(delta2/3) cancer-prone mouse.,1999,,False,True,cache,True,True,10.1016/s0092-8674(00)80761-8,0.1
+bio_MED_10647931,biomedical,bio_MED_10647931_038,Creation of human tumour cells with defined genetic elements.,1999,,False,False,,False,False,10.1038/22780,
+bio_MED_10647931,biomedical,bio_MED_10647931_039,Telomerase activity is sufficient to allow transformed cells to escape from crisis.,1999,,False,True,europe_pmc,True,True,10.1128/mcb.19.3.1864,0.889
+bio_MED_10829079,biomedical,bio_MED_10829079_000,Homologous recombination in procaryotes.,1988,,False,False,,True,True,10.1128/mr.52.2.304-304.1988,
+bio_MED_10829079,biomedical,bio_MED_10829079_001,"Escherichia coli genome targeting, I. Cre-lox-mediated in vitro generation of ori- plasmids and their in vivo chromosomal integration and retrieval.",1994,,False,False,,False,False,10.1016/0378-1119(94)90856-7,
+bio_MED_10829079,biomedical,bio_MED_10829079_002,Transcriptional regulation of the Enterococcus faecium BM4147 vancomycin resistance gene cluster by the VanS-VanR two-component regulatory system in Escherichia coli K-12.,1997,,False,True,cache,True,True,10.1128/jb.179.18.5903-5913.1997,1.0
+bio_MED_10829079,biomedical,bio_MED_10829079_003,The complete genome sequence of Escherichia coli K-12.,1997,,False,False,,True,True,10.1128/genomea.00879-15,
+bio_MED_10829079,biomedical,bio_MED_10829079_004,Use of bacteriophage lambda recombination functions to promote gene replacement in Escherichia coli.,1998,,False,True,europe_pmc,True,True,10.1128/jb.180.8.2063-2071.1998,0.889
+bio_MED_10829079,biomedical,bio_MED_10829079_005,Homologous genetic recombination: the pieces begin to fall into place.,1994,,False,False,,False,False,10.3109/10408419409113552,
+bio_MED_10829079,biomedical,bio_MED_10829079_006,Analysis of internal (n-1)mer deletion sequences in synthetic oligodeoxyribonucleotides by hybridization to an immobilized probe array.,1999,,False,False,,True,True,10.1093/nar/27.2.389,
+bio_MED_10829079,biomedical,bio_MED_10829079_007,New method for generating deletions and gene replacements in Escherichia coli.,1989,,False,True,europe_pmc,True,True,10.1128/jb.171.9.4617-4622.1989,1.0
+bio_MED_10829079,biomedical,bio_MED_10829079_008,Genetic transformation in Escherichia coli K12.,1973,,False,False,,False,False,10.1038/248112a0,
+bio_MED_10829079,biomedical,bio_MED_10829079_009,"Molecular cloning, mapping, and regulation of Pho regulon genes for phosphonate breakdown by the phosphonatase pathway of Salmonella typhimurium LT2.",1995,,False,True,cache,True,True,10.1128/jb.177.22.6411-6421.1995,1.0
+bio_MED_10829079,biomedical,bio_MED_10829079_010,Markerless gene replacement in Escherichia coli stimulated by a double-strand break in the chromosome.,1999,,False,True,europe_pmc,True,True,10.1093/nar/27.22.4409,1.0
+bio_MED_10829079,biomedical,bio_MED_10829079_011,A new logic for DNA engineering using recombination in Escherichia coli.,1998,,False,False,,False,False,10.1038/2417,
+bio_MED_10829079,biomedical,bio_MED_10829079_012,A rapid method for disrupting genes in the Escherichia coli genome.,1998,,False,False,,True,True,10.1271/bbb.62.1826,
+bio_MED_10829079,biomedical,bio_MED_10829079_013,Rapid hypothesis testing with Candida albicans through gene disruption with short homology regions.,1999,,False,True,europe_pmc,True,True,10.1128/jb.181.6.1868-1874.1999,1.0
+bio_MED_10829079,biomedical,bio_MED_10829079_014,"Conditionally replicative and conjugative plasmids carrying lacZ alpha for cloning, mutagenesis, and allele replacement in bacteria.",1996,,False,False,,False,False,10.1006/plas.1996.0001,
+bio_MED_10829079,biomedical,bio_MED_10829079_015,"Tight regulation, modulation, and high-level expression by vectors containing the arabinose PBAD promoter.",1995,,False,True,cache,True,True,10.1128/jb.177.14.4121-4130.1995,1.0
+bio_MED_10829079,biomedical,bio_MED_10829079_016,"Specific-purpose plasmid cloning vectors. I. Low copy number, temperature-sensitive, mobilization-defective pSC101-derived containment vectors.",1981,,False,False,,False,False,10.1016/0378-1119(81)90079-2,
+bio_MED_10829079,biomedical,bio_MED_10829079_017,Identification of phosphate starvation-inducible genes in Escherichia coli K-12 by DNA sequence analysis of psi::lacZ(Mu d1) transcriptional fusions.,1990,,False,True,cache,False,False,10.1128/jb.172.6.3191-3200.1990,1.0
+bio_MED_10829079,biomedical,bio_MED_10829079_018,"Mutants affected in alkaline phosphatase, expression: evidence for multiple positive regulators of the phosphate regulon in Escherichia coli.",1980,,False,True,europe_pmc,True,True,10.1093/genetics/96.2.353,1.0
+bio_MED_10829079,biomedical,bio_MED_10829079_019,Gene replacement with linear DNA fragments in wild-type Escherichia coli: enhancement by Chi sites.,1997,,False,False,,True,True,10.1093/genetics/145.4.877,
+bio_MED_10829079,biomedical,bio_MED_10829079_020,Bacterial gene transfer by natural genetic transformation in the environment.,1994,,False,False,,True,True,10.1128/mr.58.3.563-602.1994,
+bio_MED_10829079,biomedical,bio_MED_10829079_021,The nucleotide sequence recognized by the Escherichia coli K12 restriction and modification enzymes.,1979,,False,False,,False,False,10.1016/0022-2836(79)90426-1,
+bio_MED_10829079,biomedical,bio_MED_10829079_022,"Identification and characterization of recD, a gene affecting plasmid maintenance and recombination in Escherichia coli.",1986,,False,True,cache,True,True,10.1128/jb.168.2.1051-1051.1986,1.0
+bio_MED_10829079,biomedical,bio_MED_10829079_023,Studies on transformation of Escherichia coli with plasmids.,1983,,False,False,,False,False,10.1016/s0022-2836(83)80284-8,
+bio_MED_10829079,biomedical,bio_MED_10829079_024,In vivo excision and amplification of large segments of the Escherichia coli genome.,1994,,False,True,europe_pmc,True,True,10.1093/nar/22.12.2392,1.0
+bio_MED_10829079,biomedical,bio_MED_10829079_025,Gene disruption in Escherichia coli: TcR and KmR cassettes with the option of Flp-catalyzed excision of the antibiotic-resistance determinant.,1995,,False,False,,False,False,10.1016/0378-1119(95)00193-a,
+bio_MED_10829079,biomedical,bio_MED_10829079_026,Systematic functional analysis of the yeast genome.,1998,,False,False,,False,False,10.1016/s0167-7799(98)01214-1,
+bio_MED_10829079,biomedical,bio_MED_10829079_027,Use of new methods for construction of tightly regulated arabinose and rhamnose promoter fusions in studies of the Escherichia coli phosphate regulon.,1998,,False,True,europe_pmc,True,True,10.1128/jb.180.5.1277-1286.1998,1.0
+bio_MED_10829079,biomedical,bio_MED_10829079_028,Methods for generating precise deletions and insertions in the genome of wild-type Escherichia coli: application to open reading frame characterization.,1997,,False,True,cache,True,True,10.1128/jb.179.20.6228-6237.1997,1.0
+bio_MED_10829079,biomedical,bio_MED_10829079_029,recD: the gene for an essential third subunit of exonuclease V.,1986,,False,False,,False,False,10.1073/pnas.83.15.5558,
+bio_MED_10829079,biomedical,bio_MED_10829079_030,Site-directed insertion and deletion mutagenesis with cloned fragments in Escherichia coli.,1985,,False,False,,True,True,10.1128/jb.161.3.1219-1221.1985,
+bio_MED_10829079,biomedical,bio_MED_10829079_031,Chromosomal transformation of Escherichia coli recD strains with linearized plasmids.,1989,,False,False,,True,True,10.1128/jb.171.5.2609-2613.1989,
+bio_MED_10829079,biomedical,bio_MED_10829079_032,Locus determining normal colony formation on the chromosome of Escherichia coli K-12.,1967,,False,True,cache,True,True,10.1128/jb.94.4.1268-1269.1967,1.0
+bio_MED_10829079,biomedical,bio_MED_10829079_033,Sequence identity of the n-1 product of a synthetic oligonucleotide.,1995,,False,True,europe_pmc,True,True,10.1093/nar/23.11.1841,1.0
+bio_MED_10829079,biomedical,bio_MED_10829079_034,Mutations determining generalized resistance to aminoglycoside antibiotics in Escherichia coli.,1978,,False,False,,False,False,10.1007/bf00266619,
+bio_MED_10829079,biomedical,bio_MED_10829079_035,A simple and efficient method for direct gene deletion in Saccharomyces cerevisiae.,1993,,False,True,europe_pmc,True,True,10.1093/nar/21.14.3329,1.0
+bio_MED_10829079,biomedical,bio_MED_10829079_036,Overlapping and separate controls on the phosphate regulon in Escherichia coli K12.,1983,,False,False,,False,False,10.1016/s0022-2836(83)80086-2,
+bio_MED_12130773,biomedical,bio_MED_12130773_000,Alzheimer's disease: initial report of the purification and characterization of a novel cerebrovascular amyloid protein.,1984,,False,False,,False,False,10.1016/s0006-291x(84)80190-4,
+bio_MED_12130773,biomedical,bio_MED_12130773_001,Alzheimer's disease and Down's syndrome: sharing of a unique cerebrovascular amyloid fibril protein.,1984,,False,False,,False,False,10.1016/0006-291x(84)91209-9,
+bio_MED_12130773,biomedical,bio_MED_12130773_002,Amyloid plaque core protein in Alzheimer disease and Down syndrome.,1985,,False,False,,True,True,10.1073/pnas.82.12.4245,
+bio_MED_12130773,biomedical,bio_MED_12130773_003,The precursor of Alzheimer's disease amyloid A4 protein resembles a cell-surface receptor.,1987,,False,False,,False,False,10.1038/325733a0,
+bio_MED_12130773,biomedical,bio_MED_12130773_004,Characterization and chromosomal localization of a cDNA encoding brain amyloid of Alzheimer's disease.,1987,,False,False,,False,False,10.1126/science.3810169,
+bio_MED_12130773,biomedical,bio_MED_12130773_005,"Amyloid beta protein gene: cDNA, mRNA distribution, and genetic linkage near the Alzheimer locus.",1987,,False,False,,False,False,10.1126/science.2949367,
+bio_MED_12130773,biomedical,bio_MED_12130773_006,Molecular cloning and characterization of a cDNA encoding the cerebrovascular and the neuritic plaque amyloid peptides.,1987,,False,True,europe_pmc,True,True,10.1073/pnas.84.12.4190,1.0
+bio_MED_12130773,biomedical,bio_MED_12130773_007,Presenile dementia and Alzheimer's disease in mongolism.,1969,,False,False,,False,False,10.1093/brain/92.1.147,
+bio_MED_12130773,biomedical,bio_MED_12130773_008,"Mutation of the Alzheimer's disease amyloid gene in hereditary cerebral hemorrhage, Dutch type.",1990,,False,False,,False,False,10.1126/science.2111584,
+bio_MED_12130773,biomedical,bio_MED_12130773_009,Amyloid beta protein precursor gene and hereditary cerebral hemorrhage with amyloidosis (Dutch).,1990,,False,False,,False,False,10.1126/science.1971458,
+bio_MED_12130773,biomedical,bio_MED_12130773_010,Segregation of a missense mutation in the amyloid precursor protein gene with familial Alzheimer's disease.,1991,,False,False,,False,False,10.3233/jad-2006-9s338,
+bio_MED_12130773,biomedical,bio_MED_12130773_011,A pathogenic mutation for probable Alzheimer's disease in the APP gene at the N-terminus of beta-amyloid.,1992,,False,False,,False,False,10.1038/ng0892-345,
+bio_MED_12130773,biomedical,bio_MED_12130773_012,Framing beta-amyloid.,1992,,False,False,,,,,
+bio_MED_12130773,biomedical,bio_MED_12130773_013,Presenile dementia and cerebral haemorrhage linked to a mutation at codon 692 of the beta-amyloid precursor protein gene.,1992,,False,True,europe_pmc,True,True,10.1038/ng0692-218,0.0
+bio_MED_12130773,biomedical,bio_MED_12130773_014,Amyloid beta-peptide is produced by cultured cells during normal metabolism.,1992,,False,False,,False,False,10.1038/359322a0,
+bio_MED_12130773,biomedical,bio_MED_12130773_015,Isolation and quantification of soluble Alzheimer's beta-peptide from biological fluids.,1992,,False,False,,False,False,10.1038/359325a0,
+bio_MED_12130773,biomedical,bio_MED_12130773_016,Production of the Alzheimer amyloid beta protein by normal proteolytic processing.,1992,,False,False,,False,False,10.1126/science.1439760,
+bio_MED_12130773,biomedical,bio_MED_12130773_017,Mutation of the beta-amyloid precursor protein in familial Alzheimer's disease increases beta-protein production.,1992,,False,True,cache,,,,0.0
+bio_MED_12130773,biomedical,bio_MED_12130773_018,Release of excess amyloid beta protein from a mutant amyloid beta protein precursor.,1993,,False,False,,False,False,10.1126/science.8424174,
+bio_MED_12130773,biomedical,bio_MED_12130773_019,An increased percentage of long amyloid beta protein secreted by familial amyloid beta protein precursor (beta APP717) mutants.,1994,,False,False,,False,False,10.1126/science.8191290,
+bio_MED_12130773,biomedical,bio_MED_12130773_020,Peptides homologous to the amyloid protein of Alzheimer's disease containing a glutamine for glutamic acid substitution have accelerated amyloid fibril formation.,1991,,False,False,,False,False,10.1016/0006-291x(91)91706-i,
+bio_MED_12130773,biomedical,bio_MED_12130773_021,The molecular pathology of Alzheimer's disease.,1991,,False,True,cache,False,False,10.1097/00002093-198802030-00074,1.0
+bio_MED_12130773,biomedical,bio_MED_12130773_022,Alzheimer's disease: the amyloid cascade hypothesis.,1992,,False,False,,,,,
+bio_MED_12130773,biomedical,bio_MED_12130773_024,A familial Alzheimer's disease locus on chromosome 1.,1995,,False,False,,,,,
+bio_MED_12130773,biomedical,bio_MED_12130773_025,Secreted amyloid beta-protein similar to that in the senile plaques of Alzheimer's disease is increased in vivo by the presenilin 1 and 2 and APP mutations linked to familial Alzheimer's disease.,1996,,False,False,,False,False,10.1038/nm0896-864,
+bio_MED_12130773,biomedical,bio_MED_12130773_026,Increased amyloid-beta42(43) in brains of mice expressing mutant presenilin 1.,1996,,False,False,,False,False,10.1038/383710a0,
+bio_MED_12130773,biomedical,bio_MED_12130773_027,Packing of myelin protein zero.,1996,,False,True,cache,True,True,10.1016/s0896-6273(00)80167-1,1.0
+bio_MED_12130773,biomedical,bio_MED_12130773_029,Deficiency of presenilin-1 inhibits the normal cleavage of amyloid precursor protein.,1998,,False,False,,False,False,10.1038/34910,
+bio_MED_12130773,biomedical,bio_MED_12130773_030,Two transmembrane aspartates in presenilin-1 required for presenilin endoproteolysis and gamma-secretase activity.,1999,,False,False,,False,False,10.1038/19077,
+bio_MED_12130773,biomedical,bio_MED_12130773_031,Tau is a candidate gene for chromosome 17 frontotemporal dementia.,1998,,False,False,,False,False,10.1002/ana.410430617,
+bio_MED_12130773,biomedical,bio_MED_12130773_033,Frontotemporal dementia and Parkinsonism linked to chromosome 17: a new group of tauopathies.,1998,,False,True,unpaywall,True,True,10.1111/j.1750-3639.1998.tb00162.x,0.857
+bio_MED_12130773,biomedical,bio_MED_12130773_034,Genetic dissection of Alzheimer's disease and related dementias: amyloid and its relationship to tau.,1998,,False,True,cache,False,False,10.1038/1565,1.0
+bio_MED_12130773,biomedical,bio_MED_12130773_035,Enhanced neurofibrillary degeneration in transgenic mice expressing mutant tau and APP.,2001,,False,False,,False,False,10.1126/science.1058189,
+bio_MED_12130773,biomedical,bio_MED_12130773_036,Tau is essential to beta -amyloid-induced neurotoxicity.,2002,,False,True,europe_pmc,,,,0.8
+bio_MED_12130773,biomedical,bio_MED_12130773_037,Lack of apolipoprotein E dramatically reduces amyloid beta-peptide deposition.,1997,,False,False,,False,False,10.1038/ng1197-263,
+bio_MED_12130773,biomedical,bio_MED_12130773_038,Gene dose of apolipoprotein E type 4 allele and the risk of Alzheimer's disease in late onset families.,1993,,False,False,,False,False,10.1126/science.8346443,
+bio_MED_16199517,biomedical,bio_MED_16199517_000,MLL translocations specify a distinct gene expression profile that distinguishes a unique leukemia.,2001,,False,False,,False,False,10.1038/ng765,
+bio_MED_16199517,biomedical,bio_MED_16199517_001,Systematic discovery of regulatory motifs in human promoters and 3' UTRs by comparison of several mammals.,2005,,False,False,,True,True,10.1038/nature03441,
+bio_MED_16199517,biomedical,bio_MED_16199517_002,The immunosuppressant rapamycin mimics a starvation-like signal distinct from amino acid and glucose deprivation.,2002,,False,True,europe_pmc,True,True,10.1128/mcb.22.15.5575-5584.2002,1.0
+bio_MED_16199517,biomedical,bio_MED_16199517_003,Gene-expression profiles predict survival of patients with lung adenocarcinoma.,2002,,False,False,,,,,
+bio_MED_16199517,biomedical,bio_MED_16199517_004,A role for hypoxia and hypoxia-inducible transcription factors in tumor physiology.,2002,,False,False,,False,False,10.1007/s00109-002-0355-1,
+bio_MED_16199517,biomedical,bio_MED_16199517_005,Cloning and characterization of the common fragile site FRA6F harboring a replicative senescence gene and frequently deleted in human tumors.,2002,,False,False,,False,False,10.1038/sj.onc.1205573,
+bio_MED_16199517,biomedical,bio_MED_16199517_006,Xist RNA and the mechanism of X chromosome inactivation.,2002,,False,True,cache,False,False,10.1146/annurev.genet.36.042902.092433,1.0
+bio_MED_16199517,biomedical,bio_MED_16199517_007,MAPPFinder: using Gene Ontology and GenMAPP to create a global gene-expression profile from microarray data.,2003,,False,True,cache,True,True,10.1186/gb-2003-4-1-r7,1.0
+bio_MED_16199517,biomedical,bio_MED_16199517_008,Identifying differentially expressed genes using false discovery rate controlling procedures.,2003,,False,False,,True,True,10.1093/bioinformatics/btf877,
+bio_MED_16199517,biomedical,bio_MED_16199517_009,"A novel gene, MSI2, encoding a putative RNA-binding protein is recurrently rearranged at disease progression of chronic myeloid leukemia and forms a fusion gene with HOXA9 as a result of the cryptic t",2003,,False,False,,,,,
+bio_MED_16199517,biomedical,bio_MED_16199517_010,Telomerase modulates expression of growth-controlling genes and enhances cell proliferation.,2003,,False,False,,False,False,10.1038/ncb985,
+bio_MED_16199517,biomedical,bio_MED_16199517_011,PGC-1alpha-responsive genes involved in oxidative phosphorylation are coordinately downregulated in human diabetes.,2003,,False,False,,False,False,10.1038/ng1180,
+bio_MED_16199517,biomedical,bio_MED_16199517_012,Coordinated reduction of genes of oxidative metabolism in humans with insulin resistance and diabetes: Potential role of PGC1 and NRF1.,2003,,False,True,europe_pmc,,,,1.0
+bio_MED_16199517,biomedical,bio_MED_16199517_013,Escape from X inactivation.,2002,,False,True,europe_pmc,,,,1.0
+bio_MED_16199517,biomedical,bio_MED_16199517_014,A mechanism of cyclin D1 action encoded in the patterns of gene expression in human cancer.,2003,,False,True,cache,True,True,10.1016/s0092-8674(03)00570-1,1.0
+bio_MED_16199517,biomedical,bio_MED_16199517_015,"Comment on "" 'Stemness': transcriptional profiling of embryonic and adult stem cells"" and ""a stem cell molecular signature"".",2003,,False,False,,False,False,10.1126/science.1086384,
+bio_MED_16199517,biomedical,bio_MED_16199517_016,Characterizing gene sets with FuncAssociate.,2003,,False,False,,True,True,10.1093/bioinformatics/btg363,
+bio_MED_16199517,biomedical,bio_MED_16199517_017,Rapamycin inhibits the growth and metastatic progression of non-small cell lung cancer.,2004,,False,False,,False,False,10.1158/1078-0432.ccr-0629-3,
+bio_MED_16199517,biomedical,bio_MED_16199517_018,Impaired mitochondrial activity in the insulin-resistant offspring of patients with type 2 diabetes.,2004,,False,False,,True,True,10.1056/nejmoa031314,
+bio_MED_16199517,biomedical,bio_MED_16199517_019,Cytogenetics in acute leukemia.,2004,,False,False,,,,,
+bio_MED_16199517,biomedical,bio_MED_16199517_020,mTOR inhibition reverses Akt-dependent prostate intraepithelial neoplasia through regulation of apoptotic and HIF-1-dependent pathways.,2004,,False,False,,False,False,10.1038/nm1052,
+bio_MED_16199517,biomedical,bio_MED_16199517_021,Quantitative monitoring of gene expression patterns with a complementary DNA microarray.,1995,,False,False,,False,False,10.1126/science.270.5235.467,
+bio_MED_16199517,biomedical,bio_MED_16199517_022,Molecular delineation of the smallest commonly deleted region of chromosome 5 in malignant myeloid diseases to 1-1.5 Mb and preparation of a PAC-based physical map.,1997,,False,True,europe_pmc,True,True,10.1073/pnas.94.13.6948,1.0
+bio_MED_16199517,biomedical,bio_MED_16199517_023,Expression monitoring by hybridization to high-density oligonucleotide arrays.,1996,,False,False,,False,False,10.1038/nbt1296-1675,
+bio_MED_16199517,biomedical,bio_MED_16199517_024,"Frequent allelic loss of the RB, D13S319 and D13S25 locus in myeloid malignancies with deletion/translocation at 13q14 of chromosome 13, but not in lymphoid malignancies.",1999,,False,False,,False,False,10.1038/sj.leu.2401482,
+bio_MED_16199517,biomedical,bio_MED_16199517_025,An oncogenic KRAS2 expression signature identified by cross-species gene-expression analysis.,2004,,False,False,,False,False,10.1038/ng1490,
+bio_MED_16199517,biomedical,bio_MED_16199517_026,GoSurfer: a graphical interactive tool for comparative analysis of large gene sets in Gene Ontology space.,2004,,False,False,,,,,
+bio_MED_16199517,biomedical,bio_MED_16199517_027,The IARC TP53 database: new online mutation analysis and recommendations to users.,2002,,False,False,,False,False,10.1002/humu.10081,
+bio_MED_16199517,biomedical,bio_MED_16199517_028,A first-generation X-inactivation profile of the human X chromosome.,1999,,False,False,,True,True,10.1073/pnas.96.25.14440,
+bio_MED_16199517,biomedical,bio_MED_16199517_029,Controlling the false discovery rate in behavior genetics research.,2001,,False,False,,False,False,10.1016/s0166-4328(01)00297-2,
+bio_MED_16199517,biomedical,bio_MED_16199517_030,Classification of human lung carcinomas by mRNA expression profiling reveals distinct adenocarcinoma subclasses.,2001,,False,False,,True,True,10.1073/pnas.191502998,
+bio_MED_16199517,biomedical,bio_MED_16199517_031,Diversity of gene expression in adenocarcinoma of the lung.,2001,,False,True,europe_pmc,,,,1.0
+bio_MED_16199517,biomedical,bio_MED_16199517_032,Molecular profiling of diffuse large B-cell lymphoma identifies robust subtypes including one characterized by host inflammatory response.,2004,,False,False,,False,False,10.1182/blood.v104.11.25.25,
+bio_MED_17562483,biomedical,bio_MED_17562483_000,Apoptosis in caspase-inhibited neurons.,2001,,False,True,europe_pmc,True,True,10.1007/bf03401837,0.75
+bio_MED_17562483,biomedical,bio_MED_17562483_001,"Bad, a heterodimeric partner for Bcl-XL and Bcl-2, displaces Bax and promotes cell death.",1995,,False,False,,True,True,10.1016/0092-8674(95)90411-5,
+bio_MED_17562483,biomedical,bio_MED_17562483_002,Role of free radicals in aging and disease.,1992,,False,False,,,,,
+bio_MED_17562483,biomedical,bio_MED_17562483_003,Autoimmune lymphoproliferative syndrome: molecular basis of disease and clinical phenotype.,2006,,False,False,,True,True,10.1111/j.1365-2141.2006.05993.x,
+bio_MED_17562483,biomedical,bio_MED_17562483_004,Li-Fraumeni syndrome--a molecular and clinical review.,1997,,False,False,,True,True,10.1038/bjc.1997.328,
+bio_MED_17562483,biomedical,bio_MED_17562483_005,Autophagy in yeast: a review of the molecular machinery.,2002,,False,True,cache,True,True,10.1247/csf.27.409,1.0
+bio_MED_17562483,biomedical,bio_MED_17562483_006,A fresh look at tumor immunosurveillance and immunotherapy.,2001,,False,False,,False,False,10.1038/86297,
+bio_MED_17562483,biomedical,bio_MED_17562483_007,Apoptosis is initiated by myocardial ischemia and executed during reperfusion.,2000,,False,False,,False,False,10.1006/jmcc.1999.1066,
+bio_MED_17562483,biomedical,bio_MED_17562483_008,The Oscar-worthy role of Myc in apoptosis.,2006,,False,False,,False,False,10.1016/j.semcancer.2006.07.011,
+bio_MED_17562483,biomedical,bio_MED_17562483_009,Apoptotic and necrotic cell death induced by death domain receptors.,2001,,False,True,europe_pmc,True,True,10.1007/pl00000863,1.0
+bio_MED_17562483,biomedical,bio_MED_17562483_010,Caspase-14 is a novel developmentally regulated protease.,1998,,False,False,,True,True,10.1074/jbc.273.45.29648,
+bio_MED_17562483,biomedical,bio_MED_17562483_011,The morphology of apoptosis.,2000,,False,False,,,,,
+bio_MED_17562483,biomedical,bio_MED_17562483_012,Hyperphosphorylation of histone H2A.X and dephosphorylation of histone H1 subtypes in the course of apoptosis.,2002,,False,False,,True,True,10.1038/sj.cdd.4400925,
+bio_MED_17562483,biomedical,bio_MED_17562483_013,Cell cycle regulation and apoptosis.,1998,,False,False,,,,,
+bio_MED_17562483,biomedical,bio_MED_17562483_014,Mechanisms of cytochrome c release from mitochondria.,2006,,False,False,,True,True,10.1038/sj.cdd.4401950,
+bio_MED_17562483,biomedical,bio_MED_17562483_015,"Apoptosis, oncosis, and necrosis. An overview of cell death.",1995,,False,False,,,,,
+bio_MED_17562483,biomedical,bio_MED_17562483_016,Analysis of apoptosis by laser scanning cytometry.,1999,,False,False,,False,False,10.1002/(sici)1097-0320(19990301)35:3<181::aid-cyto1>3.0.co;2-5,
+bio_MED_17562483,biomedical,bio_MED_17562483_017,Use of fluorescently labeled caspase inhibitors as affinity labels to detect activated caspases.,2002,,False,False,,False,False,10.1111/j.1749-0774.2002.tb00094.x,
+bio_MED_17562483,biomedical,bio_MED_17562483_018,Phagocytosis promotes programmed cell death in C. elegans.,2001,,False,False,,False,False,10.1038/35084096,
+bio_MED_17562483,biomedical,bio_MED_17562483_019,Caspase-12 mediates endoplasmic-reticulum-specific apoptosis and cytotoxicity by amyloid-beta.,2000,,False,False,,False,False,10.1038/47513,
+bio_MED_17562483,biomedical,bio_MED_17562483_020,Poly(ADP-ribose) polymerase-1 hyperactivation and impairment of mitochondrial respiratory chain complex I function in reperfused mouse hearts.,2006,,False,False,,False,False,10.1152/ajpheart.00823.2005,
+bio_MED_17562483,biomedical,bio_MED_17562483_021,The roles of Bid.,2002,,False,True,cache,False,False,10.1023/a:1020035124855,1.0
+bio_MED_17562483,biomedical,bio_MED_17562483_022,The TNF receptor 1-associated protein TRADD signals cell death and NF-kappa B activation.,1995,,False,False,,True,True,10.1016/0092-8674(95)90070-5,
+bio_MED_17562483,biomedical,bio_MED_17562483_023,The apoptosis-necrosis paradox. Apoptogenic proteases activated after mitochondrial permeability transition determine the mode of cell death.,1997,,False,False,,False,False,10.1038/sj.onc.1201324,
+bio_MED_17562483,biomedical,bio_MED_17562483_024,Characterization of 8p21.3 chromosomal deletions in B-cell lymphoma: TRAIL-R1 and TRAIL-R2 as candidate dosage-dependent tumor suppressor genes.,2005,,False,False,,True,True,10.1182/blood-2005-05-2013,
+bio_MED_17562483,biomedical,bio_MED_17562483_025,Apoptosis. Its significance in cancer and cancer therapy.,1994,,False,False,,False,False,10.1002/1097-0142(19940415)73:8<2013::aid-cncr2820730802>3.0.co;2-j,
+bio_MED_17562483,biomedical,bio_MED_17562483_026,Evidence that caspase-13 is not a human but a bovine gene.,2001,,False,False,,False,False,10.1006/bbrc.2001.5315,
+bio_MED_17562483,biomedical,bio_MED_17562483_027,Nuclear war: the granzyme A-bomb.,2003,,False,True,cache,False,False,10.1016/s0952-7915(03)00108-0,1.0
+bio_MED_17562483,biomedical,bio_MED_17562483_028,"Granzyme A, which causes single-stranded DNA damage, targets the double-strand break repair protein Ku70.",2006,,False,True,cache,True,True,10.1038/sj.embor.7400622,1.0
+bio_MED_17562483,biomedical,bio_MED_17562483_029,"More than one way to die: apoptosis, necrosis and reactive oxygen damage.",1999,,False,False,,False,False,10.1038/sj.onc.1203249,
+bio_MED_17562483,biomedical,bio_MED_17562483_030,"Noxa, a BH3-only member of the Bcl-2 family and candidate mediator of p53-induced apoptosis.",2000,,False,False,,False,False,10.1126/science.288.5468.1053,
+bio_MED_17562483,biomedical,bio_MED_17562483_031,Walther Flemming: pioneer of mitosis research.,2001,,False,False,,False,False,10.1038/35048077,
+bio_MED_17562483,biomedical,bio_MED_17562483_032,The death domain kinase RIP mediates the TNF-induced NF-kappaB signal.,1998,,False,True,cache,True,True,10.1016/s1074-7613(00)80535-x,0.857
+bio_MED_17562483,biomedical,bio_MED_17562483_033,Inhibitor of apoptosis proteins: translating basic knowledge into clinical practice.,2004,,False,False,,False,False,10.1158/0008-5472.can-04-1918,
+bio_MED_17562483,biomedical,bio_MED_17562483_034,Granzyme B is critical for T cell receptor-induced cell death of type 2 helper T cells.,2006,,False,True,cache,True,True,10.1016/j.immuni.2006.06.011,1.0
+bio_MED_17562483,biomedical,bio_MED_17562483_035,The serine protease Omi/HtrA2 is released from mitochondria during apoptosis. Omi interacts with caspase-inhibitor XIAP and induces enhanced caspase activity.,2002,,False,False,,True,True,10.1038/sj.cdd.4400970,
+bio_MED_17562483,biomedical,bio_MED_17562483_036,Acute hemorrhagic myocardial necrosis and sudden death of rats exposed to a combination of ephedrine and caffeine.,2004,,False,False,,True,True,10.1093/toxsci/kfi034,
+bio_MED_17562483,biomedical,bio_MED_17562483_037,Glucocorticoid-induced thymocyte apoptosis is associated with endogenous endonuclease activation.,1980,,False,False,,False,False,10.1038/284555a0,
+bio_MED_17562483,biomedical,bio_MED_17562483_038,Fas ligand-mediated apoptosis in degenerative disorders of the brain.,2003,,False,False,,False,False,10.1023/a:1025317516396,
+bio_MED_17562483,biomedical,bio_MED_17562483_039,Death and anti-death: tumour resistance to apoptosis.,2002,,False,False,,False,False,10.1038/nrc776,
+bio_MED_21376230,biomedical,bio_MED_21376230_000,The Bcl-2 apoptotic switch in cancer development and therapy.,2007,,False,False,,True,True,10.1038/sj.onc.1210220,
+bio_MED_21376230,biomedical,bio_MED_21376230_001,"Models, mechanisms and clinical evidence for cancer dormancy.",2007,,False,False,,True,True,10.1038/nrc2256,
+bio_MED_21376230,biomedical,bio_MED_21376230_002,Angiogenic signalling pathways.,2009,,False,False,,False,False,10.1007/978-1-59745-241-0_1,
+bio_MED_21376230,biomedical,bio_MED_21376230_003,Prospective identification of tumorigenic breast cancer cells.,2003,,False,False,,,,,
+bio_MED_21376230,biomedical,bio_MED_21376230_004,The roles of therapy-induced autophagy and necrosis in cancer treatment.,2007,,False,False,,True,True,10.1158/1078-0432.ccr-07-1595,
+bio_MED_21376230,biomedical,bio_MED_21376230_005,A module of negative feedback regulators defines growth factor signaling.,2007,,False,False,,False,False,10.1038/ng1987,
+bio_MED_21376230,biomedical,bio_MED_21376230_006,Autophagy-A double-edged sword in oncology.,2009,,False,True,cache,,,,1.0
+bio_MED_21376230,biomedical,bio_MED_21376230_007,Mice without telomerase: what can they teach us about human cancer?,2000,,False,False,,False,False,10.1038/78595,
+bio_MED_21376230,biomedical,bio_MED_21376230_008,Telomeres and telomerase in cancer.,2009,,False,True,europe_pmc,False,False,10.1007/978-1-60327-879-9_7,1.0
+bio_MED_21376230,biomedical,bio_MED_21376230_009,Mechanisms of resistance to antiangiogenesis therapy.,2010,,False,False,,False,False,10.1016/j.ejca.2010.02.020,
+bio_MED_21376230,biomedical,bio_MED_21376230_010,The angiogenic switch in carcinogenesis.,2009,,False,False,,True,True,10.1016/j.semcancer.2009.05.003,
+bio_MED_21376230,biomedical,bio_MED_21376230_011,Cellular abnormalities of blood vessels as targets in cancer.,2005,,False,False,,False,False,10.1016/j.gde.2004.12.005,
+bio_MED_21376230,biomedical,bio_MED_21376230_012,Extracellular matrix: a gatekeeper in the transition from dormancy to metastatic growth.,2010,,False,False,,True,True,10.1016/j.ejca.2010.02.027,
+bio_MED_21376230,biomedical,bio_MED_21376230_013,Repair and genetic consequences of endogenous DNA base damage in mammalian cells.,2004,,False,False,,False,False,10.1146/annurev.genet.38.072902.092448,
+bio_MED_21376230,biomedical,bio_MED_21376230_014,The Snail genes as inducers of cell movement and survival: implications in development and cancer.,2005,,False,False,,True,True,10.1242/dev.01907,
+bio_MED_21376230,biomedical,bio_MED_21376230_015,Aberrant epigenetic landscape in cancer: how cellular identity goes awry.,2010,,False,True,cache,True,True,10.1016/j.devcel.2010.10.005,1.0
+bio_MED_21376230,biomedical,bio_MED_21376230_016,Tumorigenesis and the angiogenic switch.,2003,,False,False,,False,False,10.1038/nrc1093,
+bio_MED_21376230,biomedical,bio_MED_21376230_017,Modes of resistance to anti-angiogenic therapy.,2008,,False,False,,True,True,10.1038/nrc2442,
+bio_MED_21376230,biomedical,bio_MED_21376230_018,The role of pericytes in blood-vessel formation and maintenance.,2005,,False,True,europe_pmc,True,True,10.1215/s1152851705000232,1.0
+bio_MED_21376230,biomedical,bio_MED_21376230_019,Bone marrow-derived mesenchymal stem cells and the tumor microenvironment.,2010,,False,True,europe_pmc,False,False,10.1007/s10555-010-9222-7,0.875
+bio_MED_21376230,biomedical,bio_MED_21376230_020,Involvement of members of the cadherin superfamily in cancer.,2009,,False,True,cache,True,True,10.1101/cshperspect.a003129,1.0
+bio_MED_21376230,biomedical,bio_MED_21376230_021,Stromal fibroblasts in cancer initiation and progression.,2004,,False,True,cache,True,True,10.1038/nature03096,1.0
+bio_MED_21376230,biomedical,bio_MED_21376230_022,Tumour microenvironment: TGFbeta: the molecular Jekyll and Hyde of cancer.,2006,,False,False,,,,,
+bio_MED_21376230,biomedical,bio_MED_21376230_023,Natural immunity to cancer in humans.,2010,,False,True,cache,True,True,10.1016/j.coi.2010.02.006,0.5
+bio_MED_21376230,biomedical,bio_MED_21376230_024,Macrophage plasticity and interaction with lymphocyte subsets: cancer as a paradigm.,2010,,False,False,,False,False,10.1038/ni.1937,
+bio_MED_21376230,biomedical,bio_MED_21376230_025,"Telomeres and human disease: ageing, cancer and beyond.",2005,,False,False,,False,False,10.1038/nrg1656,
+bio_MED_21376230,biomedical,bio_MED_21376230_026,Human melanoma-initiating cells express neural crest nerve growth factor receptor CD271.,2010,,False,True,core,True,True,10.1038/nature09161,1.0
+bio_MED_21376230,biomedical,bio_MED_21376230_027,Human acute myeloid leukemia is organized as a hierarchy that originates from a primitive hematopoietic cell.,1997,,False,False,,False,False,10.1038/nm0797-730,
+bio_MED_21376230,biomedical,bio_MED_21376230_028,Genes that mediate breast cancer metastasis to the brain.,2009,,False,False,,,,,
+bio_MED_21376230,biomedical,bio_MED_21376230_029,Variable beta-catenin expression in colorectal cancers indicates tumor progression driven by the tumor environment.,2001,,False,True,europe_pmc,True,True,10.1073/pnas.171610498,0.909
+bio_MED_21376230,biomedical,bio_MED_21376230_030,Opinion: migrating cancer stem cells - an integrated concept of malignant tumour progression.,2005,,False,False,,False,False,10.1038/nrc1694,
+bio_MED_21376230,biomedical,bio_MED_21376230_031,Loss of homotypic cell adhesion by epithelial-mesenchymal transition or mutation limits sensitivity to epidermal growth factor receptor inhibition.,2007,,False,False,,False,False,10.1158/1535-7163.mct-06-0462,
+bio_MED_21376230,biomedical,bio_MED_21376230_032,Cellular mechanisms of tumour suppression by the retinoblastoma gene.,2008,,False,False,,True,True,10.1038/nrc2399,
+bio_MED_21376230,biomedical,bio_MED_21376230_033,"Sprouty proteins, masterminds of receptor tyrosine kinase signaling.",2008,,False,False,,False,False,10.1007/s10456-008-9089-1,
+bio_MED_21376230,biomedical,bio_MED_21376230_034,The patterns and dynamics of genomic instability in metastatic pancreatic cancer.,2010,,False,True,cache,True,True,10.3410/f.5847956.5835054,1.0
+bio_MED_21376230,biomedical,bio_MED_21376230_035,Adipose tissue angiogenesis as a therapeutic target for obesity and metabolic diseases.,2010,,False,False,,True,True,10.1038/nrd3055,
+bio_MED_21376230,biomedical,bio_MED_21376230_036,VEGF as a key mediator of angiogenesis in cancer.,2005,,False,False,,False,False,10.1159/000088478,
+bio_MED_21376230,biomedical,bio_MED_21376230_037,Angiogenesis in cancer and other diseases.,2000,,False,True,cache,False,False,10.1038/35025220,1.0
+bio_MED_21376230,biomedical,bio_MED_21376230_038,Cell adhesion and signalling by cadherins and Ig-CAMs in cancer.,2004,,False,False,,False,False,10.1038/nrc1276,
+bio_MED_21376230,biomedical,bio_MED_21376230_039,Transforming growth factor-beta signaling-deficient fibroblasts enhance hepatocyte growth factor signaling in mammary carcinoma cells to promote scattering and invasion.,2008,,False,False,,True,True,10.1158/1541-7786.mcr-07-2203,
+bio_MED_21514250,biomedical,bio_MED_21514250_000,Abeta amyloid and glucose metabolism in three variants of primary progressive aphasia.,2008,,False,False,,True,True,10.1002/ana.21451,
+bio_MED_21514250,biomedical,bio_MED_21514250_001,Frontotemporal lobar degeneration: a consensus on clinical diagnostic criteria.,1998,,False,False,,False,False,10.1212/wnl.53.5.1158-b,
+bio_MED_21514250,biomedical,bio_MED_21514250_002,Vascular dementia: diagnostic criteria for research studies. Report of the NINDS-AIREN International Workshop.,1993,,False,False,,,,,
+bio_MED_21514250,biomedical,bio_MED_21514250_003,Classification of primary progressive aphasia and its variants.,2011,,False,False,,True,True,10.1016/s1053-8119(09)70234-4,
+bio_MED_21514250,biomedical,bio_MED_21514250_004,Practice parameter: diagnosis of dementia (an evidence-based review). Report of the Quality Standards Subcommittee of the American Academy of Neurology.,2001,,False,False,,False,False,10.1212/01.wnl.0000252726.13187.63,
+bio_MED_21514250,biomedical,bio_MED_21514250_005,"Clinical, pathological, and biochemical spectrum of Alzheimer disease associated with PS-1 mutations.",2004,,False,False,,False,False,10.1176/appi.ajgp.12.2.146,
+bio_MED_21514250,biomedical,bio_MED_21514250_006,Diagnosis and management of dementia with Lewy bodies: third report of the DLB Consortium.,2005,,False,False,,True,True,10.1212/wnl.65.12.1992-a,
+bio_MED_21514250,biomedical,bio_MED_21514250_007,Decreased cerebrospinal fluid Abeta(42) correlates with brain atrophy in cognitively normal elderly.,2009,,False,False,,False,False,10.3410/f.1158720.618938,
+bio_MED_21514250,biomedical,bio_MED_21514250_008,Hypothetical model of dynamic biomarkers of the Alzheimer's pathological cascade.,2010,,False,False,,True,True,10.1016/s1474-4422(09)70299-6,
+bio_MED_21514250,biomedical,bio_MED_21514250_009,Diagnostic criteria for the behavioral variant of frontotemporal dementia (bvFTD): current limitations and future directions.,2007,,False,False,,False,False,10.1097/wad.0b013e31815c3445,
+bio_MED_21514250,biomedical,bio_MED_21514250_010,Toward defining the preclinical stages of Alzheimer's disease: recommendations from the National Institute on Aging-Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease.,2011,,False,False,,,,,
+bio_MED_21514250,biomedical,bio_MED_21514250_011,Core candidate neurochemical and imaging biomarkers of Alzheimer's disease.,2007,,False,True,cache,False,False,10.1016/j.jalz.2007.08.006,1.0
+bio_MED_21514250,biomedical,bio_MED_21514250_012,Consensus recommendations for the postmortem diagnosis of Alzheimer disease from the National Institute on Aging and the Reagan Institute Working Group on diagnostic criteria for the neuropathological,1997,,False,False,,True,True,10.1097/00005072-199710000-00002,
+bio_MED_21514250,biomedical,bio_MED_21514250_013,Utility of the apolipoprotein E genotype in the diagnosis of Alzheimer's disease. Alzheimer's Disease Centers Consortium on Apolipoprotein E and Alzheimer's Disease.,1998,,False,False,,,,,
+bio_MED_21514250,biomedical,bio_MED_21514250_014,The diagnosis of mild cognitive impairment due to Alzheimer's disease: recommendations from the National Institute on Aging-Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's ,2011,,False,False,,,,,
+bio_MED_21514250,biomedical,bio_MED_21514250_015,Research criteria for the diagnosis of Alzheimer's disease: revising the NINCDS-ADRDA criteria.,2007,,False,False,,,,,
+bio_MED_21514250,biomedical,bio_MED_21514250_016,Focal cortical presentations of Alzheimer's disease.,2007,,False,False,,True,True,10.1093/brain/awm213,
+bio_MED_21514250,biomedical,bio_MED_21514250_017,11C PiB and structural MRI provide complementary information in imaging of Alzheimer's disease and amnestic mild cognitive impairment.,2008,,False,False,,True,True,10.1093/brain/awm336,
+bio_MED_21514250,biomedical,bio_MED_21514250_018,Introduction to the recommendations from the National Institute on Aging-Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease.,2011,,False,True,cache,False,False,10.1016/j.jalz.2011.04.001,0.917
+bio_MED_21514250,biomedical,bio_MED_21514250_019,Relationship between atrophy and beta-amyloid deposition in Alzheimer disease.,2010,,False,False,,False,False,10.3410/f.4324968.4144068,
+bio_MED_21514250,biomedical,bio_MED_21514250_020,Clinical and pathological diagnosis of frontotemporal dementia: report of the Work Group on Frontotemporal Dementia and Pick's Disease.,2001,,False,False,,,,,
+bio_MED_21514250,biomedical,bio_MED_21514250_021,"Age, Alzheimer's disease and dementia in the Baltimore Longitudinal Study of Ageing.",2010,,False,False,,True,True,10.1093/brain/awq141,
+bio_MED_21514250,biomedical,bio_MED_21514250_022,Thirty years of Alzheimer's disease genetics: the implications of systematic meta-analyses.,2008,,False,False,,False,False,10.1038/nrn2494,
+bio_MED_21514250,biomedical,bio_MED_21514250_023,Clinical diagnosis of Alzheimer's disease: report of the NINCDS-ADRDA Work Group under the auspices of Department of Health and Human Services Task Force on Alzheimer's Disease.,1984,,False,False,,True,True,10.1212/01.wnl.0000400650.92875.cf,
+bio_MED_22437870,biomedical,bio_MED_22437870_000,Trans-endocytosis of CD80 and CD86: a molecular basis for the cell-extrinsic function of CTLA-4.,2011,,False,True,cache,False,False,10.3410/f.10227956.12934054,1.0
+bio_MED_22437870,biomedical,bio_MED_22437870_001,Autoimmune dilated cardiomyopathy in PD-1 receptor-deficient mice.,2001,,False,False,,False,False,10.1126/science.291.5502.319,
+bio_MED_22437870,biomedical,bio_MED_22437870_002,Up on the tightrope: natural killer cell activation and inhibition.,2008,,False,False,,True,True,10.1038/ni1581,
+bio_MED_22437870,biomedical,bio_MED_22437870_003,"Oncogenic kinase NPM/ALK induces through STAT3 expression of immunosuppressive protein CD274 (PD-L1, B7-H1).",2008,,False,True,europe_pmc,True,True,10.1073/pnas.0810958105,1.0
+bio_MED_22437870,biomedical,bio_MED_22437870_004,Cytotoxic T lymphocyte antigen-4 accumulation in the immunological synapse is regulated by TCR signal strength.,2002,,False,True,cache,True,True,10.1016/s1074-7613(01)00259-x,1.0
+bio_MED_22437870,biomedical,bio_MED_22437870_005,Anti-TIM3 antibody promotes T cell IFN-γ-mediated antitumor immunity and suppresses established tumors.,2011,,False,False,,True,True,10.1158/0008-5472.c.6502028.v1,
+bio_MED_22437870,biomedical,bio_MED_22437870_006,Restoring function in exhausted CD8 T cells during chronic viral infection.,2005,,False,False,,False,False,10.3410/f.10182.363455,
+bio_MED_22437870,biomedical,bio_MED_22437870_007,Improved endpoints for cancer immunotherapy trials.,2010,,False,False,,True,True,10.1093/jnci/djq310,
+bio_MED_22437870,biomedical,bio_MED_22437870_008,"LAG-3, a novel lymphocyte activation gene closely related to CD4.",1990,,False,True,europe_pmc,True,True,10.1084/jem.171.5.1393,1.0
+bio_MED_22437870,biomedical,bio_MED_22437870_009,Coregulation of CD8+ T cell exhaustion by multiple inhibitory receptors during chronic viral infection.,2008,,False,True,cache,True,True,10.1038/ni.1679,0.2
+bio_MED_22437870,biomedical,bio_MED_22437870_010,"Indoleamine 2,3-dioxygenase and tumor-induced tolerance.",2007,,False,True,cache,True,True,10.1172/jci31178,1.0
+bio_MED_22437870,biomedical,bio_MED_22437870_011,Combining immunotherapy and targeted therapies in cancer treatment.,2012,,False,True,europe_pmc,True,True,10.1038/nrc3237,1.0
+bio_MED_22437870,biomedical,bio_MED_22437870_012,PD-1 and PD-1 ligands: from discovery to clinical application.,2007,,False,False,,True,True,10.1093/intimm/dxm057,
+bio_MED_22437870,biomedical,bio_MED_22437870_013,Adenosine generation catalyzed by CD39 and CD73 expressed on regulatory T cells mediates immune suppression.,2007,,False,True,europe_pmc,True,True,10.1084/jem.20062512,1.0
+bio_MED_22437870,biomedical,bio_MED_22437870_014,Human B7-1 (CD80) and B7-2 (CD86) bind with similar avidities but distinct kinetics to CD28 and CTLA-4 receptors.,1994,,False,False,,False,False,10.1016/s1074-7613(94)80021-9,
+bio_MED_22437870,biomedical,bio_MED_22437870_015,"Loss of CTLA-4 leads to massive lymphoproliferation and fatal multiorgan tissue destruction, revealing a critical negative regulatory role of CTLA-4.",1995,,False,False,,True,True,10.1016/1074-7613(95)90125-6,
+bio_MED_22437870,biomedical,bio_MED_22437870_016,Enterocolitis in patients with cancer after antibody blockade of cytotoxic T-lymphocyte-associated antigen 4.,2006,,False,False,,False,False,10.1016/s1040-1741(08)79104-8,
+bio_MED_22437870,biomedical,bio_MED_22437870_017,PD-L1/B7H-1 inhibits the effector phase of tumor rejection by T cell receptor (TCR) transgenic CD8+ T cells.,2004,,False,False,,True,True,10.1158/0008-5472.can-03-3259,
+bio_MED_22437870,biomedical,bio_MED_22437870_018,Blockade of programmed death-1 ligands on dendritic cells enhances T cell activation and cytokine production.,2003,,False,False,,False,False,10.4049/jimmunol.170.3.1257,
+bio_MED_22437870,biomedical,bio_MED_22437870_019,"Costimulation of T lymphocytes: the role of CD28, CTLA-4, and B7/BB1 in interleukin-2 production and immunotherapy.",1992,,False,False,,False,False,10.1016/s0092-8674(05)80055-8,
+bio_MED_22437870,biomedical,bio_MED_22437870_020,IFN-gamma regulates the expression of B7-H1 in dermal fibroblast cells.,2005,,False,False,,False,False,10.1016/j.jdermsci.2005.06.008,
+bio_MED_22437870,biomedical,bio_MED_22437870_021,Improved survival with ipilimumab in patients with metastatic melanoma.,2010,,False,False,,True,True,10.1056/nejmx100063,
+bio_MED_22437870,biomedical,bio_MED_22437870_022,Combination immunotherapy of B16 melanoma using anti-cytotoxic T lymphocyte-associated antigen 4 (CTLA-4) and granulocyte/macrophage colony-stimulating factor (GM-CSF)-producing vaccines induces rejec,1999,,False,True,europe_pmc,True,True,10.1084/jem.190.3.355,1.0
+bio_MED_22437870,biomedical,bio_MED_22437870_023,PD-1 and its ligands in tolerance and immunity.,2008,,False,False,,True,True,10.1146/annurev.immunol.26.021607.090331,
+bio_MED_22437870,biomedical,bio_MED_22437870_024,"Antitumor activity in melanoma and anti-self responses in a phase I trial with the anti-cytotoxic T lymphocyte-associated antigen 4 monoclonal antibody CP-675,206.",2005,,False,False,,False,False,10.1200/jco.2005.01.109,
+bio_MED_22437870,biomedical,bio_MED_22437870_025,Involvement of PD-L1 on tumor cells in the escape from host immune system and tumor immunotherapy by PD-L1 blockade.,2002,,False,True,europe_pmc,False,False,10.1073/pnas.192461099,1.0
+bio_MED_22437870,biomedical,bio_MED_22437870_026,Human prostate-infiltrating CD8+ T lymphocytes are oligoclonal and PD-1+.,2009,,False,False,,True,True,10.1002/pros.21020,
+bio_MED_22437870,biomedical,bio_MED_22437870_027,Tissue expression of PD-L1 mediates peripheral T cell tolerance.,2006,,False,False,,True,True,10.1084/jem.20051776,
+bio_MED_22437870,biomedical,bio_MED_22437870_028,"B7-DC, a new dendritic cell molecule with potent costimulatory properties for T cells.",2001,,False,True,europe_pmc,True,True,10.1084/jem.193.7.839,1.0
+bio_MED_22437870,biomedical,bio_MED_22437870_029,"Cells expressing indoleamine 2,3-dioxygenase inhibit T cell responses.",2002,,False,False,,False,False,10.4049/jimmunol.168.8.3771,
+bio_MED_22437870,biomedical,bio_MED_22437870_030,The inhibitory role of b7-h4 in antitumor immunity: association with cancer progression and survival.,2011,,False,False,,True,True,10.1155/2011/695834,
+bio_MED_22437870,biomedical,bio_MED_22437870_031,CD28 and CTLA-4 coreceptor expression and signal transduction.,2009,,False,True,cache,False,False,10.1111/j.1600-065x.2009.00770.x,1.0
+bio_MED_22437870,biomedical,bio_MED_22437870_032,Tumor antigen-specific CD8 T cells infiltrating the tumor express high levels of PD-1 and are functionally impaired.,2009,,False,False,,True,True,10.1182/blood-2008-12-195792,
+bio_MED_22437870,biomedical,bio_MED_22437870_033,B70 antigen is a second ligand for CTLA-4 and CD28.,1993,,False,False,,False,False,10.1038/366076a0,
+bio_MED_22437870,biomedical,bio_MED_22437870_034,Costimulatory B7-H1 in renal cell carcinoma patients: Indicator of tumor aggressiveness and potential therapeutic target.,2004,,False,True,europe_pmc,True,True,10.1073/pnas.0406351101,1.0
+bio_MED_22437870,biomedical,bio_MED_22437870_035,Role of LAG-3 in regulatory T cells.,2004,,False,True,cache,,,,1.0
+bio_MED_22437870,biomedical,bio_MED_22437870_036,Gene signature in melanoma associated with clinical activity: a potential clue to unlock cancer immunotherapy.,2010,,False,False,,,,,
+bio_MED_22437870,biomedical,bio_MED_22437870_037,T-cell antigen CD28 mediates adhesion with B cells by interacting with activation antigen B7/BB-1.,1990,,False,True,europe_pmc,True,True,10.1073/pnas.87.13.5031,1.0
+bio_MED_22437870,biomedical,bio_MED_22437870_038,Arginine regulation by myeloid derived suppressor cells and tolerance in cancer: mechanisms and therapeutic perspectives.,2008,,False,False,,False,False,10.1111/j.1600-065x.2008.00608.x,
+bio_MED_22437870,biomedical,bio_MED_22437870_039,"Induced expression of PD-1, a novel member of the immunoglobulin gene superfamily, upon programmed cell death.",1992,,False,True,cache,True,True,10.1002/j.1460-2075.1992.tb05481.x,0.909
+bio_MED_25554246,biomedical,bio_MED_25554246_000,Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement.,2009,,False,False,,,,10.7717/peerj.15039/fig-1,
+bio_MED_25554246,biomedical,bio_MED_25554246_001,A systematic evaluation of the impact of STRICTA and CONSORT recommendations on quality of reporting for acupuncture trials.,2008,,False,True,cache,True,True,10.1371/journal.pone.0001577,1.0
+bio_MED_25554246,biomedical,bio_MED_25554246_002,SPIRIT 2013 statement: defining standard protocol items for clinical trials.,2013,,False,False,,True,True,10.7326/0003-4819-158-3-201302050-00583,
+bio_MED_25554246,biomedical,bio_MED_25554246_003,An international registry of systematic-review protocols.,2010,,False,False,,False,False,10.1016/s0140-6736(10)60903-8,
+bio_MED_25554246,biomedical,bio_MED_25554246_004,Empirical evidence for selective reporting of outcomes in randomized trials: comparison of protocols to published articles.,2004,,False,False,,,,,
+bio_MED_25554246,biomedical,bio_MED_25554246_005,The nuts and bolts of PROSPERO: an international prospective register of systematic reviews.,2012,,False,True,cache,True,True,10.1186/2046-4053-1-2,1.0
+bio_MED_25554246,biomedical,bio_MED_25554246_006,How to reduce unnecessary duplication: use PROSPERO.,2014,,False,False,,False,False,10.1111/1471-0528.12657,
+bio_MED_25554246,biomedical,bio_MED_25554246_007,Establishing a minimum dataset for prospective registration of systematic reviews: an international consultation.,2011,,False,True,cache,True,True,10.1371/journal.pone.0027319,1.0
+bio_MED_25554246,biomedical,bio_MED_25554246_008,Epidemiology and reporting characteristics of systematic reviews.,2007,,False,True,cache,True,True,10.1371/journal.pmed.0040078,0.2
+bio_MED_25554246,biomedical,bio_MED_25554246_009,Bias due to selective inclusion and reporting of outcomes and analyses in systematic reviews of randomised trials of healthcare interventions.,2014,,False,False,,False,False,10.1002/14651858.mr000035,
+bio_MED_25554246,biomedical,bio_MED_25554246_010,Establishing a new journal for systematic review products.,2012,,False,True,cache,True,True,10.1186/2046-4053-1-1,1.0
+bio_MED_25554246,biomedical,bio_MED_25554246_011,Guidance for developers of health research reporting guidelines.,2010,,False,False,,True,True,10.1371/journal.pmed.1000217,
+bio_MED_25554246,biomedical,bio_MED_25554246_012,"Cars, CONSORT 2010, and clinical practice.",2010,,False,True,cache,True,True,10.1186/1745-6215-11-33,1.0
+bio_MED_25554246,biomedical,bio_MED_25554246_013,Systematic review of the empirical evidence of study publication bias and outcome reporting bias - an updated review.,2013,,False,True,cache,True,True,10.1371/journal.pone.0066844,1.0
+bio_MED_25554246,biomedical,bio_MED_25554246_014,The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: explanation and elaboration.,2009,,False,True,cache,True,True,10.1371/journal.pmed.1000100,1.0
+bio_MED_25554246,biomedical,bio_MED_25554246_015,"Epidemiology, quality and reporting characteristics of systematic reviews of traditional Chinese medicine interventions published in Chinese journals.",2011,,False,True,cache,True,True,10.1371/journal.pone.0020185,1.0
+bio_MED_25554246,biomedical,bio_MED_25554246_016,The science of reviewing research.,1993,,False,True,cache,,,,0.667
+bio_MED_25554246,biomedical,bio_MED_25554246_017,Endorsement of the CONSORT Statement by high impact factor medical journals: a survey of journal editors and journal 'Instructions to Authors'.,2008,,False,True,cache,True,True,10.1186/1745-6215-9-20,1.0
+bio_MED_25554246,biomedical,bio_MED_25554246_018,Registering systematic reviews.,2009,,False,True,cache,True,True,10.1503/cmaj.081849,0.667
+bio_MED_25554246,biomedical,bio_MED_25554246_019,The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews.,2010,,False,False,,True,True,10.1136/bmj.c365,
+bio_MED_25554246,biomedical,bio_MED_25554246_020,The quality of diagnostic accuracy studies since the STARD statement: has it improved?,2006,,False,True,unpaywall,True,True,10.1212/01.wnl.0000238386.41398.30,1.0
+bio_MED_25554246,biomedical,bio_MED_25554246_021,Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015: elaboration and explanation.,2015,,False,True,unpaywall,True,True,10.1136/bmj.i4086,1.0
+bio_MED_25554246,biomedical,bio_MED_25554246_022,Comparison of protocols and registry entries to published reports for randomised controlled trials.,2011,,False,False,,False,False,10.1002/14651858.mr000031,
+bio_MED_25554246,biomedical,bio_MED_25554246_023,Relation of completeness of reporting of health research to journals' endorsement of reporting guidelines: systematic review.,2014,,False,True,core,True,True,10.1136/bmj.g3804,1.0
+bio_MED_25554246,biomedical,bio_MED_25554246_024,Does use of the CONSORT Statement impact the completeness of reporting of randomised controlled trials published in medical journals? A Cochrane review.,2012,,False,True,cache,True,True,10.1186/2046-4053-1-60,1.0
+bio_MED_25554246,biomedical,bio_MED_25554246_025,An analysis of general medical and specialist journals that endorse CONSORT found that reporting was not enforced consistently.,2005,,False,False,,False,False,10.1016/j.jclinepi.2005.01.004,
+bio_MED_25554246,biomedical,bio_MED_25554246_026,Developing and evaluating complex interventions: the new Medical Research Council guidance.,2008,,False,True,core,True,True,10.1136/bmj.a1655,1.0
+bio_MED_25554246,biomedical,bio_MED_25554246_027,Thou shalt versus thou shalt not: a meta-synthesis of GPs' attitudes to clinical practice guidelines.,2007,,False,False,,True,True,10.3399/096016407782604820,
+bio_MED_25554246,biomedical,bio_MED_25554246_028,Are peer reviewers encouraged to use reporting guidelines? A survey of 116 health research journals.,2012,,False,True,cache,True,True,10.1371/journal.pone.0035621,1.0
+bio_MED_25554246,biomedical,bio_MED_25554246_029,Bias due to changes in specified outcomes during the systematic review process.,2010,,False,True,cache,True,True,10.1371/journal.pone.0009810,1.0
+bio_MED_25554246,biomedical,bio_MED_25554246_030,Seventy-five trials and eleven systematic reviews a day: how will we ever keep up?,2010,,False,True,cache,True,True,10.1371/journal.pmed.1000326,1.0
+bio_MED_25554246,biomedical,bio_MED_25554246_031,A systematic review of the use of theory in the design of guideline dissemination and implementation strategies and interpretation of the results of rigorous evaluations.,2010,,False,True,cache,True,True,10.1186/1748-5908-5-14,1.0
+bio_MED_25554246,biomedical,bio_MED_25554246_032,A comparison of results of meta-analyses of randomized control trials and recommendations of clinical experts. Treatments for myocardial infarction.,1992,,False,False,,False,False,10.1001/jama.1992.03490020088036,
+bio_MED_25554246,biomedical,bio_MED_25554246_033,SPIRIT 2013 explanation and elaboration: guidance for protocols of clinical trials.,2013,,False,True,cache,True,True,10.1136/bmj.e7586,1.0
+bio_MED_25822800,biomedical,bio_MED_25822800_000,Neutralizing tumor-promoting chronic inflammation: a magic bullet?,2013,,False,True,cache,True,True,10.1126/science.1232227,0.0
+bio_MED_25822800,biomedical,bio_MED_25822800_001,Selection of DDX5 as a novel internal control for Q-RT-PCR from microarray data using a block bootstrap re-sampling scheme.,2007,,False,True,cache,True,True,10.1186/1471-2164-8-140,1.0
+bio_MED_25822800,biomedical,bio_MED_25822800_002,Inferring tumour purity and stromal and immune cell admixture from expression data.,2013,,False,True,cache,True,True,10.1038/ncomms3612,1.0
+bio_MED_25822800,biomedical,bio_MED_25822800_003,Population-specific expression analysis (PSEA) reveals molecular changes in diseased brain.,2011,,False,False,,False,False,10.1038/nmeth.1710,
+bio_MED_25822800,biomedical,bio_MED_25822800_004,MMAD: microarray microdissection with analysis of differences is a computational tool for deconvoluting cell type-specific contributions from tissue samples.,2013,,False,True,europe_pmc,True,True,10.1093/bioinformatics/btt566,1.0
+bio_MED_25822800,biomedical,bio_MED_25822800_005,Deconvolution of blood microarray data identifies cellular activation patterns in systemic lupus erythematosus.,2009,,False,True,cache,True,True,10.1371/journal.pone.0006098,1.0
+bio_MED_25822800,biomedical,bio_MED_25822800_006,Cell type-specific gene expression differences in complex tissues.,2010,,False,False,,False,False,10.1038/nmeth.1439,
+bio_MED_25822800,biomedical,bio_MED_25822800_007,DeconRNASeq: a statistical framework for deconvolution of heterogeneous tissue samples based on mRNA-Seq data.,2013,,False,False,,True,True,10.1093/bioinformatics/btt090,
+bio_MED_25822800,biomedical,bio_MED_25822800_008,Hallmarks of cancer: the next generation.,2011,,False,True,cache,True,True,10.1016/j.cell.2011.02.013,1.0
+bio_MED_25822800,biomedical,bio_MED_25822800_009,Statistical significance for genomewide studies.,2003,,False,False,,,,,
+bio_MED_25822800,biomedical,bio_MED_25822800_010,Practical selection of SVM parameters and noise estimation for SVM regression.,2004,,False,True,cache,False,False,10.1016/s0893-6080(03)00169-2,1.0
+bio_MED_25822800,biomedical,bio_MED_25822800_011,Computational deconvolution: extracting cell type-specific information from heterogeneous samples.,2013,,False,False,,False,False,10.1016/j.coi.2013.09.015,
+bio_MED_25822800,biomedical,bio_MED_25822800_012,"Gene enrichment profiles reveal T-cell development, differentiation, and lineage-specific transcription factors including ZBTB25 as a novel NF-AT repressor.",2010,,False,False,,True,True,10.1182/blood-2010-01-263855,
+bio_MED_25822800,biomedical,bio_MED_25822800_013,New support vector algorithms,2000,,False,False,,,,,
+bio_MED_25822800,biomedical,bio_MED_25822800_014,Digital sorting of complex tissues for cell type-specific gene expression profiles.,2013,,False,True,cache,True,True,10.1186/1471-2105-14-89,1.0
+bio_MED_25822800,biomedical,bio_MED_25822800_015,Immune response in silico (IRIS): immune-specific genes identified from a compendium of microarray expression data.,2005,,False,False,,False,False,10.1038/sj.gene.6364173,
+bio_MED_25822800,biomedical,bio_MED_25822800_016,PERT: a method for expression deconvolution of human blood samples from varied microenvironmental and developmental conditions.,2012,,False,True,cache,True,True,10.1371/journal.pcbi.1002838,1.0
+bio_MED_25822800,biomedical,bio_MED_25822800_017,A global map of human gene expression.,2010,,False,True,cache,True,True,10.1038/nbt0410-322,1.0
+bio_MED_25822800,biomedical,bio_MED_25822800_018,Gene expression deconvolution in linear space.,2011,,False,False,,False,False,10.1038/nmeth.1830,
+bio_MED_25822800,biomedical,bio_MED_25822800_019,Expression deconvolution: a reinterpretation of DNA microarray data reveals dynamic changes in cell populations.,2003,,False,True,europe_pmc,True,True,10.1073/pnas.1832361100,1.0
+bio_MED_25822800,biomedical,bio_MED_25822800_020,A self-directed method for cell-type identification and separation of gene expression microarrays.,2013,,False,True,cache,True,True,10.1371/journal.pcbi.1003189,1.0
+bio_MED_25822800,biomedical,bio_MED_25822800_021,Active idiotypic vaccination versus control immunotherapy for follicular lymphoma.,2014,,False,True,europe_pmc,False,False,10.1586/14760584.6.3.307,1.0
+bio_MED_25822800,biomedical,bio_MED_25822800_022,A HaemAtlas: characterizing gene expression in differentiated human blood cells.,2009,,False,True,core,True,True,10.1182/blood-2008-06-162958,1.0
+bio_MED_25822800,biomedical,bio_MED_25822800_023,Gene expression signature of cigarette smoking and its role in lung adenocarcinoma development and survival.,2008,,False,True,cache,True,True,10.1371/journal.pone.0001651,1.0
+bio_MED_25822800,biomedical,bio_MED_25822800_024,Optimal deconvolution of transcriptional profiling data using quadratic programming with application to complex clinical blood samples.,2011,,False,True,cache,True,True,10.1371/journal.pone.0027156,1.0
+bio_MED_25822800,biomedical,bio_MED_25822800_025,CD40 pathway activation status predicts response to CD40 therapy in diffuse large B cell lymphoma.,2011,,False,False,,False,False,10.1126/scitranslmed.3001620,
+bio_MED_32007143,biomedical,bio_MED_32007143_000,Sexual Dimorphism in Innate Immunity.,2019,,False,False,,False,False,10.1007/s12016-017-8648-x,
+bio_MED_32007143,biomedical,bio_MED_32007143_001,Middle East respiratory syndrome coronavirus in dromedary camels: an outbreak investigation.,2013,,False,False,,False,False,10.3410/f.718234415.793489496,
+bio_MED_32007143,biomedical,bio_MED_32007143_002,Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus.,2017,,False,True,cache,True,True,10.1371/journal.ppat.1006698,1.0
+bio_MED_32007143,biomedical,bio_MED_32007143_003,Clinical findings in 111 cases of influenza A (H7N9) virus infection.,2013,,False,False,,False,False,10.1056/nejmx130044,
+bio_MED_32007143,biomedical,bio_MED_32007143_004,Clinical Features Predicting Mortality Risk in Patients With Viral Pneumonia: The MuLBSTA Score.,2019,,False,True,cache,True,True,10.3389/fmicb.2019.02752,1.0
+bio_MED_32007143,biomedical,bio_MED_32007143_005,Prevalence of comorbidities in the Middle East respiratory syndrome coronavirus (MERS-CoV): a systematic review and meta-analysis.,2016,,False,True,cache,True,True,10.1016/j.ijid.2016.06.015,1.0
+bio_MED_32007143,biomedical,bio_MED_32007143_006,T-cell immunity of SARS-CoV: Implications for vaccine development against MERS-CoV.,2016,,False,True,cache,False,False,10.1016/j.antiviral.2016.11.006,1.0
+bio_MED_32007143,biomedical,bio_MED_32007143_007,Evidence for camel-to-human transmission of MERS coronavirus.,2014,,False,False,,False,False,10.1056/nejmc1409847,
+bio_MED_32007143,biomedical,bio_MED_32007143_008,"The continuing 2019-nCoV epidemic threat of novel coronaviruses to global health - The latest 2019 novel coronavirus outbreak in Wuhan, China.",2020,,False,True,unpaywall,True,True,10.1016/j.ijid.2020.01.009,1.0
+bio_MED_32007143,biomedical,bio_MED_32007143_009,Cross-host evolution of severe acute respiratory syndrome coronavirus in palm civet and human.,2005,,False,True,europe_pmc,,,,1.0
+bio_MED_32007143,biomedical,bio_MED_32007143_010,Sex-Based Differences in Susceptibility to Severe Acute Respiratory Syndrome Coronavirus Infection.,2017,,False,False,,True,True,10.4049/jimmunol.1601896,
+bio_MED_32007143,biomedical,bio_MED_32007143_011,Fatal swine acute diarrhoea syndrome caused by an HKU2-related coronavirus of bat origin.,2018,,False,False,,True,True,10.1038/s41586-018-0010-9,
+bio_MED_32007143,biomedical,bio_MED_32007143_012,"Outbreak of pneumonia of unknown etiology in Wuhan, China: The mystery and the miracle.",2020,,False,True,europe_pmc,True,True,10.1002/jmv.25678,1.0
+bio_MED_32007143,biomedical,bio_MED_32007143_013,Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia.,2012,,False,False,,True,True,10.1056/nejmoa1211721,
+bio_MED_32007143,biomedical,bio_MED_32007143_014,Pathophysiology and burden of infection in patients with diabetes mellitus and peripheral vascular disease: focus on skin and soft-tissue infections.,2015,,False,False,,True,True,10.1016/j.cmi.2015.03.024,
+bio_MED_32007143,biomedical,bio_MED_32007143_015,Identification of a novel coronavirus in patients with severe acute respiratory syndrome.,2003,,False,False,,,,,
+bio_MED_32007143,biomedical,bio_MED_32007143_016,"MERS, SARS and other coronaviruses as causes of pneumonia.",2017,,False,True,europe_pmc,True,True,10.1111/resp.13196,1.0
+bio_MED_32007143,biomedical,bio_MED_32007143_017,Surveillance of Bat Coronaviruses in Kenya Identifies Relatives of Human Coronaviruses NL63 and 229E and Their Recombination History.,2017,,False,True,cache,True,True,10.1128/jvi.01953-16,0.545
+bio_MED_32007143,biomedical,bio_MED_32007143_018,Origin and evolution of pathogenic coronaviruses.,2019,,False,True,europe_pmc,True,True,10.1038/s41579-018-0118-9,1.0
+bio_MED_32007143,biomedical,bio_MED_32007143_019,"Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.",2020,,False,True,cache,True,True,10.1016/j.virusres.2020.198043,1.0
+bio_MED_32007143,biomedical,bio_MED_32007143_020,"From SARS to MERS, Thrusting Coronaviruses into the Spotlight.",2019,,False,True,europe_pmc,True,True,10.3390/v11010059,1.0
+bio_MED_32007143,biomedical,bio_MED_32007143_021,Clinical features of three avian influenza H7N9 virus-infected patients in Shanghai.,2014,,False,True,europe_pmc,,,,0.9
+bio_MED_32007143,biomedical,bio_MED_32007143_022,Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission.,2020,,False,True,cache,True,True,10.1007/s11427-020-1637-5,1.0
+bio_MED_33538338,biomedical,bio_MED_33538338_000,The ever‐increasing importance of cancer as a leading cause of premature death worldwide,,,False,False,,True,True,10.1002/cncr.33587,
+bio_MED_33538338,biomedical,bio_MED_33538338_002,The epidemiologic transition. A theory of the epidemiology of population change.,1971,,False,True,europe_pmc,True,True,10.1111/j.1468-0009.2005.00398.x,1.0
+bio_MED_33538338,biomedical,bio_MED_33538338_006,Brief review on COVID‐19: the 2020 pandemic caused by SARS‐CoV‐2,2020,,False,True,cache,True,True,10.7759/cureus.7386,1.0
+bio_MED_33538338,biomedical,bio_MED_33538338_008,Cancer screening during COVID‐19: a perspective from NCI's PROSPR consortium,2020,,False,True,europe_pmc,,,,0.875
+bio_MED_33538338,biomedical,bio_MED_33538338_009,A War on Two Fronts: Cancer Care in the Time of COVID-19.,2020,,False,True,europe_pmc,True,True,10.7326/m20-1133,1.0
+bio_MED_33538338,biomedical,bio_MED_33538338_010,Fewer cancer diagnoses during the COVID-19 epidemic in the Netherlands.,2020,,False,True,cache,True,True,10.1016/s1470-2045(20)30265-5,1.0
+bio_MED_33538338,biomedical,bio_MED_33538338_011,"The impact of the COVID-19 pandemic on cancer deaths due to delays in diagnosis in England, UK: a national, population-based, modelling study.",2020,,False,True,cache,True,True,10.1016/s1470-2045(20)30388-0,1.0
+bio_MED_33538338,biomedical,bio_MED_33538338_012,COVID-19 and cancer.,2020,,False,False,,,,,
+bio_MED_33538338,biomedical,bio_MED_33538338_013,"Global cancer statistics, 2002.",2005,,False,False,,True,True,10.3322/canjclin.55.2.74,
+bio_MED_33538338,biomedical,bio_MED_33538338_014,Global cancer statistics.,2011,,False,False,,True,True,10.3322/caac.20115,
+bio_MED_33538338,biomedical,bio_MED_33538338_015,"Global cancer statistics, 2012.",2015,,False,True,cache,,,,1.0
+bio_MED_33538338,biomedical,bio_MED_33538338_016,Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries.,2018,,False,False,,True,True,10.3322/caac.21609,
+bio_MED_33538338,biomedical,bio_MED_33538338_018,Estimating the global cancer incidence and mortality in 2018: GLOBOCAN sources and methods.,2018,,False,False,,True,True,10.1002/ijc.31937,
+bio_MED_33538338,biomedical,bio_MED_33538338_020,"Progress in cancer survival, mortality, and incidence in seven high-income countries 1995-2014 (ICBP SURVMARK-2): a population-based study.",2019,,False,True,cache,True,True,10.1016/s1470-2045(19)30456-5,1.0
+bio_MED_33538338,biomedical,bio_MED_33538338_021,Global patterns and trends in colorectal cancer incidence and mortality.,2016,,False,False,,True,True,10.1136/gutjnl-2015-310912,
+bio_MED_33538338,biomedical,bio_MED_33538338_022,"Global patterns and trends in cancers of the lip, tongue and mouth.",2020,,False,False,,False,False,10.1016/j.oraloncology.2019.104551,
+bio_MED_33538338,biomedical,bio_MED_33538338_024,Screening for founder mutations in BRCA1 and BRCA2 in unselected Jewish women.,2009,,False,False,,False,False,10.1200/jco.2009.25.0712,
+bio_MED_33538338,biomedical,bio_MED_33538338_025,Global Cancer in Women: Burden and Trends.,2017,,False,False,,True,True,10.1158/1055-9965.c.6516487.v1,
+bio_MED_33538338,biomedical,bio_MED_33538338_026,Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results From the Women's Health Initiative randomized controlled trial.,2002,,False,True,cache,True,True,10.1001/jama.288.3.321,1.0
+bio_MED_33538338,biomedical,bio_MED_33538338_027,"Update on mammography trends: comparisons of rates in 2000, 2005, and 2008.",2010,,False,False,,,,,
+bio_MED_33538338,biomedical,bio_MED_33538338_028,"Breast cancer statistics, 2019.",2019,,False,False,,False,False,10.1007/978-1-4614-5647-6_1,
+bio_MED_33538338,biomedical,bio_MED_33538338_029,Global burden and trends in premenopausal and postmenopausal breast cancer: a population-based study.,2020,,False,False,,True,True,10.1016/s2214-109x(20)30215-1,
+bio_MED_33538338,biomedical,bio_MED_33538338_030,"Breast cancer incidence, 1980-2006: combined roles of menopausal hormone therapy, screening mammography, and estrogen receptor status.",2007,,False,False,,False,False,10.1093/jnci/djm059,
+bio_MED_33538338,biomedical,bio_MED_33538338_031,Incidence of breast cancer in the United States: current and future trends.,2011,,False,True,europe_pmc,True,True,10.1093/jnci/djr257,1.0
+bio_MED_33538338,biomedical,bio_MED_33538338_032,Divergent estrogen receptor-positive and -negative breast cancer trends and etiologic heterogeneity in Denmark.,2013,,False,False,,True,True,10.1002/ijc.28222,
+bio_MED_33538338,biomedical,bio_MED_33538338_033,Divergent oestrogen receptor-specific breast cancer trends in Ireland (2004-2013): Amassing data from independent Western populations provide etiologic clues.,2017,,False,False,,True,True,10.1016/j.ejca.2017.08.031,
+bio_MED_33538338,biomedical,bio_MED_33538338_034,Distinct temporal trends in breast cancer incidence from 1997 to 2016 by molecular subtypes: a population-based study of Scottish cancer registry data.,2020,,False,True,cache,True,True,10.1101/19011411,1.0
+bio_MED_33538338,biomedical,bio_MED_33538338_035,Cancer incidence and mortality in relation to body mass index in the Million Women Study: cohort study.,2007,,False,False,,True,True,10.1136/bmj.39367.495995.ae,
+bio_MED_33538338,biomedical,bio_MED_33538338_036,Body-mass index and incidence of cancer: a systematic review and meta-analysis of prospective observational studies.,2008,,False,True,cache,True,True,10.14341/2071-8713-5323,1.0
+bio_MED_33538338,biomedical,bio_MED_33538338_037,Body mass index and breast cancer risk according to postmenopausal estrogen-progestin use and hormone receptor status.,2014,,False,True,europe_pmc,True,True,10.1093/epirev/mxt010,1.0
+bio_MED_33538338,biomedical,bio_MED_33538338_038,Body weight and incidence of breast cancer defined by estrogen and progesterone receptor status--a meta-analysis.,2009,,False,False,,True,True,10.1002/ijc.23943,
+bio_MED_33538338,biomedical,bio_MED_33538338_039,Biologic characteristics of interval and screen-detected breast cancers.,2000,,False,False,,False,False,10.1093/jnci/92.9.743,
+bio_MED_6828386,biomedical,bio_MED_6828386_000,Mammalian deoxyribonucleic acid-dependent ribonucleic acid polymerases. I. Purification and properties of an -amanitin-sensitive ribonucleic acid polymerase and stimulatory factors from HeLa and KB ce,1973,,False,False,,,,,
+bio_MED_6828386,biomedical,bio_MED_6828386_001,Prolonged transcription in a cell-free system involving nuclei and cytoplasm.,1974,,False,True,europe_pmc,True,True,10.1073/pnas.71.5.1803,1.0
+bio_MED_6828386,biomedical,bio_MED_6828386_002,Purification using polyethylenimine precipitation and low molecular weight subunit analyses of calf thymus and wheat germ DNA-dependent RNA polymerase II.,1977,,False,False,,False,False,10.1021/bi00630a005,
+bio_MED_6828386,biomedical,bio_MED_6828386_003,Faithful transcription of eukaryotic genes by RNA polymerase III in systems reconstituted with purified DNA templates.,1979,,False,False,,True,True,10.1016/s0021-9258(18)50533-0,
+bio_MED_6828386,biomedical,bio_MED_6828386_004,Selective and accurate initiation of transcription at the Ad2 major late promotor in a soluble system dependent on purified RNA polymerase II and DNA.,1979,,False,False,,False,False,10.1016/0092-8674(79)90065-5,
+bio_MED_6828386,biomedical,bio_MED_6828386_005,Identification of regulatory sequences in the prelude sequences of an H2A histone gene by the study of specific deletion mutants in vivo.,1980,,False,True,europe_pmc,True,True,10.1073/pnas.77.3.1432,1.0
+bio_MED_6828386,biomedical,bio_MED_6828386_006,Specific in vitro initiation of transcription on conalbumin and ovalbumin genes and comparison with adenovirus-2 early and late genes.,1980,,False,False,,False,False,10.1038/285367a0,
+bio_MED_6828386,biomedical,bio_MED_6828386_007,Promoter sequences of eukaryotic protein-coding genes.,1980,,False,False,,False,False,10.1126/science.6251548,
+bio_MED_6828386,biomedical,bio_MED_6828386_008,Accurate transcription initiation on a purified mouse beta-globin DNA fragment in a cell-free system.,1980,,False,False,,False,False,10.1016/0092-8674(80)90315-3,
+bio_MED_6828386,biomedical,bio_MED_6828386_009,Multiple factors are required for the accurate transcription of purified genes by RNA polymerase III.,1980,,False,False,,True,True,10.1016/s0021-9258(19)70231-2,
+bio_MED_6828386,biomedical,bio_MED_6828386_010,Multiple factors required for accurate initiation of transcription by purified RNA polymerase II.,1980,,False,False,,True,True,10.1016/s0021-9258(19)70232-4,
+bio_MED_6828386,biomedical,bio_MED_6828386_011,Regulation of simian virus 40 early transcription in vitro by a purified tumor antigen.,1980,,False,True,europe_pmc,True,True,10.1073/pnas.77.10.5706,1.0
+bio_MED_6828386,biomedical,bio_MED_6828386_012,Specific in vitro transcription of conalbumin gene is drastically decreased by single-point mutation in T-A-T-A box homology sequence.,1980,,False,True,cache,True,True,10.1073/pnas.77.12.7024,1.0
+bio_MED_6828386,biomedical,bio_MED_6828386_013,DNA sequence required for initiation of transcription in vitro from the major late promoter of adenovirus 2.,1981,,False,False,,True,True,10.1073/pnas.78.2.820,
+bio_MED_6828386,biomedical,bio_MED_6828386_014,Specific 5' flanking sequences are required for faithful initiation of in vitro transcription of the ovalbumin gene.,1981,,False,True,europe_pmc,True,True,10.1073/pnas.78.2.879,1.0
+bio_MED_6828386,biomedical,bio_MED_6828386_015,Localization of DNA sequences necessary for transcription of the rabbit beta-globin gene in vitro.,1981,,False,False,,False,False,10.1016/0092-8674(81)90246-4,
+bio_MED_6828386,biomedical,bio_MED_6828386_016,Transcription of the beta-like globin genes and pseudogenes of the goat in a cell-free system.,1981,,False,True,europe_pmc,True,True,10.1093/nar/9.17.4339,0.9
+bio_MED_6828386,biomedical,bio_MED_6828386_017,In vitro transcription of adenovirus.,1981,,False,True,cache,False,False,10.1016/b978-0-08-022624-8.50026-0,1.0
+bio_MED_6828386,biomedical,bio_MED_6828386_018,DNA sequences affecting specific initiation of transcription in vitro from the EIII promoter of adenovirus 2.,1982,,False,False,,True,True,10.1073/pnas.79.1.41,
+bio_MED_6828386,biomedical,bio_MED_6828386_019,Transcription of adenovirus type 2 genes in a cell-free system: apparent heterogeneity of initiation at some promoters.,1981,,False,True,cache,True,True,10.1128/mcb.1.7.635,1.0
+bio_MED_9310563,biomedical,bio_MED_9310563_000,Getting to grips with Archie Cochrane's agenda.,1992,,False,False,,True,True,10.1136/bmj.305.6857.786,
+bio_MED_9310563,biomedical,bio_MED_9310563_001,Rationale for systematic reviews.,1994,,False,False,,,,,
+bio_MED_9310563,biomedical,bio_MED_9310563_002,Experiences with meta-analysis in NDA submissions.,1988,,False,False,,,,,
+bio_MED_9310563,biomedical,bio_MED_9310563_003,Misleading meta-analysis.,1995,,False,True,europe_pmc,True,True,10.1136/bmj.311.7015.1303b,1.0
+bio_MED_9310563,biomedical,bio_MED_9310563_004,An exercise in mega-silliness.,1978,10.1037/0003-066X.33.5.517.a,False,False,,False,False,,
+bio_MED_9310563,biomedical,bio_MED_9310563_005,Publication bias in clinical research.,1991,,False,False,,True,True,10.53731/46tpv-p8c75,
+bio_MED_9310563,biomedical,bio_MED_9310563_006,Reference bias in reports of drug trials.,1987,,False,True,cache,True,True,10.1136/bmj.295.6605.1066-b,0.4
+bio_MED_9310563,biomedical,bio_MED_9310563_007,Language bias in randomised controlled trials published in English and German.,1997,,False,False,,False,False,10.1016/s0140-6736(97)02419-7,
+bio_MED_9310563,biomedical,bio_MED_9310563_010,Factors affecting the comparability of meta-analyses and largest trials results in perinatology.,1997,,False,False,,False,False,10.1016/s0895-4356(97)00148-0,
+bio_MED_9310563,biomedical,bio_MED_9310563_011,A note on graphical presentation of estimated odds ratios from several clinical trials.,1988,,False,False,,False,False,10.1002/sim.4780070807,
+bio_MED_9310563,biomedical,bio_MED_9310563_012,Large trials vs meta-analysis of smaller trials.,1996,,False,False,,False,False,10.1001/jama.1996.03540160054033,
+bio_MED_9310563,biomedical,bio_MED_9310563_013,Comprehensive geriatric assessment: a meta-analysis of controlled trials.,1993,,False,False,,False,False,10.1016/0140-6736(93)92884-v,
+bio_MED_9310563,biomedical,bio_MED_9310563_014,Effect of enalapril on survival in patients with reduced left ventricular ejection fractions and congestive heart failure.,1991,,False,False,,True,True,10.1056/nejm199108013250501,
+bio_MED_9310563,biomedical,bio_MED_9310563_016,"Intravenous and intracoronary fibrinolytic therapy in acute myocardial infarction: overview of results on mortality, reinfarction and side-effects from 33 randomized controlled trials.",1985,,False,False,,False,False,10.1093/oxfordjournals.eurheartj.a061905,
+bio_MED_9310563,biomedical,bio_MED_9310563_017,Effectiveness of intravenous thrombolytic treatment in acute myocardial infarction.,1986,,False,False,,False,False,10.1016/s0140-6736(86)92368-8,
+bio_MED_9310563,biomedical,bio_MED_9310563_018,Beta blockade during and after myocardial infarction: an overview of the randomized trials.,1985,,False,False,,False,False,10.1016/s0033-0620(85)80003-7,
+bio_MED_9310563,biomedical,bio_MED_9310563_019,Randomised trial of intravenous atenolol among 16 027 cases of suspected acute myocardial infarction: ISIS-1.,1986,,False,False,,False,False,10.1016/s0140-6736(86)91607-7,
+bio_MED_9310563,biomedical,bio_MED_9310563_020,Meta-analysis of effects of intensive blood-glucose control on late complications of type I diabetes.,1993,,False,False,,False,False,10.1016/0140-6736(93)90816-y,
+bio_MED_9310563,biomedical,bio_MED_9310563_021,The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus.,1993,,False,False,,False,False,10.1097/00019616-199403000-00024,
+bio_MED_9310563,biomedical,bio_MED_9310563_022,A randomized trial of comprehensive geriatric assessment in the care of hospitalized patients.,1995,,False,False,,True,True,10.1093/ageing/28.6.543,
+bio_MED_9310563,biomedical,bio_MED_9310563_023,Effect of intravenous nitrates on mortality in acute myocardial infarction: an overview of the randomised trials.,1988,,False,False,,False,False,10.1016/s0140-6736(88)91906-x,
+bio_MED_9310563,biomedical,bio_MED_9310563_024,GISSI-3: effects of lisinopril and transdermal glyceryl trinitrate singly and together on 6-week mortality and ventricular function after acute myocardial infarction. Gruppo Italiano per lo Studio del,1994,,False,False,,False,False,10.1016/s0140-6736(94)90232-1,
+bio_MED_9310563,biomedical,bio_MED_9310563_025,Relative efficacy of vasodilator therapy in chronic congestive heart failure. Implications of randomized trials.,1988,,False,False,,False,False,10.1001/jama.1988.03720230032026,
+bio_MED_9310563,biomedical,bio_MED_9310563_026,Role of magnesium in reducing mortality in acute myocardial infarction. A review of the evidence.,1993,,False,False,,False,False,10.2165/00003495-199346030-00002,
+bio_MED_9310563,biomedical,bio_MED_9310563_028,Ameta-analysis of low-dose aspirin for the prevention of pregnancy-inducedhypertensive disease.,1991,,False,False,,False,False,10.1001/jama.1991.03470020086038,
+bio_MED_9310563,biomedical,bio_MED_9310563_029,CLASP: a randomized trial of low-dose aspirin for the prevention and treatment of pre-eclampsia among9364 pregnant women.,1994,10.1016/S0140-6736(94)92633-6,False,False,,False,False,,
+bio_MED_9310563,biomedical,bio_MED_9310563_030,Overview of randomized trials of angiotensin-converting enzyme inhibitors on mortality and morbidity in patients with heart failure. Collaborative Group on ACE Inhibitor Trials.,1995,,False,False,,False,False,10.1001/jama.1995.03520420066040,
+bio_MED_9310563,biomedical,bio_MED_9310563_032,Underreporting research is scientific misconduct.,1990,,False,False,,False,False,10.1001/jama.1990.03440100121018,
+bio_MED_9310563,biomedical,bio_MED_9310563_033,Publication bias: its implications for clinical pharmacology.,1992,,False,False,,False,False,10.1038/clpt.1992.119,
+bio_MED_9310563,biomedical,bio_MED_9310563_034,Are research ethics committees behaving unethically? Some suggestions for improving performance and accountability.,1996,,False,True,cache,True,True,10.1136/bmj.313.7069.1390,1.0
+bio_MED_9310563,biomedical,bio_MED_9310563_035,Cholesterol lowering trials in coronary heart disease: frequency of citation and outcome.,1992,,False,True,cache,True,True,10.1136/bmj.305.6844.15,1.0
+bio_MED_9310563,biomedical,bio_MED_9310563_036,"Redundancy, disaggregation, and the integrity of medical research.",1996,,False,False,,False,False,10.1016/s0140-6736(96)90153-1,
+bio_MED_9310563,biomedical,bio_MED_9310563_037,Bias in treatment assignment in controlled clinical trials.,1983,,False,True,cache,False,False,10.1056/nejm198406143102419,0.5
+bio_MED_9310563,biomedical,bio_MED_9310563_038,Empirical evidence of bias. Dimensions of methodological quality associated with estimates of treatment effects in controlled trials.,1995,,False,False,,False,False,10.1097/00043764-199603000-00007,
+bio_MED_9310563,biomedical,bio_MED_9310563_039,The scandal of poor medical research.,1994,,False,True,cache,True,True,10.1136/bmj.308.6941.1438b,1.0
+1011.3027,math,Achlioptas,"Database-friendly random projections: Johnson-Lindenstrauss with binary coins, in: Special issue on PODS 2001 (Santa Barbara, CA)",2003,,False,False,,,,,
+1011.3027,math,ALPT,Quantitative estimates of the convergence of the empirical covariance matrix in log-concave ensembles,2010,,False,True,cache,True,True,10.1090/s0894-0347-09-00650-x,1.0
+1011.3027,math,ALPT RIP,Restricted isometry property of matrices with independent columns and neighborly polytopes by random sampling,2010,,False,True,cache,True,True,10.1007/s00365-010-9117-4,1.0
+1011.3027,math,AW,Strong converse for identification via quantum channels,2002,,False,True,cache,False,False,10.1109/18.985947,0.8
+1011.3027,math,Bai-Silverstein-Yin,A note on the largest eigenvalue of a large-dimensional sample covariance matrix,1988,,False,False,,False,False,10.1016/0047-259x(88)90078-4,
+1011.3027,math,Bai-Yin,Limit of the smallest eigenvalue of a large-dimensional sample covariance matrix,1993,,False,False,,False,False,10.1142/9789812793096_0012,
+1011.3027,math,Ball,"An elementary introduction to modern convex geometry, in",1997,,False,False,,False,False,10.1017/9781009701853.002,
+1011.3027,math,BDDW,A simple proof of the restricted isometry property for random matrices,2008,,False,False,,False,False,10.1007/s00365-007-9003-x,
+1011.3027,math,BBL,"Concentration inequalities, in",2004,,False,True,cache,False,False,10.1007/978-3-540-48503-2_5,1.0
+1011.3027,math,Bourgain,"Random points in isotropic convex sets, in",1999,,False,False,,False,False,10.1017/9781009701761.005,
+1011.3027,math,Buc01,Operator Khintchine inequality in non-commutative probability,2001,,False,False,,False,False,10.1007/pl00004425,
+1011.3027,math,Buc05,"Optimal constants in Khintchine type inequalities for fermions, Rademachers and $q$-Gaussian operators",2005,,False,True,cache,True,True,10.4064/ba53-3-9,1.0
+1011.3027,math,BuKo,Sub-Gaussian random variables,1980,,False,True,cache,,,,1.0
+1011.3027,math,Candes,The restricted isometry property and its implications for compressed sensing,,,False,False,,False,False,10.1016/j.crma.2008.03.014,
+1011.3027,math,Candes-Tao,Decoding by linear programming,2005,,False,True,cache,,,,1.0
+1011.3027,math,Candes-Tao Fourier,Near-optimal signal recovery from random projections: universal encoding strategies?,2006,,False,True,cache,False,False,10.1109/tit.2006.885507,1.0
+1011.3027,math,DS,"Local operator theory, random matrices and Banach spaces, in",2001,,False,False,,False,False,10.1016/s1874-5849(01)80010-3,
+1011.3027,math,DKM,"Fast Monte Carlo algorithms for matrices. I, II III",2006,,False,False,,,,,
+1011.3027,math,FeSo,A universality result for the smal lest eigenvalues of certain sample covariance matrices,2008,,False,True,cache,False,False,10.1007/s00039-010-0055-x,1.0
+1011.3027,math,FR,"Compressive Sensing, in",2010,,False,True,cache,False,False,10.1007/springerreference_186887,1.0
+1011.3027,math,Geman,A limit theorem for the norm of random matrices,1980,,False,False,,True,True,10.1214/aop/1176994775,
+1011.3027,math,GiMi concentration,Concentration property on probability spaces,2000,,False,False,,False,False,10.1006/aima.2000.1949,
+1011.3027,math,GiMi,"Euclidean structure in finite dimensional normed spaces, in",2001,,False,False,,False,False,10.1016/s1874-5849(01)80019-x,
+1011.3027,math,GMDL,"Bridging the gap between numerical linear algebra, theoretical computer science, and data applications",2006,,False,False,,,,,
+1011.3027,math,Gordon 84,"On Dvoretzky's theorem and extensions of Slepian's lemma, in",1984,,False,False,,,,,
+1011.3027,math,Gordon 85,Some inequalities for Gaussian processes and applications,1985,,False,False,,False,False,10.1007/bf02759761,
+1011.3027,math,Gordon 92,Majorization of Gaussian processes and geometric applications,1992,,False,True,cache,True,True,10.1007/bf01291425,1.0
+1011.3027,math,Johnstone,On the distribution of the largest eigenvalue in principal components analysis,2001,,False,False,,True,True,10.1214/aos/1009210544,
+1011.3027,math,Kahane,Propri,1960,,False,False,,,,,
+1011.3027,math,KLS,Isoperimetric problems for convex bodies and a localization lemma,1995,,False,True,cache,True,True,10.1007/bf02574061,1.0
+1011.3027,math,Latala,Some estimates of norms of random matrices,2005,,False,False,,True,True,10.1090/s0002-9939-04-07800-1,
+1011.3027,math,Ledoux extremal,"Deviation inequalities on largest eigenvalues, in",2007,,False,True,cache,False,False,10.1007/978-3-540-72053-9_10,1.0
+1011.3027,math,LPRT,Smallest singular value of random matrices and geometry of random polytopes,2005,,False,False,,False,False,10.1016/j.aim.2004.08.004,
+1011.3027,math,Lu-Pi,Noncommutative Khintchine and Paley inequalities,1991,,False,True,cache,True,True,10.1007/bf02384340,1.0
+1011.3027,math,Lust-Piquard,In,1986,,False,True,cache,,,,1.0
+1011.3027,math,Meckes,Concentration of norms and eigenvalues of random matrices,2004,,False,True,cache,True,True,10.1016/s0022-1236(03)00198-8,1.0
+1011.3027,math,Mendelson,On weakly bounded empirical processes,2008,,False,True,cache,False,False,10.1007/s00208-007-0152-9,1.0
+1011.3027,math,MePaTJ reconstruction,Reconstruction and subgaussian operators in asymptotic geometric analysis,2007,,False,True,cache,False,False,10.1007/s00039-007-0618-7,1.0
+1011.3027,math,MePaTJ,Uniform uncertainty principle for Bernoulli and subgaussian ensembles,2008,,False,True,cache,False,False,10.1007/s00365-007-9005-8,1.0
+1011.3027,math,Milman Dvoretzky,A new proof of A. Dvoretzky's theorem on cross-sections of convex bodies,1974,,False,False,,,,,
+1011.3027,math,Paouris,Concentration of mass on convex bodies,2006,,False,False,,False,False,10.1007/s00039-006-0584-5,
+1011.3027,math,PeSo,On the lower bound of the spectral norm of symmetric random matrices with independent entries,2008,,False,True,cache,True,True,10.1214/ecp.v13-1376,1.0
+1011.3027,math,Rauhut structured,"Compressive sensing and structured random matrices, in",2010,,False,False,,False,False,10.1515/9783110226157.1,
+1011.3027,math,Rudelson contact,Contact points of convex bodies,1997,,False,False,,False,False,10.1007/bf02760924,
+1011.3027,math,Rudelson sub-matrices,Almost orthogonal submatrices of an orthogonal matrix,1999,,False,True,cache,False,False,10.1007/bf02810682,1.0
+1011.3027,math,Rudelson isotropic,Random vectors in the isotropic position,1999,,False,True,cache,False,False,10.1006/jfan.1998.3384,1.0
+1011.3027,math,RV sampling,Sampling from large matrices: an approach through geometric functional analysis,2007,,False,True,cache,,,,1.0
+1011.3027,math,RV Fourier,On sparse reconstruction from Fourier and Gaussian measurements,2008,,False,False,,False,False,10.1002/cpa.20227,
+1011.3027,math,RV rectangular,Smallest singular value of a random rectangular matrix,2009,,False,True,cache,True,True,10.1002/cpa.20294,1.0
+1011.3027,math,RV ICM,Non-asymptotic theory of random matrices: extreme singular values,2010,,False,True,cache,True,True,10.1142/9789814324359_0111,1.0
+1011.3027,math,Silverstein,The smallest eigenvalue of a large-dimensional Wishart matrix,1985,,False,False,,True,True,10.1214/aop/1176992819,
+1011.3027,math,Soshnikov,A note on universality of the distribution of the largest eigenvalues in certain sample covariance matrices,2002,,False,True,cache,False,False,10.1023/a:1019739414239,1.0
+1011.3027,math,Talagrand canonical,The supremum of some canonical processes,1994,,False,False,,False,False,10.2307/2374931,
+1011.3027,math,Tal1,Concentration of measure and isoperimetric inequalities in product spaces,1995,,False,True,cache,False,False,10.1007/bf02699376,1.0
+1011.3027,math,Tal2,A new look at independence,1996,,False,False,,True,True,10.1214/aop/1042644705,
+1011.3027,math,Tao-Vu survey,From the Littlewood-Offord problem to the circular law: universality of the spectral distribution of random matrices,2009,,False,True,cache,True,True,10.1090/s0273-0979-09-01252-x,1.0
+1011.3027,math,Tropp,"User-friendly tail bounds for sums of random matrices, submitted",2010,,False,True,cache,True,True,10.1007/s10208-011-9099-z,0.875
+1011.3027,math,Vempala,"Geometric random walks: a survey, in",2005,,False,False,,False,False,10.1017/9781009701259.033,
+1011.3027,math,Vershynin John,John's decompositions: selecting a large part,2001,,False,True,cache,False,False,10.1007/bf02809903,1.0
+1011.3027,math,V frames,Frame expansions with erasures: an approach through the non-commutative operator theory,2005,,False,True,cache,False,False,10.1016/j.acha.2004.12.001,1.0
+1011.3027,math,V marginals,Approximating the moments of marginals of high-dimensional distributions,2010,,False,True,cache,True,True,10.1214/10-aop589,1.0
+1011.3027,math,V covariance,How close is the sample covariance matrix to the actual covariance matrix?,2010,,False,True,cache,False,False,10.1007/s10959-010-0338-z,1.0
+1011.3027,math,Vu,Spectral norm of random matrices,2007,,False,False,,False,False,10.1007/s00493-007-2190-z,
+1011.3027,math,YBK,On the limit of the largest eigenvalue of the large-dimensional sample covariance matrix,1998,,False,True,cache,True,True,10.1007/bf00353874,1.0
+1207.7214,physics,np_22_579,"Nucl.~Phys. 22 no.~4, (1961) 579",1961,10.1016/0029-5582(61)90469-2,False,False,,False,False,,
+1207.7214,physics,prl_19_1264,Phys. Rev. Lett. 19 (1967) 1264,1967,10.1103/PhysRevLett.19.1264,False,True,cache,True,True,,0.75
+1207.7214,physics,tHooft:1972fi,Nucl. Phys. B44 (1972) 189,1972,10.1016/0550-3213(72)90279-9,False,False,,True,True,,
+1207.7214,physics,Englert:1964et,Phys. Rev. Lett. 13 (1964) 321,1964,10.1103/PhysRevLett.13.321,False,True,cache,True,True,,1.0
+1207.7214,physics,Higgs:1964ia,Phys. Lett. 12 (1964) 132,1964,10.1016/0031-9163(64)91136-9,False,True,cache,False,False,,1.0
+1207.7214,physics,Higgs:1964pj,Phys. Rev. Lett. 13 (1964) 508,1964,10.1103/PhysRevLett.13.508,False,True,cache,True,True,,1.0
+1207.7214,physics,Guralnik:1964eu,Phys.\ Rev.\ Lett. 13 (1964) 585,1964,10.1103/PhysRevLett.13.585,False,True,cache,True,True,,1.0
+1207.7214,physics,Higgs:1966ev,Phys. Rev. 145 (1966) 1156,1966,10.1103/PhysRev.145.1156,False,True,cache,True,True,,0.667
+1207.7214,physics,Kibble:1967sv,Phys. Rev. 155 (1967) 1554,1967,10.1103/PhysRev.155.1554,False,True,cache,False,False,,0.667
+1207.7214,physics,1748-0221-3-08-S08001,JINST 3 (2008) S08001,2008,10.1088/1748-0221/3/08/S08001,False,False,,True,True,,
+1207.7214,physics,lepew:2010vi,arXiv:1012.2367 [hep-ex],2010,,True,True,cache,True,True,,1.0
+1207.7214,physics,Barate:2003sz,Phys.~Lett. B 565 (2003) 61,2003,10.1016/S0370-2693(03)00614-2,False,True,cache,True,True,,1.0
+1207.7214,physics,Aaltonen:2012if,arXiv:1207.1707 [hep-ex],2012,,True,True,cache,True,True,,1.0
+1207.7214,physics,D0combo072012,arXiv:1207.6631 [hep-ex],2012,,True,True,cache,True,True,,1.0
+1207.7214,physics,TevatronCombo:2012,arXiv:1207.6436 [hep-ex],2012,,True,True,cache,True,True,,1.0
+1207.7214,physics,paper2012prd,Phys.\ Rev.\ D86 (2012) 032003,2012,10.1103/PhysRevD.86.032003,False,True,cache,True,True,,0.667
+1207.7214,physics,Chatrchyan:2012tx,Phys. Lett. B 710 (2012) 26,2012,10.1016/j.physletb.2012.02.064,False,False,,True,True,,
+1207.7214,physics,ATLASLOI,CERN-LHCC-92-004,1992,,False,True,cache,,,,1.0
+1207.7214,physics,ATLASTP,CERN-LHCC-94-43,1994,,False,False,,,,,
+1207.7214,physics,atlas-det,JINST 3 (2008) S08003,2008,10.1088/1748-0221/3/08/S08003,False,True,cache,True,True,,1.0
+1207.7214,physics,Georgi:1977gs,Phys. Rev. Lett. 40 (1978) 692,1978,10.1103/PhysRevLett.40.692,False,False,,False,False,,
+1207.7214,physics,Djouadi:1991tka,Phys. Lett. B 264 (1991) 440,1991,10.1016/0370-2693(91)90375-Z,False,False,,True,True,,
+1207.7214,physics,Dawson:1990zj,Nucl. Phys. B359 (1991) 283,1991,10.1016/0550-3213(91)90061-2,False,False,,False,False,,
+1207.7214,physics,Spira:1995rr,Nucl. Phys. B453 (1995) 17,1995,10.1016/0550-3213(95)00379-7,False,True,cache,True,True,,0.5
+1207.7214,physics,Harlander:2002wh,Phys. Rev. Lett. 88 (2002) 201801,2002,10.1103/PhysRevLett.88.201801,False,True,cache,True,True,,0.75
+1207.7214,physics,Anastasiou:2002yz,Nucl. Phys. B646 (2002) 220,2002,10.1016/S0550-3213(02)00837-4,False,True,cache,True,True,,0.5
+1207.7214,physics,Ravindran:2003um,Nucl. Phys. B665 (2003) 325,2003,10.1016/S0550-3213(03)00457-7,False,True,cache,True,True,,0.5
+1207.7214,physics,Aglietti:2004nj,Phys.~Lett. B 595 (2004) 432,2004,10.1016/j.physletb.2004.06.063,False,True,cache,True,True,,0.667
+1207.7214,physics,Actis:2008ug,Phys.~Lett. B 670 (2008) 12,2008,10.1016/j.physletb.2008.10.018,False,True,cache,True,True,,0.667
+1207.7214,physics,Catani:2003zt,JHEP 0307 (2003) 028,2003,10.1088/1126-6708/2003/07/028,False,True,unpaywall,True,True,,0.333
+1207.7214,physics,Anastasiou:2008tj,JHEP 0904 (2009) 003,2009,10.1088/1126-6708/2009/04/003,False,True,cache,True,True,,0.333
+1207.7214,physics,deFlorian:2012yg,arXiv:1206.4133 [hep-ph],,,True,True,cache,True,True,,1.0
+1207.7214,physics,Anastasiou:2012hx,JHEP 1204 (2012) 004,2012,10.1007/JHEP04(2012)004,False,True,cache,True,True,,0.0
+1207.7214,physics,Baglio:2010ae,JHEP 1103 (2011) 055,2011,10.1007/JHEP03(2011)055,False,True,cache,True,True,,1.0
+1207.7214,physics,deFlorian:2011xf,JHEP 1111 (2011) 064,2011,10.1007/JHEP11(2011)064,False,True,cache,True,True,,0.333
+1207.7214,physics,Bagnaschi:2011tu,JHEP 1202 (2012) 88,2012,10.1007/JHEP02(2012)088,False,True,cache,True,True,,0.667
+1207.7214,physics,Cahn:1983ip,"Phys. Lett. B 136 (1984) 196, Erratum--ibid. B 138 (1984) 464",1984,10.1016/0370-2693(84)91180-8,False,False,,False,False,,
+1207.7214,physics,Ciccolini:2007jr,Phys. Rev. Lett. 99 (2007) 161803,2007,10.1103/PhysRevLett.99.161803,False,True,cache,True,True,,0.75
+1207.7214,physics,Ciccolini:2007ec,Phys.~Rev. D77 (2008) 013002,2008,10.1103/PhysRevD.77.013002,False,True,cache,True,True,,0.667
+1207.7214,physics,Arnold:2008rz,Comput. Phys. Commun. 180 (2009) 1661,2009,10.1016/j.cpc.2009.03.006,False,True,cache,True,True,,0.6
+1207.7214,physics,Bolzoni:2010xr,Phys. Rev. Lett. 105 (2010) 011801,2010,10.1103/PhysRevLett.105.011801,False,True,cache,True,True,,0.75
+1207.7214,physics,Glashow:1978ab,Phys. Rev. D18 (1978) 1724,1978,10.1103/PhysRevD.18.1724,False,False,,False,False,,
+1207.7214,physics,Han:1991ia,Phys.~Lett. B 273 (1991) 167,1991,10.1016/0370-2693(91)90572-8,False,False,,False,False,,
+1207.7214,physics,Brein:2003wg,Phys.~Lett. B~579 (2004) 149,2004,10.1016/j.physletb.2003.10.112,False,True,cache,True,True,,0.333
+1207.7214,physics,Ciccolini:2003jy,Phys. Rev. D68 (2003) 073003,2003,10.1103/PhysRevD.68.073003,False,True,cache,True,True,,0.667
+1207.7214,physics,Kunszt:1984ri,Nucl. Phys. B247 (1984) 339,1984,10.1016/0550-3213(84)90553-4,False,False,,False,False,,
+1207.7214,physics,Beenakker:2001rj,Phys. Rev. Lett. 87 (2001) 201805,2001,10.1103/PhysRevLett.87.201805,False,True,cache,True,True,,0.75
+1207.7214,physics,Beenakker:2002nc,Nucl. Phys. B653 (2003) 151,2003,10.1016/S0550-3213(03)00044-0,False,True,cache,True,True,,0.25
+1207.7214,physics,Dawson:2002tg,Phys. Rev. D67 (2003) 071503,2003,10.1103/PhysRevD.67.071503,False,True,cache,False,False,,0.667
+1207.7214,physics,Dawson:2003zu,Phys. Rev. D68 (2003) 034022,2003,10.1103/PhysRevD.68.034022,False,True,cache,True,True,,0.667
+1207.7214,physics,LHCHiggsCrossSectionWorkingGroup:2011ti,arXiv:1101.0593 [hep-ph],2011,,True,True,cache,True,True,,1.0
+1207.7214,physics,Dittmaier:2012vm,arXiv:1201.3084 [hep-ph],2012,,True,True,cache,True,True,,1.0
+1207.7214,physics,Djouadi:1997yw,Comput. Phys. Commun. 108 (1998) 56,1998,10.1016/S0010-4655(97)00123-9,False,True,cache,True,True,,0.25
+1207.7214,physics,Bredenstein:2006rh,Phys. Rev. D74 (2006) 013004,2006,10.1103/PhysRevD.74.013004,False,True,cache,True,True,,0.667
+1207.7214,physics,Bredenstein:2006ha,JHEP 0702 (2007) 080,2007,10.1088/1126-6708/2007/02/080,False,True,unpaywall,True,True,,0.333
+1207.7214,physics,Alioli:2008tz,JHEP 0904 (2009) 002,2009,10.1088/1126-6708/2009/04/002,False,True,cache,True,True,,0.333
+1207.7214,physics,Nason:2009ai,JHEP 1002 (2010) 037,2010,10.1007/JHEP02(2010)037,False,True,cache,True,True,,1.0
+1207.7214,physics,alpgen,JHEP 0307 (2003) 001,2003,10.1088/1126-6708/2003/07/001,False,True,unpaywall,True,True,,0.667
+1207.7214,physics,mcatnlo,JHEP 0206 (2002) 029,2002,10.1088/1126-6708/2002/06/029,False,True,cache,True,True,,0.0
+1207.7214,physics,Kersevan:2004yg,arXiv:hep-ph/0405247,,,True,True,cache,True,True,,0.5
+1207.7214,physics,gg2WW,JHEP 0612 (2006) 046,2006,10.1088/1126-6708/2006/12/046,False,True,cache,True,True,,0.0
+1207.7214,physics,Melia:2011tj,JHEP 1111 (2011) 078,2011,10.1007/JHEP11(2011)078,False,True,cache,True,True,,0.667
+1207.7214,physics,gg2ZZ,arXiv:0807.0024 [hep-ph],,,True,True,cache,True,True,,1.0
+1207.7214,physics,Gray:2011us,arXiv:1110.1368 [hep-ph],,,True,True,cache,True,True,,1.0
+1207.7214,physics,pythia,JHEP 0605 (2006) 026,2006,10.1088/1126-6708/2006/05/026,False,True,cache,True,True,,0.0
+1207.7214,physics,Alwall:2007st,JHEP 0709 (2007) 028,2007,10.1088/1126-6708/2007/09/028,False,True,unpaywall,True,True,,0.667
+1207.7214,physics,Alwall:2011uj,JHEP 1106 (2011) 128,2011,10.1007/JHEP06(2011)128,False,True,cache,True,True,,0.667
+1207.7214,physics,pythia8,Comput. Phys. Commun. 178 (2008) 852,2008,10.1016/j.cpc.2008.01.036,False,True,cache,True,True,,0.75
+1207.7214,physics,Corcella:2000bw,JHEP 0101 (2001) 010,2001,10.1088/1126-6708/2001/01/010,False,True,cache,True,True,,0.333
+1207.7214,physics,Gleisberg:2008ta,JHEP 0902 (2009) 007,2009,10.1088/1126-6708/2009/02/007,False,True,cache,True,True,,0.0
+1207.7214,physics,jimmy,Z. Phys. C72 (1996) 637,1996,10.1007/s002880050286,False,True,cache,True,True,,1.0
+1207.7214,physics,Jadach:1993hs,Comput. Phys. Commun. 76 (1993) 361,1993,10.1016/0010-4655(93)90061-G,False,True,cache,True,True,,0.25
+1207.7214,physics,Golonka:2005pn,Eur.Phys.J. C45 (2006) 97,2006,10.1140/epjc/s2005-02396-4,False,True,cache,True,True,,1.0
+1207.7214,physics,Lai:2010vv,Phys. Rev. D82 (2010) 074024,2010,10.1103/PhysRevD.82.074024,False,True,cache,True,True,,0.667
+1207.7214,physics,cteq6,Phys. Rev. D78 (2008) 013004,2008,10.1103/PhysRevD.78.013004,False,True,cache,True,True,,0.667
+1207.7214,physics,mrst,Eur. Phys. J C55 (2008) 553,2008,10.1140/epjc/s10052-008-0610-x,False,True,cache,True,True,,1.0
+1207.7214,physics,atlassim,Eur. Phys. J. C70 (2010) 823,2010,10.1140/epjc/s10052-010-1429-9,False,True,cache,True,True,,0.0
+1207.7214,physics,GEANT4,Nucl. Instrum. Meth. A506 (2003) 250,2003,10.1016/S0168-9002(03)01368-8,False,True,core,True,True,,0.8
+1207.7214,physics,ATLAS:2012ac,Phys. Lett. B 710 (2012) 383,2012,10.1016/j.physletb.2012.03.005,False,True,cache,True,True,,0.667
+1207.7214,physics,Aad:2011mk,Eur. Phys. J. C72 (2012) 1909,2012,10.1140/epjc/s10052-012-1909-1,False,True,cache,True,True,,0.667
+1207.7214,physics,Cacciari:2007fd,Phys.~Lett. B 659 (2008) 119,2008,10.1016/j.physletb.2007.09.077,False,True,cache,True,True,,0.667
+1207.7214,physics,Cacciari:2011ma,Eur.~Phys.~J. C72 (2012) 1896,2012,10.1140/epjc/s10052-012-1896-2,False,True,cache,True,True,,0.667
+1207.7214,physics,Aad:2011rr,Phys. Lett. B 707 (2012) 438,2012,10.1016/j.physletb.2011.12.054,False,False,,True,True,,
+1207.7214,physics,Kauer:2012hd,arXiv:1206.4803 [hep-ph],,,True,True,cache,True,True,,1.0
+1207.7214,physics,ATLAS:2012ad,Phys. Rev. Lett. 108 (2012) 111803,2012,10.1103/PhysRevLett.108.111803,False,True,cache,True,True,,1.0
+1207.7214,physics,Aad:2012xs,Eur. Phys. J. C72 (2012) 1849,2012,10.1140/epjc/s10052-011-1849-1,False,True,cache,True,True,,0.667
+1207.7214,physics,Aad:2010sp,Phys.~Rev. D83 (2011) 052005,2011,10.1103/PhysRevD.83.052005,False,True,cache,True,True,,1.0
+1207.7214,physics,Collaboration:2011ww,Phys. Lett. B~705 (2011) 452,2011,10.1016/j.physletb.2011.10.051,False,True,cache,True,True,,1.0
+1207.7214,physics,PTT_OPAL,arXiv:hep-ex/9710010 [hep-ex],1998,,True,True,cache,True,True,,0.0
+1207.7214,physics,PTT_ZBoson,Nucl.~Instrum.~Meth. A602 (2009) 432,2009,10.1016/j.nima.2009.01.203,False,True,cache,True,True,,0.2
+1207.7214,physics,JES,arXiv:1112.6426 [hep-ex],2011,,True,True,cache,True,True,,1.0
+1207.7214,physics,Cacciari:2008gp,JHEP 0804 (2008) 063,2008,10.1088/1126-6708/2008/04/063,False,True,cache,True,True,,0.0
+1207.7214,physics,Dixon:2003yb,Phys. Rev. Lett. 90 (2003) 252001,2003,10.1103/PhysRevLett.90.252001,False,True,cache,True,True,,0.75
+1207.7214,physics,ATLAS-4.7fbHWW,Phys.~Lett.~ B 716 (2012) 62,2012,10.1016/j.physletb.2012.08.010,False,False,,True,True,,
+1207.7214,physics,pr_55_167,Phys. Rev. D55 (1997) 167,1997,10.1103/PhysRevD.55.167,False,True,cache,True,True,,1.0
+1207.7214,physics,CollApp,Nucl. Phys. B297 (1988) 221,1988,10.1016/0550-3213(88)90019-3,False,False,,False,False,,
+1207.7214,physics,Barr:2009mx,JHEP 0907 (2009) 072,2009,10.1088/1126-6708/2009/07/072,False,True,unpaywall,True,True,,0.333
+1207.7214,physics,ATLAS-2fbHWW,Phys. Rev. Lett. 108 (2012) 111802,2012,10.1103/PhysRevLett.108.111802,False,True,cache,True,True,,1.0
+1207.7214,physics,Aad:2011qi,Eur.~Phys.~J. C~71 (2011) 1728,2011,10.1140/epjc/s10052-011-1728-9,False,True,cache,True,True,,0.667
+1207.7214,physics,MET,Eur. Phys. J. C72 (2012) 1844,2012,10.1140/epjc/s10052-011-1844-6,False,True,cache,True,True,,0.667
+1207.7214,physics,Campbell:2011bn,JHEP 1107 (2011) 018,2011,10.1007/JHEP07(2011)018,False,True,cache,True,True,,0.667
+1207.7214,physics,Campbell:2011cu,JHEP 1110 (2011) 005,2011,10.1007/JHEP10(2011)005,False,True,cache,True,True,,1.0
+1207.7214,physics,Stewart:2011cf,Phys. Rev. D85 (2012) 034011,2012,10.1103/PhysRevD.85.034011,False,True,cache,True,True,,0.667
+1207.7214,physics,Moneta:2010pm,arXiv:1009.1003 [physics.data-an],2010,,True,True,cache,True,True,,1.0
+1207.7214,physics,ROOFIT,arXiv:physics/0306116 [physics.data-an],,,True,True,cache,True,True,,1.0
+1207.7214,physics,Cowan:2010st,Eur. Phys. J. C71 (2011) 1554,2011,10.1140/epjc/s10052-011-1554-0,False,True,cache,True,True,,0.667
+1207.7214,physics,Read:2002hq,J. Phys. G28 (2002) 2693,2002,10.1088/0954-3899/28/10/313,False,False,,False,False,,
+1207.7214,physics,Gross:2010qma,Eur.~Phys.~J. C~70 (2010) 525,2010,10.1140/epjc/s10052-010-1470-8,False,True,cache,True,True,,1.0
+1207.7214,physics,may_llvv,arXiv:1205.6744 [hep-ex],2012,,True,True,cache,True,True,,1.0
+1207.7214,physics,may_llqq,arXiv:1206.2443 [hep-ex],2012,,True,True,cache,True,True,,1.0
+1207.7214,physics,may_lvqq,arXiv:1206.6074 [hep-ex],2012,,True,True,cache,True,True,,1.0
+1207.7214,physics,may_tautau,arXiv:1206.5971 [hep-ex],2012,,True,True,cache,True,True,,1.0
+1207.7214,physics,may_bb,arXiv:1207.0210 [hep-ex],2012,,True,True,cache,True,True,,1.0
+1207.7214,physics,Aad:2011dr,Eur.~Phys.~J. C~71 (2011) 1630,2011,10.1140/epjc/s10052-011-1630-5,False,True,cache,True,True,,0.667
+1207.7214,physics,Botje:2011sn,arXiv:1101.0538 [hep-ph],,,True,True,cache,True,True,,1.0
+1207.7214,physics,Martin:2009iq,Eur.~Phys.~J. C63 (2009) 189,2009,10.1140/epjc/s10052-009-1072-5,False,True,cache,True,True,,1.0
+1207.7214,physics,Ball:2011mu,Nucl. Phys. B~849 (2011) 296,2011,10.1016/j.nuclphysb.2011.03.021,False,True,cache,True,True,,1.0
+1207.7214,physics,Campbell:2006xx,JHEP 0610 (2006) 028,2006,10.1088/1126-6708/2006/10/028,False,True,cache,True,True,,0.0
+1207.7214,physics,yang1950,Phys. Rev. 77 (1950) 242,1950,10.1103/PhysRev.77.242,False,False,,False,False,,
+1405.4980,math,AB14,A lower bound for the optimization of finite sums,,,True,True,cache,True,True,,1.0
+1405.4980,math,AO14,Linear coupling: An ultimate unification of gradient and mirror descent,,,True,True,cache,True,True,,0.857
+1405.4980,math,Ans98,Towards a practical volumetric cutting plane method for convex programming,,,False,False,,False,False,10.1137/s1052623497318013,
+1405.4980,math,ABM11,Bandit view on noisy optimization,,,False,False,,False,False,10.7551/mitpress/8996.003.0018,
+1405.4980,math,ABL14,Regret in online combinatorial optimization,,,False,True,cache,False,False,10.1287/moor.2013.0598,1.0
+1405.4980,math,Bac13,Learning with submodular functions: A convex optimization perspective,,,False,True,cache,False,False,10.1561/9781601987570,1.0
+1405.4980,math,BM13,Non-strongly-convex smooth stochastic approximation with convergence rate o(1/n),,,False,True,cache,,,,1.0
+1405.4980,math,BJMO12,Optimization with sparsity-inducing penalties,,,False,True,cache,False,False,10.1561/9781601985118,1.0
+1405.4980,math,Bar14,"Sum of squares upper bounds, lower bounds, and open questions",,,False,False,,,,,
+1405.4980,math,BT03,M,,,False,False,,,,,
+1405.4980,math,BT09,A fast iterative shrinkage-thresholding algorithm for linear inverse problems,,,False,True,cache,False,False,10.1137/080716542,1.0
+1405.4980,math,BerVem04,Solving convex programs by random walks,,,False,False,,False,False,10.1145/509923.509926,
+1405.4980,math,BPCPE11,Distributed optimization and statistical learning via the alternating direction method of multipliers,,,False,False,,False,False,10.1561/9781601984616,
+1405.4980,math,Bub11,Introduction to online optimization,,,False,True,cache,False,False,10.1561/9781680831719,1.0
+1405.4980,math,BC12,Regret analysis of stochastic and nonstochastic multi-armed bandit problems,,,False,True,cache,False,False,10.1561/9781601986276,1.0
+1405.4980,math,BE14,The entropic barrier: a simple and optimal universal self-concordant barrier,,,True,True,cache,True,True,,1.0
+1405.4980,math,BEL15,Sampling from a log-concave distribution with projected langevin monte carlo,,,True,True,cache,True,True,,1.0
+1405.4980,math,BLS15,A geometric alternative to nesterov's accelerated gradient descent,,,True,True,cache,True,True,,1.0
+1405.4980,math,CR09,Exact matrix completion via convex optimization,,,False,True,cache,False,False,10.1145/2184319.2184343,1.0
+1405.4980,math,Cau47,M,1847,,False,False,,,,,
+1405.4980,math,CP11,A first-order primal-dual algorithm for convex problems with applications to imaging,,,False,False,,False,False,10.1007/s10851-010-0251-1,
+1405.4980,math,CHW12,Sublinear optimization for machine learning,,,False,True,cache,False,False,10.1109/focs.2010.50,1.0
+1405.4980,math,Cov92,1990 shannon lecture,,,False,True,cache,,,,0.333
+1405.4980,math,Asp08,Smooth optimization with approximate gradient,,,False,True,cache,False,False,10.1137/060676386,1.0
+1405.4980,math,DBLJ14,Saga: A fast incremental gradient method with support for non-strongly convex composite objectives,,,False,True,cache,,,,1.0
+1405.4980,math,DGBSX12,Optimal distributed online prediction using mini-batches,,,False,True,cache,,,,1.0
+1405.4980,math,DSSST10,Composite objective mirror descent,,,False,False,,,,,
+1405.4980,math,DH78,Conditional gradient algorithms with open loop step size rules,,,False,False,,False,False,10.1016/0022-247x(78)90137-3,
+1405.4980,math,FW56,An algorithm for quadratic programming,,,False,True,cache,False,False,10.1007/bf01588293,1.0
+1405.4980,math,FT07,Exact regularization of convex programs,,,False,False,,False,False,10.1137/060675320,
+1405.4980,math,GW95,Improved approximation algorithms for maximum cut and satisfiability problems using semidefinite programming,,,False,True,cache,True,True,10.1145/227683.227684,1.0
+1405.4980,math,GK95,A sublinear-time randomized approximation algorithm for matrix games,,,False,False,,False,False,10.1016/0167-6377(95)00032-0,
+1405.4980,math,Gru60,Partitions of mass-distributions and of convex bodies by hyperplanes,,,False,True,cache,True,True,10.2140/pjm.1960.10.1257,1.0
+1405.4980,math,Haz11,The convex optimization approach to regret minimization,,,False,False,,False,False,10.7551/mitpress/8996.003.0012,
+1405.4980,math,Jag13,Revisiting frank-wolfe: Projection-free sparse convex optimization,,,False,False,,,,,
+1405.4980,math,JNS13,Low-rank matrix completion using alternating minimization,,,False,True,cache,False,False,10.1145/2488608.2488693,1.0
+1405.4980,math,JZ13,Accelerating stochastic gradient descent using predictive variance reduction,,,False,False,,,,,
+1405.4980,math,Jon92,A simple lemma on greedy approximation in hilbert space and convergence rates for projection pursuit regression and neural network training,,,False,False,,True,True,10.1214/aos/1176348546,
+1405.4980,math,JN11a,"First-order methods for nonsmooth convex large-scale optimization, i: General purpose methods",,,False,False,,False,False,10.7551/mitpress/8996.003.0007,
+1405.4980,math,JN11b,"First-order methods for nonsmooth convex large-scale optimization, ii: Utilizing problem's structure",,,False,False,,False,False,10.7551/mitpress/8996.003.0008,
+1405.4980,math,Kar84,A new polynomial-time algorithm for linear programming,,,False,True,cache,False,False,10.1007/bf02579150,1.0
+1405.4980,math,LJSB12,A simpler approach to obtaining an o (1/t) convergence rate for the projected stochastic subgradient method,,,True,True,cache,True,True,,1.0
+1405.4980,math,LRSB12,A stochastic gradient method with an exponential convergence rate for strongly-convex optimization with finite training sets,,,False,True,cache,,,,0.923
+1405.4980,math,LS13,Path finding i :solving linear programs with Õ(sqrt(rank)) linear system solves,,,True,True,cache,True,True,,0.9
+1405.4980,math,LSW15,A faster cutting plane method and its implications for combinatorial and convex optimization,,,True,True,cache,True,True,,1.0
+1405.4980,math,Lev65,On an algorithm for the minimization of convex functions,,,False,False,,True,True,10.2139/ssrn.4821892,
+1405.4980,math,Lov98,Hit-and-run mixes fast,,,False,False,,False,False,10.1007/s101070050099,
+1405.4980,math,Lug10,Comment on: $,,,False,False,,,,,
+1405.4980,math,MP89,A linear-time median-finding algorithm for projecting a vector on the simplex of rn,,,False,False,,False,False,10.1016/0167-6377(89)90064-3,
+1405.4980,math,Nem82,Orth-method for smooth convex optimization,,,False,True,cache,,,,0.8
+1405.4980,math,Nem95,Information-based complexity of convex programming,,,False,True,cache,False,False,10.1109/tit.2011.2154375,1.0
+1405.4980,math,Nem04,Prox-method with rate of convergence o (1/t) for variational inequalities with lipschitz continuous monotone operators and smooth convex-concave saddle point problems,,,False,False,,False,False,10.1137/s1052623403425629,
+1405.4980,math,Nem04b,Interior point polynomial time methods in convex programming,,,False,False,,,,,
+1405.4980,math,Nes83,A method of solving a convex programming problem with convergence rate o($1/k^2$),,,False,False,,,,,
+1405.4980,math,Nes97,Quality of semidefinite relaxation for nonconvex quadratic optimization,,,False,False,,False,False,10.1080/10556789808805690,
+1405.4980,math,Nes04b,Smooth minimization of non-smooth functions,,,False,False,,False,False,10.1007/s10107-004-0552-5,
+1405.4980,math,Nes07,Gradient methods for minimizing composite objective function,,,False,False,,False,False,10.1007/s10107-012-0629-5,
+1405.4980,math,Nes12,Efficiency of coordinate descent methods on huge-scale optimization problems,,,False,False,,False,False,10.1137/100802001,
+1405.4980,math,New65,Location of the maximum on unimodal surfaces,,,False,True,cache,True,True,10.1145/321281.321291,1.0
+1405.4980,math,PB13,Proximal algorithms,,,False,False,,False,False,10.1561/9781601987174,
+1405.4980,math,Rak09,Lecture notes on online learning,,,False,False,,,,,
+1405.4980,math,RT12,Parallel coordinate descent methods for big data optimization,,,True,True,cache,True,True,,1.0
+1405.4980,math,RM51,A stochastic approximation method,,,False,True,cache,False,False,10.1007/978-3-540-74173-2_8,1.0
+1405.4980,math,Rud99,Random vectors in the isotropic position,,,False,True,cache,False,False,10.1006/jfan.1998.3384,1.0
+1405.4980,math,SLRB11,Convergence rates of inexact proximal-gradient methods for convex optimization,,,False,True,cache,,,,1.0
+1405.4980,math,SSZ13,Stochastic dual coordinate ascent methods for regularized loss minimization,,,False,True,cache,False,False,10.1109/icdm.2016.0137,1.0
+1405.4980,math,SSZ13b,Accelerated mini-batch stochastic dual coordinate ascent,,,False,True,cache,,,,1.0
+1405.4980,math,SBC14,A differential equation for modeling nesterov's accelerated gradient method: Theory and insights,,,False,True,cache,,,,0.889
+1405.4980,math,Tib96,Regression shrinkage and selection via the lasso,,,False,False,,,,,
+1405.4980,math,Tse08,On accelerated proximal gradient methods for convex-concave optimization,,,False,True,cache,,,,0.857
+1405.4980,math,Tsy03,Optimal rates of aggregation,,,False,False,,False,False,10.1007/978-3-540-45167-9_23,
+1405.4980,math,Vai89,A new algorithm for minimizing convex functions over convex sets,,,False,False,,False,False,10.1109/sfcs.1989.63500,
+1405.4980,math,Vai96,A new algorithm for minimizing convex functions over convex sets,,,False,False,,False,False,10.1109/sfcs.1989.63500,
+1405.4980,math,WNF09,Sparse reconstruction by separable approximation,,,False,False,,False,False,10.1109/tsp.2009.2016892,
+1405.4980,math,Xia10,Dual averaging methods for regularized stochastic learning and online optimization,,,False,False,,,,,
+1405.4980,math,ZX14,Stochastic primal-dual coordinate method for regularized empirical risk minimization,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,layernorm2016,Layer normalization,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,bahdanau2014neural,Neural machine translation by jointly learning to align and translate,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,DBLP:journals/corr/BritzGLL17,Massive exploration of neural machine translation architectures,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,cheng2016long,Long short-term memory-networks for machine reading,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,cho2014learning,Learning phrase representations using rnn encoder-decoder for statistical machine translation,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,xception2016,Xception: Deep learning with depthwise separable convolutions,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,gruEval14,Empirical evaluation of gated recurrent neural networks on sequence modeling,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,dyer-rnng:16,Recurrent neural network grammars,,,False,True,cache,True,True,10.18653/v1/n19-1114,1.0
+1706.03762,nlp_ml,JonasFaceNet2017,Convolutional sequence to sequence learning,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,graves2013generating,Generating sequences with recurrent neural networks,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,he2016deep,Deep residual learning for image recognition,,,False,True,cache,True,True,10.1109/cvpr.2016.90,1.0
+1706.03762,nlp_ml,hochreiter2001gradient,"Gradient flow in recurrent nets: the difficulty of learning long-term dependencies, 2001",,,False,False,,False,False,10.1109/9780470544037.ch14,
+1706.03762,nlp_ml,hochreiter1997,Long short-term memory,,,False,True,cache,,,10.7717/peerj-cs.3097/fig-7,1.0
+1706.03762,nlp_ml,huang-harper:2009:EMNLP,Self-training PCFG,,,False,False,,,,,
+1706.03762,nlp_ml,jozefowicz2016exploring,Exploring the limits of language modeling,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,extendedngpu,Can active memory replace attention?,,,False,True,cache,,,,1.0
+1706.03762,nlp_ml,neural_gpu,Neural GPU,,,False,True,cache,,,,1.0
+1706.03762,nlp_ml,NalBytenet2017,Neural machine translation in linear time,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,structuredAttentionNetworks,Structured attention networks,,,False,True,cache,,,,1.0
+1706.03762,nlp_ml,kingma2014adam,Adam: A method for stochastic optimization,,,False,True,cache,True,True,10.32614/cran.package.madgrad,1.0
+1706.03762,nlp_ml,Kuchaiev2017Factorization,Factorization tricks for LSTM,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,lin2017structured,A structured self-attentive sentence embedding,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,multiseq2seq,Multi-task sequence to sequence learning,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,luong2015effective,Effective approaches to attention-based neural machine translation,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,marcus1993building,Building a large annotated corpus of english: The penn treebank,,,False,False,,False,False,10.21236/ada273556,
+1706.03762,nlp_ml,mcclosky-etAl:2006:NAACL,Effective self-training for parsing,,,False,False,,True,True,10.3115/1220835.1220855,
+1706.03762,nlp_ml,decomposableAttnModel,A decomposable attention model,,,False,True,cache,,,,1.0
+1706.03762,nlp_ml,paulus2017deep,A deep reinforced model for abstractive summarization,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,petrov-EtAl:2006:ACL,"Learning accurate, compact, and interpretable tree annotation",,,False,False,,True,True,10.3115/1220175.1220230,
+1706.03762,nlp_ml,press2016using,Using the output embedding to improve language models,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,sennrich2015neural,Neural machine translation of rare words with subword units,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,shazeer2017outrageously,Outrageously large neural networks: The sparsely-gated mixture-of-experts layer,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,srivastava2014dropout,Dropout: a simple way to prevent neural networks from overfitting,,,False,False,,True,True,10.9734/ajrcos/2025/v18i2569,
+1706.03762,nlp_ml,sukhbaatar2015,End-to-end memory networks,,,False,True,cache,,,,1.0
+1706.03762,nlp_ml,sutskever14,Sequence to sequence learning with neural networks,,,False,True,cache,True,True,10.2139/ssrn.5320533,1.0
+1706.03762,nlp_ml,DBLP:journals/corr/SzegedyVISW15,Rethinking the inception architecture for computer vision,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,KVparse15,Grammar as a foreign language,,,False,True,cache,,,,1.0
+1706.03762,nlp_ml,wu2016google,Google's neural machine translation system: Bridging the gap between human and machine translation,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,DBLP:journals/corr/ZhouCWLX16,Deep recurrent models with fast-forward connections for neural machine translation,,,True,True,cache,True,True,,1.0
+1706.03762,nlp_ml,zhu-EtAl:2013:ACL,Fast and accurate shift-reduce constituent parsing,,,False,False,,,,,
+1810.04805,nlp_ml,akbik2018contextual,Contextual string embeddings for sequence labeling,,,False,False,,,,,
+1810.04805,nlp_ml,alrfou:2018,Character-level language modeling with deeper self-attention,,,True,True,cache,True,True,,1.0
+1810.04805,nlp_ml,ando-zhang:2005,A framework for learning predictive structures from multiple tasks and unlabeled data,,,False,False,,,,,
+1810.04805,nlp_ml,bentivogli-etal:2009,The fifth PASCAL,,,False,True,unpaywall,,,,1.0
+1810.04805,nlp_ml,blitzer-mcdonald-pereira:2006:_domain,Domain adaptation with structural correspondence learning,,,False,False,,True,True,10.3115/1610075.1610094,
+1810.04805,nlp_ml,bowman-etal:2015,A large annotated corpus for learning natural language inference,,,False,True,cache,True,True,10.18653/v1/d15-1075,1.0
+1810.04805,nlp_ml,brown-etal:1992:_class,Class-based n-gram models of natural language,,,False,True,cache,,,,0.333
+1810.04805,nlp_ml,cer-etal:2017,Semeval-2017 task 1: Semantic textual similarity multilingual and crosslingual focused evaluation,,10.18653/v1/S17-2001,False,True,cache,True,True,,0.9
+1810.04805,nlp_ml,chelba-etal:2013:_one,One billion word benchmark for measuring progress in statistical language modeling,,,True,True,cache,True,True,,1.0
+1810.04805,nlp_ml,chen-etal:2018:_quora,Quora question pairs,,,False,False,,False,False,10.1109/icac3n60023.2023.10541461,
+1810.04805,nlp_ml,clark-gardner:2018:_simpl,Simple and effective multi-paragraph reading comprehension,,,False,True,cache,True,True,10.18653/v1/p18-1078,1.0
+1810.04805,nlp_ml,clark2018semi,Semi-supervised sequence modeling with cross-view training,,,False,True,cache,True,True,10.18653/v1/d18-1217,1.0
+1810.04805,nlp_ml,collobert-weston:2008,A unified architecture for natural language processing: Deep neural networks with multitask learning,,,False,False,,,,,
+1810.04805,nlp_ml,conneau-EtAl:2017:EMNLP2017,Supervised learning of universal sentence representations from natural language inference data,,,False,True,cache,True,True,10.18653/v1/d17-1070,1.0
+1810.04805,nlp_ml,dai-le:2015:_semi,Semi-supervised sequence learning,,,False,True,cache,,,,1.0
+1810.04805,nlp_ml,imagenet_cvpr09,ImageNet: A Large-Scale Hierarchical Image Database,,,False,False,,False,False,10.1109/cvpr.2009.5206848,
+1810.04805,nlp_ml,dolan-brockett:2005:_autom,Automatically constructing a corpus of sentential paraphrases,,,False,False,,,,,
+1810.04805,nlp_ml,fedus2018maskgan,Maskgan: Better text generation via filling in the,,,True,True,cache,True,True,,1.0
+1810.04805,nlp_ml,hendrycks:2016,Bridging nonlinearities and stochastic regularizers with gaussian error linear units,,,True,True,cache,True,True,,0.889
+1810.04805,nlp_ml,hill16,Learning distributed representations of sentences from unlabelled data,,,False,True,cache,True,True,10.18653/v1/n16-1162,1.0
+1810.04805,nlp_ml,howard-ruder:2018,Universal language model fine-tuning for text classification,,,True,True,cache,True,True,,0.857
+1810.04805,nlp_ml,hu2017reinforced,Reinforced mnemonic reader for machine reading comprehension,,,False,True,cache,True,True,10.24963/ijcai.2018/570,1.0
+1810.04805,nlp_ml,DBLP:journals/corr/JerniteBS17,Discourse-based objectives for fast unsupervised sentence representation learning,,,True,True,cache,True,True,,1.0
+1810.04805,nlp_ml,joshi-etal:2017:_triviaq,Triviaqa: A large scale distantly supervised challenge dataset for reading comprehension,,,False,True,cache,True,True,10.18653/v1/p17-1147,1.0
+1810.04805,nlp_ml,kiros-etal:2015:_skip,Skip-thought vectors,,,False,True,cache,,,,1.0
+1810.04805,nlp_ml,le-mikolov:2014:_distr,Distributed representations of sentences and documents,,,False,True,cache,True,True,10.32614/cran.package.doc2vec,1.0
+1810.04805,nlp_ml,levesque-davis-morgenstern:2011:_winog,The winograd schema challenge,,,False,True,cache,,,,1.0
+1810.04805,nlp_ml,logeswaran2018an,An efficient framework for learning sentence representations,,,False,True,cache,,,,1.0
+1810.04805,nlp_ml,mccann-etal:2017:_learn_trans,Learned in translation: Contextualized word vectors,,,False,True,cache,,,,1.0
+1810.04805,nlp_ml,melamud2016context2vec,context2vec: Learning generic context embedding with bidirectional LSTM,,,False,True,cache,True,True,10.18653/v1/k16-1006,1.0
+1810.04805,nlp_ml,mikolov-etal:2013,Distributed representations of words and phrases and their compositionality,,,False,True,cache,,,,1.0
+1810.04805,nlp_ml,minh09,A scalable hierarchical distributed language model,,,False,False,,,,,
+1810.04805,nlp_ml,parikh-etal:2016,A decomposable attention model for natural language inference,,,False,True,cache,True,True,10.18653/v1/d16-1244,1.0
+1810.04805,nlp_ml,pennington-socher-manning:2014:_glove,Glove: Global vectors for word representation,,,False,False,,False,False,10.3115/v1/d14-1162,
+1810.04805,nlp_ml,peters-etal:2017:_semi,Semi-supervised sequence tagging with bidirectional language models,,,False,True,cache,True,True,10.18653/v1/p17-1161,1.0
+1810.04805,nlp_ml,peters-etal:2018:_deep,Deep contextualized word representations,,,False,True,cache,,,,1.0
+1810.04805,nlp_ml,peters2018dissecting,Dissecting contextual word embeddings: Architecture and representation,,,False,True,cache,True,True,10.18653/v1/d18-1179,1.0
+1810.04805,nlp_ml,radford-etal:2018,Improving language understanding with unsupervised learning,,,False,False,,,,,
+1810.04805,nlp_ml,rajpurkar-etal:2016:_squad,"Squad: 100,000+ questions for machine comprehension of text",,,False,True,cache,True,True,10.18653/v1/d16-1264,1.0
+1810.04805,nlp_ml,bidaf,Bidirectional attention flow for machine comprehension,,,False,True,cache,,,,0.8
+1810.04805,nlp_ml,socher-etal:2013:_recur,Recursive deep models for semantic compositionality over a sentiment treebank,,,False,True,cache,True,True,10.18653/v1/d13-1170,1.0
+1810.04805,nlp_ml,unet,U-net: Machine reading comprehension with unanswerable questions,,,True,True,cache,True,True,,1.0
+1810.04805,nlp_ml,taylor:1953:_cloze,“C,,,False,True,cache,,,,1.0
+1810.04805,nlp_ml,tjong-de:2003,Introduction to the conll-2003 shared task: Language-independent named entity recognition,,,False,True,cache,,,,1.0
+1810.04805,nlp_ml,turian-ratinov-bengio:2010:_word_repres,Word representations: A simple and general method for semi-supervised learning,,,False,True,cache,,,,0.625
+1810.04805,nlp_ml,vaswani-etal:2017:_atten,Attention is all you need,,,False,True,cache,False,False,10.1007/978-3-031-84300-6_13,1.0
+1810.04805,nlp_ml,vincent:2008,Extracting and composing robust features with denoising autoencoders,,,False,True,cache,False,False,10.1145/1390156.1390294,0.286
+1810.04805,nlp_ml,wang-etal:2018:_glue,Glue: A multi-task benchmark and analysis platform for natural language understanding,,,False,True,cache,True,True,10.18653/v1/w18-5446,1.0
+1810.04805,nlp_ml,slqa,Multi-granularity hierarchical attention fusion networks for reading comprehension and question answering,,,False,True,cache,True,True,10.18653/v1/p18-1158,1.0
+1810.04805,nlp_ml,warstadt-singh-bowman:2018:_corpus,Neural network acceptability judgments,,,True,True,cache,True,True,,1.0
+1810.04805,nlp_ml,williams-nangia-bowman:2018,A broad-coverage challenge corpus for sentence understanding through inference,,,False,True,cache,True,True,10.18653/v1/n18-1101,1.0
+1810.04805,nlp_ml,wu-etal:2016:_googl,Google's neural machine translation system: Bridging the gap between human and machine translation,,,True,True,cache,True,True,,1.0
+1810.04805,nlp_ml,yosinski2014transferable,How transferable are features in deep neural networks?,,,False,True,cache,,,,1.0
+1810.04805,nlp_ml,yu-etal:2018:_qanet,QAN,,,False,True,cache,,,,1.0
+1810.04805,nlp_ml,zellers2018swag,Swag: A large-scale adversarial dataset for grounded commonsense inference,,,False,True,cache,True,True,10.18653/v1/d18-1009,1.0
+1810.04805,nlp_ml,zhu:2015,Aligning books and movies: Towards story-like visual explanations by watching movies and reading books,,,False,True,cache,True,True,10.1109/iccv.2015.11,1.0
+2004.14974,nlp_ml,baly-etal-2018-integrating,Integrating stance detection and fact checking in a unified corpus,,,False,True,cache,True,True,10.18653/v1/n18-2004,0.857
+2004.14974,nlp_ml,nakov2018overview,Overview of the clef-2018 checkthat! lab on automatic identification and verification of political claims. task 2: Factuality,,,False,False,,True,True,10.1007/978-3-319-98932-7_32,
+2004.14974,nlp_ml,Beller2018MakingPW,Making progress with the automation of systematic reviews: principles of the international collaboration for the automation of systematic reviews (icasr),,,False,True,cache,True,True,10.1186/s13643-018-0740-7,0.8
+2004.14974,nlp_ml,Beltagy2019SciBERTPC,Scibert: A pretrained language model for scientific text,,,False,True,cache,True,True,10.18653/v1/d19-1371,0.833
+2004.14974,nlp_ml,Beltagy2020LongformerTL,Longformer: The long-document transformer,,,True,True,cache,True,True,,1.0
+2004.14974,nlp_ml,BergKirkpatrick2012AnEI,An empirical investigation of statistical significance in nlp,,,False,False,,,,,
+2004.14974,nlp_ml,Chen2019SeeingTF,Seeing things from a different angle: Discovering diverse perspectives about claims,,,False,True,cache,True,True,10.18653/v1/n19-1053,1.0
+2004.14974,nlp_ml,Cohan2015MatchingCT,Matching citation text and cited spans in biomedical literature: a search-oriented approach,,,False,True,cache,True,True,10.3115/v1/n15-1110,1.0
+2004.14974,nlp_ml,BiomedSumm,Tac 2014 biomedical summarization track,,,False,False,,,,,
+2004.14974,nlp_ml,derczynski-etal-2017-semeval,SemEval-2017 task 8: RumourEval: Determining rumour veracity and support for rumours,,10.18653/v1/S17-2006,False,True,cache,True,True,,1.0
+2004.14974,nlp_ml,Devlin2019BERTPO,Bert: Pre-training of deep bidirectional transformers for language understanding,,,False,True,cache,,,,1.0
+2004.14974,nlp_ml,DeYoung2019ERASERAB,Eraser: A benchmark to evaluate rationalized nlp models,,,False,True,cache,True,True,10.18653/v1/2020.acl-main.408,1.0
+2004.14974,nlp_ml,DeYoung2020EvidenceI2,"Evidence inference 2.0: More data, better models",,,False,True,cache,True,True,10.18653/v1/2020.bionlp-1.13,1.0
+2004.14974,nlp_ml,Dror2018TheHG,The hitchhiker's guide to testing statistical significance in natural language processing,,,False,True,cache,True,True,10.18653/v1/p18-1128,1.0
+2004.14974,nlp_ml,Efron1993AnIT,An introduction to the bootstrap,,,False,False,,False,False,10.1007/978-1-4842-2382-6_2,
+2004.14974,nlp_ml,ferreira-vlachos-2016-emergent,Emergent: a novel data-set for stance classification,,10.18653/v1/N16-1138,False,True,cache,True,True,,0.8
+2004.14974,nlp_ml,Gu2020DomainSpecificLM,Domain-specific language model pretraining for biomedical natural language processing,,,True,True,cache,True,True,,1.0
+2004.14974,nlp_ml,Gururangan2020DONTST,Don’t stop pretraining: Adapt language models to domains and tasks,,,False,True,cache,True,True,10.18653/v1/2020.acl-main.740,1.0
+2004.14974,nlp_ml,Gururangan2018AnnotationAI,Annotation artifacts in natural language inference data,,,False,True,cache,True,True,10.18653/v1/n18-2017,1.0
+2004.14974,nlp_ml,Hanselowski2019ARA,A richly annotated corpus for different tasks in automated fact-checking,,,False,True,cache,True,True,10.18653/v1/k19-1046,1.0
+2004.14974,nlp_ml,Jaidka2017TheCS,The cl-scisumm shared task 2017: Results and key insights,,,False,False,,,,,
+2004.14974,nlp_ml,Jin2019PubMedQAAD,Pubmedqa: A dataset for biomedical research question answering,,,False,True,cache,True,True,10.18653/v1/d19-1259,1.0
+2004.14974,nlp_ml,Lehman2019InferringWM,Inferring which medical treatments work from reports of clinical trials,,,False,True,cache,True,True,10.18653/v1/n19-1371,1.0
+2004.14974,nlp_ml,Lei2016RationalizingNP,Rationalizing neural predictions,,,False,True,cache,True,True,10.18653/v1/d16-1011,1.0
+2004.14974,nlp_ml,Liu2019RoBERTaAR,Roberta: A robustly optimized bert pretraining approach,,,True,True,cache,True,True,,1.0
+2004.14974,nlp_ml,Lo2019GORCAL,S2ORC: The Semantic Scholar Open Research Corpus,,,True,True,cache,True,True,,1.0
+2004.14974,nlp_ml,Luan2018MultiTaskIO,"Multi-task identification of entities, relations, and coreference for scientific knowledge graph construction",,,False,True,cache,True,True,10.18653/v1/d18-1360,0.8
+2004.14974,nlp_ml,Marshall2017AutomatingBE,Automating biomedical evidence synthesis: Robotreviewer,,,False,True,cache,True,True,10.18653/v1/p17-4002,1.0
+2004.14974,nlp_ml,Marshall2019TowardSR,Toward systematic review automation: a practical guide to using machine learning tools in research synthesis,,,False,True,cache,True,True,10.1186/s13643-019-1074-9,1.0
+2004.14974,nlp_ml,Nakov2004CitancesC,Citances: Citation sentences for semantic analysis of bioscience text,,,False,False,,,,,
+2004.14974,nlp_ml,Nye2018ACW,"A corpus with multi-level annotations of patients, interventions and outcomes to support language processing for medical literature",,,False,True,cache,True,True,10.18653/v1/p18-1019,1.0
+2004.14974,nlp_ml,Popat2017WhereTT,Where the truth lies: Explaining the credibility of emerging claims on the web and social media,,,False,False,,,,,
+2004.14974,nlp_ml,Schuster2019TowardsDF,Towards debiasing fact verification models,,,False,True,cache,True,True,10.18653/v1/d19-1341,0.8
+2004.14974,nlp_ml,Soleimani2019BERTFE,Bert for evidence retrieval and claim verification,,,False,True,cache,True,True,10.1007/978-3-030-45442-5_45,0.8
+2004.14974,nlp_ml,Thorne2018FEVERAL,Fever: a large-scale dataset for fact extraction and verification,,,False,True,cache,True,True,10.18653/v1/n18-1074,0.857
+2004.14974,nlp_ml,Tsafnat2014SystematicRA,Systematic review automation technologies,,,False,True,cache,True,True,10.1186/2046-4053-3-74,1.0
+2004.14974,nlp_ml,Tsatsaronis2015AnOO,An overview of the bioasq large-scale biomedical semantic indexing and question answering competition,,,False,True,cache,,,,1.0
+2004.14974,nlp_ml,Vlachos2014FactCT,Fact checking: Task definition and dataset construction,,,False,False,,True,True,10.3115/v1/w14-2508,
+2004.14974,nlp_ml,Wang2020CORD19TC,Cord-19: The covid-19 open research dataset,,,True,True,cache,True,True,,1.0
+2004.14974,nlp_ml,Wang2017LiarLP,"``liar, liar pants on fire'': A new benchmark dataset for fake news detection",,10.18653/v1/P17-2067,False,True,cache,True,True,,1.0
+2004.14974,nlp_ml,Wolf2019HuggingFacesTS,Huggingface's transformers: State-of-the-art natural language processing,,,True,True,cache,True,True,,1.0
+2105.10912,nlp_ml,Aharoni2020UnsupervisedDC,Unsupervised Domain Clusters in Pretrained Language Models,,,False,True,cache,True,True,10.18653/v1/2020.acl-main.692,1.0
+2105.10912,nlp_ml,ammar2018construction,Construction of the Literature Graph in Semantic Scholar,,,False,True,cache,,,,1.0
+2105.10912,nlp_ml,atanasova2020diagnostic,A Diagnostic Study of Explainability Techniques for Text Classification,,,False,True,cache,False,False,10.1007/978-3-031-51518-7_7,0.833
+2105.10912,nlp_ml,augenstein2017semeval,SemEval 2017 Task 10: ScienceIE-Extracting Keyphrases and Relations from Scientific Publications,,,False,True,cache,True,True,10.18653/v1/s17-2091,0.9
+2105.10912,nlp_ml,augenstein-sogaard-2017-multi,Multi-task learning of keyphrase boundary classification,,10.18653/v1/P17-2054,False,True,cache,True,True,,0.833
+2105.10912,nlp_ml,beltagy2019scibert,SciBERT: A Pretrained Language Model for Scientific Text,,,False,True,cache,True,True,10.18653/v1/d19-1371,0.833
+2105.10912,nlp_ml,DBLP:journals/corr/abs-2004-05150,Longformer: The Long-Document Transformer,,,True,True,cache,True,True,,1.0
+2105.10912,nlp_ml,bird2008acl,The ACL Anthology Reference Corpus: A Reference Dataset for Bibliographic Research in Computational Linguistics,,,False,False,,True,True,10.63317/4pzr64y6ri9j,
+2105.10912,nlp_ml,cohan2019structural,Structural Scaffolds for Citation Intent Classification in Scientific Publications,,,False,True,cache,True,True,10.18653/v1/n19-1361,0.714
+2105.10912,nlp_ml,collins-etal-2017-supervised,A supervised approach to extractive summarisation of scientific papers,,10.18653/v1/K17-1021,False,True,cache,True,True,,0.833
+2105.10912,nlp_ml,devlin2019bert,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,,,False,True,cache,,,,1.0
+2105.10912,nlp_ml,dougan2014ncbi,NCBI Disease Corpus: a Resource For Disease Name Recognition and Concept Normalization,,,False,False,,True,True,10.1016/j.jbi.2013.12.006,
+2105.10912,nlp_ml,elkan2008learning,Learning Classifiers From Only Positive and Unlabeled Data,,,False,True,cache,False,False,10.1145/1401890.1401920,0.857
+2105.10912,nlp_ml,farber2018high,A High-Quality Gold Standard for Citation-Based Tasks,,,False,False,,,,10.63317/2p2zuvfafqmr,
+2105.10912,nlp_ml,farber2018cite,"To Cite, or Not to Cite? Detecting Citation Contexts in Text",,,False,False,,False,False,10.1007/978-3-319-76941-7_50,
+2105.10912,nlp_ml,DBLP:conf/acl/GururanganMSLBD20,Don't Stop Pretraining: Adapt Language Models to Domains and Tasks,,10.18653/v1/2020.acl-main.740,False,True,cache,True,True,,1.0
+2105.10912,nlp_ml,holm2020longitudinal,Longitudinal Citation Prediction using Temporal Graph Neural Networks,,,True,True,cache,True,True,,1.0
+2105.10912,nlp_ml,jurgens2018measuring,Measuring the Evolution of a Scientific Field through Citation Frames,,,False,True,cache,True,True,10.1162/tacl_a_00028,0.857
+2105.10912,nlp_ml,kim2003genia,GENIA Corpus -- a Semantically Annotated Corpus for Bio-Textmining,,,False,False,,False,False,10.1093/bioinformatics/btg1023,
+2105.10912,nlp_ml,kim2004introduction,Introduction to the Bio-Entity Recognition Task at JNLPBA,,,False,False,,True,True,10.3115/1567594.1567610,
+2105.10912,nlp_ml,kindermans2016investigating,Investigating the Influence of Noise and Distractors on the Interpretation of Neural Networks,,,True,True,cache,True,True,,0.857
+2105.10912,nlp_ml,kringelum2016chemprot,ChemProt-3.0: a Global Chemical Biology Diseases Mapping,,,False,True,europe_pmc,True,True,10.1093/database/bav123,1.0
+2105.10912,nlp_ml,li2016biocreative,BioCreative V CDR task corpus: a resource for chemical disease relation extraction,,,False,True,europe_pmc,True,True,10.1093/database/baw068,1.0
+2105.10912,nlp_ml,lo2020s2orc,S2ORC: The Semantic Scholar Open Research Corpus,,,False,True,cache,True,True,10.18653/v1/2020.acl-main.447,1.0
+2105.10912,nlp_ml,luan-etal-2018-multi,"Multi-task identification of entities, relations, and coreference for scientific knowledge graph construction",,10.18653/v1/D18-1360,False,True,cache,True,True,,0.8
+2105.10912,nlp_ml,neumann-etal-2019-scispacy,ScispaCy: Fast and robust models for biomedical natural language processing,,10.18653/v1/W19-5034,False,True,cache,True,True,,1.0
+2105.10912,nlp_ml,nye2018corpus,"A Corpus With Multi-Level Annotations of Patients, Interventions and Outcomes to Support Language Processing for Medical Literature",,,False,True,cache,True,True,10.18653/v1/p18-1019,1.0
+2105.10912,nlp_ml,sugiyama2010identifying,Identifying Citing Sentences in Research Papers Using Supervised Learning,,,False,True,cache,False,False,10.1109/infrkm.2010.5466945,1.0
+2105.10912,nlp_ml,vaswani2017attention,Attention is All You Need,,,False,True,cache,False,False,10.1007/978-3-031-84300-6_13,1.0
+2105.10912,nlp_ml,Wadden2020FactOF,Fact or Fiction: Verifying Scientific Claims,,,False,True,cache,True,True,10.18653/v1/2020.emnlp-main.609,0.8
+2105.10912,nlp_ml,wright2020fact,Claim Check-Worthiness Detection as Positive Unlabelled Learning,,,False,True,cache,True,True,10.18653/v1/2020.findings-emnlp.43,1.0
+2105.10912,nlp_ml,wright2020transformer,Transformer Based Multi-Source Domain Adaptation,,,False,True,cache,True,True,10.18653/v1/2020.emnlp-main.639,1.0
+2105.10912,nlp_ml,conf/akbc/WrightKMH19,NormCo: Deep Disease Normalization for Biomedical Knowledge Base Construction,,,False,False,,,,,
+2109.10453,nlp_ml,alipourfard2021OSF,Systematizing confidence in open research and evidence (score),,10.31235/osf.io/46mnb,False,False,,True,True,,
+2109.10453,nlp_ml,augenstein-etal-2017-semeval,SemEval 2017 task 10: ScienceIE - extracting keyphrases and relations from scientific publications,,10.18653/v1/S17-2091,False,True,cache,True,True,,0.9
+2109.10453,nlp_ml,beltagy2019scibert,SciBERT: A pretrained language model for scientific text,,10.18653/v1/D19-1371,False,True,cache,True,True,,0.833
+2109.10453,nlp_ml,eberts2019span,Span-based joint entity and relation extraction with transformer pre-training,,10.3233/FAIA200321,False,True,cache,True,True,,1.0
+2109.10453,nlp_ml,friedman2017learning,Learning by reading: Extending and localizing against a model,,,False,False,,,,,
+2109.10453,nlp_ml,friedman2021qr,Extracting qualitative causal structure with transformer-based nlp,,,False,True,cache,,,,1.0
+2109.10453,nlp_ml,tybalt2021cogsci,Toward Transformer-Based NLP for Extracting Psychosocial Indicators of Moral Disengagement,,,False,True,core,,,,1.0
+2109.10453,nlp_ml,gabor-etal-2018-semeval,SemEval-2018 task 7: Semantic relation extraction and classification in scientific papers,,10.18653/v1/S18-1111,False,True,cache,True,True,,0.778
+2109.10453,nlp_ml,score2021twosix,Toward a robust method for understanding the reproducibility and replicability of research,,,False,False,,,,,
+2109.10453,nlp_ml,jain-etal-2020-scirex,SciREX: A challenge dataset for document-level information extraction,,10.18653/v1/2020.acl-main.670,False,True,cache,True,True,,1.0
+2109.10453,nlp_ml,lee-etal-2017-end,End-to-end neural coreference resolution,,10.18653/v1/D17-1018,False,True,cache,True,True,,1.0
+2109.10453,nlp_ml,luan2018multi,"Multi-task identification of entities, relations, and coreference for scientific knowledge graph construction",,10.18653/v1/D18-1360,False,True,cache,True,True,,0.8
+2109.10453,nlp_ml,wadden2020fact,Fact or fiction: Verifying scientific claims,,10.18653/v1/2020.emnlp-main.609,False,True,cache,True,True,,0.8
+2109.10453,nlp_ml,wang2020cord19,Cord-19: The covid-19 open research dataset,,,True,True,cache,True,True,,1.0
+2109.10453,nlp_ml,yu2019EMNLPCausalLanguage,Detecting causal language use in science findings,,10.18653/v1/D19-1473,False,True,cache,True,True,,1.0
+2203.02155,nlp_ml,abramson2020imitating,Imitating interactive intelligence,2020,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,achiam2017constrained,Constrained policy optimization,2017,,False,True,cache,,,,1.0
+2203.02155,nlp_ml,anthony2017thinking,Thinking fast and slow with deep learning and tree search,2017,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,aribandi2021ext5,Ext5: Towards extreme multi-task scaling for transfer learning,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,askell2021general,A general language assistant as a laboratory for alignment,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,bahdanau2016actor,An actor-critic algorithm for sequence prediction,2016,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,bahdanau2018learning,Learning to understand goal specifications by modelling reward,2018,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,bender2021dangers,On the dangers of stochastic parrots: Can language models be too big?,2021,,False,False,,,,,
+2203.02155,nlp_ml,blodgett2020language,"Language (technology) is power: A critical survey of"" bias"" in nlp",2020,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,bohm2019better,Better rewards yield better summaries: Learning to summarise without references,2019,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,bojar-etal-2015-findings,Findings of the 2015 workshop on statistical machine translation,2015,,False,True,cache,True,True,10.18653/v1/w15-3001,1.0
+2203.02155,nlp_ml,bommasani2021opportunities,On the opportunities and risks of foundation models,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,brown2020language,Language models are few-shot learners,2020,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,buchanan2021truth,"Truth, lies, and automation",2021,,False,False,,,,,
+2203.02155,nlp_ml,caliskan2017semantics,Semantics derived automatically from language corpora contain human-like biases,2017,,False,True,cache,True,True,10.1126/science.aal4230,1.0
+2203.02155,nlp_ml,carlini2021extracting,Extracting training data from large language models,2021,,False,True,cache,,,,1.0
+2203.02155,nlp_ml,chen2021evaluating,Evaluating large language models trained on code,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,cho2018towards,Towards coherent and cohesive long-form text generation,2018,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,choi2018quac,Quac: Question answering in context,2018,,False,True,cache,True,True,10.18653/v1/d18-1241,1.0
+2203.02155,nlp_ml,christiano2021eliciting,Eliciting latent knowledge: How to tell if your eyes deceive you,2021,,False,False,,,,,
+2203.02155,nlp_ml,christiano2018supervising,Supervising strong learners by amplifying weak experts,2018,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,christiano2017deep,Deep reinforcement learning from human preferences,2017,,False,True,cache,True,True,10.1016/j.oceaneng.2024.120036,1.0
+2203.02155,nlp_ml,dathathri2019plug,Plug and play language models: A simple approach to controlled text generation,2019,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,dhamala2021bold,Bold: Dataset and metrics for measuring biases in open-ended language generation,2021,,False,True,cache,,,,1.0
+2203.02155,nlp_ml,dinan2019queens,Queens are powerful too: Mitigating gender bias in dialogue generation,,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,dinan2019build,Build it break it fix it for dialogue safety: Robustness from adversarial human attack,,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,dua2019drop,Drop: A reading comprehension benchmark requiring discrete reasoning over paragraphs,2019,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,fedus2021switch,Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity,2021,,True,True,cache,True,True,,0.9
+2203.02155,nlp_ml,gabriel2020artificial,"Artificial intelligence, values, and alignment",2020,,False,True,cache,True,True,10.1007/s11023-020-09539-2,1.0
+2203.02155,nlp_ml,gehman2020realtoxicityprompts,Realtoxicityprompts: Evaluating neural toxic degeneration in language models,2020,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,hancock2019learning,"Learning from dialogue after deployment: Feed yourself, chatbot!",2019,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,henderson2018ethical,Ethical challenges in data-driven dialogue systems,2018,,False,True,cache,True,True,10.1145/3278721.3278777,1.0
+2203.02155,nlp_ml,huang2019reducing,Reducing sentiment bias in language models via counterfactual evaluation,2019,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,ibarz2018reward,Reward learning from human preferences and demonstrations in atari,2018,,False,True,cache,False,False,10.5220/0014408700004052,1.0
+2203.02155,nlp_ml,irving2018ai,AI,2018,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,jaques2019way,Way off-policy batch deep reinforcement learning of implicit human preferences in dialog,2019,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,kenton2021alignment,Alignment of language agents,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,keskar2019ctrl,Ctrl: A conditional transformer language model for controllable generation,2019,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,khashabi2020unifiedqa,Unifiedqa: Crossing format boundaries with a single qa system,2020,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,kirk2021true,How true is gpt-2? an empirical analysis of intersectional occupational biases,2021,,True,True,cache,True,True,,0.833
+2203.02155,nlp_ml,krause2020gedi,Gedi: Generative discriminator guided sequence generation,2020,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,kreutzer2018can,Can neural machine translation be improved with user feedback?,2018,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,lawrence2018improving,Improving a neural semantic parser by counterfactual learning from human bandit feedback,2018,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,leike2018scalable,Scalable agent alignment via reward modeling: a research direction,2018,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,leike2017ai,AI,2017,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,liang2021towards,Towards understanding and mitigating social biases in language models,2021,,False,True,cache,,,,1.0
+2203.02155,nlp_ml,lin2021truthfulqa,Truthfulqa: Measuring how models mimic human falsehoods,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,liu2019does,Does gender matter? towards fairness in dialogue systems,2019,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,madaan2022memory,Memory-assisted prompt editing to improve gpt-3 after deployment,2022,,True,True,cache,True,True,,0.571
+2203.02155,nlp_ml,manela2021stereotype,Stereotype and skew: Quantifying gender bias in pre-trained and fine-tuned language models,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,mishra2021cross,Cross-task generalization via natural language crowdsourcing instructions,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,nadeem2020stereoset,Stereoset: Measuring stereotypical bias in pretrained language models,2020,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,nahian2021training,Training value-aligned reinforcement learning agents using a normative prior,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,nakano2021webgpt,Webgpt: Browser-assisted question-answering with human feedback,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,nallapati2016abstractive,Abstractive text summarization using sequence-to-sequence rnns and beyond,2016,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,nangia2020crows,CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models,2020,,False,True,cache,True,True,10.18653/v1/2020.emnlp-main.154,1.0
+2203.02155,nlp_ml,ngo2021mitigating,Mitigating harm in language models with conditional-likelihood filtration,2021,,True,True,cache,True,True,,0.875
+2203.02155,nlp_ml,perez2019finding,Finding generalizable evidence by learning to convince q,2019,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,qian2019reducing,Reducing gender bias in word-level language models with a gender-equalizing loss function,2019,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,radford2019language,Language models are unsupervised multitask learners,2019,,False,False,,,,,
+2203.02155,nlp_ml,rae2021scaling,"Scaling language models: Methods, analysis",2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,rajpurkar2018know,Know what you don't know: Unanswerable questions for squad,2018,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,rudinger2018gender,Gender bias in coreference resolution,2018,,False,True,cache,,,,1.0
+2203.02155,nlp_ml,sanh2021multitask,Multitask prompted training enables zero-shot task generalization,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,schick2021self,Self-diagnosis and self-debiasing: A proposal for reducing corpus-based bias in nlp,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,schulman2016gae,High-dimensional continuous control using generalized advantage estimation,2016,,False,True,cache,,,,1.0
+2203.02155,nlp_ml,schulman2017proximal,Proximal policy optimization algorithms,2017,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,sheng2019woman,The woman worked as a babysitter: On biases in language generation,2019,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,silver2017mastering,Mastering chess and shogi by self-play with a general reinforcement learning algorithm,2017,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,soares2015corrigibility,Corrigibility,2015,,False,True,cache,,,,1.0
+2203.02155,nlp_ml,socher2013recursive,Recursive deep models for semantic compositionality over a sentiment treebank,2013,,False,True,cache,True,True,10.18653/v1/d13-1170,1.0
+2203.02155,nlp_ml,solaiman2019release,Release strategies and the social impacts of language models,2019,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,solaiman2021process,Process for adapting language models to society (palms) with values-targeted datasets,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,stiennon2020learning,Learning to summarize from human feedback,2020,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,tamkin2021understanding,"Understanding the capabilities, limitations, and societal impact of large language models",2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,thoppilan2022lamda,Lamda: Language models for dialog applications,2022,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,vig2020investigating,Investigating gender bias in language models using causal mediation analysis,2020,,False,True,cache,True,True,10.18653/v1/2022.gebnlp-1.26,1.0
+2203.02155,nlp_ml,volske2017tl,Tl; dr: Mining reddit to learn automatic summarization,2017,,False,True,cache,True,True,10.18653/v1/w17-4508,1.0
+2203.02155,nlp_ml,wang2019superglue,Superglue: A stickier benchmark for general-purpose language understanding systems,2019,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,wei2021finetuned,Finetuned language models are zero-shot learners,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,weidinger2021ethical,Ethical and social risks of harm from language models,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,welbl2021challenges,Challenges in detoxifying language models,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,wu2021recursively,Recursively summarizing books with human feedback,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,xu2021detoxifying,Detoxifying language models risks marginalizing minority voices,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,xu2020recipes,Recipes for safety in open-domain chatbots,2020,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,yi2019towards,Towards coherent and engaging spoken dialog response generation using automatic conversation evaluators,2019,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,zellers2019hellaswag,Hellaswag: Can a machine really finish your sentence?,2019,,False,True,cache,True,True,10.18653/v1/p19-1472,1.0
+2203.02155,nlp_ml,zhao2021evaluation,On the evaluation of vision-and-language navigation instructions,2021,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,zhou2020learning,Learning to compare for better training and evaluation of open domain natural language generation models,2020,,True,True,cache,True,True,,1.0
+2203.02155,nlp_ml,ziegler2019fine,Fine-tuning language models from human preferences,2019,,True,True,cache,True,True,,1.0

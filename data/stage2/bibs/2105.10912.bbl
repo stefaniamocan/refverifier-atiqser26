@@ -1,0 +1,259 @@
+\begin{thebibliography}{33}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Aharoni and Goldberg(2020)}]{Aharoni2020UnsupervisedDC}
+Roee Aharoni and Y.~Goldberg. 2020.
+\newblock {Unsupervised Domain Clusters in Pretrained Language Models}.
+\newblock In \emph{ACL}.
+
+\bibitem[{Ammar et~al.(2018)Ammar, Groeneveld, Bhagavatula, Beltagy, Crawford,
+  Downey, Dunkelberger, Elgohary, Feldman, Ha et~al.}]{ammar2018construction}
+Waleed Ammar, Dirk Groeneveld, Chandra Bhagavatula, Iz~Beltagy, Miles Crawford,
+  Doug Downey, Jason Dunkelberger, Ahmed Elgohary, Sergey Feldman, Vu~Ha,
+  et~al. 2018.
+\newblock {Construction of the Literature Graph in Semantic Scholar}.
+\newblock \emph{NAACL HLT 2018}, pages 84--91.
+
+\bibitem[{Atanasova et~al.(2020)Atanasova, Simonsen, Lioma, and
+  Augenstein}]{atanasova2020diagnostic}
+Pepa Atanasova, Jakob~Grue Simonsen, Christina Lioma, and Isabelle Augenstein.
+  2020.
+\newblock {A Diagnostic Study of Explainability Techniques for Text
+  Classification}.
+\newblock In \emph{Proceedings of EMNLP}. Association for Computational
+  Linguistics.
+
+\bibitem[{Augenstein et~al.(2017)Augenstein, Das, Riedel, Vikraman, and
+  McCallum}]{augenstein2017semeval}
+Isabelle Augenstein, Mrinal Das, Sebastian Riedel, Lakshmi Vikraman, and Andrew
+  McCallum. 2017.
+\newblock {SemEval 2017 Task 10: ScienceIE-Extracting Keyphrases and Relations
+  from Scientific Publications}.
+\newblock In \emph{Proceedings of the 11th International Workshop on Semantic
+  Evaluation (SemEval-2017)}, pages 546--555.
+
+\bibitem[{Augenstein and S{\o}gaard(2017)}]{augenstein-sogaard-2017-multi}
+Isabelle Augenstein and Anders S{\o}gaard. 2017.
+\newblock \href {https://doi.org/10.18653/v1/P17-2054} {Multi-task learning of
+  keyphrase boundary classification}.
+\newblock In \emph{Proceedings of the 55th Annual Meeting of the Association
+  for Computational Linguistics (Volume 2: Short Papers)}, pages 341--346,
+  Vancouver, Canada. Association for Computational Linguistics.
+
+\bibitem[{Beltagy et~al.(2019)Beltagy, Lo, and Cohan}]{beltagy2019scibert}
+Iz~Beltagy, Kyle Lo, and Arman Cohan. 2019.
+\newblock {SciBERT: A Pretrained Language Model for Scientific Text}.
+\newblock In \emph{Proceedings of the 2019 Conference on Empirical Methods in
+  Natural Language Processing and the 9th International Joint Conference on
+  Natural Language Processing (EMNLP-IJCNLP)}, pages 3606--3611.
+
+\bibitem[{Beltagy et~al.(2020)Beltagy, Peters, and
+  Cohan}]{DBLP:journals/corr/abs-2004-05150}
+Iz~Beltagy, Matthew~E. Peters, and Arman Cohan. 2020.
+\newblock \href {http://arxiv.org/abs/2004.05150} {{Longformer: The
+  Long-Document Transformer}}.
+\newblock \emph{CoRR}, abs/2004.05150.
+
+\bibitem[{Bird et~al.(2008)Bird, Dale, Dorr, Gibson, Joseph, Kan, Lee, Powley,
+  Radev, and Tan}]{bird2008acl}
+Steven Bird, Robert Dale, Bonnie~J Dorr, Bryan Gibson, Mark~Thomas Joseph,
+  Min-Yen Kan, Dongwon Lee, Brett Powley, Dragomir~R Radev, and Yee~Fan Tan.
+  2008.
+\newblock {The ACL Anthology Reference Corpus: A Reference Dataset for
+  Bibliographic Research in Computational Linguistics}.
+
+\bibitem[{Cohan et~al.(2019)Cohan, Ammar, van Zuylen, and
+  Cady}]{cohan2019structural}
+Arman Cohan, Waleed Ammar, Madeleine van Zuylen, and Field Cady. 2019.
+\newblock {Structural Scaffolds for Citation Intent Classification in
+  Scientific Publications}.
+\newblock In \emph{Proceedings of the 2019 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies, Volume 1 (Long and Short Papers)}, pages 3586--3596.
+
+\bibitem[{Collins et~al.(2017)Collins, Augenstein, and
+  Riedel}]{collins-etal-2017-supervised}
+Ed~Collins, Isabelle Augenstein, and Sebastian Riedel. 2017.
+\newblock \href {https://doi.org/10.18653/v1/K17-1021} {A supervised approach
+  to extractive summarisation of scientific papers}.
+\newblock In \emph{Proceedings of the 21st Conference on Computational Natural
+  Language Learning ({C}o{NLL} 2017)}, pages 195--205, Vancouver, Canada.
+  Association for Computational Linguistics.
+
+\bibitem[{Devlin et~al.(2019)Devlin, Chang, Lee, and
+  Toutanova}]{devlin2019bert}
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. 2019.
+\newblock {BERT: Pre-training of Deep Bidirectional Transformers for Language
+  Understanding}.
+\newblock In \emph{Proceedings of the 2019 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies}, pages 4171--4186.
+
+\bibitem[{Do{\u{g}}an et~al.(2014)Do{\u{g}}an, Leaman, and Lu}]{dougan2014ncbi}
+Rezarta~Islamaj Do{\u{g}}an, Robert Leaman, and Zhiyong Lu. 2014.
+\newblock {NCBI Disease Corpus: a Resource For Disease Name Recognition and
+  Concept Normalization}.
+\newblock \emph{Journal of biomedical informatics}, 47:1--10.
+
+\bibitem[{Elkan and Noto(2008)}]{elkan2008learning}
+Charles Elkan and Keith Noto. 2008.
+\newblock {Learning Classifiers From Only Positive and Unlabeled Data}.
+\newblock In \emph{Proceedings of the 14th ACM SIGKDD International Conference
+  on Knowledge Discovery and Data Mining}, pages 213--220.
+
+\bibitem[{F{\"a}rber et~al.(2018{\natexlab{a}})F{\"a}rber, Thiemann, and
+  Jatowt}]{farber2018high}
+Michael F{\"a}rber, Alexander Thiemann, and Adam Jatowt. 2018{\natexlab{a}}.
+\newblock {A High-Quality Gold Standard for Citation-Based Tasks}.
+\newblock In \emph{Proceedings of the Eleventh International Conference on
+  Language Resources and Evaluation (LREC 2018)}.
+
+\bibitem[{F{\"a}rber et~al.(2018{\natexlab{b}})F{\"a}rber, Thiemann, and
+  Jatowt}]{farber2018cite}
+Michael F{\"a}rber, Alexander Thiemann, and Adam Jatowt. 2018{\natexlab{b}}.
+\newblock {To Cite, or Not to Cite? Detecting Citation Contexts in Text}.
+\newblock In \emph{European Conference on Information Retrieval}, pages
+  598--603. Springer.
+
+\bibitem[{Gururangan et~al.(2020)Gururangan, Marasovic, Swayamdipta, Lo,
+  Beltagy, Downey, and Smith}]{DBLP:conf/acl/GururanganMSLBD20}
+Suchin Gururangan, Ana Marasovic, Swabha Swayamdipta, Kyle Lo, Iz~Beltagy, Doug
+  Downey, and Noah~A. Smith. 2020.
+\newblock \href {https://doi.org/10.18653/v1/2020.acl-main.740} {{Don't Stop
+  Pretraining: Adapt Language Models to Domains and Tasks}}.
+\newblock In \emph{Proceedings of the 58th Annual Meeting of the Association
+  for Computational Linguistics, {ACL} 2020, Online, July 5-10, 2020}, pages
+  8342--8360. Association for Computational Linguistics.
+
+\bibitem[{Holm et~al.(2020)Holm, Plank, Wright, and
+  Augenstein}]{holm2020longitudinal}
+Andreas~Nugaard Holm, Barbara Plank, Dustin Wright, and Isabelle Augenstein.
+  2020.
+\newblock {Longitudinal Citation Prediction using Temporal Graph Neural
+  Networks}.
+\newblock \emph{arXiv preprint arXiv:2012.05742}.
+
+\bibitem[{J{\"u}rgens et~al.(2018)J{\"u}rgens, Kumar, Hoover, McFarland, and
+  Jurafsky}]{jurgens2018measuring}
+David J{\"u}rgens, Srijan Kumar, Raine Hoover, Dan McFarland, and Dan Jurafsky.
+  2018.
+\newblock {Measuring the Evolution of a Scientific Field through Citation
+  Frames}.
+\newblock \emph{Transactions of the Association for Computational Linguistics},
+  6:391--406.
+
+\bibitem[{Kim et~al.(2003)Kim, Ohta, Tateisi, and Tsujii}]{kim2003genia}
+J-D Kim, Tomoko Ohta, Yuka Tateisi, and Jun'ichi Tsujii. 2003.
+\newblock {GENIA Corpus -- a Semantically Annotated Corpus for Bio-Textmining}.
+\newblock \emph{Bioinformatics}, 19(suppl\_1):i180--i182.
+
+\bibitem[{Kim et~al.(2004)Kim, Ohta, Tsuruoka, Tateisi, and
+  Collier}]{kim2004introduction}
+Jin-Dong Kim, Tomoko Ohta, Yoshimasa Tsuruoka, Yuka Tateisi, and Nigel Collier.
+  2004.
+\newblock {Introduction to the Bio-Entity Recognition Task at JNLPBA}.
+\newblock In \emph{Proceedings of the International Joint Workshop on Natural
+  Language Processing in Biomedicine and its Applications}, pages 70--75.
+  Citeseer.
+
+\bibitem[{Kindermans et~al.(2016)Kindermans, Sch{\"u}tt, M{\"u}ller, and
+  D{\"a}hne}]{kindermans2016investigating}
+Pieter-Jan Kindermans, Kristof Sch{\"u}tt, Klaus-Robert M{\"u}ller, and Sven
+  D{\"a}hne. 2016.
+\newblock {Investigating the Influence of Noise and Distractors on the
+  Interpretation of Neural Networks}.
+\newblock \emph{arXiv preprint arXiv:1611.07270}.
+
+\bibitem[{Kringelum et~al.(2016)Kringelum, Kjaerulff, Brunak, Lund, Oprea, and
+  Taboureau}]{kringelum2016chemprot}
+Jens Kringelum, Sonny~Kim Kjaerulff, S{\o}ren Brunak, Ole Lund, Tudor~I Oprea,
+  and Olivier Taboureau. 2016.
+\newblock {ChemProt-3.0: a Global Chemical Biology Diseases Mapping}.
+\newblock \emph{Database}, 2016.
+
+\bibitem[{Li et~al.(2016)Li, Sun, Johnson, Sciaky, Wei, Leaman, Davis,
+  Mattingly, Wiegers, and Lu}]{li2016biocreative}
+Jiao Li, Yueping Sun, Robin~J Johnson, Daniela Sciaky, Chih-Hsuan Wei, Robert
+  Leaman, Allan~Peter Davis, Carolyn~J Mattingly, Thomas~C Wiegers, and Zhiyong
+  Lu. 2016.
+\newblock {BioCreative V CDR task corpus: a resource for chemical disease
+  relation extraction}.
+\newblock \emph{Database}, 2016.
+
+\bibitem[{Lo et~al.(2020)Lo, Wang, Neumann, Kinney, and Weld}]{lo2020s2orc}
+Kyle Lo, Lucy~Lu Wang, Mark Neumann, Rodney Kinney, and Daniel~S Weld. 2020.
+\newblock {S2ORC: The Semantic Scholar Open Research Corpus}.
+\newblock In \emph{Proceedings of the 58th Annual Meeting of the Association
+  for Computational Linguistics}, pages 4969--4983.
+
+\bibitem[{Luan et~al.(2018)Luan, He, Ostendorf, and
+  Hajishirzi}]{luan-etal-2018-multi}
+Yi~Luan, Luheng He, Mari Ostendorf, and Hannaneh Hajishirzi. 2018.
+\newblock \href {https://doi.org/10.18653/v1/D18-1360} {Multi-task
+  identification of entities, relations, and coreference for scientific
+  knowledge graph construction}.
+\newblock In \emph{Proceedings of the 2018 Conference on Empirical Methods in
+  Natural Language Processing}, pages 3219--3232, Brussels, Belgium.
+  Association for Computational Linguistics.
+
+\bibitem[{Neumann et~al.(2019)Neumann, King, Beltagy, and
+  Ammar}]{neumann-etal-2019-scispacy}
+Mark Neumann, Daniel King, Iz~Beltagy, and Waleed Ammar. 2019.
+\newblock \href {https://doi.org/10.18653/v1/W19-5034} {{S}cispa{C}y: Fast and
+  robust models for biomedical natural language processing}.
+\newblock In \emph{Proceedings of the 18th BioNLP Workshop and Shared Task},
+  pages 319--327, Florence, Italy. Association for Computational Linguistics.
+
+\bibitem[{Nye et~al.(2018)Nye, Li, Patel, Yang, Marshall, Nenkova, and
+  Wallace}]{nye2018corpus}
+Benjamin Nye, Junyi~Jessy Li, Roma Patel, Yinfei Yang, Iain~J Marshall, Ani
+  Nenkova, and Byron~C Wallace. 2018.
+\newblock {A Corpus With Multi-Level Annotations of Patients, Interventions and
+  Outcomes to Support Language Processing for Medical Literature}.
+\newblock In \emph{Proceedings of the conference. Association for Computational
+  Linguistics. Meeting}, volume 2018, page 197. NIH Public Access.
+
+\bibitem[{Sugiyama et~al.(2010)Sugiyama, Kumar, Kan, and
+  Tripathi}]{sugiyama2010identifying}
+Kazunari Sugiyama, Tarun Kumar, Min-Yen Kan, and Ramesh~C Tripathi. 2010.
+\newblock {Identifying Citing Sentences in Research Papers Using Supervised
+  Learning}.
+\newblock In \emph{2010 International Conference on Information Retrieval \&
+  Knowledge Management (CAMP)}, pages 67--72. IEEE.
+
+\bibitem[{Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones,
+  Gomez, Kaiser, and Polosukhin}]{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N Gomez, {\L}ukasz Kaiser, and Illia Polosukhin. 2017.
+\newblock {Attention is All You Need}.
+\newblock In \emph{Advances in Neural Information Processing Systems}, pages
+  5998--6008.
+
+\bibitem[{Wadden et~al.(2020)Wadden, Lo, Wang, Lin, van Zuylen, Cohan, and
+  Hajishirzi}]{Wadden2020FactOF}
+David Wadden, Kyle Lo, Lucy~Lu Wang, Shanchuan Lin, Madeleine van Zuylen, Arman
+  Cohan, and Hannaneh Hajishirzi. 2020.
+\newblock {Fact or Fiction: Verifying Scientific Claims}.
+\newblock In \emph{EMNLP}.
+
+\bibitem[{Wright and Augenstein(2020{\natexlab{a}})}]{wright2020fact}
+Dustin Wright and Isabelle Augenstein. 2020{\natexlab{a}}.
+\newblock {Claim Check-Worthiness Detection as Positive Unlabelled Learning}.
+\newblock In \emph{Findings of EMNLP}. Association for Computational
+  Linguistics.
+
+\bibitem[{Wright and Augenstein(2020{\natexlab{b}})}]{wright2020transformer}
+Dustin Wright and Isabelle Augenstein. 2020{\natexlab{b}}.
+\newblock {Transformer Based Multi-Source Domain Adaptation}.
+\newblock In \emph{Proceedings of EMNLP}. Association for Computational
+  Linguistics.
+
+\bibitem[{Wright et~al.(2019)Wright, Katsis, Mehta, and
+  Hsu}]{conf/akbc/WrightKMH19}
+Dustin Wright, Yannis Katsis, Raghav Mehta, and Chun-Nan Hsu. 2019.
+\newblock \href
+  {http://dblp.uni-trier.de/db/conf/akbc/akbc2019.html#WrightKMH19} {{NormCo:
+  Deep Disease Normalization for Biomedical Knowledge Base Construction}}.
+\newblock In \emph{AKBC}.
+
+\end{thebibliography}

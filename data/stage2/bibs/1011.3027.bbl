@@ -1,0 +1,377 @@
+\begin{thebibliography}{}
+%\markboth{References}{References}
+%\addcontentsline{toc}{schapter}{References}
+
+\bibitem{Achlioptas} Achlioptas, D. (2003).
+  \newblock Database-friendly random projections: Johnson-Lindenstrauss with binary coins, 
+  in: Special issue on PODS 2001 (Santa Barbara, CA).
+  {\em J. Comput. System Sci.}, {\bf 66}, 671--687. 
+
+\bibitem{ALPT} Adamczak, R., Litvak, A., Pajor, A., Tomczak-Jaegermann, N. (2010).
+  \newblock Quantitative estimates of the convergence of the empirical covariance matrix 
+  in log-concave ensembles,
+  {\em J. Amer. Math. Soc.}, {\bf 23}, 535--561.
+  
+\bibitem{ALPT RIP} Adamczak, R., Litvak, A., Pajor, A., Tomczak-Jaegermann, N. (2010).
+  \newblock Restricted isometry property of matrices with independent columns 
+    and neighborly polytopes by random sampling, 
+  {\em Constructive Approximation}, to appear.
+
+\bibitem{AW} Ahlswede, R. and Winter, A. (2002).
+  \newblock Strong converse for identification via quantum channels,
+  {\em IEEE Trans. Inform. Theory}, {\bf 48}, 569--579.
+  
+\bibitem{AGZ} Anderson, G., Guionnet, A. and Zeitouni, O. (2009). 
+  {\em An Introduction to Random Matrices}. 
+  Cambridge: Cambridge University Press.  
+
+\bibitem{Bai-Silverstein}  Bai, Z. and Silverstein, J. (2010).
+  {\em Spectral analysis of large dimensional random matrices.} 
+  Second edition. New York: Springer.
+
+\bibitem{Bai-Silverstein-Yin} Bai, Z., Silverstein, J. and Yin, Y. (1988).
+  \newblock A note on the largest eigenvalue of a large-dimensional sample covariance matrix, 
+  {\em J. Multivariate Anal.}, {\bf 26}, 166--168. 
+
+\bibitem{Bai-Yin} Bai, Z. and Yin, Y. (1993).
+  \newblock Limit of the smallest eigenvalue of a large-dimensional sample covariance matrix,
+  {\em Annals of Probability}, {\bf 21}, 1275--1294.
+
+\bibitem{Ball} Ball, K. (1997).
+  \newblock An elementary introduction to modern convex geometry,
+  in {\em Flavors of geometry}, pp. 1--58.
+  Math. Sci. Res. Inst. Publ., 31, 
+  Cambridge: Cambridge University Press.
+
+\bibitem{BDDW} Baraniuk, R., Davenport, M., DeVore, R. and Wakin, M. (2008).
+  \newblock A simple proof of the restricted isometry property for random matrices,
+  {\em Constructive Approximation}, {\bf 28}, 253--263.
+  
+\bibitem{BBL} Boucheron, S. Bousquet, O. and Lugosi, G. (2004).
+  \newblock Concentration inequalities, 
+  in {\em Advanced Lectures in Machine Learning}, edited by Bousquet, O., Luxburg, U. and R\"atsch, G. 
+  Springer, pp. 208--240.
+  
+\bibitem{Bourgain} Bourgain, J. (1999).
+  \newblock Random points in isotropic convex sets,
+  in: {\em Convex geometric analysis (Berkeley, CA, 1996)},  pp. 53--58. 
+  Math. Sci. Res. Inst. Publ., 34.
+  Cambridge: Cambridge University Press.
+
+\bibitem{Buc01} Buchholz, A. (2001). 
+  \newblock Operator Khintchine inequality in non-commutative probability,
+  {\em Math. Ann.}, {\bf 319}, 1--16.
+  
+\bibitem{Buc05} Buchholz, A. (2005). 
+  \newblock Optimal constants in Khintchine type inequalities for fermions, 
+    Rademachers and $q$-Gaussian operators,
+  {\em Bull. Pol. Acad. Sci. Math.}, {\bf 53}, 315--321.
+
+\bibitem{BuKo} Buldygin, V. V. and Kozachenko, Ju. V. (1980).
+  \newblock Sub-Gaussian random variables, 
+  {\em Ukrainian Mathematical Journal}, {\bf 32}, 483--489.
+
+\bibitem{Candes} Cand\`es, E. 
+  \newblock The restricted isometry property and its implications for compressed sensing, 
+  {\em Compte Rendus de l'Academie des Sciences, Paris, Serie I}, {\bf 346}, 589--592.
+
+\bibitem{Candes-Tao} Cand\`es, E. and Tao, T. (2005).
+  \newblock Decoding by linear programming, 
+  {\em IEEE Trans. Inform. Theory}, {\bf 51}, 4203--4215.
+
+\bibitem{Candes-Tao Fourier} Cand\`es, E. and Tao, T. (2006).
+  \newblock Near-optimal signal recovery from random projections: universal encoding strategies? 
+  {\em IEEE Trans. Inform. Theory}, {\bf 52}, 5406--5425. 
+
+\bibitem{Christensen} Christensen, O. (2008).
+  \newblock {\em Frames and bases. An introductory course.} 
+  Applied and Numerical Harmonic Analysis. 
+  Boston, MA: Birkh\"auser Boston, Inc.
+
+\bibitem{CS website} Compressive Sensing Resources, 
+  \verb=http://dsp.rice.edu/cs=
+
+\bibitem{DS} Davidson, K. R. and Szarek, S. J. (2001).
+  \newblock Local operator theory, random matrices and Banach spaces,
+  in {\em Handbook of the geometry of Banach spaces}, Vol. I, pp. 317--366.
+  Amsterdam: North-Holland.
+
+\bibitem{dG} de la Pe\~na, V. and Gin\'e, E. (1999).
+  \newblock {\em Decoupling. From dependence to independence. Randomly stopped processes. 
+  $U$-statistics and processes. Martingales and beyond.}
+  New York: Springer-Verlag.
+  
+\bibitem{Deift-Gioev} Deift, P. and Gioev, D. (2009).
+  \newblock {\em Random matrix theory: invariant ensembles and universality.} 
+  Courant Lecture Notes in Mathematics, 18. 
+  Courant Institute of Mathematical Sciences, New York; 
+  Providence, RI: American Mathematical Society.
+
+\bibitem{Dembo-Zeitouni} Dembo, A. and Zeitouni, O. (1993).
+  \newblock {\em Large deviations techniques and applications.} 
+  Boston, MA: Jones and Bartlett Publishers.
+
+\bibitem{DKM} Drineas, P., Kannan, R. and Mahoney, M. (2006).
+  \newblock Fast Monte Carlo algorithms for matrices. I, II III,  
+  {\em SIAM J. Comput.}, {\bf 36} (2006), 132--206.
+
+\bibitem{Durrett} Durrett, R. (2005).
+  \newblock {\em Probability: theory and examples.}
+  Belmont: Duxbury Press.
+  
+\bibitem{FeSo} Feldheim, O. and Sodin, S. (2008).
+  \newblock A universality result for the smal lest eigenvalues of certain sample covariance matrices, 
+  {\em Geometric and Functional Analysis}, 
+  to appear.
+  
+\bibitem{FR} Fornasier, M. and Rauhut, H. (2010).
+  \newblock Compressive Sensing,
+  in {\em Handbook of Mathematical Methods in Imaging}, edited by Scherzer, O.
+  Springer, to appear.
+
+\bibitem{FuKo} F\"uredi, Z.; Koml\'os, J. (1981).
+  The eigenvalues of random symmetric matrices,
+  {\em Combinatorica}, {\bf 1}, 233--241. 
+  
+\bibitem{Geman} Geman, S. (1980).
+  \newblock A limit theorem for the norm of random matrices,
+  {\em Annals of Probability}, {\bf 8}, 252--261.
+
+\bibitem{Giannopoulos isotropic} Giannopoulos, A. (2003).
+  \newblock {\em Notes on isotropic convex bodies},
+  Warsaw.
+
+\bibitem{GiMi concentration} Giannopoulos, A. and Milman, V. (2000).
+  \newblock Concentration property on probability spaces,
+  {\em Advances in Mathematics}, {\bf 156}, 77--106. 
+
+\bibitem{GiMi} Giannopoulos, A. and Milman, V. (2001). 
+  \newblock Euclidean structure in finite dimensional normed spaces,
+  in {\em Handbook of the geometry of Banach spaces}, Vol. I, pp. 707--779.
+  Amsterdam: North-Holland.
+  
+\bibitem{GMDL} Golub, G., Mahoney, M., Drineas, P. and Lim, L.-H. (2006).
+  \newblock Bridging the gap between numerical linear algebra, 
+    theoretical computer science, and data applications,
+  {\em SIAM News}, {\bf 9}, Number 8.
+    
+\bibitem{Gordon 84} Gordon, Y. (1984).
+  \newblock On Dvoretzky's theorem and extensions of Slepian's lemma,
+  in {\em Israel seminar on geometrical aspects of functional analysis (1983/84), II.}
+  Tel Aviv: Tel Aviv University.
+
+\bibitem{Gordon 85} Gordon, Y. (1985).
+  \newblock Some inequalities for Gaussian processes and applications,
+  {\em Israel Journal of Mathematics}, {\bf 50}, 265--289.
+
+\bibitem{Gordon 92} Gordon, Y. (1992).
+  \newblock Majorization of Gaussian processes and geometric applications,
+  {\em Probab. Theory Related Fields}, {\bf 91}, 251--267.
+  
+\bibitem{Johnstone} Johnstone, I. (2001).
+  \newblock On the distribution of the largest eigenvalue in principal components analysis,  
+  {\em Ann. Statist.}, {\bf 29}, 295--327.
+
+\bibitem{Kahane} Kahane, J.-P. (1960).
+  \newblock Propri\'et\'es locales des fonctions \`a s\'eries de {F}ourier al\'eatoires,
+  {\em Studia Mathematica}, {\bf 19}, 1--25.
+
+\bibitem{KLS} Kannan, R., Lov\'asz, L. and Simonovits, M. (1995).
+  \newblock Isoperimetric problems for convex bodies and a localization lemma,
+  {\em Discrete Comput. Geom.}, {\bf 13}, 541--559.
+
+\bibitem{KC} Kova\v{c}evi\'c, J. and Chebira, A. (2008). 
+  \newblock {\em An Introduction to Frames}. 
+  Foundations and Trends in Signal Processing. 
+  Now Publishers.
+ 
+ \bibitem{Latala} Latala, R. (2005).
+  \newblock Some estimates of norms of random matrices,
+  {\em Proc. Amer. Math. Soc.}, {\bf 133}, 1273-1282.
+
+\bibitem{Ledoux} Ledoux, M. (2005).
+  \newblock {\em The concentration of measure phenomenon.}
+  Mathematical Surveys and Monographs, 89. 
+  Providence: American Mathematical Society.
+  
+\bibitem{Ledoux extremal} Ledoux, M. (2007).
+  \newblock Deviation inequalities on largest eigenvalues,
+  in {\em Geometric aspects of functional analysis},  pp. 167--219. 
+  Lecture Notes in Math., 1910. Berlin: Springer.
+  
+\bibitem{Ledoux-Talagrand} Ledoux, M. and Talagrand, M. (1991).
+  \newblock {\em Probability in Banach spaces.}
+  Berlin: Springer-Verlag.
+  
+\bibitem{LPRT} Litvak, A., Pajor, A., Rudelson, M. and Tomczak-Jaegermann, N. (2005).
+  \newblock Smallest singular value of random matrices and geometry of random polytopes,
+  {\em Adv. Math.}, {\bf 195}, 491--523.
+
+\bibitem{Lu-Pi} Lust-Piquard, F. and Pisier, G. (1991).
+  \newblock Noncommutative Khintchine and Paley inequalities,
+  {\em Ark. Mat.}, {\bf 29}, 241--260. 
+  
+\bibitem{Lust-Piquard} Lust-Piquard, F. (1986).
+  \newblock In\'egalit\'es de Khintchine dans $C_p (1<p<\infty)$,
+  {\em C. R. Acad. Sci. Paris S\'er. I Math.}, {\bf 303}, 289--292. 
+  
+\bibitem{Matousek} Matou\v{s}ek, J. (2002).
+  \newblock {\em Lectures on discrete geometry.}
+  Graduate Texts in Mathematics, 212. 
+  New York: Springer-Verlag.
+  
+\bibitem{Meckes} Meckes, M. (2004).
+  \newblock Concentration of norms and eigenvalues of random matrices.  
+  {\em J. Funct. Anal.}, {\bf 211}, 508--524.
+
+\bibitem{Mehta} Mehta, M. L. (2004). 
+  \newblock {\em Random matrices.} 
+  Pure and Applied Mathematics (Amsterdam), 142. 
+  Amsterdam: Elsevier/Academic Press.
+  
+\bibitem{Mendelson} Mendelson, S. (2008).
+  \newblock On weakly bounded empirical processes,
+  {\em Math. Ann.}, {\bf 340}, 293--314.
+
+\bibitem{MePaTJ reconstruction} Mendelson, S., Pajor, A. and Tomczak-Jaegermann, N. (2007).
+  \newblock Reconstruction and subgaussian operators in asymptotic geometric analysis,  
+  {\em Geom. Funct. Anal.}, {\bf 17}, 1248--1282.
+
+\bibitem{MePaTJ}Mendelson, S., Pajor, A. and Tomczak-Jaegermann, N. (2008).
+  \newblock Uniform uncertainty principle for Bernoulli and subgaussian ensembles,
+  {\em Constr. Approx.}, {\bf 28} (2008), 277--289. 
+ 
+\bibitem {Milman Dvoretzky} Milman, V. D. (1974).
+  \newblock A new proof of A. Dvoretzky's theorem on cross-sections of convex bodies. 
+  {\em Funkcional. Anal. i Prilozhen.}, {\bf 5}, 28--37. 
+  
+\bibitem{MS} Milman, V. and Schechtman, G. (1986). 
+  \newblock {\em Asymptotic theory of finite-dimensional normed spaces.
+  With an appendix by M. Gromov.} 
+  Lecture Notes in Mathematics, 1200. 
+  Berlin: Springer-Verlag.
+  
+\bibitem{Paouris} Paouris, G. (2006).
+  \newblock Concentration of mass on convex bodies,  
+  {\em Geom. Funct. Anal.}, {\bf 16}, 1021--1049.
+  
+\bibitem{PeSo} P\'ech\'e, S. and Soshnikov, A. (2008).
+  \newblock On the lower bound of the spectral norm of symmetric random matrices with independent entries,
+  {\em Electron. Commun. Probab.}, {\bf 13}, 280--290. 
+
+\bibitem{Petrov} Petrov, V. V. (1975).
+  \newblock {\em Sums of independent random variables.} 
+   New York-Heidelberg: Springer-Verlag.
+   
+\bibitem{Pisier volume} Pisier, G. (1989).
+  \newblock {\em The volume of convex bodies and Banach space geometry.} 
+  Cambridge Tracts in Mathematics, 94. 
+  Cambridge: Cambridge University Press.
+
+\bibitem{Pisier operator} Pisier, G. (2003).
+  \newblock {\em Introduction to operator space theory.}
+  London Mathematical Society Lecture Note Series, 294. 
+  Cambridge: Cambridge University Press.
+  
+\bibitem{Rauhut structured} Rauhut, H. (2010). 
+  \newblock Compressive sensing and structured random matrices,
+  in {\em Theoretical Foundations and Numerical Methods for Sparse Recovery},  
+  edited by Fornasier,~M. 
+  Radon Series Comp. Appl. Math., Volume 9, pp. 1--92. deGruyter.
+
+\bibitem{Rudelson contact} Rudelson, M. (1997).
+  \newblock Contact points of convex bodies,
+  {\em Israel Journal of Mathematics}, {\bf 101}, 93--124. 
+  
+\bibitem{Rudelson sub-matrices} Rudelson, M. (1999).
+  \newblock Almost orthogonal submatrices of an orthogonal matrix,  
+  {\em Israel J. of Math.}, {\bf 111}, 143--155.
+
+\bibitem{Rudelson isotropic} Rudelson, M. (1999).
+  \newblock Random vectors in the isotropic position, 
+  {\em Journal of Functional Analysis}, {\bf 164}, 60--72. 
+  
+\bibitem{RV sampling} Rudelson, M. and Vershynin, R. (2007).
+  \newblock Sampling from large matrices: an approach through geometric functional analysis,
+  {\em J. ACM}, {\bf 54}, Art. 21, 19 pp. 
+  
+\bibitem{RV Fourier} Rudelson, M. and Vershynin, R. (2008).
+  \newblock On sparse reconstruction from Fourier and Gaussian measurements,
+  {\em Comm. Pure Appl. Math.}, {\bf 61}, 1025--1045. 
+
+\bibitem{RV rectangular} Rudelson, M. and Vershynin, R. (2009).
+  \newblock Smallest singular value of a random rectangular matrix,
+  {\em Comm. Pure Appl. Math.}, {\bf 62}, 1707--1739.
+
+\bibitem{RV ICM} Rudelson, M. and Vershynin, R. (2010).
+  \newblock Non-asymptotic theory of random matrices: extreme singular values, 
+  {\em Proceedings of the International Congress of Mathematicians}, 
+  Hyderabad, India, to appear.
+
+\bibitem{Silverstein} Silverstein, J. (1985).
+  \newblock The smallest eigenvalue of a large-dimensional Wishart matrix,
+  {\em Annals of Probability}, {\bf 13}, 1364--1368.
+  
+\bibitem{Soshnikov} Soshnikov, A. (2002). 
+  \newblock A note on universality of the distribution of the largest eigenvalues in 
+    certain sample covariance matrices, 
+  {\em J. Statist. Phys.}, {\bf 108}, 1033--1056.
+
+\bibitem{Talagrand canonical} Talagrand, M. (1994).
+  \newblock The supremum of some canonical processes, 
+  {\em American Journal of Mathematics}, {\bf 116}, 283--325.
+  
+\bibitem{Tal1} Talagrand, M. (1995).
+  \newblock Concentration of measure and isoperimetric inequalities in product spaces,
+  {\em Inst. Hautes \'Etudes Sci. Publ. Math.}, {\bf 81}, 73--205.
+
+\bibitem{Tal2} Talagrand, M. (1996).
+  \newblock A new look at independence,  
+  {\em Annals of Probability}, {\bf 24}, 1--34.
+
+\bibitem{Ta book} Talagrand, M. (2005).
+  \newblock {\em The generic chaining. Upper and lower bounds of stochastic processes.}
+  Springer Monographs in Mathematics. 
+  Berlin: Springer-Verlag.
+  
+\bibitem{Tao-Vu survey} Tao, T. and Vu, V. (2009).
+  \newblock From the Littlewood-Offord problem to the circular law: 
+    universality of the spectral distribution of random matrices,
+  {\em Bull. Amer. Math. Soc. (N.S.)}, {\bf 46}, 377--396.
+
+\bibitem{Tropp} Tropp, J. (2010).
+  \newblock User-friendly tail bounds for sums of random matrices,
+  submitted.
+
+\bibitem{Vempala} Vempala, S. (2005).
+  \newblock Geometric random walks: a survey, 
+  in {\em Combinatorial and computational geometry},  pp. 577--616. 
+  Math. Sci. Res. Inst. Publ., 52.
+  Cambridge: Cambridge University Press.
+
+\bibitem{Vershynin John} Vershynin, R. (2001).
+  \newblock John's decompositions: selecting a large part,
+  {\em Israel Journal of Mathematics}, {\bf 122}, 253--277.
+
+\bibitem{V frames} Vershynin, R. (2005).
+  \newblock Frame expansions with erasures: an approach through the non-commutative operator theory,  
+  {\em Appl. Comput. Harmon. Anal.}, {\bf 18}, 167--176.
+  
+\bibitem{V marginals} Vershynin, R. (2010).
+  \newblock Approximating the moments of marginals of high-dimensional distributions, 
+  {\em Annals of Probability}, to appear.
+
+
+\bibitem{V covariance} Vershynin, R. (2010).
+  \newblock How close is the sample covariance matrix to the actual covariance matrix?,
+  {\em Journal of Theoretical Probability}, to appear. 
+  
+\bibitem{Vu} Vu, V. (2007).
+  \newblock Spectral norm of random matrices,
+  {\em Combinatorica}, {\bf 27}, 721--736.
+  
+\bibitem{YBK} Yin, Y. Q., Bai, Z. D. and Krishnaiah, P. R. (1998).
+  \newblock On the limit of the largest eigenvalue of the large-dimensional sample covariance matrix,
+  {\em Probab. Theory Related Fields}, {\bf 78}, 509--521.
+
+\end{thebibliography}

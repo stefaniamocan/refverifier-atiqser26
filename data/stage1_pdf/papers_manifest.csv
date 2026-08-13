@@ -1,0 +1,11 @@
+arxiv_id,field,pdf_url,source_url,sha256_pdf,latex_cite_truth_n,has_ground_truth,pdf_regex_recall,pdf_regex_precision
+1011.3027,math,https://arxiv.org/pdf/1011.3027,https://arxiv.org/e-print/1011.3027,,126,True,0.897,0.507
+1207.7214,physics,https://arxiv.org/pdf/1207.7214,https://arxiv.org/e-print/1207.7214,,0,False,,0.0
+1405.4980,math,https://arxiv.org/pdf/1405.4980,https://arxiv.org/e-print/1405.4980,,113,True,0.885,0.403
+1502.01589,physics,https://arxiv.org/pdf/1502.01589,https://arxiv.org/e-print/1502.01589,,0,False,,0.0
+1706.03762,nlp_ml,https://arxiv.org/pdf/1706.03762,https://arxiv.org/e-print/1706.03762,,58,True,1.0,0.432
+1810.04805,nlp_ml,https://arxiv.org/pdf/1810.04805,https://arxiv.org/e-print/1810.04805,,91,True,0.956,0.605
+2004.14974,nlp_ml,https://arxiv.org/pdf/2004.14974,https://arxiv.org/e-print/2004.14974,,56,True,0.929,0.532
+2105.10912,nlp_ml,https://arxiv.org/pdf/2105.10912,https://arxiv.org/e-print/2105.10912,,49,True,0.939,0.581
+2109.10453,nlp_ml,https://arxiv.org/pdf/2109.10453,https://arxiv.org/e-print/2109.10453,,32,True,0.875,0.81
+2203.02155,nlp_ml,https://arxiv.org/pdf/2203.02155,https://arxiv.org/e-print/2203.02155,,183,True,0.962,0.735

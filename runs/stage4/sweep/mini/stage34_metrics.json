@@ -1,0 +1,624 @@
+{
+  "stage": "stage34_evidence_verdict",
+  "eval_labels": [
+    "Supported",
+    "Refuted",
+    "NEI"
+  ],
+  "verdict_collapse": {
+    "decision": "report-both (O-1)",
+    "lenient": {
+      "Supported": "Supported",
+      "Partially Supported": "Supported",
+      "Not Supported": "Refuted",
+      "NEI": "NEI"
+    },
+    "strict": {
+      "Supported": "Supported",
+      "Partially Supported": "NEI",
+      "Not Supported": "Refuted",
+      "NEI": "NEI"
+    }
+  },
+  "n_examples": 100,
+  "localization": {
+    "n_examples": 100,
+    "n_scored": 77,
+    "counts": {
+      "hit": 38,
+      "near": 17,
+      "miss": 22,
+      "n/a": 23
+    },
+    "hit_rate": 0.4935,
+    "mrr": 0.3788,
+    "mean_recall_at_k": 0.3353,
+    "by_claim_type": {
+      "statistical": {
+        "hit": 38,
+        "n/a": 23,
+        "miss": 22,
+        "near": 17
+      }
+    }
+  },
+  "localization_neighbours": {
+    "description": "coverage scored against the located+neighbours region (fair unit for passage-level gold); larger unit, so not a pure quality gain",
+    "n_scored": 77,
+    "counts": {
+      "hit": 48,
+      "near": 21,
+      "miss": 8,
+      "n/a": 23
+    },
+    "hit_rate": 0.6234,
+    "mrr": 0.5,
+    "mean_recall_at_k": 0.47
+  },
+  "localization_latency": {
+    "n_units": 100,
+    "total_s": 197.0432,
+    "mean_s_per_unit": 1.9704,
+    "median_s_per_unit": 1.6263,
+    "p95_s_per_unit": 4.0612
+  },
+  "verdict_by_condition": {
+    "gold_evidence": {
+      "lenient": {
+        "n": 100,
+        "accuracy": 0.62,
+        "macro_f1": 0.5277,
+        "per_class": {
+          "Supported": {
+            "precision": 0.9231,
+            "recall": 0.5455,
+            "f1": 0.6857,
+            "support": 66
+          },
+          "Refuted": {
+            "precision": 0.2,
+            "recall": 0.2727,
+            "f1": 0.2308,
+            "support": 11
+          },
+          "NEI": {
+            "precision": 0.5,
+            "recall": 1.0,
+            "f1": 0.6667,
+            "support": 23
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 36,
+            "Refuted": 12,
+            "NEI": 18
+          },
+          "Refuted": {
+            "Supported": 3,
+            "Refuted": 3,
+            "NEI": 5
+          },
+          "NEI": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 23
+          }
+        }
+      },
+      "strict": {
+        "n": 100,
+        "accuracy": 0.35,
+        "macro_f1": 0.3118,
+        "per_class": {
+          "Supported": {
+            "precision": 1.0,
+            "recall": 0.1364,
+            "f1": 0.24,
+            "support": 66
+          },
+          "Refuted": {
+            "precision": 0.2,
+            "recall": 0.2727,
+            "f1": 0.2308,
+            "support": 11
+          },
+          "NEI": {
+            "precision": 0.3026,
+            "recall": 1.0,
+            "f1": 0.4646,
+            "support": 23
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 9,
+            "Refuted": 12,
+            "NEI": 45
+          },
+          "Refuted": {
+            "Supported": 0,
+            "Refuted": 3,
+            "NEI": 8
+          },
+          "NEI": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 23
+          }
+        }
+      }
+    },
+    "located": {
+      "lenient": {
+        "n": 100,
+        "accuracy": 0.52,
+        "macro_f1": 0.348,
+        "per_class": {
+          "Supported": {
+            "precision": 0.7885,
+            "recall": 0.6212,
+            "f1": 0.6949,
+            "support": 66
+          },
+          "Refuted": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 11
+          },
+          "NEI": {
+            "precision": 0.275,
+            "recall": 0.4783,
+            "f1": 0.3492,
+            "support": 23
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 41,
+            "Refuted": 3,
+            "NEI": 22
+          },
+          "Refuted": {
+            "Supported": 4,
+            "Refuted": 0,
+            "NEI": 7
+          },
+          "NEI": {
+            "Supported": 7,
+            "Refuted": 5,
+            "NEI": 11
+          }
+        }
+      },
+      "strict": {
+        "n": 100,
+        "accuracy": 0.27,
+        "macro_f1": 0.1933,
+        "per_class": {
+          "Supported": {
+            "precision": 0.8182,
+            "recall": 0.1364,
+            "f1": 0.2338,
+            "support": 66
+          },
+          "Refuted": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 11
+          },
+          "NEI": {
+            "precision": 0.2222,
+            "recall": 0.7826,
+            "f1": 0.3462,
+            "support": 23
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 9,
+            "Refuted": 3,
+            "NEI": 54
+          },
+          "Refuted": {
+            "Supported": 2,
+            "Refuted": 0,
+            "NEI": 9
+          },
+          "NEI": {
+            "Supported": 0,
+            "Refuted": 5,
+            "NEI": 18
+          }
+        }
+      }
+    },
+    "located_neighbours": {
+      "lenient": {
+        "n": 100,
+        "accuracy": 0.55,
+        "macro_f1": 0.3822,
+        "per_class": {
+          "Supported": {
+            "precision": 0.7627,
+            "recall": 0.6818,
+            "f1": 0.72,
+            "support": 66
+          },
+          "Refuted": {
+            "precision": 0.125,
+            "recall": 0.0909,
+            "f1": 0.1053,
+            "support": 11
+          },
+          "NEI": {
+            "precision": 0.2727,
+            "recall": 0.3913,
+            "f1": 0.3214,
+            "support": 23
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 45,
+            "Refuted": 3,
+            "NEI": 18
+          },
+          "Refuted": {
+            "Supported": 4,
+            "Refuted": 1,
+            "NEI": 6
+          },
+          "NEI": {
+            "Supported": 10,
+            "Refuted": 4,
+            "NEI": 9
+          }
+        }
+      },
+      "strict": {
+        "n": 100,
+        "accuracy": 0.35,
+        "macro_f1": 0.2848,
+        "per_class": {
+          "Supported": {
+            "precision": 0.8824,
+            "recall": 0.2273,
+            "f1": 0.3614,
+            "support": 66
+          },
+          "Refuted": {
+            "precision": 0.125,
+            "recall": 0.0909,
+            "f1": 0.1053,
+            "support": 11
+          },
+          "NEI": {
+            "precision": 0.2533,
+            "recall": 0.8261,
+            "f1": 0.3878,
+            "support": 23
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 15,
+            "Refuted": 3,
+            "NEI": 48
+          },
+          "Refuted": {
+            "Supported": 2,
+            "Refuted": 1,
+            "NEI": 8
+          },
+          "NEI": {
+            "Supported": 0,
+            "Refuted": 4,
+            "NEI": 19
+          }
+        }
+      }
+    },
+    "full_document": {
+      "lenient": {
+        "n": 100,
+        "accuracy": 0.65,
+        "macro_f1": 0.5099,
+        "per_class": {
+          "Supported": {
+            "precision": 0.7656,
+            "recall": 0.7424,
+            "f1": 0.7538,
+            "support": 66
+          },
+          "Refuted": {
+            "precision": 0.5,
+            "recall": 0.1818,
+            "f1": 0.2667,
+            "support": 11
+          },
+          "NEI": {
+            "precision": 0.4375,
+            "recall": 0.6087,
+            "f1": 0.5091,
+            "support": 23
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 49,
+            "Refuted": 2,
+            "NEI": 15
+          },
+          "Refuted": {
+            "Supported": 6,
+            "Refuted": 2,
+            "NEI": 3
+          },
+          "NEI": {
+            "Supported": 9,
+            "Refuted": 0,
+            "NEI": 14
+          }
+        }
+      },
+      "strict": {
+        "n": 100,
+        "accuracy": 0.48,
+        "macro_f1": 0.4207,
+        "per_class": {
+          "Supported": {
+            "precision": 0.9583,
+            "recall": 0.3485,
+            "f1": 0.5111,
+            "support": 66
+          },
+          "Refuted": {
+            "precision": 0.5,
+            "recall": 0.1818,
+            "f1": 0.2667,
+            "support": 11
+          },
+          "NEI": {
+            "precision": 0.3194,
+            "recall": 1.0,
+            "f1": 0.4842,
+            "support": 23
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 23,
+            "Refuted": 2,
+            "NEI": 41
+          },
+          "Refuted": {
+            "Supported": 1,
+            "Refuted": 2,
+            "NEI": 8
+          },
+          "NEI": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 23
+          }
+        }
+      }
+    }
+  },
+  "verdict_by_claim_type_gold_evidence": {
+    "statistical": {
+      "lenient": {
+        "n": 100,
+        "accuracy": 0.62,
+        "macro_f1": 0.5277
+      },
+      "strict": {
+        "n": 100,
+        "accuracy": 0.35,
+        "macro_f1": 0.3118
+      }
+    }
+  },
+  "ablation_accuracy_by_condition": {
+    "gold_evidence": {
+      "lenient": 0.62,
+      "strict": 0.35
+    },
+    "located": {
+      "lenient": 0.52,
+      "strict": 0.27
+    },
+    "located_neighbours": {
+      "lenient": 0.55,
+      "strict": 0.35
+    },
+    "full_document": {
+      "lenient": 0.65,
+      "strict": 0.48
+    }
+  },
+  "context_size_by_condition": {
+    "gold_evidence": {
+      "mean_words": 60.3
+    },
+    "located": {
+      "mean_words": 348.7
+    },
+    "located_neighbours": {
+      "mean_words": 721.1
+    },
+    "full_document": {
+      "mean_words": 8405.3
+    }
+  },
+  "latency_by_condition": {
+    "gold_evidence": {
+      "n_units": 0,
+      "total_s": 0.0,
+      "mean_s_per_unit": 0.0,
+      "median_s_per_unit": 0.0,
+      "p95_s_per_unit": 0.0,
+      "mean_s": 0.0
+    },
+    "located": {
+      "n_units": 0,
+      "total_s": 0.0,
+      "mean_s_per_unit": 0.0,
+      "median_s_per_unit": 0.0,
+      "p95_s_per_unit": 0.0,
+      "mean_s": 0.0
+    },
+    "located_neighbours": {
+      "n_units": 0,
+      "total_s": 0.0,
+      "mean_s_per_unit": 0.0,
+      "median_s_per_unit": 0.0,
+      "p95_s_per_unit": 0.0,
+      "mean_s": 0.0
+    },
+    "full_document": {
+      "n_units": 0,
+      "total_s": 0.0,
+      "mean_s_per_unit": 0.0,
+      "median_s_per_unit": 0.0,
+      "p95_s_per_unit": 0.0,
+      "mean_s": 0.0
+    }
+  },
+  "token_by_condition": {
+    "gold_evidence": {
+      "prompt": 111057,
+      "completion": 50573,
+      "total": 161630,
+      "calls": 62,
+      "mean_total_per_verdict": 1616.3,
+      "cost_usd": 0.155436,
+      "cost_usd_list": 0.310871
+    },
+    "located": {
+      "prompt": 225652,
+      "completion": 84073,
+      "total": 309725,
+      "calls": 93,
+      "mean_total_per_verdict": 3097.2,
+      "cost_usd": 0.273784,
+      "cost_usd_list": 0.547567
+    },
+    "located_neighbours": {
+      "prompt": 282987,
+      "completion": 89064,
+      "total": 372051,
+      "calls": 93,
+      "mean_total_per_verdict": 3720.5,
+      "cost_usd": 0.306514,
+      "cost_usd_list": 0.613028
+    },
+    "full_document": {
+      "prompt": 1701673,
+      "completion": 111167,
+      "total": 1812840,
+      "calls": 98,
+      "mean_total_per_verdict": 18128.4,
+      "cost_usd": 0.888253,
+      "cost_usd_list": 1.776506
+    }
+  },
+  "negation_baseline": {
+    "n": 100,
+    "accuracy": 0.64,
+    "macro_f1": 0.3025,
+    "per_class": {
+      "Supported": {
+        "precision": 0.6632,
+        "recall": 0.9545,
+        "f1": 0.7826,
+        "support": 66
+      },
+      "Refuted": {
+        "precision": 0.2,
+        "recall": 0.0909,
+        "f1": 0.125,
+        "support": 11
+      },
+      "NEI": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 23
+      }
+    },
+    "confusion": {
+      "Supported": {
+        "Supported": 63,
+        "Refuted": 3,
+        "NEI": 0
+      },
+      "Refuted": {
+        "Supported": 10,
+        "Refuted": 1,
+        "NEI": 0
+      },
+      "NEI": {
+        "Supported": 22,
+        "Refuted": 1,
+        "NEI": 0
+      }
+    },
+    "rule": "predict Refuted iff the claim contains a negation cue, else Supported (never reads evidence, never predicts NEI)",
+    "cue_rate_by_gold": {
+      "Supported": 0.0455,
+      "Refuted": 0.0909,
+      "NEI": 0.0435
+    }
+  },
+  "timing": {
+    "wall_clock_s": 1373.01,
+    "throughput_examples_per_s": 0.073,
+    "llm_calls": 346,
+    "tokens": {
+      "prompt": 2321369,
+      "completion": 334877,
+      "total": 2656246,
+      "cost_usd": 1.623986,
+      "cost_usd_list": 3.247973
+    },
+    "localization_cold_start_s": 8.9526
+  },
+  "run": {
+    "dataset": "citationintegrity",
+    "split": "test",
+    "n_examples": 100,
+    "k_located_sentences": 3,
+    "chunk_size_W": 3,
+    "localization_hint": true,
+    "ablate_full": true,
+    "seed": 20260622,
+    "model": "gpt-5.4-mini",
+    "reasoning_effort": "medium",
+    "batch": true,
+    "batch_id": "batch_6a39114777508190bcba0a47b9c1c5ff,batch_6a39158e22848190ab8c87e90361658f,batch_6a3915eb9dfc8190aa4f2d0dde3ea2e1",
+    "batch_status": "completed",
+    "batch_request_counts": {
+      "total": 346,
+      "completed": 346,
+      "failed": 0
+    },
+    "batch_results_valid": true,
+    "latency_valid": false
+  },
+  "pricing": {
+    "model": "gpt-5.4-mini",
+    "rate_per_1m": {
+      "input_per_1m": 0.75,
+      "cached_input_per_1m": 0.075,
+      "output_per_1m": 4.5
+    },
+    "currency": "USD",
+    "as_of": "2026-06-22",
+    "source": "OpenAI: https://developers.openai.com/api/docs/pricing (fetched 2026-06-22). Anthropic: https://platform.claude.com/docs/en/about-claude/models/overview (rates as of 2026-06-04). All rates USD per 1,000,000 tokens.",
+    "batch_discount": 0.5
+  }
+}

@@ -1,0 +1,141 @@
+\begin{thebibliography}{15}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Alipourfard et~al.(2021)Alipourfard, Arendt, Benjamin, Benkler,
+  Bishop, Burstein, Bush, Caverlee, Chen, Clark, and
+  et~al.}]{alipourfard2021OSF}
+Nazanin Alipourfard, Beatrix Arendt, Daniel~M Benjamin, Noam Benkler, Michael~M
+  Bishop, Mark Burstein, Martin Bush, James Caverlee, Yiling Chen, Chae Clark,
+  and et~al. 2021.
+\newblock \href {https://doi.org/10.31235/osf.io/46mnb} {Systematizing
+  confidence in open research and evidence (score)}.
+
+\bibitem[{Augenstein et~al.(2017)Augenstein, Das, Riedel, Vikraman, and
+  McCallum}]{augenstein-etal-2017-semeval}
+Isabelle Augenstein, Mrinal Das, Sebastian Riedel, Lakshmi Vikraman, and Andrew
+  McCallum. 2017.
+\newblock \href {https://doi.org/10.18653/v1/S17-2091} {{S}em{E}val 2017 task
+  10: {S}cience{IE} - extracting keyphrases and relations from scientific
+  publications}.
+\newblock In \emph{Proceedings of the 11th International Workshop on Semantic
+  Evaluation ({S}em{E}val-2017)}, pages 546--555, Vancouver, Canada.
+  Association for Computational Linguistics.
+
+\bibitem[{Beltagy et~al.(2019)Beltagy, Lo, and Cohan}]{beltagy2019scibert}
+Iz~Beltagy, Kyle Lo, and Arman Cohan. 2019.
+\newblock \href {https://doi.org/10.18653/v1/D19-1371} {{S}ci{BERT}: A
+  pretrained language model for scientific text}.
+\newblock In \emph{Proceedings of the 2019 Conference on Empirical Methods in
+  Natural Language Processing and the 9th International Joint Conference on
+  Natural Language Processing (EMNLP-IJCNLP)}, pages 3615--3620, Hong Kong,
+  China. Association for Computational Linguistics.
+
+\bibitem[{Eberts and Ulges(2020)}]{eberts2019span}
+Markus Eberts and Adrian Ulges. 2020.
+\newblock \href {https://doi.org/10.3233/FAIA200321} {Span-based joint entity
+  and relation extraction with transformer pre-training}.
+\newblock \emph{24th European Conference on Artificial Intelligence}.
+
+\bibitem[{Friedman et~al.(2017)Friedman, Burstein, McDonald, Plotnick, Bobrow,
+  Bobrow, Cochran, and Pustejovsky}]{friedman2017learning}
+Scott Friedman, Mark Burstein, David McDonald, Alex Plotnick, Laurel Bobrow,
+  Rusty Bobrow, Brent Cochran, and J~Pustejovsky. 2017.
+\newblock \href {http://www.cogsys.org/journal/volume5/article-5-8.pdf}
+  {Learning by reading: Extending and localizing against a model}.
+\newblock \emph{Advances in Cognitive Systems}, 5:77--96.
+
+\bibitem[{Friedman et~al.(2021{\natexlab{a}})Friedman, Magnusson, and
+  Schmer-Galunder}]{friedman2021qr}
+Scott~E. Friedman, Ian~H. Magnusson, and Sonja~M. Schmer-Galunder.
+  2021{\natexlab{a}}.
+\newblock \href
+  {https://www.qrg.northwestern.edu/qr2021/papers/QR2021_FriedmanMagnussonSchmer-Galunder.pdf}
+  {Extracting qualitative causal structure with transformer-based nlp}.
+\newblock In \emph{{QR2021 @ IJCAI}}.
+
+\bibitem[{Friedman et~al.(2021{\natexlab{b}})Friedman, Magnusson,
+  Schmer-Galunder, Wheelock, Gottlieb, Patel, and Miller}]{tybalt2021cogsci}
+Scott~E. Friedman, Ian~H. Magnusson, Sonja~M. Schmer-Galunder, Ruta Wheelock,
+  Jeremy Gottlieb, Pooja Patel, and Christopher Miller. 2021{\natexlab{b}}.
+\newblock \href {https://escholarship.org/uc/item/9n71j1zh} {{Toward
+  Transformer-Based NLP for Extracting Psychosocial Indicators of Moral
+  Disengagement}}.
+\newblock In \emph{{Annual Meeting of the Cognitive Science Community
+  (CogSci)}}.
+
+\bibitem[{G{\'a}bor et~al.(2018)G{\'a}bor, Buscaldi, Schumann, QasemiZadeh,
+  Zargayouna, and Charnois}]{gabor-etal-2018-semeval}
+Kata G{\'a}bor, Davide Buscaldi, Anne-Kathrin Schumann, Behrang QasemiZadeh,
+  Ha{\"\i}fa Zargayouna, and Thierry Charnois. 2018.
+\newblock \href {https://doi.org/10.18653/v1/S18-1111} {{S}em{E}val-2018 task
+  7: Semantic relation extraction and classification in scientific papers}.
+\newblock In \emph{Proceedings of The 12th International Workshop on Semantic
+  Evaluation}, pages 679--688, New Orleans, Louisiana. Association for
+  Computational Linguistics.
+
+\bibitem[{Gelman et~al.(2021)Gelman, Clark, Friedman, Kuter, and
+  Gentile}]{score2021twosix}
+Ben Gelman, Chae Clark, Scott Friedman, Ugur Kuter, and James Gentile. 2021.
+\newblock \href {http://ceur-ws.org/Vol-2831/paper34.pdf} {Toward a robust
+  method for understanding the reproducibility and replicability of research}.
+\newblock \emph{AAAI Workshop on Scientific Document Understanding}.
+
+\bibitem[{Jain et~al.(2020)Jain, van Zuylen, Hajishirzi, and
+  Beltagy}]{jain-etal-2020-scirex}
+Sarthak Jain, Madeleine van Zuylen, Hannaneh Hajishirzi, and Iz~Beltagy. 2020.
+\newblock \href {https://doi.org/10.18653/v1/2020.acl-main.670} {{S}ci{REX}:
+  {A} challenge dataset for document-level information extraction}.
+\newblock In \emph{Proceedings of the 58th Annual Meeting of the Association
+  for Computational Linguistics}, pages 7506--7516, Online. Association for
+  Computational Linguistics.
+
+\bibitem[{Lee et~al.(2017)Lee, He, Lewis, and Zettlemoyer}]{lee-etal-2017-end}
+Kenton Lee, Luheng He, Mike Lewis, and Luke Zettlemoyer. 2017.
+\newblock \href {https://doi.org/10.18653/v1/D17-1018} {End-to-end neural
+  coreference resolution}.
+\newblock In \emph{Proceedings of the 2017 Conference on Empirical Methods in
+  Natural Language Processing}, pages 188--197, Copenhagen, Denmark.
+  Association for Computational Linguistics.
+
+\bibitem[{Luan et~al.(2018)Luan, He, Ostendorf, and Hajishirzi}]{luan2018multi}
+Yi~Luan, Luheng He, Mari Ostendorf, and Hannaneh Hajishirzi. 2018.
+\newblock \href {https://doi.org/10.18653/v1/D18-1360} {Multi-task
+  identification of entities, relations, and coreference for scientific
+  knowledge graph construction}.
+\newblock In \emph{Proceedings of the 2018 Conference on Empirical Methods in
+  Natural Language Processing}, pages 3219--3232, Brussels, Belgium.
+  Association for Computational Linguistics.
+
+\bibitem[{Wadden et~al.(2020)Wadden, Lin, Lo, Wang, van Zuylen, Cohan, and
+  Hajishirzi}]{wadden2020fact}
+David Wadden, Shanchuan Lin, Kyle Lo, Lucy~Lu Wang, Madeleine van Zuylen, Arman
+  Cohan, and Hannaneh Hajishirzi. 2020.
+\newblock \href {https://doi.org/10.18653/v1/2020.emnlp-main.609} {Fact or
+  fiction: Verifying scientific claims}.
+\newblock In \emph{Proceedings of the 2020 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, pages 7534--7550, Online. Association
+  for Computational Linguistics.
+
+\bibitem[{Wang et~al.(2020)Wang, Lo, Chandrasekhar, Reas, Yang, Burdick, Eide,
+  Funk, Katsis, Kinney, Li, Liu, Merrill, Mooney, Murdick, Rishi, Sheehan,
+  Shen, Stilson, Wade, Wang, Wang, Wilhelm, Xie, Raymond, Weld, Etzioni, and
+  Kohlmeier}]{wang2020cord19}
+Lucy~Lu Wang, Kyle Lo, Yoganand Chandrasekhar, Russell Reas, Jiangjiang Yang,
+  Doug Burdick, Darrin Eide, Kathryn Funk, Yannis Katsis, Rodney Kinney, Yunyao
+  Li, Ziyang Liu, William Merrill, Paul Mooney, Dewey Murdick, Devvret Rishi,
+  Jerry Sheehan, Zhihong Shen, Brandon Stilson, Alex Wade, Kuansan Wang, Nancy
+  Xin~Ru Wang, Chris Wilhelm, Boya Xie, Douglas Raymond, Daniel~S. Weld, Oren
+  Etzioni, and Sebastian Kohlmeier. 2020.
+\newblock \href {http://arxiv.org/abs/2004.10706} {Cord-19: The covid-19 open
+  research dataset}.
+
+\bibitem[{Yu et~al.(2019)Yu, Li, and Wang}]{yu2019EMNLPCausalLanguage}
+Bei Yu, Yingya Li, and Jun Wang. 2019.
+\newblock \href {https://doi.org/10.18653/v1/D19-1473} {Detecting causal
+  language use in science findings}.
+\newblock In \emph{Proceedings of the 2019 Conference on Empirical Methods in
+  Natural Language Processing and the 9th International Joint Conference on
+  Natural Language Processing (EMNLP-IJCNLP)}, pages 4664--4674, Hong Kong,
+  China. Association for Computational Linguistics.
+
+\end{thebibliography}

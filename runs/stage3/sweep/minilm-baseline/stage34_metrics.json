@@ -1,0 +1,511 @@
+{
+  "stage": "stage34_evidence_verdict",
+  "eval_labels": [
+    "Supported",
+    "Refuted",
+    "NEI"
+  ],
+  "verdict_collapse": {
+    "decision": "report-both (O-1)",
+    "lenient": {
+      "Supported": "Supported",
+      "Partially Supported": "Supported",
+      "Not Supported": "Refuted",
+      "NEI": "NEI"
+    },
+    "strict": {
+      "Supported": "Supported",
+      "Partially Supported": "NEI",
+      "Not Supported": "Refuted",
+      "NEI": "NEI"
+    }
+  },
+  "n_examples": 80,
+  "localization": {
+    "n_examples": 80,
+    "n_scored": 65,
+    "counts": {
+      "hit": 49,
+      "near": 10,
+      "miss": 6,
+      "n/a": 15
+    },
+    "hit_rate": 0.7538,
+    "mrr": 0.4169,
+    "mean_recall_at_k": 0.5706,
+    "by_claim_type": {
+      "statistical": {
+        "hit": 49,
+        "miss": 6,
+        "near": 10,
+        "n/a": 15
+      }
+    }
+  },
+  "localization_neighbours": {
+    "description": "coverage scored against the located+neighbours region (fair unit for passage-level gold); larger unit, so not a pure quality gain",
+    "n_scored": 65,
+    "counts": {
+      "hit": 54,
+      "near": 9,
+      "miss": 2,
+      "n/a": 15
+    },
+    "hit_rate": 0.8308,
+    "mrr": 0.4736,
+    "mean_recall_at_k": 0.7215
+  },
+  "localization_latency": {
+    "n_units": 80,
+    "total_s": 7.124,
+    "mean_s_per_unit": 0.089,
+    "median_s_per_unit": 0.0786,
+    "p95_s_per_unit": 0.1525
+  },
+  "verdict_by_condition": {
+    "gold_evidence": {
+      "lenient": {
+        "n": 0,
+        "accuracy": 0.0,
+        "macro_f1": 0.0,
+        "per_class": {
+          "Supported": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "Refuted": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "NEI": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 0
+          },
+          "Refuted": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 0
+          },
+          "NEI": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 0
+          }
+        }
+      },
+      "strict": {
+        "n": 0,
+        "accuracy": 0.0,
+        "macro_f1": 0.0,
+        "per_class": {
+          "Supported": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "Refuted": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "NEI": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 0
+          },
+          "Refuted": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 0
+          },
+          "NEI": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 0
+          }
+        }
+      }
+    },
+    "located": {
+      "lenient": {
+        "n": 0,
+        "accuracy": 0.0,
+        "macro_f1": 0.0,
+        "per_class": {
+          "Supported": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "Refuted": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "NEI": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 0
+          },
+          "Refuted": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 0
+          },
+          "NEI": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 0
+          }
+        }
+      },
+      "strict": {
+        "n": 0,
+        "accuracy": 0.0,
+        "macro_f1": 0.0,
+        "per_class": {
+          "Supported": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "Refuted": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "NEI": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 0
+          },
+          "Refuted": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 0
+          },
+          "NEI": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 0
+          }
+        }
+      }
+    },
+    "located_neighbours": {
+      "lenient": {
+        "n": 0,
+        "accuracy": 0.0,
+        "macro_f1": 0.0,
+        "per_class": {
+          "Supported": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "Refuted": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "NEI": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 0
+          },
+          "Refuted": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 0
+          },
+          "NEI": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 0
+          }
+        }
+      },
+      "strict": {
+        "n": 0,
+        "accuracy": 0.0,
+        "macro_f1": 0.0,
+        "per_class": {
+          "Supported": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "Refuted": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          },
+          "NEI": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 0
+          }
+        },
+        "confusion": {
+          "Supported": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 0
+          },
+          "Refuted": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 0
+          },
+          "NEI": {
+            "Supported": 0,
+            "Refuted": 0,
+            "NEI": 0
+          }
+        }
+      }
+    }
+  },
+  "verdict_by_claim_type_gold_evidence": {
+    "statistical": {
+      "lenient": {
+        "n": 0,
+        "accuracy": 0.0,
+        "macro_f1": 0.0
+      },
+      "strict": {
+        "n": 0,
+        "accuracy": 0.0,
+        "macro_f1": 0.0
+      }
+    }
+  },
+  "ablation_accuracy_by_condition": {
+    "gold_evidence": {
+      "lenient": 0.0,
+      "strict": 0.0
+    },
+    "located": {
+      "lenient": 0.0,
+      "strict": 0.0
+    },
+    "located_neighbours": {
+      "lenient": 0.0,
+      "strict": 0.0
+    }
+  },
+  "context_size_by_condition": {
+    "gold_evidence": {
+      "mean_words": 0.0
+    },
+    "located": {
+      "mean_words": 0.0
+    },
+    "located_neighbours": {
+      "mean_words": 0.0
+    }
+  },
+  "latency_by_condition": {
+    "gold_evidence": {
+      "n_units": 0,
+      "total_s": 0.0,
+      "mean_s_per_unit": 0.0,
+      "median_s_per_unit": 0.0,
+      "p95_s_per_unit": 0.0,
+      "mean_s": 0.0
+    },
+    "located": {
+      "n_units": 0,
+      "total_s": 0.0,
+      "mean_s_per_unit": 0.0,
+      "median_s_per_unit": 0.0,
+      "p95_s_per_unit": 0.0,
+      "mean_s": 0.0
+    },
+    "located_neighbours": {
+      "n_units": 0,
+      "total_s": 0.0,
+      "mean_s_per_unit": 0.0,
+      "median_s_per_unit": 0.0,
+      "p95_s_per_unit": 0.0,
+      "mean_s": 0.0
+    }
+  },
+  "token_by_condition": {
+    "gold_evidence": {
+      "prompt": 0,
+      "completion": 0,
+      "total": 0,
+      "calls": 0,
+      "mean_total_per_verdict": 0.0,
+      "cost_usd": 0.0
+    },
+    "located": {
+      "prompt": 0,
+      "completion": 0,
+      "total": 0,
+      "calls": 0,
+      "mean_total_per_verdict": 0.0,
+      "cost_usd": 0.0
+    },
+    "located_neighbours": {
+      "prompt": 0,
+      "completion": 0,
+      "total": 0,
+      "calls": 0,
+      "mean_total_per_verdict": 0.0,
+      "cost_usd": 0.0
+    }
+  },
+  "negation_baseline": {
+    "n": 80,
+    "accuracy": 0.575,
+    "macro_f1": 0.301,
+    "per_class": {
+      "Supported": {
+        "precision": 0.5789,
+        "recall": 0.9565,
+        "f1": 0.7213,
+        "support": 46
+      },
+      "Refuted": {
+        "precision": 0.5,
+        "recall": 0.1111,
+        "f1": 0.1818,
+        "support": 18
+      },
+      "NEI": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 16
+      }
+    },
+    "confusion": {
+      "Supported": {
+        "Supported": 44,
+        "Refuted": 2,
+        "NEI": 0
+      },
+      "Refuted": {
+        "Supported": 16,
+        "Refuted": 2,
+        "NEI": 0
+      },
+      "NEI": {
+        "Supported": 16,
+        "Refuted": 0,
+        "NEI": 0
+      }
+    },
+    "rule": "predict Refuted iff the claim contains a negation cue, else Supported (never reads evidence, never predicts NEI)",
+    "cue_rate_by_gold": {
+      "Supported": 0.0435,
+      "Refuted": 0.1111,
+      "NEI": 0.0
+    }
+  },
+  "timing": {
+    "wall_clock_s": 7.12,
+    "throughput_examples_per_s": 11.229,
+    "llm_calls": 0,
+    "tokens": {
+      "prompt": 0,
+      "completion": 0,
+      "total": 0,
+      "cost_usd": 0.0
+    },
+    "localization_cold_start_s": 8.148
+  },
+  "run": {
+    "dataset": "citationintegrity",
+    "split": "test",
+    "n_examples": 80,
+    "k_located_sentences": 10,
+    "chunk_size_W": 3,
+    "localization_hint": true,
+    "ablate_full": false,
+    "seed": null,
+    "model": "gpt-5.4-nano",
+    "reasoning_effort": "high",
+    "retrieval": {
+      "profile": null,
+      "embed_model": "all-MiniLM-L6-v2",
+      "embed_trust_remote_code": false,
+      "embed_max_seq_length": 0,
+      "hybrid": false,
+      "rerank": false,
+      "rerank_model": null,
+      "rerank_candidates": null,
+      "rerank_trust_remote_code": null,
+      "use_html": false
+    }
+  },
+  "pricing": {
+    "model": "gpt-5.4-nano",
+    "rate_per_1m": {
+      "input_per_1m": 0.2,
+      "cached_input_per_1m": 0.02,
+      "output_per_1m": 1.25
+    },
+    "currency": "USD",
+    "as_of": "2026-06-22",
+    "source": "OpenAI: https://developers.openai.com/api/docs/pricing (fetched 2026-06-22). Anthropic: https://platform.claude.com/docs/en/about-claude/models/overview (rates as of 2026-06-04). All rates USD per 1,000,000 tokens."
+  }
+}

@@ -1,0 +1,81 @@
+example_id,dataset,gold_label,verdict_raw,verdict_lenient,verdict_strict,paper_relevant,n_evidence,loc_result,rank_first,recall_at_k,confidence,is_overstatement
+citint-0,citationintegrity,Refuted,Partially Supported,Supported,NEI,True,3,hit,2,0.75,0.94,False
+citint-1,citationintegrity,Refuted,Supported,Supported,Supported,True,3,miss,,0.0,0.99,False
+citint-2,citationintegrity,Supported,Partially Supported,Supported,NEI,True,4,hit,2,0.6667,0.9,False
+citint-3,citationintegrity,Supported,Supported,Supported,Supported,True,3,hit,2,1.0,0.99,False
+citint-4,citationintegrity,Supported,Supported,Supported,Supported,True,3,hit,1,0.375,0.96,False
+citint-5,citationintegrity,Supported,Supported,Supported,Supported,True,3,miss,,0.0,0.99,False
+citint-6,citationintegrity,Supported,Partially Supported,Supported,NEI,True,4,hit,4,0.3333,0.94,False
+citint-7,citationintegrity,Supported,Partially Supported,Supported,NEI,True,3,hit,1,0.3333,0.96,False
+citint-8,citationintegrity,Refuted,Partially Supported,Supported,NEI,True,3,hit,2,0.5,0.96,True
+citint-9,citationintegrity,Supported,Partially Supported,Supported,NEI,True,4,near,,0.0,0.9,False
+citint-10,citationintegrity,Supported,Partially Supported,Supported,NEI,True,3,near,,0.0,0.94,False
+citint-11,citationintegrity,Supported,Partially Supported,Supported,NEI,True,5,hit,5,0.25,0.87,True
+citint-12,citationintegrity,Refuted,Supported,Supported,Supported,True,3,miss,,0.0,0.99,False
+citint-13,citationintegrity,Refuted,Supported,Supported,Supported,True,2,hit,1,1.0,0.99,False
+citint-14,citationintegrity,Supported,Supported,Supported,Supported,True,2,hit,1,1.0,0.96,False
+citint-15,citationintegrity,NEI,Partially Supported,Supported,NEI,True,4,,,,0.94,False
+citint-16,citationintegrity,NEI,NEI,NEI,NEI,False,1,miss,,0.0,0.98,False
+citint-17,citationintegrity,Supported,Supported,Supported,Supported,True,3,hit,1,1.0,0.92,False
+citint-18,citationintegrity,Refuted,Supported,Supported,Supported,True,3,miss,,0.0,0.98,False
+citint-19,citationintegrity,Supported,Supported,Supported,Supported,True,3,hit,2,1.0,0.99,False
+citint-20,citationintegrity,Refuted,Partially Supported,Supported,NEI,True,3,miss,,0.0,0.93,False
+citint-21,citationintegrity,Supported,Partially Supported,Supported,NEI,True,3,hit,1,0.3333,0.86,True
+citint-22,citationintegrity,Supported,Supported,Supported,Supported,True,2,hit,1,1.0,0.99,False
+citint-23,citationintegrity,Supported,Supported,Supported,Supported,True,2,near,,0.0,0.94,False
+citint-24,citationintegrity,NEI,Partially Supported,Supported,NEI,True,5,,,,0.9,True
+citint-25,citationintegrity,Supported,Supported,Supported,Supported,True,4,near,,0.0,0.9,False
+citint-26,citationintegrity,NEI,Partially Supported,Supported,NEI,True,3,,,,0.95,False
+citint-27,citationintegrity,Supported,Supported,Supported,Supported,True,3,hit,1,1.0,0.95,False
+citint-28,citationintegrity,NEI,Partially Supported,Supported,NEI,True,5,,,,0.9,False
+citint-29,citationintegrity,Refuted,Partially Supported,Supported,NEI,True,4,near,,0.0,0.88,False
+citint-30,citationintegrity,Supported,NEI,NEI,NEI,True,1,hit,1,0.75,0.96,False
+citint-31,citationintegrity,NEI,NEI,NEI,NEI,True,2,,,,0.96,False
+citint-32,citationintegrity,Supported,Partially Supported,Supported,NEI,True,3,hit,1,0.5,0.9,False
+citint-33,citationintegrity,Supported,Partially Supported,Supported,NEI,True,3,near,,0.0,0.9,False
+citint-34,citationintegrity,Supported,Not Supported,Refuted,Refuted,True,3,miss,,0.0,0.9,True
+citint-35,citationintegrity,Supported,Supported,Supported,Supported,True,3,hit,1,1.0,0.93,False
+citint-36,citationintegrity,NEI,Partially Supported,Supported,NEI,True,4,,,,0.9,False
+citint-37,citationintegrity,NEI,Partially Supported,Supported,NEI,True,3,,,,0.9,False
+citint-38,citationintegrity,NEI,Supported,Supported,Supported,True,2,,,,0.98,False
+citint-39,citationintegrity,Supported,Partially Supported,Supported,NEI,True,4,hit,2,0.75,0.92,True
+citint-40,citationintegrity,Supported,NEI,NEI,NEI,True,3,hit,1,1.0,0.94,False
+citint-41,citationintegrity,Supported,Supported,Supported,Supported,True,3,miss,,0.0,0.99,False
+citint-42,citationintegrity,Refuted,NEI,NEI,NEI,True,2,hit,2,0.5,0.97,False
+citint-43,citationintegrity,Supported,Supported,Supported,Supported,True,2,hit,1,1.0,0.98,False
+citint-44,citationintegrity,Refuted,Partially Supported,Supported,NEI,True,3,hit,1,1.0,0.88,False
+citint-45,citationintegrity,NEI,NEI,NEI,NEI,True,3,,,,0.9,False
+citint-46,citationintegrity,Refuted,Supported,Supported,Supported,True,1,hit,1,1.0,0.99,False
+citint-47,citationintegrity,NEI,NEI,NEI,NEI,True,2,,,,0.93,False
+citint-48,citationintegrity,Refuted,Partially Supported,Supported,NEI,True,6,hit,5,1.0,0.94,True
+citint-49,citationintegrity,Supported,Partially Supported,Supported,NEI,True,3,hit,1,1.0,0.94,False
+citint-50,citationintegrity,NEI,Partially Supported,Supported,NEI,True,3,,,,0.95,True
+citint-51,citationintegrity,Refuted,Partially Supported,Supported,NEI,True,3,hit,3,1.0,0.9,True
+citint-52,citationintegrity,Supported,Supported,Supported,Supported,True,3,hit,1,1.0,0.97,False
+citint-53,citationintegrity,Supported,Partially Supported,Supported,NEI,True,3,miss,,0.0,0.93,False
+citint-54,citationintegrity,Supported,Partially Supported,Supported,NEI,True,2,hit,2,0.5,0.88,False
+citint-55,citationintegrity,Supported,Supported,Supported,Supported,True,3,hit,1,1.0,0.93,False
+citint-56,citationintegrity,Supported,Supported,Supported,Supported,True,3,hit,3,1.0,0.99,False
+citint-57,citationintegrity,NEI,Partially Supported,Supported,NEI,True,3,,,,0.9,True
+citint-58,citationintegrity,Supported,Partially Supported,Supported,NEI,True,3,hit,2,0.5,0.82,False
+citint-59,citationintegrity,Supported,Partially Supported,Supported,NEI,True,3,hit,1,1.0,0.95,False
+citint-60,citationintegrity,Supported,Supported,Supported,Supported,True,3,hit,1,0.8,0.98,False
+citint-61,citationintegrity,Refuted,NEI,NEI,NEI,True,3,miss,,0.0,0.93,False
+citint-62,citationintegrity,Supported,Partially Supported,Supported,NEI,True,3,near,,0.0,0.9,True
+citint-63,citationintegrity,NEI,Partially Supported,Supported,NEI,True,3,,,,0.9,False
+citint-64,citationintegrity,Supported,Partially Supported,Supported,NEI,True,3,hit,1,1.0,0.94,False
+citint-65,citationintegrity,Supported,Partially Supported,Supported,NEI,True,3,hit,1,0.5,0.9,True
+citint-66,citationintegrity,Supported,Partially Supported,Supported,NEI,True,3,hit,2,0.3333,0.88,True
+citint-67,citationintegrity,Refuted,Partially Supported,Supported,NEI,True,1,hit,1,1.0,0.94,True
+citint-68,citationintegrity,Supported,Supported,Supported,Supported,True,3,miss,,0.0,0.84,False
+citint-69,citationintegrity,Refuted,Partially Supported,Supported,NEI,True,2,hit,2,1.0,0.95,True
+citint-70,citationintegrity,NEI,NEI,NEI,NEI,True,3,,,,0.95,False
+citint-71,citationintegrity,NEI,NEI,NEI,NEI,True,3,,,,0.97,False
+citint-72,citationintegrity,Supported,Partially Supported,Supported,NEI,True,3,hit,1,0.4,0.91,True
+citint-73,citationintegrity,Supported,Partially Supported,Supported,NEI,True,4,hit,3,0.2,0.93,False
+citint-74,citationintegrity,Supported,Supported,Supported,Supported,True,4,miss,,0.0,0.96,False
+citint-75,citationintegrity,Supported,Supported,Supported,Supported,True,4,miss,,0.0,0.99,False
+citint-76,citationintegrity,Supported,Supported,Supported,Supported,True,4,near,,0.0,0.99,False
+citint-77,citationintegrity,Refuted,Partially Supported,Supported,NEI,True,3,hit,3,1.0,0.96,True
+citint-78,citationintegrity,Supported,Partially Supported,Supported,NEI,True,4,hit,1,0.6667,0.9,True
+citint-79,citationintegrity,Refuted,Partially Supported,Supported,NEI,True,3,hit,1,0.5,0.94,True

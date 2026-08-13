@@ -1,0 +1,2177 @@
+\providecommand{\aj}{Astron. J. }\providecommand{\apj}{Astrophys. J.
+  }\providecommand{\apjl}{Astrophys. J.
+  }\providecommand{\mnras}{MNRAS}\providecommand{\aap}{Astron. Astrophys.}
+\def\eprinttmppp@#1arXiv:@{#1}
+\providecommand{\arxivlink[1]}{\href{http://arxiv.org/abs/#1}{arXiv:#1}}
+\def\eprinttmp@#1arXiv:#2 [#3]#4@{\ifthenelse{\equal{#3}{x}}{\ifthenelse{
+\equal{#1}{}}{\arxivlink{\eprinttmppp@#2@}}{\arxivlink{#1}}}{\arxivlink{#2}
+  [#3]}}
+\providecommand{\eprintlink}[1]{\eprinttmp@#1arXiv: [x]@}
+\providecommand{\eprint}[1]{\eprintlink{#1}}
+\providecommand{\adsurl}[1]{\href{#1}{ADS}}
+\begin{thebibliography}{357}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Abazajian {et~al.}(2015{\natexlab{a}})}]{Abazajian:2015b}
+Abazajian, K. {et~al.}, {Inflation Physics from the Cosmic Microwave Background
+  and Large Scale Structure}. 2015{\natexlab{a}}, Astropart. Phys., 63, 55,
+  \eprint{1309.5381}
+
+\bibitem[{Abazajian {et~al.}(2015{\natexlab{b}})}]{Abazajian:2013oma}
+Abazajian, K. {et~al.}, {Neutrino Physics from the Cosmic Microwave Background
+  and Large Scale Structure}. 2015{\natexlab{b}}, Astropart. Phys., 63, 66,
+  \eprint{1309.5383}
+
+\bibitem[{{Abazajian} {et~al.}(2012){Abazajian}, {Acero}, {Agarwalla},
+  {Aguilar-Arevalo}, {Albright}, {Antusch}, {Arguelles}, {Balantekin},
+  {Barenboim}, {Barger}, {Bernardini}, {Bezrukov}, {Bjaelde}, {Bogacz},
+  {Bowden}, {Boyarsky}, {Bravar}, {Bravo Berguno}, {Brice}, {Bross},
+  {Caccianiga}, {Cavanna}, {Chun}, {Cleveland}, {Collin}, {Coloma}, {Conrad},
+  {Cribier}, {Cucoanes}, {D'Olivo}, {Das}, {de Gouvea}, {Derbin},
+  {Dharmapalan}, {Diaz}, {Ding}, {Djurcic}, {Donini}, {Duchesneau}, {Ejiri},
+  {Elliott}, {Ernst}, {Esmaili}, {Evans}, {Fernandez-Martinez},
+  {Figueroa-Feliciano}, {Fleming}, {Formaggio}, {Franco}, {Gaffiot}, {Gandhi},
+  {Gao}, {Garvey}, {Gavrin}, {Ghoshal}, {Gibin}, {Giunti}, {Gninenko},
+  {Gorbachev}, {Gorbunov}, {Guenette}, {Guglielmi}, {Halzen}, {Hamann},
+  {Hannestad}, {Haxton}, {Heeger}, {Henning}, {Hernandez}, {Huber},
+  {Huelsnitz}, {Ianni}, {Ibragimova}, {Karadzhov}, {Karagiorgi}, {Keefer},
+  {Kim}, {Kopp}, {Kornoukhov}, {Kusenko}, {Kyberd}, {Langacker}, {Lasserre},
+  {Laveder}, {Letourneau}, {Lhuillier}, {Li}, {Lindner}, {Link}, {Littlejohn},
+  {Lombardi}, {Long}, {Lopez-Pavon}, {Louis}, {Ludhova}, {Lykken}, {Machado},
+  {Maltoni}, {Mann}, {Marfatia}, {Mariani}, {Matveev}, {Mavromatos},
+  {Melchiorri}, {Meloni}, {Mena}, {Mention}, {Merle}, {Meroni}, {Mezzetto},
+  {Mills}, {Minic}, {Miramonti}, {Mohapatra}, {Mohapatra}, {Montanari}, {Mori},
+  {Mueller}, {Mumm}, {Muratova}, {Nelson}, {Nico}, {Noah}, {Nowak}, {Smirnov},
+  {Obolensky}, {Pakvasa}, {Palamara}, {Pallavicini}, {Pascoli}, {Patrizii},
+  {Pavlovic}, {Peres}, {Pessard}, {Pietropaolo}, {Pitt}, {Popovic}, {Pradler},
+  {Ranucci}, {Ray}, {Razzaque}, {Rebel}, {Robertson}, {Rodejohann}, {Rountree},
+  {Rubbia}, {Ruchayskiy}, {Sala}, {Scholberg}, {Schwetz}, {Shaevitz},
+  {Shaposhnikov}, {Shrock}, {Simone}, {Skorokhvatov}, {Sorel}, {Sousa},
+  {Spergel}, {Spitz}, {Stanco}, {Stancu}, {Suzuki}, {Takeuchi}, {Tamborra},
+  {Tang}, {Testera}, {Tian}, {Tonazzo}, {Tunnell}, {Van de Water}, {Verde},
+  {Veretenkin}, {Vignoli}, {Vivier}, {Vogelaar}, {Wascko}, {Wilkerson},
+  {Winter}, {Wong}, {Yanagida}, {Yasuda}, {Yeh}, {Yermia}, {Yokley}, {Zeller},
+  {Zhan}, \& {Zhang}}]{Abazajian:2012}
+{Abazajian}, K.~N., {Acero}, M.~A., {Agarwalla}, S.~K., {et~al.}, {Light
+  Sterile Neutrinos: A White Paper}. 2012, ArXiv e-prints, \eprint{1204.5379}
+
+\bibitem[{Abazajian {et~al.}(2014)Abazajian, Canac, Horiuchi, \&
+  Kaplinghat}]{Abazajian:2014fta}
+Abazajian, K.~N., Canac, N., Horiuchi, S., \& Kaplinghat, M., {Astrophysical
+  and Dark Matter Interpretations of Extended Gamma-Ray Emission from the
+  Galactic Center}. 2014, Phys. Rev., D90, 023526, \eprint{1402.4090}
+
+\bibitem[{{Ackermann} {et~al.}(2012){Ackermann}, {Ajello}, {Allafort},
+  {Atwood}, {Baldini}, {Barbiellini}, {Bastieri}, {Bechtol}, {Bellazzini},
+  {Berenji}, {Blandford}, {Bloom}, {Bonamente}, {Borgland}, {Bouvier},
+  {Bregeon}, {Brigida}, {Bruel}, {Buehler}, {Buson}, {Caliandro}, {Cameron},
+  {Caraveo}, {Casandjian}, {Cecchi}, {Charles}, {Chekhtman}, {Cheung},
+  {Chiang}, {Ciprini}, {Claus}, {Cohen-Tanugi}, {Conrad}, {Cutini}, {de
+  Angelis}, {de Palma}, {Dermer}, {Digel}, {Do Couto E Silva}, {Drell},
+  {Drlica-Wagner}, {Favuzzi}, {Fegan}, {Ferrara}, {Focke}, {Fortin},
+  {Fukazawa}, {Funk}, {Fusco}, {Gargano}, {Gasparrini}, {Germani}, {Giglietto},
+  {Giommi}, {Giordano}, {Giroletti}, {Glanzman}, {Godfrey}, {Grenier}, {Grove},
+  {Guiriec}, {Gustafsson}, {Hadasch}, {Harding}, {Hayashida}, {Hughes},
+  {J{\'o}hannesson}, {Johnson}, {Kamae}, {Katagiri}, {Kataoka},
+  {Kn{\"o}dlseder}, {Kuss}, {Lande}, {Latronico}, {Lemoine-Goumard}, {Llena
+  Garde}, {Longo}, {Loparco}, {Lovellette}, {Lubrano}, {Madejski}, {Mazziotta},
+  {McEnery}, {Michelson}, {Mitthumsiri}, {Mizuno}, {Moiseev}, {Monte},
+  {Monzani}, {Morselli}, {Moskalenko}, {Murgia}, {Nakamori}, {Nolan}, {Norris},
+  {Nuss}, {Ohno}, {Ohsugi}, {Okumura}, {Omodei}, {Orlando}, {Ormes}, {Ozaki},
+  {Paneque}, {Parent}, {Pesce-Rollins}, {Pierbattista}, {Piron}, {Pivato},
+  {Porter}, {Rain{\`o}}, {Rando}, {Razzano}, {Razzaque}, {Reimer}, {Reimer},
+  {Reposeur}, {Ritz}, {Romani}, {Roth}, {Sadrozinski}, {Sbarra}, {Schalk},
+  {Sgr{\`o}}, {Siskind}, {Spandre}, {Spinelli}, {Strong}, {Takahashi},
+  {Takahashi}, {Tanaka}, {Thayer}, {Thayer}, {Tibaldo}, {Tinivella}, {Torres},
+  {Tosti}, {Troja}, {Uchiyama}, {Usher}, {Vandenbroucke}, {Vasileiou},
+  {Vianello}, {Vitale}, {Waite}, {Winer}, {Wood}, {Wood}, {Yang}, \&
+  {Zimmer}}]{Ackermann:2012}
+{Ackermann}, M., {Ajello}, M., {Allafort}, A., {et~al.}, {Measurement of
+  Separate Cosmic-Ray Electron and Positron Spectra with the Fermi Large Area
+  Telescope}. 2012, Phys. Rev. Lett., 108, 011103, \eprint{1109.0521}
+
+\bibitem[{Ackermann {et~al.}(2014)}]{Ackermann:2013yva}
+Ackermann, M. {et~al.}, {Dark matter constraints from observations of 25 Milky
+  Way satellite galaxies with the Fermi Large Area Telescope}. 2014, Phys.
+  Rev., D89, 042001, \eprint{1310.0828}
+
+\bibitem[{{Addison} {et~al.}(2012){Addison}, {Dunkley}, \&
+  {Spergel}}]{Addison:2012}
+{Addison}, G.~E., {Dunkley}, J., \& {Spergel}, D.~N., {Modelling the
+  correlation between the thermal Sunyaev Zel'dovich effect and the cosmic
+  infrared background}. 2012, \mnras, 427, 1741, \eprint{1204.5927}
+
+\bibitem[{Ade {et~al.}(2014)}]{Ade:2013gez}
+Ade, P. A.~R. {et~al.}, {Measurement of the Cosmic Microwave Background
+  Polarization Lensing Power Spectrum with the POLARBEAR experiment}. 2014,
+  Phys. Rev. Lett., 113, 021301, \eprint{1312.6646}
+
+\bibitem[{Adelberger {et~al.}(2011)Adelberger, Balantekin, Bemmerer, Bertulani,
+  Chen, {et~al.}}]{Adelberger:2010qa}
+Adelberger, E., Balantekin, A., Bemmerer, D., {et~al.}, {Solar fusion cross
+  sections II: the pp chain and CNO cycles}. 2011, Rev. Mod. Phys., 83, 195,
+  \eprint{1004.2318}
+
+\bibitem[{{Adriani} {et~al.}(2009){Adriani}, {Barbarino}, {Bazilevskaya},
+  {Bellotti}, {Boezio}, {Bogomolov}, {Bonechi}, {Bongi}, {Bonvicini}, {Bottai},
+  {Bruno}, {Cafagna}, {Campana}, {Carlson}, {Casolino}, {Castellini}, {de
+  Pascale}, {de Rosa}, {de Simone}, {di Felice}, {Galper}, {Grishantseva},
+  {Hofverberg}, {Koldashov}, {Krutkov}, {Kvashnin}, {Leonov}, {Malvezzi},
+  {Marcelli}, {Menn}, {Mikhailov}, {Mocchiutti}, {Orsi}, {Osteria}, {Papini},
+  {Pearce}, {Picozza}, {Ricci}, {Ricciarini}, {Simon}, {Sparvoli},
+  {Spillantini}, {Stozhkov}, {Vacchi}, {Vannuccini}, {Vasilyev}, {Voronov},
+  {Yurkin}, {Zampa}, {Zampa}, \& {Zverev}}]{Adriani:2009}
+{Adriani}, O., {Barbarino}, G.~C., {Bazilevskaya}, G.~A., {et~al.}, {An
+  anomalous positron abundance in cosmic rays with energies 1.5-100GeV}. 2009,
+  \nat, 458, 607, \eprint{0810.4995}
+
+\bibitem[{{Aguilar} {et~al.}(2014){Aguilar}, {Aisa}, {Alvino}, {Ambrosi},
+  {Andeen}, {Arruda}, {Attig}, {Azzarello}, {Bachlechner}, {Barao}, \&
+  et~al.}]{Aguilar:2014}
+{Aguilar}, M., {Aisa}, D., {Alvino}, A., {et~al.}, {Electron and Positron
+  Fluxes in Primary Cosmic Rays Measured with the Alpha Magnetic Spectrometer
+  on the International Space Station}. 2014, Phys. Rev. Lett., 113, 121102
+
+\bibitem[{Albrecht {et~al.}(1999)Albrecht, Battye, \&
+  Robinson}]{Albrecht:1997mz}
+Albrecht, A., Battye, R.~A., \& Robinson, J., {Detailed study of defect models
+  for cosmic structure formation}. 1999, Phys. Rev., D59, 023508,
+  \eprint{astro-ph/9711121}
+
+\bibitem[{{Alcock} \& {Paczynski}(1979)}]{Alcock:79}
+{Alcock}, C. \& {Paczynski}, B., {An evolution free test for non-zero
+  cosmological constant}. 1979, \nat, 281, 358
+
+\bibitem[{{Ali-Ha{\"\i}moud} \& {Hirata}(2010)}]{Yacine2010}
+{Ali-Ha{\"\i}moud}, Y. \& {Hirata}, C.~M., {Ultrafast effective multilevel atom
+  method for primordial hydrogen recombination}. 2010, Phys. Rev., D82, 063521,
+  \eprint{1006.1355}
+
+\bibitem[{Ali-Haimoud \& Hirata(2011)}]{AliHaimoud:2010dx}
+Ali-Haimoud, Y. \& Hirata, C.~M., {HyRec: A fast and highly accurate primordial
+  hydrogen and helium recombination code}. 2011, Phys. Rev., D83, 043513,
+  \eprint{1011.3758}
+
+\bibitem[{Amendola {et~al.}(2002)Amendola, Gordon, Wands, \&
+  Sasaki}]{Amendola:2001ni}
+Amendola, L., Gordon, C., Wands, D., \& Sasaki, M., {Correlated perturbations
+  from inflation and the cosmic microwave background}. 2002, Phys. Rev. Lett.,
+  88, 211302, \eprint{astro-ph/0107089}
+
+\bibitem[{{Anders} {et~al.}(2014){Anders}, {Trezzi}, {Menegazzo}, {Aliotta},
+  {Bellini}, {Bemmerer}, {Broggini}, {Caciolli}, {Corvisiero}, {Costantini},
+  {Davinson}, {Elekes}, {Erhard}, {Formicola}, {F{\"u}l{\"o}p}, {Gervino},
+  {Guglielmetti}, {Gustavino}, {Gy{\"u}rky}, {Junker}, {Lemut}, {Marta},
+  {Mazzocchi}, {Prati}, {Rossi Alvarez}, {Scott}, {Somorjai}, {Straniero},
+  {Sz{\"u}cs}, \& {LUNA Collaboration}}]{Anders:2014}
+{Anders}, M., {Trezzi}, D., {Menegazzo}, R., {et~al.}, {First Direct
+  Measurement of the H2({$\alpha$} ,{$\gamma$})Li6 Cross Section at Big Bang
+  Energies and the Primordial Lithium Problem}. 2014, Phys. Rev. Lett., 113,
+  042501
+
+\bibitem[{{Anderson} {et~al.}(2014){Anderson}, {Aubourg}, {Bailey}, {Beutler},
+  {Bhardwaj}, {Blanton}, {Bolton}, {Brinkmann}, {Brownstein}, {Burden},
+  {Chuang}, {Cuesta}, {Dawson}, {Eisenstein}, {Escoffier}, {Gunn}, {Guo}, {Ho},
+  {Honscheid}, {Howlett}, {Kirkby}, {Lupton}, {Manera}, {Maraston}, {McBride},
+  {Mena}, {Montesano}, {Nichol}, {Nuza}, {Olmstead}, {Padmanabhan},
+  {Palanque-Delabrouille}, {Parejko}, {Percival}, {Petitjean}, {Prada},
+  {Price-Whelan}, {Reid}, {Roe}, {Ross}, {Ross}, {Sabiu}, {Saito}, {Samushia},
+  {S{\'a}nchez}, {Schlegel}, {Schneider}, {Scoccola}, {Seo}, {Skibba},
+  {Strauss}, {Swanson}, {Thomas}, {Tinker}, {Tojeiro}, {Maga{\~n}a}, {Verde},
+  {Wake}, {Weaver}, {Weinberg}, {White}, {Xu}, {Y{\`e}che}, {Zehavi}, \&
+  {Zhao}}]{Anderson:14}
+{Anderson}, L., {Aubourg}, {\'E}., {Bailey}, S., {et~al.}, {The clustering of
+  galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: baryon
+  acoustic oscillations in the Data Releases 10 and 11 Galaxy samples}. 2014,
+  \mnras, 441, 24, \eprint{1312.4877}
+
+\bibitem[{{Anderson} {et~al.}(2012){Anderson}, {Aubourg}, {Bailey}, {Bizyaev},
+  {Blanton}, {Bolton}, {Brinkmann}, {Brownstein}, {Burden}, {Cuesta}, {da
+  Costa}, {Dawson}, {de Putter}, {Eisenstein}, {Gunn}, {Guo}, {Hamilton},
+  {Harding}, {Ho}, {Honscheid}, {Kazin}, {Kirkby}, {Kneib}, {Labatie},
+  {Loomis}, {Lupton}, {Malanushenko}, {Malanushenko}, {Mandelbaum}, {Manera},
+  {Maraston}, {McBride}, {Mehta}, {Mena}, {Montesano}, {Muna}, {Nichol},
+  {Nuza}, {Olmstead}, {Oravetz}, {Padmanabhan}, {Palanque-Delabrouille}, {Pan},
+  {Parejko}, {P{\^a}ris}, {Percival}, {Petitjean}, {Prada}, {Reid}, {Roe},
+  {Ross}, {Ross}, {Samushia}, {S{\'a}nchez}, {Schlegel}, {Schneider},
+  {Sc{\'o}ccola}, {Seo}, {Sheldon}, {Simmons}, {Skibba}, {Strauss}, {Swanson},
+  {Thomas}, {Tinker}, {Tojeiro}, {Maga{\~n}a}, {Verde}, {Wagner}, {Wake},
+  {Weaver}, {Weinberg}, {White}, {Xu}, {Y{\`e}che}, {Zehavi}, \&
+  {Zhao}}]{Anderson:12}
+{Anderson}, L., {Aubourg}, E., {Bailey}, S., {et~al.}, {The clustering of
+  galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: baryon
+  acoustic oscillations in the Data Release 9 spectroscopic galaxy sample}.
+  2012, \mnras, 427, 3435, \eprint{1203.6594}
+
+\bibitem[{Archidiacono {et~al.}(2011)Archidiacono, Calabrese, \&
+  Melchiorri}]{Archidiacono:2011gq}
+Archidiacono, M., Calabrese, E., \& Melchiorri, A., {The Case for Dark
+  Radiation}. 2011, Phys. Rev., D84, 123008, \eprint{1109.2767}
+
+\bibitem[{Archidiacono {et~al.}(2013{\natexlab{a}})Archidiacono, Fornengo,
+  Giunti, Hannestad, \& Melchiorri}]{Archidiacono:2013xxa}
+Archidiacono, M., Fornengo, N., Giunti, C., Hannestad, S., \& Melchiorri, A.,
+  {Sterile neutrinos: Cosmology versus short-baseline experiments}.
+  2013{\natexlab{a}}, Phys. Rev., D87, 125034, \eprint{1302.6720}
+
+\bibitem[{Archidiacono {et~al.}(2013{\natexlab{b}})Archidiacono, Giusarma,
+  Melchiorri, \& Mena}]{Archidiacono:2013lva}
+Archidiacono, M., Giusarma, E., Melchiorri, A., \& Mena, O., {Neutrino and dark
+  radiation properties in light of recent CMB observations}.
+  2013{\natexlab{b}}, Phys. Rev., D87, 103519, \eprint{1303.0143}
+
+\bibitem[{Arkani-Hamed {et~al.}(2009)Arkani-Hamed, Finkbeiner, Slatyer, \&
+  Weiner}]{ArkaniHamed:2008qn}
+Arkani-Hamed, N., Finkbeiner, D.~P., Slatyer, T.~R., \& Weiner, N., {A Theory
+  of Dark Matter}. 2009, Phys. Rev., D79, 015014, \eprint{0810.0713}
+
+\bibitem[{Aubourg {et~al.}(2015)}]{Aubourg:2014}
+Aubourg, E. {et~al.}, {Cosmological implications of baryon acoustic oscillation
+  measurements}. 2015, Phys. Rev., D92, 123516, \eprint{1411.1074}
+
+\bibitem[{{Audren} {et~al.}(2013){Audren}, {Lesgourgues}, {Benabed}, \&
+  {Prunet}}]{Audren:2012wb}
+{Audren}, B., {Lesgourgues}, J., {Benabed}, K., \& {Prunet}, S., {Conservative
+  constraints on early cosmology with MONTE PYTHON}. 2013, \jcap, 2, 001,
+  \eprint{1210.7183}
+
+\bibitem[{Audren {et~al.}(2015)}]{Audren:2014lsa}
+Audren, B. {et~al.}, {Robustness of cosmic neutrino background detection in the
+  cosmic microwave background}. 2015, JCAP, 1503, 036, \eprint{1412.5948}
+
+\bibitem[{Aver {et~al.}(2013)Aver, Olive, Porter, \& Skillman}]{Aver:2013wba}
+Aver, E., Olive, K.~A., Porter, R., \& Skillman, E.~D., {The primordial helium
+  abundance from updated emissivities}. 2013, JCAP, 1311, 017,
+  \eprint{1309.0047}
+
+\bibitem[{{Bartelmann} \& {Schneider}(2001)}]{Bartelmann:2001}
+{Bartelmann}, M. \& {Schneider}, P., {Weak gravitational lensing}. 2001, Phys.
+  Rep., 340, 291, \eprint{astro-ph/9912508}
+
+\bibitem[{Bashinsky \& Seljak(2004)}]{Bashinsky:2003tk}
+Bashinsky, S. \& Seljak, U., {Neutrino perturbations in CMB anisotropy and
+  matter clustering}. 2004, Phys. Rev., D69, 083002, \eprint{astro-ph/0310198}
+
+\bibitem[{{Battistelli} {et~al.}(2002){Battistelli}, {De Petris}, {Lamagna},
+  {Melchiorri}, {Palladino}, {Savini}, {Cooray}, {Melchiorri}, {Rephaeli}, \&
+  {Shimon}}]{Battistelli2002}
+{Battistelli}, E.~S., {De Petris}, M., {Lamagna}, L., {et~al.}, {Cosmic
+  Microwave Background Temperature at Galaxy Clusters}. 2002, \apjl, 580, L101,
+  \eprint{arXiv:astro-ph/0208027}
+
+\bibitem[{Battye {et~al.}(2015)Battye, Charnock, \& Moss}]{Battye:2014qga}
+Battye, R.~A., Charnock, T., \& Moss, A., {Tension between the power spectrum
+  of density perturbations measured on large and small scales}. 2015, Phys.
+  Rev., D91, 103508, \eprint{1409.2769}
+
+\bibitem[{Battye \& Moss(2014)}]{Battye:2013xqa}
+Battye, R.~A. \& Moss, A., {Evidence for massive neutrinos from CMB and lensing
+  observations}. 2014, Phys. Rev. Lett., 112, 051303, \eprint{1308.5870}
+
+\bibitem[{Beacom {et~al.}(2004)Beacom, Bell, \& Dodelson}]{Beacom:2004yd}
+Beacom, J.~F., Bell, N.~F., \& Dodelson, S., {Neutrinoless universe}. 2004,
+  Phys. Rev. Lett., 93, 121302, \eprint{astro-ph/0404585}
+
+\bibitem[{Bean {et~al.}(2006)Bean, Dunkley, \& Pierpaoli}]{Bean:2006qz}
+Bean, R., Dunkley, J., \& Pierpaoli, E., {Constraining Isocurvature Initial
+  Conditions with WMAP 3-year data}. 2006, Phys. Rev., D74, 063503,
+  \eprint{astro-ph/0606685}
+
+\bibitem[{{Bell}(2005)}]{Bell:2005dr}
+{Bell}, N.~F., {Neutrino mixing and cosmology}. 2005, Nucl. Phys. B Proc.
+  Suppl., 138, 76, \eprint{hep-ph/0311283}
+
+\bibitem[{{Bennett} {et~al.}(2003){Bennett}, {Halpern}, {Hinshaw}, {Jarosik},
+  {Kogut}, {Limon}, {Meyer}, {Page}, {Spergel}, {Tucker}, {Wollack}, {Wright},
+  {Barnes}, {Greason}, {Hill}, {Komatsu}, {Nolta}, {Odegard}, {Peiris},
+  {Verde}, \& {Weiland}}]{Bennett:03}
+{Bennett}, C.~L., {Halpern}, M., {Hinshaw}, G., {et~al.}, {First-Year Wilkinson
+  Microwave Anisotropy Probe (WMAP) Observations: Preliminary Maps and Basic
+  Results}. 2003, \apjs, 148, 1, \eprint{arXiv:astro-ph/0302207}
+
+\bibitem[{{Bennett} {et~al.}(2011){Bennett}, {Hill}, {Hinshaw}, {Larson},
+  {Smith}, {Dunkley}, {Gold}, {Halpern}, {Jarosik}, {Kogut}, {Komatsu},
+  {Limon}, {Meyer}, {Nolta}, {Odegard}, {Page}, {Spergel}, {Tucker}, {Weiland},
+  {Wollack}, \& {Wright}}]{bennett2010}
+{Bennett}, C.~L., {Hill}, R.~S., {Hinshaw}, G., {et~al.}, {Seven-year Wilkinson
+  Microwave Anisotropy Probe (WMAP) Observations: Are There Cosmic Microwave
+  Background Anomalies?} 2011, \apjs, 192, 17, \eprint{1001.4758}
+
+\bibitem[{{Bennett} {et~al.}(2014){Bennett}, {Larson}, {Weiland}, \&
+  {Hinshaw}}]{Bennett:2014}
+{Bennett}, C.~L., {Larson}, D., {Weiland}, J.~L., \& {Hinshaw}, G., {The 1\%
+  Concordance Hubble Constant}. 2014, \apj, 794, 135, \eprint{1406.1718}
+
+\bibitem[{{Bennett} {et~al.}(2013){Bennett}, {Larson}, {Weiland}, {Jarosik},
+  {Hinshaw}, {Odegard}, {Smith}, {Hill}, {Gold}, {Halpern}, {Komatsu}, {Nolta},
+  {Page}, {Spergel}, {Wollack}, {Dunkley}, {Kogut}, {Limon}, {Meyer}, {Tucker},
+  \& {Wright}}]{bennett2012}
+{Bennett}, C.~L., {Larson}, D., {Weiland}, J.~L., {et~al.}, {Nine-year
+  Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Final Maps and
+  Results}. 2013, \apjs, 208, 20, \eprint{1212.5225}
+
+\bibitem[{{Benson} {et~al.}(2013){Benson}, {de Haan}, {Dudley}, {Reichardt},
+  {Aird}, {Andersson}, {Armstrong}, {Ashby}, {Bautz}, {Bayliss}, {Bazin},
+  {Bleem}, {Brodwin}, {Carlstrom}, {Chang}, {Cho}, {Clocchiatti}, {Crawford},
+  {Crites}, {Desai}, {Dobbs}, {Foley}, {Forman}, {George}, {Gladders},
+  {Gonzalez}, {Halverson}, {Harrington}, {High}, {Holder}, {Holzapfel},
+  {Hoover}, {Hrubes}, {Jones}, {Joy}, {Keisler}, {Knox}, {Lee}, {Leitch},
+  {Liu}, {Lueker}, {Luong-Van}, {Mantz}, {Marrone}, {McDonald}, {McMahon},
+  {Mehl}, {Meyer}, {Mocanu}, {Mohr}, {Montroy}, {Murray}, {Natoli}, {Padin},
+  {Plagge}, {Pryke}, {Rest}, {Ruel}, {Ruhl}, {Saliwanchik}, {Saro}, {Sayre},
+  {Schaffer}, {Shaw}, {Shirokoff}, {Song}, {Spieler}, {Stalder},
+  {Staniszewski}, {Stark}, {Story}, {Stubbs}, {Suhada}, {van Engelen},
+  {Vanderlinde}, {Vieira}, {Vikhlinin}, {Williamson}, {Zahn}, \&
+  {Zenteno}}]{Benson:13}
+{Benson}, B.~A., {de Haan}, T., {Dudley}, J.~P., {et~al.}, {Cosmological
+  Constraints from Sunyaev-Zel'dovich-selected Clusters with X-Ray Observations
+  in the First 178 deg$^{2}$ of the South Pole Telescope Survey}. 2013, \apj,
+  763, 147, \eprint{1112.5435}
+
+\bibitem[{Bergström {et~al.}(2014)Bergström, Gonzalez-Garcia, Niro, \&
+  Salvado}]{Bergstrom:2014fqa}
+Bergström, J., Gonzalez-Garcia, M.~C., Niro, V., \& Salvado, J., {Statistical
+  tests of sterile neutrinos using cosmology and short-baseline data}. 2014,
+  JHEP, 10, 104, \eprint{1407.3806}
+
+\bibitem[{{B{\'e}thermin} {et~al.}(2012){B{\'e}thermin}, {Daddi}, {Magdis},
+  {Sargent}, {Hezaveh}, {Elbaz}, {Le Borgne}, {Mullaney}, {Pannella}, {Buat},
+  {Charmandaris}, {Lagache}, \& {Scott}}]{bethermin2012}
+{B{\'e}thermin}, M., {Daddi}, E., {Magdis}, G., {et~al.}, {A Unified Empirical
+  Model for Infrared Galaxy Counts Based on the Observed Physical Evolution of
+  Distant Galaxies}. 2012, \apjl, 757, L23, \eprint{1208.6512}
+
+\bibitem[{{Betoule} {et~al.}(2013){Betoule}, {Marriner}, {Regnault},
+  {Cuillandre}, {Astier}, {Guy}, {Balland}, {El Hage}, {Hardin}, {Kessler}, {Le
+  Guillou}, {Mosher}, {Pain}, {Rocci}, {Sako}, \&
+  {Schahmaneche}}]{Betoule:2013}
+{Betoule}, M., {Marriner}, J., {Regnault}, N., {et~al.}, {Improved photometric
+  calibration of the SNLS and the SDSS supernova surveys}. 2013, A\&A, 552,
+  A124, \eprint{1212.4864}
+
+\bibitem[{Betoule {et~al.}(2014)}]{Betoule:2014frx}
+Betoule, M. {et~al.}, {Improved cosmological constraints from a joint analysis
+  of the SDSS-II and SNLS supernova samples}. 2014, A\&A, \eprint{1401.4064}
+
+\bibitem[{Betts {et~al.}(2013)}]{Betts:2013uya}
+Betts, S. {et~al.} 2013, in {Community Summer Study 2013: Snowmass on the
+  Mississippi (CSS2013) Minneapolis, MN, USA, July 29-August 6, 2013}
+
+\bibitem[{{Beutler} {et~al.}(2011){Beutler}, {Blake}, {Colless}, {Jones},
+  {Staveley-Smith}, {Campbell}, {Parker}, {Saunders}, \& {Watson}}]{Beutler:11}
+{Beutler}, F., {Blake}, C., {Colless}, M., {et~al.}, {The 6dF Galaxy Survey:
+  baryon acoustic oscillations and the local Hubble constant}. 2011, \mnras,
+  416, 3017, \eprint{1106.3366}
+
+\bibitem[{{Beutler} {et~al.}(2012){Beutler}, {Blake}, {Colless}, {Jones},
+  {Staveley-Smith}, {Poole}, {Campbell}, {Parker}, {Saunders}, \&
+  {Watson}}]{Beutler:12}
+{Beutler}, F., {Blake}, C., {Colless}, M., {et~al.}, {The 6dF Galaxy Survey:
+  {$z\approx0$} measurements of the growth rate and {$\sigma$}$_{8}$}. 2012,
+  \mnras, 423, 3430, \eprint{1204.4725}
+
+\bibitem[{{Beutler} {et~al.}(2014){Beutler}, {Saito}, {Seo}, {Brinkmann},
+  {Dawson}, {Eisenstein}, {Font-Ribera}, {Ho}, {McBride}, {Montesano},
+  {Percival}, {Ross}, {Ross}, {Samushia}, {Schlegel}, {S{\'a}nchez}, {Tinker},
+  \& {Weaver}}]{Beutler:14}
+{Beutler}, F., {Saito}, S., {Seo}, H.-J., {et~al.}, {The clustering of galaxies
+  in the SDSS-III Baryon Oscillation Spectroscopic Survey: testing gravity with
+  redshift space distortions using the power spectrum multipoles}. 2014,
+  \mnras, 443, 1065, \eprint{1312.4611}
+
+\bibitem[{Beutler {et~al.}(2014)}]{Beutler:2014yhv}
+Beutler, F. {et~al.}, {The clustering of galaxies in the SDSS-III Baryon
+  Oscillation Spectroscopic Survey: Signs of neutrino mass in current
+  cosmological datasets}. 2014, \mnras, 444, 3501, \eprint{1403.4599}
+
+\bibitem[{Bevis {et~al.}(2007)Bevis, Hindmarsh, Kunz, \&
+  Urrestilla}]{Bevis:2006mj}
+Bevis, N., Hindmarsh, M., Kunz, M., \& Urrestilla, J., {CMB power spectrum
+  contribution from cosmic strings using field-evolution simulations of the
+  Abelian Higgs model}. 2007, Phys. Rev., D75, 065015,
+  \eprint{astro-ph/0605018}
+
+\bibitem[{Bevis {et~al.}(2010)Bevis, Hindmarsh, Kunz, \&
+  Urrestilla}]{Bevis:2010gj}
+Bevis, N., Hindmarsh, M., Kunz, M., \& Urrestilla, J., {CMB power spectra from
+  cosmic strings: predictions for the Planck satellite and beyond}. 2010, Phys.
+  Rev., D82, 065004, \eprint{1005.2663}
+
+\bibitem[{{Bianchi} {et~al.}(2012){Bianchi}, {Guzzo}, {Branchini}, {Majerotto},
+  {de la Torre}, {Marulli}, {Moscardini}, \& {Angulo}}]{Bianchi:12}
+{Bianchi}, D., {Guzzo}, L., {Branchini}, E., {et~al.}, {Statistical and
+  systematic errors in redshift-space distortion measurements from large
+  surveys}. 2012, \mnras, 427, 2420, \eprint{1203.1545}
+
+\bibitem[{{BICEP2 Collaboration}(2014)}]{BicepDetection}
+{BICEP2 Collaboration}, {Detection of B-Mode Polarization at Degree Angular
+  Scales by BICEP2}. 2014, \prl, 112, 241101, \eprint{1403.3985}
+
+\bibitem[{{BICEP2/Keck Array and Planck Collaborations}(2015)}]{pb2015}
+{BICEP2/Keck Array and Planck Collaborations}, {Joint Analysis of BICEP2/Keck
+  Array and Planck Data}. 2015, \prl, 114, 101301, \eprint{1502.00612}
+
+\bibitem[{{Blake} {et~al.}(2012){Blake}, {Brough}, {Colless}, {Contreras},
+  {Couch}, {Croom}, {Croton}, {Davis}, {Drinkwater}, {Forster}, {Gilbank},
+  {Gladders}, {Glazebrook}, {Jelliffe}, {Jurek}, {Li}, {Madore}, {Martin},
+  {Pimbblet}, {Poole}, {Pracy}, {Sharp}, {Wisnioski}, {Woods}, {Wyder}, \&
+  {Yee}}]{Blake:12}
+{Blake}, C., {Brough}, S., {Colless}, M., {et~al.}, {The WiggleZ Dark Energy
+  Survey: joint measurements of the expansion and growth history at {$z<1$}}.
+  2012, \mnras, 425, 405, \eprint{1204.3674}
+
+\bibitem[{{Blake} {et~al.}(2011){Blake}, {Kazin}, {Beutler}, {Davis},
+  {Parkinson}, {Brough}, {Colless}, {Contreras}, {Couch}, {Croom}, {Croton},
+  {Drinkwater}, {Forster}, {Gilbank}, {Gladders}, {Glazebrook}, {Jelliffe},
+  {Jurek}, {Li}, {Madore}, {Martin}, {Pimbblet}, {Poole}, {Pracy}, {Sharp},
+  {Wisnioski}, {Woods}, {Wyder}, \& {Yee}}]{Blake:11}
+{Blake}, C., {Kazin}, E.~A., {Beutler}, F., {et~al.}, {The WiggleZ Dark Energy
+  Survey: mapping the distance-redshift relation with baryon acoustic
+  oscillations}. 2011, \mnras, 418, 1707, \eprint{1108.2635}
+
+\bibitem[{{B{\"o}hringer} {et~al.}(2014){B{\"o}hringer}, {Chon}, \&
+  {Collins}}]{Bohringer:2014}
+{B{\"o}hringer}, H., {Chon}, G., \& {Collins}, C.~A., {The extended ROSAT-ESO
+  Flux Limited X-ray Galaxy Cluster Survey (REFLEX II). IV. X-ray luminosity
+  function and first constraints on cosmological parameters}. 2014, \aap, 570,
+  A31, \eprint{1403.2927}
+
+\bibitem[{Bond {et~al.}(1997)Bond, Efstathiou, \& Tegmark}]{Bond:1997wr}
+Bond, J., Efstathiou, G., \& Tegmark, M., {Forecasting cosmic parameter errors
+  from microwave background anisotropy experiments}. 1997, MNRAS, 291, L33,
+  \eprint{astro-ph/9702100}
+
+\bibitem[{Boudaud {et~al.}(2015)}]{Boudaud:2014dta}
+Boudaud, M. {et~al.}, {A new look at the cosmic ray positron fraction}. 2015,
+  A\&A, 575, A67, \eprint{1410.3799}
+
+\bibitem[{Bousso {et~al.}(2015)Bousso, Harlow, \& Senatore}]{Bousso:2013}
+Bousso, R., Harlow, D., \& Senatore, L., {Inflation after False Vacuum Decay}.
+  2015, Phys. Rev., D91, 083527, \eprint{1309.4060}
+
+\bibitem[{{Breit} \& {Teller}(1940)}]{Breit1940}
+{Breit}, G. \& {Teller}, E., {Metastability of Hydrogen and Helium Levels.}
+  1940, \apj, 91, 215
+
+\bibitem[{Bucher {et~al.}(1995)Bucher, Goldhaber, \& Turok}]{Bucher:1994gb}
+Bucher, M., Goldhaber, A.~S., \& Turok, N., {An open universe from inflation}.
+  1995, Phys. Rev., D52, 3314, \eprint{hep-ph/9411206}
+
+\bibitem[{Bucher {et~al.}(2001{\natexlab{a}})Bucher, Moodley, \&
+  Turok}]{Bucher:2000hy}
+Bucher, M., Moodley, K., \& Turok, N., Constraining Isocurvature Perturbations
+  with CMB Polarization. 2001{\natexlab{a}}, Phys. Rev. Lett., 87, 191301,
+  \eprint{astro-ph/0012141}
+
+\bibitem[{Bucher {et~al.}(2001{\natexlab{b}})Bucher, Moodley, \&
+  Turok}]{Bucher99}
+Bucher, M., Moodley, K., \& Turok, N., The General Primordial Cosmic
+  Perturbation. 2001{\natexlab{b}}, Phys. Rev., D62, 083508,
+  \eprint{astro-ph/9904231}
+
+\bibitem[{{Buchmuller} {et~al.}(2013){Buchmuller}, {Domcke}, \&
+  {Kamada}}]{Buchmuller:2013}
+{Buchmuller}, W., {Domcke}, V., \& {Kamada}, K., {The Starobinsky model from
+  superconformal D-term inflation}. 2013, Phys. Lett. B, 726, 467,
+  \eprint{1306.3471}
+
+\bibitem[{{Burigana} {et~al.}(1991){Burigana}, {Danese}, \& {de
+  Zotti}}]{Burigana1991}
+{Burigana}, C., {Danese}, L., \& {de Zotti}, G., {Formation and evolution of
+  early distortions of the microwave background spectrum - A numerical study}.
+  1991, \aap, 246, 49
+
+\bibitem[{Calabrese {et~al.}(2011)Calabrese, de~Putter, Huterer, Linder, \&
+  Melchiorri}]{Calabrese:2010uf}
+Calabrese, E., de~Putter, R., Huterer, D., Linder, E.~V., \& Melchiorri, A.,
+  {Future CMB Constraints on Early, Cold, or Stressed Dark Energy}. 2011, Phys.
+  Rev., D83, 023011, \eprint{1010.5612}
+
+\bibitem[{{Calabrese} {et~al.}(2013){Calabrese}, {Hlozek}, {Battaglia},
+  {Battistelli}, {Bond}, {Chluba}, {Crichton}, {Das}, {Devlin}, {Dunkley},
+  {D{\"u}nner}, {Farhang}, {Gralla}, {Hajian}, {Halpern}, {Hasselfield},
+  {Hincks}, {Irwin}, {Kosowsky}, {Louis}, {Marriage}, {Moodley}, {Newburgh},
+  {Niemack}, {Nolta}, {Page}, {Sehgal}, {Sherwin}, {Sievers}, {Sif{\'o}n},
+  {Spergel}, {Staggs}, {Switzer}, \& {Wollack}}]{Calabrese:2013}
+{Calabrese}, E., {Hlozek}, R.~A., {Battaglia}, N., {et~al.}, {Cosmological
+  parameters from pre-planck cosmic microwave background measurements}. 2013,
+  \prd, 87, 103012, \eprint{1302.1841}
+
+\bibitem[{{Calabrese} {et~al.}(2008){Calabrese}, {Slosar}, {Melchiorri},
+  {Smoot}, \& {Zahn}}]{2008PhRvD..77l3531C}
+{Calabrese}, E., {Slosar}, A., {Melchiorri}, A., {Smoot}, G.~F., \& {Zahn}, O.,
+  {Cosmic microwave weak lensing data as a test for the dark universe}. 2008,
+  Phys. Rev., D77, 123531, \eprint{0803.2309}
+
+\bibitem[{Calore {et~al.}(2015)Calore, Cholis, McCabe, \&
+  Weniger}]{Calore:2014nla}
+Calore, F., Cholis, I., McCabe, C., \& Weniger, C., {A Tale of Tails: Dark
+  Matter Interpretations of the Fermi GeV Excess in Light of Background Model
+  Systematics}. 2015, Phys. Rev., D91, 063003, \eprint{1411.4647}
+
+\bibitem[{{Cesar} {et~al.}(1996){Cesar}, {Fried}, {Killian}, {Polcyn},
+  {Sandberg}, {Yu}, {Greytak}, {Kleppner}, \& {Doyle}}]{Cesar1996}
+{Cesar}, C.~L., {Fried}, D.~G., {Killian}, T.~C., {et~al.}, {Two-Photon
+  Spectroscopy of Trapped Atomic Hydrogen}. 1996, Phys. Rev. Lett., 77, 255
+
+\bibitem[{Chen \& Kamionkowski(2004)}]{Chen:2003gz}
+Chen, X.-L. \& Kamionkowski, M., Particle decays during the cosmic dark ages.
+  2004, Phys. Rev., D70, 043502, \eprint{astro-ph/0310473}
+
+\bibitem[{{Chluba}(2014)}]{Chluba2014TRR}
+{Chluba}, J., {Tests of the CMB temperature-redshift relation, CMB spectral
+  distortions and why adiabatic photon production is hard}. 2014, \mnras, 443,
+  1881, \eprint{1405.1277}
+
+\bibitem[{{Chluba} {et~al.}(2012){Chluba}, {Fung}, \&
+  {Switzer}}]{Chluba2012HeRec}
+{Chluba}, J., {Fung}, J., \& {Switzer}, E.~R., {Radiative transfer effects
+  during primordial helium recombination}. 2012, \mnras, 423, 3227,
+  \eprint{1110.0247}
+
+\bibitem[{{Chluba} \& {Sunyaev}(2006{\natexlab{a}})}]{Chluba2006b}
+{Chluba}, J. \& {Sunyaev}, R.~A., {Free-bound emission from cosmological
+  hydrogen recombination}. 2006{\natexlab{a}}, \aap, 458, L29,
+  \eprint{astro-ph/0608120}
+
+\bibitem[{{Chluba} \& {Sunyaev}(2006{\natexlab{b}})}]{Chluba2006}
+{Chluba}, J. \& {Sunyaev}, R.~A., {Induced two-photon decay of the 2s level and
+  the rate of cosmological hydrogen recombination}. 2006{\natexlab{b}}, \aap,
+  446, 39, \eprint{astro-ph/0508144}
+
+\bibitem[{{Chluba} \& {Sunyaev}(2007)}]{Chluba2007b}
+{Chluba}, J. \& {Sunyaev}, R.~A., {Cosmological hydrogen recombination: Lyn
+  line feedback and continuum escape}. 2007, \aap, 475, 109,
+  \eprint{arXiv:astro-ph/0702531}
+
+\bibitem[{{Chluba} \& {Sunyaev}(2008)}]{Chluba2008T0}
+{Chluba}, J. \& {Sunyaev}, R.~A., {Is there a need and another way to measure
+  the cosmic microwave background temperature more accurately?} 2008, \aap,
+  478, L27, \eprint{0707.0188}
+
+\bibitem[{{Chluba} \& {Sunyaev}(2012)}]{Chluba2011therm}
+{Chluba}, J. \& {Sunyaev}, R.~A., {The evolution of CMB spectral distortions in
+  the early Universe}. 2012, \mnras, 419, 1294, \eprint{1109.6552}
+
+\bibitem[{{Chluba} \& {Thomas}(2011)}]{Chluba2010b}
+{Chluba}, J. \& {Thomas}, R.~M., {Towards a complete treatment of the
+  cosmological recombination problem}. 2011, \mnras, 412, 748,
+  \eprint{1010.3631}
+
+\bibitem[{Cholis \& Hooper(2013)}]{Cholis:2013psa}
+Cholis, I. \& Hooper, D., {Dark Matter and Pulsar Origins of the Rising Cosmic
+  Ray Positron Fraction in Light of New Data From AMS}. 2013, Phys. Rev., D88,
+  023013, \eprint{1304.1840}
+
+\bibitem[{Choudhury {et~al.}(2015)Choudhury, Puchwein, Haehnelt, \&
+  Bolton}]{Choudhury:2014}
+Choudhury, T.~R., Puchwein, E., Haehnelt, M.~G., \& Bolton, J.~S., {Lyman
+  $\alpha$ emitters gone missing: evidence for late reionization?} 2015, MNRAS,
+  452, 261, \eprint{1412.4790}
+
+\bibitem[{Chuang {et~al.}(2013)Chuang, Prada, Beutler, Eisenstein, Escoffier,
+  {et~al.}}]{Chuang:14}
+Chuang, C.-H., Prada, F., Beutler, F., {et~al.}, {The clustering of galaxies in
+  the SDSS-III Baryon Oscillation Spectroscopic Survey: single-probe
+  measurements from CMASS and LOWZ anisotropic galaxy clustering}. 2013, ArXiv
+  e-prints, \eprint{1312.4889}
+
+\bibitem[{Cocco {et~al.}(2007)Cocco, Mangano, \& Messina}]{Cocco:2007za}
+Cocco, A.~G., Mangano, G., \& Messina, M., {Probing low energy neutrino
+  backgrounds with neutrino capture on beta decaying nuclei}. 2007, JCAP, 0706,
+  015, \eprint{hep-ph/0703075}
+
+\bibitem[{Coleman \& De~Luccia(1980)}]{Coleman:1980aw}
+Coleman, S.~R. \& De~Luccia, F., {Gravitational Effects on and of Vacuum
+  Decay}. 1980, Phys. Rev., D21, 3305
+
+\bibitem[{{Conley} {et~al.}(2011){Conley}, {Guy}, {Sullivan}, {Regnault},
+  {Astier}, {Balland}, {Basa}, {Carlberg}, {Fouchez}, {Hardin}, {Hook},
+  {Howell}, {Pain}, {Palanque-Delabrouille}, {Perrett}, {Pritchet}, {Rich},
+  {Ruhlmann-Kleider}, {Balam}, {Baumont}, {Ellis}, {Fabbro}, {Fakhouri},
+  {Fourmanoit}, {Gonz{\'a}lez-Gait{\'a}n}, {Graham}, {Hudson}, {Hsiao},
+  {Kronborg}, {Lidman}, {Mourao}, {Neill}, {Perlmutter}, {Ripoche}, {Suzuki},
+  \& {Walker}}]{Conley:2011}
+{Conley}, A., {Guy}, J., {Sullivan}, M., {et~al.}, {Supernova Constraints and
+  Systematic Uncertainties from the First Three Years of the Supernova Legacy
+  Survey}. 2011, \apjs, 192, 1, \eprint{1104.1443}
+
+\bibitem[{Conlon \& Marsh(2013)}]{Conlon:2013isa}
+Conlon, J.~P. \& Marsh, M. C.~D., {The Cosmophenomenology of Axionic Dark
+  Radiation}. 2013, JHEP, 1310, 214, \eprint{1304.1804}
+
+\bibitem[{Cooke {et~al.}(2014)Cooke, Pettini, Jorgenson, Murphy, \&
+  Steidel}]{Cooke:2013cba}
+Cooke, R., Pettini, M., Jorgenson, R.~A., Murphy, M.~T., \& Steidel, C.~C.,
+  {Precision measures of the primordial abundance of deuterium}. 2014, \apj,
+  781, 31, \eprint{1308.3240}
+
+\bibitem[{Copeland \& Kibble(2010)}]{Copeland:2009ga}
+Copeland, E.~J. \& Kibble, T., {Cosmic Strings and Superstrings}. 2010, Proc.
+  Roy. Soc. Lond., A466, 623, \eprint{0911.1345}
+
+\bibitem[{{Copeland} {et~al.}(2006){Copeland}, {Sami}, \&
+  {Tsujikawa}}]{Copeland:2006}
+{Copeland}, E.~J., {Sami}, M., \& {Tsujikawa}, S., {Dynamics of Dark Energy}.
+  2006, Int. J. Mod. Phys., D15, 1753, \eprint{hep-th/0603057}
+
+\bibitem[{Creminelli {et~al.}(2015)Creminelli, Dubovsky, López~Nacir,
+  Simonović, Trevisan, Villadoro, \& Zaldarriaga}]{Creminelli:2014nqa}
+Creminelli, P., Dubovsky, S., López~Nacir, D., {et~al.}, {Implications of the
+  scalar tilt for the tensor-to-scalar ratio}. 2015, Phys. Rev., D92, 123528,
+  \eprint{1412.0678}
+
+\bibitem[{Cuesta {et~al.}(2015)Cuesta, Verde, Riess, \& Jimenez}]{Cuesta:2014}
+Cuesta, A.~J., Verde, L., Riess, A., \& Jimenez, R., {Calibrating the cosmic
+  distance scale ladder: the role of the sound horizon scale and the local
+  expansion rate as distance anchors}. 2015, \mnras, 448, 3463,
+  \eprint{1411.1094}
+
+\bibitem[{Czerny {et~al.}(2014)Czerny, Kobayashi, \&
+  Takahashi}]{Czerny:2014wua}
+Czerny, M., Kobayashi, T., \& Takahashi, F., {Running Spectral Index from
+  Large-field Inflation with Modulations Revisited}. 2014, Phys. Lett., B735,
+  176, \eprint{1403.4589}
+
+\bibitem[{{Das} {et~al.}(2014){Das}, {Louis}, {Nolta}, {Addison},
+  {Battistelli}, {Bond}, {Calabrese}, {Crichton}, {Devlin}, {Dicker},
+  {Dunkley}, {D{\"u}nner}, {Fowler}, {Gralla}, {Hajian}, {Halpern},
+  {Hasselfield}, {Hilton}, {Hincks}, {Hlozek}, {Huffenberger}, {Hughes},
+  {Irwin}, {Kosowsky}, {Lupton}, {Marriage}, {Marsden}, {Menanteau}, {Moodley},
+  {Niemack}, {Page}, {Partridge}, {Reese}, {Schmitt}, {Sehgal}, {Sherwin},
+  {Sievers}, {Spergel}, {Staggs}, {Swetz}, {Switzer}, {Thornton}, {Trac}, \&
+  {Wollack}}]{Das:2014}
+{Das}, S., {Louis}, T., {Nolta}, M.~R., {et~al.}, {The Atacama Cosmology
+  Telescope: temperature and gravitational lensing power spectrum measurements
+  from three seasons of data}. 2014, JCAP, 4, 14, \eprint{1301.1037}
+
+\bibitem[{Daylan {et~al.}(2016)Daylan, Finkbeiner, Hooper, Linden, Portillo,
+  Rodd, \& Slatyer}]{Daylan:2014}
+Daylan, T., Finkbeiner, D.~P., Hooper, D., {et~al.}, {The characterization of
+  the gamma-ray signal from the central Milky Way: A case for annihilating dark
+  matter}. 2016, Phys. Dark Univ., 12, 1, \eprint{1402.6703}
+
+\bibitem[{{de la Torre} {et~al.}(2013){de la Torre}, {Guzzo}, {Peacock},
+  {Branchini}, {Iovino}, {Granett}, {Abbas}, {Adami}, {Arnouts}, {Bel},
+  {Bolzonella}, {Bottini}, {Cappi}, {Coupon}, {Cucciati}, {Davidzon}, {De
+  Lucia}, {Fritz}, {Franzetti}, {Fumana}, {Garilli}, {Ilbert}, {Krywult}, {Le
+  Brun}, {Le F{\`e}vre}, {Maccagni}, {Ma{\l}ek}, {Marulli}, {McCracken},
+  {Moscardini}, {Paioro}, {Percival}, {Polletta}, {Pollo}, {Schlagenhaufer},
+  {Scodeggio}, {Tasca}, {Tojeiro}, {Vergani}, {Zanichelli}, {Burden}, {Di
+  Porto}, {Marchetti}, {Marinoni}, {Mellier}, {Monaco}, {Nichol}, {Phleps},
+  {Wolk}, \& {Zamorani}}]{delaTorre:13}
+{de la Torre}, S., {Guzzo}, L., {Peacock}, J.~A., {et~al.}, {The VIMOS Public
+  Extragalactic Redshift Survey (VIPERS) . Galaxy clustering and redshift-space
+  distortions at {$z\approx0.8$} in the first data release}. 2013, A\&A, 557,
+  A54, \eprint{1303.2622}
+
+\bibitem[{Delubac {et~al.}(2015)}]{Delubac:2014}
+Delubac, T. {et~al.}, {Baryon acoustic oscillations in the Ly$\alpha$ forest of
+  BOSS DR11 quasars}. 2015, A\&A, 574, A59, \eprint{1404.1801}
+
+\bibitem[{{Di Valentino} {et~al.}(2014){Di Valentino}, {Gustavino},
+  {Lesgourgues}, {Mangano}, {Melchiorri}, {Miele}, \& {Pisanti}}]{divalentino}
+{Di Valentino}, E., {Gustavino}, C., {Lesgourgues}, J., {et~al.}, {Probing
+  nuclear rates with Planck and BICEP2}. 2014, Phys. Rev., D90, 023543,
+  \eprint{1404.7848}
+
+\bibitem[{Diamanti {et~al.}(2014)Diamanti, Lopez-Honorez, Mena, Palomares-Ruiz,
+  \& Vincent}]{Diamanti:2013bia}
+Diamanti, R., Lopez-Honorez, L., Mena, O., Palomares-Ruiz, S., \& Vincent,
+  A.~C., {Constraining Dark Matter Late-Time Energy Injection: Decays and
+  P-Wave Annihilations}. 2014, JCAP, 1402, 017, \eprint{1308.2578}
+
+\bibitem[{{Dodelson} \& {Widrow}(1994)}]{Dodelson:1994}
+{Dodelson}, S. \& {Widrow}, L.~M., {Sterile neutrinos as dark matter}. 1994,
+  Phys. Rev. Lett., 72, 17, \eprint{hep-ph/9303287}
+
+\bibitem[{Doran(2005)}]{Doran:2003sy}
+Doran, M., {CMBEASY: an object oriented code for the cosmic microwave
+  background}. 2005, JCAP, 0510, 011, \eprint{astro-ph/0302138}
+
+\bibitem[{{Doroshkevich} {et~al.}(2003){Doroshkevich}, {Naselsky}, {Naselsky},
+  \& {Novikov}}]{Doroshkevich2003}
+{Doroshkevich}, A.~G., {Naselsky}, I.~P., {Naselsky}, P.~D., \& {Novikov},
+  I.~D., {Ionization History of the Cosmic Plasma in the Light of the Recent
+  Cosmic Background Imager and Future Planck Data}. 2003, \apj, 586, 709,
+  \eprint{astro-ph/0208114}
+
+\bibitem[{Drexlin {et~al.}(2013)Drexlin, Hannen, Mertens, \&
+  Weinheimer}]{Drexlin:2013}
+Drexlin, G., Hannen, V., Mertens, S., \& Weinheimer, C., {Current direct
+  neutrino mass experiments}. 2013, Adv. High Energy Phys., 2013, 293986,
+  \eprint{1307.0101}
+
+\bibitem[{{Dubrovich} \& {Grachev}(2005)}]{Dubrovich2005}
+{Dubrovich}, V.~K. \& {Grachev}, S.~I., {Recombination Dynamics of Primordial
+  Hydrogen and Helium (He I) in the Universe}. 2005, Astron. Lett., 31, 359
+
+\bibitem[{{Dunkley} {et~al.}(2013){Dunkley}, {Calabrese}, {Sievers}, {Addison},
+  {Battaglia}, {Battistelli}, {Bond}, {Das}, {Devlin}, {D{\"u}nner}, {Fowler},
+  {Gralla}, {Hajian}, {Halpern}, {Hasselfield}, {Hincks}, {Hlozek}, {Hughes},
+  {Irwin}, {Kosowsky}, {Louis}, {Marriage}, {Marsden}, {Menanteau}, {Moodley},
+  {Niemack}, {Nolta}, {Page}, {Partridge}, {Sehgal}, {Spergel}, {Staggs},
+  {Switzer}, {Trac}, \& {Wollack}}]{Dunkley:2013}
+{Dunkley}, J., {Calabrese}, E., {Sievers}, J., {et~al.}, {The Atacama Cosmology
+  Telescope: likelihood for small-scale CMB data}. 2013, JCAP, 7, 25,
+  \eprint{1301.0776}
+
+\bibitem[{Durrer {et~al.}(2002)Durrer, Kunz, \& Melchiorri}]{Durrer:2001cg}
+Durrer, R., Kunz, M., \& Melchiorri, A., {Cosmic structure formation with
+  topological defects}. 2002, Phys. Rept., 364, 1, \eprint{astro-ph/0110348}
+
+\bibitem[{{Efstathiou}(2004)}]{Efstathiou:2004}
+{Efstathiou}, G., {Myths and truths concerning estimation of power spectra: the
+  case for a hybrid estimator}. 2004, \mnras, 349, 603,
+  \eprint{astro-ph/0307515}
+
+\bibitem[{{Efstathiou}(2006)}]{Efstathiou:2006}
+{Efstathiou}, G., {Hybrid estimation of cosmic microwave background
+  polarization power spectra}. 2006, \mnras, 370, 343,
+  \eprint{astro-ph/0601107}
+
+\bibitem[{{Efstathiou}(2014)}]{Efstathiou:14}
+{Efstathiou}, G., {H$_{0}$ revisited}. 2014, \mnras, 440, 1138,
+  \eprint{1311.3461}
+
+\bibitem[{{Efstathiou} \& {Migliaccio}(2012)}]{Efstathiou:2012}
+{Efstathiou}, G. \& {Migliaccio}, M., {A simple empirically motivated template
+  for the thermal Sunyaev-Zel'dovich effect}. 2012, \mnras, 423, 2492,
+  \eprint{1106.3208}
+
+\bibitem[{{Ellis} {et~al.}(2013){Ellis}, {Nanopoulos}, \& {Olive}}]{Ellis:2013}
+{Ellis}, J., {Nanopoulos}, D.~V., \& {Olive}, K.~A., {No-scale Supergravity
+  Realization of the Starobinsky Model of Inflation}. 2013, Phys. Rev. Lett.,
+  111, 111301, \eprint{1305.1247}
+
+\bibitem[{{Erben} {et~al.}(2013){Erben}, {Hildebrandt}, {Miller}, {van
+  Waerbeke}, {Heymans}, {Hoekstra}, {Kitching}, {Mellier}, {Benjamin}, {Blake},
+  {Bonnett}, {Cordes}, {Coupon}, {Fu}, {Gavazzi}, {Gillis}, {Grocutt}, {Gwyn},
+  {Holhjem}, {Hudson}, {Kilbinger}, {Kuijken}, {Milkeraitis}, {Rowe},
+  {Schrabback}, {Semboloni}, {Simon}, {Smit}, {Toader}, {Vafaei}, {van Uitert},
+  \& {Velander}}]{Erben:2013}
+{Erben}, T., {Hildebrandt}, H., {Miller}, L., {et~al.}, {CFHTLenS: the
+  Canada-France-Hawaii Telescope Lensing Survey - imaging data and catalogue
+  products}. 2013, \mnras, 433, 2545, \eprint{1210.8156}
+
+\bibitem[{Evoli {et~al.}(2013)Evoli, Pandolfi, \& Ferrara}]{Evoli:2012qh}
+Evoli, C., Pandolfi, S., \& Ferrara, A., {CMB constraints on light dark matter
+  candidates}. 2013, \mnras, 433, 1736, \eprint{1210.6845}
+
+\bibitem[{{Fabbri} {et~al.}(1978){Fabbri}, {Melchiorri}, \&
+  {Natale}}]{Fabbri1978}
+{Fabbri}, R., {Melchiorri}, F., \& {Natale}, V., {The Sunyaev-Zel'dovich effect
+  in the millimetric region}. 1978, \apss, 59, 223
+
+\bibitem[{{Fan} {et~al.}(2006){Fan}, {Strauss}, {Becker}, {White}, {Gunn},
+  {Knapp}, {Richards}, {Schneider}, {Brinkmann}, \& {Fukugita}}]{Fan:2006}
+{Fan}, X., {Strauss}, M.~A., {Becker}, R.~H., {et~al.}, {Constraining the
+  Evolution of the Ionizing Background and the Epoch of Reionization with
+  z\~{}6 Quasars. II. A Sample of 19 Quasars}. 2006, \aj, 132, 117,
+  \eprint{astro-ph/0512082}
+
+\bibitem[{Fang {et~al.}(2008)Fang, Hu, \& Lewis}]{Fang:2008sn}
+Fang, W., Hu, W., \& Lewis, A., {Crossing the Phantom Divide with Parameterized
+  Post-Friedmann Dark Energy}. 2008, Phys. Rev., D78, 087303,
+  \eprint{0808.3125}
+
+\bibitem[{{Farhang} {et~al.}(2012){Farhang}, {Bond}, \& {Chluba}}]{Farhang2011}
+{Farhang}, M., {Bond}, J.~R., \& {Chluba}, J., {Semi-blind Eigen Analyses of
+  Recombination Histories Using Cosmic Microwave Background Data}. 2012, \apj,
+  752, 88, \eprint{1110.4608}
+
+\bibitem[{{Farhang} {et~al.}(2013){Farhang}, {Bond}, {Chluba}, \&
+  {Switzer}}]{Farhang2013}
+{Farhang}, M., {Bond}, J.~R., {Chluba}, J., \& {Switzer}, E.~R., {Constraints
+  on Perturbations to the Recombination History from Measurements of the Cosmic
+  Microwave Background Damping Tail}. 2013, \apj, 764, 137, \eprint{1211.4634}
+
+\bibitem[{{Ferrara} {et~al.}(2013){Ferrara}, {Kallosh}, {Linde}, \&
+  {Porrati}}]{Ferrara:2013}
+{Ferrara}, S., {Kallosh}, R., {Linde}, A., \& {Porrati}, M., {Minimal
+  supergravity models of inflation}. 2013, \prd, 88, 085038, \eprint{1307.7696}
+
+\bibitem[{Fields {et~al.}(2014)Fields, Molaro, \& Sarkar}]{Fields:2014uja}
+Fields, B.~D., Molaro, P., \& Sarkar, S., {Big-Bang Nucleosynthesis}. 2014,
+  Chin. Phys., C38, \eprint{1412.1408}
+
+\bibitem[{Finkbeiner {et~al.}(2012)Finkbeiner, Galli, Lin, \&
+  Slatyer}]{Finkbeiner:2011dx}
+Finkbeiner, D.~P., Galli, S., Lin, T., \& Slatyer, T.~R., {Searching for Dark
+  Matter in the CMB: A Compact Parameterization of Energy Injection from New
+  Physics}. 2012, Phys. Rev., D85, 043522, \eprint{1109.6322}
+
+\bibitem[{{Fixsen}(2003)}]{Fixsen2003}
+{Fixsen}, D.~J., {The Spectrum of the Cosmic Microwave Background Anisotropy
+  from the Combined COBE FIRAS and WMAP Observations}. 2003, \apjl, 594, L67
+
+\bibitem[{{Fixsen}(2009)}]{Fixsen2009}
+{Fixsen}, D.~J., {The Temperature of the Cosmic Microwave Background}. 2009,
+  \apj, 707, 916, \eprint{0911.1955}
+
+\bibitem[{{Fixsen} {et~al.}(1996){Fixsen}, {Cheng}, {Gales}, {Mather},
+  {Shafer}, \& {Wright}}]{Fixsen1996}
+{Fixsen}, D.~J., {Cheng}, E.~S., {Gales}, J.~M., {et~al.}, {The Cosmic
+  Microwave Background Spectrum from the Full COBE FIRAS Data Set}. 1996, \apj,
+  473, 576, \eprint{arXiv:astro-ph/9605054}
+
+\bibitem[{{Flauger} {et~al.}(2014){Flauger}, {Hill}, \&
+  {Spergel}}]{Flauger:2014}
+{Flauger}, R., {Hill}, J.~C., \& {Spergel}, D.~N., {Toward an understanding of
+  foreground emission in the BICEP2 region}. 2014, JCAP, 8, 39,
+  \eprint{1405.7351}
+
+\bibitem[{{Font-Ribera} {et~al.}(2014){Font-Ribera}, {Kirkby}, {Busca},
+  {Miralda-Escud{\'e}}, {Ross}, {Slosar}, {Rich}, {Aubourg}, {Bailey},
+  {Bhardwaj}, {Bautista}, {Beutler}, {Bizyaev}, {Blomqvist}, {Brewington},
+  {Brinkmann}, {Brownstein}, {Carithers}, {Dawson}, {Delubac}, {Ebelke},
+  {Eisenstein}, {Ge}, {Kinemuchi}, {Lee}, {Malanushenko}, {Malanushenko},
+  {Marchante}, {Margala}, {Muna}, {Myers}, {Noterdaeme}, {Oravetz},
+  {Palanque-Delabrouille}, {P{\^a}ris}, {Petitjean}, {Pieri}, {Rossi},
+  {Schneider}, {Simmons}, {Viel}, {Yeche}, \& {York}}]{Font-Ribera:2014}
+{Font-Ribera}, A., {Kirkby}, D., {Busca}, N., {et~al.}, {Quasar-Lyman
+  {$\alpha$} forest cross-correlation from BOSS DR11: Baryon Acoustic
+  Oscillations}. 2014, JCAP, 5, 27, \eprint{1311.1767}
+
+\bibitem[{{Freedman} {et~al.}(2012){Freedman}, {Madore}, {Scowcroft}, {Burns},
+  {Monson}, {Persson}, {Seibert}, \& {Rigby}}]{Freedman:12}
+{Freedman}, W.~L., {Madore}, B.~F., {Scowcroft}, V., {et~al.}, {Carnegie Hubble
+  Program: A Mid-infrared Calibration of the Hubble Constant}. 2012, \apj, 758,
+  24, \eprint{1208.3281}
+
+\bibitem[{Freivogel {et~al.}(2006)Freivogel, Kleban, Rodriguez~Martinez, \&
+  Susskind}]{Freivogel:2005vv}
+Freivogel, B., Kleban, M., Rodriguez~Martinez, M., \& Susskind, L.,
+  {Observational consequences of a landscape}. 2006, JHEP, 0603, 039,
+  \eprint{hep-th/0505232}
+
+\bibitem[{{Fu} {et~al.}(2014){Fu}, {Kilbinger}, {Erben}, {Heymans},
+  {Hildebrandt}, {Hoekstra}, {Kitching}, {Mellier}, {Miller}, {Semboloni},
+  {Simon}, {Van Waerbeke}, {Coupon}, {Harnois-D{\'e}raps}, {Hudson}, {Kuijken},
+  {Rowe}, {Schrabback}, {Vafaei}, \& {Velander}}]{Fu:2014}
+{Fu}, L., {Kilbinger}, M., {Erben}, T., {et~al.}, {CFHTLenS: cosmological
+  constraints from a combination of cosmic shear two-point and three-point
+  correlations}. 2014, \mnras, 441, 2725, \eprint{1404.5469}
+
+\bibitem[{{Fuskeland} {et~al.}(2014){Fuskeland}, {Wehus}, {Eriksen}, \&
+  {N{\ae}ss}}]{Fuskeland:2014}
+{Fuskeland}, U., {Wehus}, I.~K., {Eriksen}, H.~K., \& {N{\ae}ss}, S.~K.,
+  {Spatial Variations in the Spectral Index of Polarized Synchrotron Emission
+  in the 9 yr WMAP Sky Maps}. 2014, \apj, 790, 104, \eprint{1404.5323}
+
+\bibitem[{{Galli} {et~al.}(2008){Galli}, {Bean}, {Melchiorri}, \&
+  {Silk}}]{Galli2008}
+{Galli}, S., {Bean}, R., {Melchiorri}, A., \& {Silk}, J., {Delayed
+  recombination and cosmic parameters}. 2008, Phys. Rev., D78, 063532,
+  \eprint{0807.1420}
+
+\bibitem[{{Galli} {et~al.}(2014){Galli}, {Benabed}, {Bouchet}, {Cardoso},
+  {Elsner}, {Hivon}, {Mangilli}, {Prunet}, \& {Wandelt}}]{Galli:2014kla}
+{Galli}, S., {Benabed}, K., {Bouchet}, F., {et~al.}, {CMB polarization can
+  constrain cosmology better than CMB temperature}. 2014, \prd, 90, 063504,
+  \eprint{1403.5271}
+
+\bibitem[{Galli {et~al.}(2009)Galli, Iocco, Bertone, \&
+  Melchiorri}]{Galli:2009zc}
+Galli, S., Iocco, F., Bertone, G., \& Melchiorri, A., {CMB constraints on Dark
+  Matter models with large annihilation cross-section}. 2009, Phys. Rev., D80,
+  023505, \eprint{0905.0003}
+
+\bibitem[{Galli {et~al.}(2011)Galli, Iocco, Bertone, \&
+  Melchiorri}]{Galli:2011rz}
+Galli, S., Iocco, F., Bertone, G., \& Melchiorri, A., {Updated CMB constraints
+  on Dark Matter annihilation cross-sections}. 2011, Phys. Rev., D84, 027302,
+  \eprint{1106.1528}
+
+\bibitem[{{Galli} {et~al.}(2009){Galli}, {Melchiorri}, {Smoot}, \&
+  {Zahn}}]{Galli2009b}
+{Galli}, S., {Melchiorri}, A., {Smoot}, G.~F., \& {Zahn}, O., {From Cavendish
+  to PLANCK: Constraining Newton's gravitational constant with CMB temperature
+  and polarization anisotropy}. 2009, Phys. Rev., D80, 023508,
+  \eprint{0905.1808}
+
+\bibitem[{Galli {et~al.}(2013)Galli, Slatyer, Valdes, \& Iocco}]{Galli:2013dna}
+Galli, S., Slatyer, T.~R., Valdes, M., \& Iocco, F., {Systematic Uncertainties
+  In Constraining Dark Matter Annihilation From The Cosmic Microwave
+  Background}. 2013, Phys. Rev., D88, 063502, \eprint{1306.0563}
+
+\bibitem[{Garcia-Bellido {et~al.}(2014)Garcia-Bellido, Roest, Scalisi, \&
+  Zavala}]{Garcia-Bellido:2014wfa}
+Garcia-Bellido, J., Roest, D., Scalisi, M., \& Zavala, I., {Lyth bound of
+  inflation with a tilt}. 2014, Phys. Rev., D90, 123539, \eprint{1408.6839}
+
+\bibitem[{Gariazzo {et~al.}(2013)Gariazzo, Giunti, \&
+  Laveder}]{Gariazzo:2013gua}
+Gariazzo, S., Giunti, C., \& Laveder, M., {Light Sterile Neutrinos in Cosmology
+  and Short-Baseline Oscillation Experiments}. 2013, JHEP, 1311, 211,
+  \eprint{1309.3192}
+
+\bibitem[{Gariazzo {et~al.}(2014)Gariazzo, Giunti, \&
+  Laveder}]{Gariazzo:2014pja}
+Gariazzo, S., Giunti, C., \& Laveder, M., {Cosmological Invisible Decay of
+  Light Sterile Neutrinos}. 2014, ArXiv e-prints, \eprint{1404.6160}
+
+\bibitem[{George {et~al.}(2015)}]{George:2014}
+George, E.~M. {et~al.}, {A measurement of secondary cosmic microwave background
+  anisotropies from the 2500-square-degree SPT-SZ survey}. 2015, \apj, 799,
+  177, \eprint{1408.3161}
+
+\bibitem[{Gerbino {et~al.}(2013)Gerbino, Di~Valentino, \&
+  Said}]{Gerbino:2013ova}
+Gerbino, M., Di~Valentino, E., \& Said, N., {Neutrino Anisotropies after
+  Planck}. 2013, Phys. Rev., D88, 063538, \eprint{1304.7400}
+
+\bibitem[{Giesen {et~al.}(2012)Giesen, Lesgourgues, Audren, \&
+  Ali-Haimoud}]{Giesen:2012rp}
+Giesen, G., Lesgourgues, J., Audren, B., \& Ali-Haimoud, Y., {CMB photons
+  shedding light on dark matter}. 2012, JCAP, 1212, 008, \eprint{1209.0247}
+
+\bibitem[{Gil-Mar{\'\i}n {et~al.}(2015)}]{Gil-Marin:2015sqa}
+Gil-Mar{\'\i}n, H. {et~al.}, {The clustering of galaxies in the SDSS-III Baryon
+  Oscillation Spectroscopic Survey: RSD measurement from the LOS-dependent
+  power spectrum of DR12 BOSS galaxies}. 2015, ArXiv e-prints,
+  \eprint{1509.06386}
+
+\bibitem[{Giunti {et~al.}(2013)Giunti, Laveder, Li, \& Long}]{Giunti:2013aea}
+Giunti, C., Laveder, M., Li, Y., \& Long, H., {Pragmatic View of Short-Baseline
+  Neutrino Oscillations}. 2013, Phys. Rev., D88, 073008, \eprint{1308.5288}
+
+\bibitem[{{Goldman}(1989)}]{Goldman1989}
+{Goldman}, S.~P., {Generalized Laguerre representation: Application to
+  relativistic two-photon decay rates}. 1989, Phys. Rev., A40, 1185
+
+\bibitem[{{Goodenough} \& {Hooper}(2009)}]{Goodenough:2009}
+{Goodenough}, L. \& {Hooper}, D., {Possible Evidence For Dark Matter
+  Annihilation In The Inner Milky Way From The Fermi Gamma Ray Space
+  Telescope}. 2009, ArXiv e-prints, \eprint{0910.2998}
+
+\bibitem[{Gordon \& Lewis(2003)}]{Gordon:2002gv}
+Gordon, C. \& Lewis, A., Observational constraints on the curvaton model of
+  inflation. 2003, Phys. Rev., D67, 123513, \eprint{astro-ph/0212248}
+
+\bibitem[{{Gordon} \& {Mac{\'{\i}}as}(2013)}]{Gordon:2013}
+{Gordon}, C. \& {Mac{\'{\i}}as}, O., {Dark matter and pulsar model constraints
+  from Galactic Center Fermi-LAT gamma-ray observations}. 2013, Phys. Rev.,
+  D88, 083521, \eprint{1306.5725}
+
+\bibitem[{{G{\'o}rski} {et~al.}(2005){G{\'o}rski}, {Hivon}, {Banday},
+  {Wandelt}, {Hansen}, {Reinecke}, \& {Bartelmann}}]{gorski2005}
+{G{\'o}rski}, K.~M., {Hivon}, E., {Banday}, A.~J., {et~al.}, {HEALPix: A
+  Framework for High-Resolution Discretization and Fast Analysis of Data
+  Distributed on the Sphere}. 2005, \apj, 622, 759, \eprint{astro-ph/0409513}
+
+\bibitem[{Gott(1982)}]{Gott:1982zf}
+Gott, J., {Creation of Open Universes from de Sitter Space}. 1982, Nature, 295,
+  304
+
+\bibitem[{Grin {et~al.}(2011)Grin, Dore, \& Kamionkowski}]{Grin:2011tf}
+Grin, D., Dore, O., \& Kamionkowski, M., {Compensated Isocurvature
+  Perturbations and the Cosmic Microwave Background}. 2011, Phys. Rev., D84,
+  123003, \eprint{1107.5047}
+
+\bibitem[{{Grin} {et~al.}(2014){Grin}, {Hanson}, {Holder}, {Dor{\'e}}, \&
+  {Kamionkowski}}]{Grin:2014}
+{Grin}, D., {Hanson}, D., {Holder}, G.~P., {Dor{\'e}}, O., \& {Kamionkowski},
+  M., {Baryons do trace dark matter 380,000 years after the big bang: Search
+  for compensated isocurvature perturbations with WMAP 9-year data}. 2014,
+  \prd, 89, 023006, \eprint{1306.4319}
+
+\bibitem[{{Grin} \& {Hirata}(2010)}]{Grin2009}
+{Grin}, D. \& {Hirata}, C.~M., {Cosmological hydrogen recombination: The effect
+  of extremely high-n states}. 2010, Phys. Rev., D81, 083005,
+  \eprint{0911.1359}
+
+\bibitem[{{Gunn} \& {Peterson}(1965)}]{Gunn:1965}
+{Gunn}, J.~E. \& {Peterson}, B.~A., {On the Density of Neutral Hydrogen in
+  Intergalactic Space.} 1965, \apj, 142, 1633
+
+\bibitem[{Hamann \& Hasenkamp(2013)}]{Hamann:2013iba}
+Hamann, J. \& Hasenkamp, J., {A new life for sterile neutrinos: resolving
+  inconsistencies using hot dark matter}. 2013, JCAP, 1310, 044,
+  \eprint{1308.3255}
+
+\bibitem[{{Hamann} \& {Wong}(2008)}]{Hamann2008}
+{Hamann}, J. \& {Wong}, Y.~Y.~Y., {The effects of cosmic microwave background
+  (CMB) temperature uncertainties on cosmological parameter estimation}. 2008,
+  JCAP, 3, 25, \eprint{0709.4423}
+
+\bibitem[{{Hamimeche} \& {Lewis}(2008)}]{Hamimeche:2008}
+{Hamimeche}, S. \& {Lewis}, A., {Likelihood analysis of CMB temperature and
+  polarization power spectra}. 2008, \prd, 77, 103013, \eprint{0801.0554}
+
+\bibitem[{Hannestad(2005)}]{Hannestad:2004qu}
+Hannestad, S., {Structure formation with strongly interacting neutrinos -
+  Implications for the cosmological neutrino mass bound}. 2005, JCAP, 0502,
+  011, \eprint{astro-ph/0411475}
+
+\bibitem[{{Hanson} {et~al.}(2013){Hanson}, {Hoover}, {Crites}, {Ade}, {Aird},
+  {Austermann}, {Beall}, {Bender}, {Benson}, {Bleem}, {Bock}, {Carlstrom},
+  {Chang}, {Chiang}, {Cho}, {Conley}, {Crawford}, {de Haan}, {Dobbs},
+  {Everett}, {Gallicchio}, {Gao}, {George}, {Halverson}, {Harrington},
+  {Henning}, {Hilton}, {Holder}, {Holzapfel}, {Hrubes}, {Huang}, {Hubmayr},
+  {Irwin}, {Keisler}, {Knox}, {Lee}, {Leitch}, {Li}, {Liang}, {Luong-Van},
+  {Marsden}, {McMahon}, {Mehl}, {Meyer}, {Mocanu}, {Montroy}, {Natoli},
+  {Nibarger}, {Novosad}, {Padin}, {Pryke}, {Reichardt}, {Ruhl}, {Saliwanchik},
+  {Sayre}, {Schaffer}, {Schulz}, {Smecher}, {Stark}, {Story}, {Tucker},
+  {Vanderlinde}, {Vieira}, {Viero}, {Wang}, {Yefremenko}, {Zahn}, \&
+  {Zemcov}}]{2013PhRvL.111n1301H}
+{Hanson}, D., {Hoover}, S., {Crites}, A., {et~al.}, {Detection of B-Mode
+  Polarization in the Cosmic Microwave Background with Data from the South Pole
+  Telescope}. 2013, Phys. Rev. Lett., 111, 141301, \eprint{1307.5830}
+
+\bibitem[{Harnois-Déraps {et~al.}(2015)Harnois-Déraps, van Waerbeke, Viola,
+  \& Heymans}]{Harnois-Deraps:2014sva}
+Harnois-Déraps, J., van Waerbeke, L., Viola, M., \& Heymans, C., {Baryons,
+  Neutrinos, Feedback and Weak Gravitational Lensing}. 2015, MNRAS, 450, 1212,
+  \eprint{1407.4301}
+
+\bibitem[{Hasenkamp(2014)}]{Hasenkamp:2014hma}
+Hasenkamp, J., {Daughters mimic sterile neutrinos (almost!) perfectly}. 2014,
+  JCAP, 1409, 048, \eprint{1405.6736}
+
+\bibitem[{Hasenkamp \& Kersten(2013)}]{Hasenkamp:2012ii}
+Hasenkamp, J. \& Kersten, J., {Dark radiation from particle decay: cosmological
+  constraints and opportunities}. 2013, JCAP, 1308, 024, \eprint{1212.4160}
+
+\bibitem[{{Hasselfield} {et~al.}(2013){Hasselfield}, {Moodley}, {Bond}, {Das},
+  {Devlin}, {Dunkley}, {D{\"u}nner}, {Fowler}, {Gallardo}, {Gralla}, {Hajian},
+  {Halpern}, {Hincks}, {Marriage}, {Marsden}, {Niemack}, {Nolta}, {Page},
+  {Partridge}, {Schmitt}, {Sehgal}, {Sievers}, {Staggs}, {Swetz}, {Switzer}, \&
+  {Wollack}}]{Hasselfield:2013}
+{Hasselfield}, M., {Moodley}, K., {Bond}, J.~R., {et~al.}, {The Atacama
+  Cosmology Telescope: Beam Measurements and the Microwave Brightness
+  Temperatures of Uranus and Saturn}. 2013, \apjs, 209, 17, \eprint{1303.4714}
+
+\bibitem[{Hasselfield {et~al.}(2013)}]{Hasselfield:2013wf}
+Hasselfield, M. {et~al.}, {The Atacama Cosmology Telescope: Sunyaev-Zel'dovich
+  selected galaxyclusters at 148 GHz from three seasons of data}. 2013, JCAP,
+  1307, 008, \eprint{1301.0816}
+
+\bibitem[{{Heymans} {et~al.}(2013){Heymans}, {Grocutt}, {Heavens}, {Kilbinger},
+  {Kitching}, {Simpson}, {Benjamin}, {Erben}, {Hildebrandt}, {Hoekstra},
+  {Mellier}, {Miller}, {Van Waerbeke}, {Brown}, {Coupon}, {Fu},
+  {Harnois-D{\'e}raps}, {Hudson}, {Kuijken}, {Rowe}, {Schrabback}, {Semboloni},
+  {Vafaei}, \& {Velander}}]{Heymans:2013}
+{Heymans}, C., {Grocutt}, E., {Heavens}, A., {et~al.}, {CFHTLenS tomographic
+  weak lensing cosmological parameter constraints: Mitigating the impact of
+  intrinsic galaxy alignments}. 2013, \mnras, 432, 2433, \eprint{1303.1808}
+
+\bibitem[{{Heymans} {et~al.}(2012){Heymans}, {Van Waerbeke}, {Miller}, {Erben},
+  {Hildebrandt}, {Hoekstra}, {Kitching}, {Mellier}, {Simon}, {Bonnett},
+  {Coupon}, {Fu}, {Harnois D{\'e}raps}, {Hudson}, {Kilbinger}, {Kuijken},
+  {Rowe}, {Schrabback}, {Semboloni}, {van Uitert}, {Vafaei}, \&
+  {Velander}}]{Heymans:2012}
+{Heymans}, C., {Van Waerbeke}, L., {Miller}, L., {et~al.}, {CFHTLenS: the
+  Canada-France-Hawaii Telescope Lensing Survey}. 2012, \mnras, 427, 146,
+  \eprint{1210.0032}
+
+\bibitem[{Hindmarsh \& Kibble(1995)}]{Hindmarsh:1994re}
+Hindmarsh, M. \& Kibble, T., {Cosmic strings}. 1995, Rept. Prog. Phys., 58,
+  477, \eprint{hep-ph/9411342}
+
+\bibitem[{{Hinshaw} {et~al.}(2013){Hinshaw}, {Larson}, {Komatsu}, {Spergel},
+  {Bennett}, {Dunkley}, {Nolta}, {Halpern}, {Hill}, {Odegard}, {Page}, {Smith},
+  {Weiland}, {Gold}, {Jarosik}, {Kogut}, {Limon}, {Meyer}, {Tucker}, {Wollack},
+  \& {Wright}}]{hinshaw2012}
+{Hinshaw}, G., {Larson}, D., {Komatsu}, E., {et~al.}, {Nine-year Wilkinson
+  Microwave Anisotropy Probe (WMAP) Observations: Cosmological Parameter
+  Results}. 2013, \apjs, 208, 19, \eprint{1212.5226}
+
+\bibitem[{{Hinshaw} {et~al.}(2003){Hinshaw}, {Spergel}, {Verde}, {Hill},
+  {Meyer}, {Barnes}, {Bennett}, {Halpern}, {Jarosik}, {Kogut}, {Komatsu},
+  {Limon}, {Page}, {Tucker}, {Weiland}, {Wollack}, \& {Wright}}]{hinshaw2003b}
+{Hinshaw}, G., {Spergel}, D.~N., {Verde}, L., {et~al.}, {First-Year Wilkinson
+  Microwave Anisotropy Probe (WMAP) Observations: The Angular Power Spectrum}.
+  2003, \apjs, 148, 135, \eprint{astro-ph/0302217}
+
+\bibitem[{{Hirata}(2008)}]{Hirata2008}
+{Hirata}, C.~M., {Two-photon transitions in primordial hydrogen recombination}.
+  2008, Phys. Rev., D78, 023001, \eprint{0803.0808}
+
+\bibitem[{{Hoekstra} {et~al.}(2015){Hoekstra}, {Herbonnet}, {Muzzin}, {Babul},
+  {Mahdavi}, {Viola}, \& {Cacciato}}]{Hoekstra:2015}
+{Hoekstra}, H., {Herbonnet}, R., {Muzzin}, A., {et~al.}, {The Canadian Cluster
+  Comparison Project: detailed study of systematics and updated weak lensing
+  masses}. 2015, \mnras, 449, 685, \eprint{1502.01883}
+
+\bibitem[{{Hou} {et~al.}(2014){Hou}, {Reichardt}, {Story}, {Follin}, {Keisler},
+  {Aird}, {Benson}, {Bleem}, {Carlstrom}, {Chang}, {Cho}, {Crawford}, {Crites},
+  {de Haan}, {de Putter}, {Dobbs}, {Dodelson}, {Dudley}, {George}, {Halverson},
+  {Holder}, {Holzapfel}, {Hoover}, {Hrubes}, {Joy}, {Knox}, {Lee}, {Leitch},
+  {Lueker}, {Luong-Van}, {McMahon}, {Mehl}, {Meyer}, {Millea}, {Mohr},
+  {Montroy}, {Padin}, {Plagge}, {Pryke}, {Ruhl}, {Sayre}, {Schaffer}, {Shaw},
+  {Shirokoff}, {Spieler}, {Staniszewski}, {Stark}, {van Engelen},
+  {Vanderlinde}, {Vieira}, {Williamson}, \& {Zahn}}]{Hou:2014}
+{Hou}, Z., {Reichardt}, C.~L., {Story}, K.~T., {et~al.}, {Constraints on
+  Cosmology from the Cosmic Microwave Background Power Spectrum of the 2500
+  deg$^{2}$ SPT-SZ Survey}. 2014, \apj, 782, 74, \eprint{1212.6267}
+
+\bibitem[{Howlett {et~al.}(2015)Howlett, Ross, Samushia, Percival, \&
+  Manera}]{Howlett:14}
+Howlett, C., Ross, A., Samushia, L., Percival, W., \& Manera, M., {The
+  clustering of the SDSS main galaxy sample – II. Mock galaxy catalogues and
+  a measurement of the growth of structure from redshift space distortions at
+  $z = 0.15$}. 2015, MNRAS, 449, 848, \eprint{1409.3238}
+
+\bibitem[{Hu(1998)}]{Hu:1998kj}
+Hu, W., {Structure formation with generalized dark matter}. 1998, \apj, 506,
+  485, \eprint{astro-ph/9801234}
+
+\bibitem[{{Hu} {et~al.}(1999){Hu}, {Eisenstein}, {Tegmark}, \&
+  {White}}]{Hu:1998tk}
+{Hu}, W., {Eisenstein}, D.~J., {Tegmark}, M., \& {White}, M., {Observationally
+  determining the properties of dark matter}. 1999, \prd, 59, 023512,
+  \eprint{astro-ph/9806362}
+
+\bibitem[{Hu \& Sawicki(2007)}]{Hu:2007pj}
+Hu, W. \& Sawicki, I., {A Parameterized Post-Friedmann Framework for Modified
+  Gravity}. 2007, Phys. Rev., D76, 104043, \eprint{0708.1190}
+
+\bibitem[{{Hu} {et~al.}(1995){Hu}, {Scott}, {Sugiyama}, \& {White}}]{Hu1995}
+{Hu}, W., {Scott}, D., {Sugiyama}, N., \& {White}, M., {Effect of physical
+  assumptions on the calculation of microwave background anisotropies}. 1995,
+  Phys.\ Rev., D52, 5498, \eprint{arXiv:astro-ph/9505043}
+
+\bibitem[{{Hu} \& {Silk}(1993)}]{Hu1993}
+{Hu}, W. \& {Silk}, J., {Thermalization and spectral distortions of the cosmic
+  background radiation}. 1993, Phys. Rev., D48, 485
+
+\bibitem[{Humphreys {et~al.}(2013)Humphreys, Reid, Moran, Greenhill, \&
+  Argon}]{Humphreys:13}
+Humphreys, E. M.~L., Reid, M.~J., Moran, J.~M., Greenhill, L.~J., \& Argon,
+  A.~L., {Toward a New Geometric Distance to the Active Galaxy NGC 4258. III.
+  Final Results and the Hubble Constant}. 2013, ApJ, 775, 13,
+  \eprint{1307.6031}
+
+\bibitem[{{Hurier} {et~al.}(2014){Hurier}, {Aghanim}, {Douspis}, \&
+  {Pointecouteau}}]{Hurier2014}
+{Hurier}, G., {Aghanim}, N., {Douspis}, M., \& {Pointecouteau}, E.,
+  {Measurement of the T$_{CMB}$ evolution from the Sunyaev-Zel'dovich effect}.
+  2014, \aap, 561, A143, \eprint{1311.4694}
+
+\bibitem[{Hutsi {et~al.}(2011)Hutsi, Chluba, Hektor, \& Raidal}]{Hutsi:2011vx}
+Hutsi, G., Chluba, J., Hektor, A., \& Raidal, M., {WMAP7 and future CMB
+  constraints on annihilating dark matter: implications on GeV-scale WIMPs}.
+  2011, A\&A, 535, A26, \eprint{1103.2766}
+
+\bibitem[{{H{\"u}tsi} {et~al.}(2009){H{\"u}tsi}, {Hektor}, \&
+  {Raidal}}]{Huetsi2009}
+{H{\"u}tsi}, G., {Hektor}, A., \& {Raidal}, M., {Constraints on leptonically
+  annihilating dark matter from reionization and extragalactic gamma
+  background}. 2009, \aap, 505, 999, \eprint{0906.4550}
+
+\bibitem[{Iocco {et~al.}(2009)Iocco, Mangano, Miele, Pisanti, \&
+  Serpico}]{Iocco:2008va}
+Iocco, F., Mangano, G., Miele, G., Pisanti, O., \& Serpico, P.~D., {Primordial
+  Nucleosynthesis: from precision cosmology to fundamental physics}. 2009,
+  Phys. Rep., 472, 1, \eprint{0809.0631}
+
+\bibitem[{Izotov {et~al.}(2014)Izotov, Thuan, \& Guseva}]{Izotov:2014fga}
+Izotov, Y., Thuan, T., \& Guseva, N., {A new determination of the primordial He
+  abundance using the HeI 10830A emission line: cosmological implications}.
+  2014, \mnras, 445, 778, \eprint{1408.6953}
+
+\bibitem[{Jeannerot {et~al.}(2003)Jeannerot, Rocher, \&
+  Sakellariadou}]{Jeannerot:2003qv}
+Jeannerot, R., Rocher, J., \& Sakellariadou, M., {How generic is cosmic string
+  formation in SUSY GUTs}. 2003, Phys. Rev., D68, 103514,
+  \eprint{hep-ph/0308134}
+
+\bibitem[{{Jeong} {et~al.}(2014){Jeong}, {Pradler}, {Chluba}, \&
+  {Kamionkowski}}]{Jeong2014}
+{Jeong}, D., {Pradler}, J., {Chluba}, J., \& {Kamionkowski}, M., {Silk Damping
+  at a Redshift of a Billion: New Limit on Small-Scale Adiabatic
+  Perturbations}. 2014, Phys. Rev. Lett., 113, 061301, \eprint{1403.3697}
+
+\bibitem[{{Kallosh} \& {Linde}(2013)}]{Kallosh:2013}
+{Kallosh}, R. \& {Linde}, A., {Superconformal generalizations of the
+  Starobinsky model}. 2013, JCAP, 6, 28, \eprint{1306.3214}
+
+\bibitem[{{Kaplinghat} {et~al.}(1999){Kaplinghat}, {Scherrer}, \&
+  {Turner}}]{Kaplinghat1999}
+{Kaplinghat}, M., {Scherrer}, R.~J., \& {Turner}, M.~S., {Constraining
+  variations in the fine-structure constant with the cosmic microwave
+  background}. 1999, Phys. Rev., D60, 023516, \eprint{arXiv:astro-ph/9810133}
+
+\bibitem[{{Karshenboim} \& {Ivanov}(2008)}]{Karshenboim2008}
+{Karshenboim}, S.~G. \& {Ivanov}, V.~G., {Nonresonant effects and hydrogen
+  transition line shape in cosmological recombination problems}. 2008, Astron.
+  Lett., 34, 289
+
+\bibitem[{{Kazin} {et~al.}(2014){Kazin}, {Koda}, {Blake}, {Padmanabhan},
+  {Brough}, {Colless}, {Contreras}, {Couch}, {Croom}, {Croton}, {Davis},
+  {Drinkwater}, {Forster}, {Gilbank}, {Gladders}, {Glazebrook}, {Jelliffe},
+  {Jurek}, {Li}, {Madore}, {Martin}, {Pimbblet}, {Poole}, {Pracy}, {Sharp},
+  {Wisnioski}, {Woods}, {Wyder}, \& {Yee}}]{Kazin:14}
+{Kazin}, E.~A., {Koda}, J., {Blake}, C., {et~al.}, {The WiggleZ Dark Energy
+  Survey: improved distance measurements to z = 1 with reconstruction of the
+  baryonic acoustic feature}. 2014, \mnras, 441, 3524, \eprint{1401.0358}
+
+\bibitem[{{Kesden} {et~al.}(2003){Kesden}, {Cooray}, \&
+  {Kamionkowski}}]{2003PhRvD..67l3507K}
+{Kesden}, M., {Cooray}, A., \& {Kamionkowski}, M., {Lensing reconstruction with
+  CMB temperature and polarization}. 2003, Phys. Rev., D67, 123507,
+  \eprint{arXiv:astro-ph/0302536}
+
+\bibitem[{{Kholupenko} \& {Ivanchik}(2006)}]{Kholu2006}
+{Kholupenko}, E.~E. \& {Ivanchik}, A.~V., {Two-photon 2s $\rightarrow$ 1s
+  transitions during hydrogen recombination in the universe}. 2006, Astron.
+  Lett., 32, 795, \eprint{astro-ph/0611395}
+
+\bibitem[{{Kholupenko} {et~al.}(2007){Kholupenko}, {Ivanchik}, \&
+  {Varshalovich}}]{Kholupenko2007}
+{Kholupenko}, E.~E., {Ivanchik}, A.~V., \& {Varshalovich}, D.~A., {Rapid
+  HeII{$\to$}HeI recombination and radiation arising from this process}. 2007,
+  \mnras, 378, L39, \eprint{arXiv:astro-ph/0703438}
+
+\bibitem[{Kibble(1976)}]{Kibble:1976sj}
+Kibble, T., {Topology of Cosmic Domains and Strings}. 1976, J. Phys., A9, 1387
+
+\bibitem[{{Kilbinger} {et~al.}(2013){Kilbinger}, {Fu}, {Heymans}, {Simpson},
+  {Benjamin}, {Erben}, {Harnois-D{\'e}raps}, {Hoekstra}, {Hildebrandt},
+  {Kitching}, {Mellier}, {Miller}, {Van Waerbeke}, {Benabed}, {Bonnett},
+  {Coupon}, {Hudson}, {Kuijken}, {Rowe}, {Schrabback}, {Semboloni}, {Vafaei},
+  \& {Velander}}]{Kilbinger:2013}
+{Kilbinger}, M., {Fu}, L., {Heymans}, C., {et~al.}, {CFHTLenS: combined probe
+  cosmological model comparison using 2D weak gravitational lensing}. 2013,
+  \mnras, 430, 2200, \eprint{1212.3338}
+
+\bibitem[{{Kitching} {et~al.}(2014){Kitching}, {Heavens}, {Alsing}, {Erben},
+  {Heymans}, {Hildebrandt}, {Hoekstra}, {Jaffe}, {Kiessling}, {Mellier},
+  {Miller}, {van Waerbeke}, {Benjamin}, {Coupon}, {Fu}, {Hudson}, {Kilbinger},
+  {Kuijken}, {Rowe}, {Schrabback}, {Semboloni}, \& {Velander}}]{Kitching:2014}
+{Kitching}, T.~D., {Heavens}, A.~F., {Alsing}, J., {et~al.}, {3D cosmic shear:
+  cosmology from CFHTLenS}. 2014, \mnras, 442, 1326, \eprint{1401.6842}
+
+\bibitem[{{Komatsu} {et~al.}(2009){Komatsu}, {Dunkley}, {Nolta}, {Bennett},
+  {Gold}, {Hinshaw}, {Jarosik}, {Larson}, {Limon}, {Page}, {Spergel},
+  {Halpern}, {Hill}, {Kogut}, {Meyer}, {Tucker}, {Weiland}, {Wollack}, \&
+  {Wright}}]{komatsu2009}
+{Komatsu}, E., {Dunkley}, J., {Nolta}, M.~R., {et~al.}, {Five-Year Wilkinson
+  Microwave Anisotropy Probe (WMAP) Observations: Cosmological Interpretation}.
+  2009, \apjs, 180, 330, \eprint{0803.0547}
+
+\bibitem[{Kopp {et~al.}(2013)Kopp, Machado, Maltoni, \& Schwetz}]{Kopp:2013vaa}
+Kopp, J., Machado, P. A.~N., Maltoni, M., \& Schwetz, T., {Sterile Neutrino
+  Oscillations: The Global Picture}. 2013, JHEP, 1305, 050, \eprint{1303.3011}
+
+\bibitem[{{Kosowsky} \& {Turner}(1995)}]{Kosowsky:1995}
+{Kosowsky}, A. \& {Turner}, M.~S., {CBR anisotropy and the running of the
+  scalar spectral index}. 1995, Phys, Rev., D52, 1739,
+  \eprint{astro-ph/9504071}
+
+\bibitem[{{Kr{\"u}ger} \& {Oed}(1975)}]{Krueger1975}
+{Kr{\"u}ger}, H. \& {Oed}, A., {Measurement of the decay-probability of
+  metastable hydrogen by two-photon emission}. 1975, Phys. Lett. A, 54, 251
+
+\bibitem[{{Labzowsky} {et~al.}(2005){Labzowsky}, {Shonin}, \&
+  {Solovyev}}]{Labzowsky2005}
+{Labzowsky}, L.~N., {Shonin}, A.~V., \& {Solovyev}, D.~A., {QED calculation of
+  E1M1 and E1E2 transition probabilities in one-electron ions with arbitrary
+  nuclear charge}. 2005, Journal of Physics B Atomic Molecular Physics, 38,
+  265, \eprint{arXiv:physics/0404131}
+
+\bibitem[{Lacroix {et~al.}(2014)Lacroix, Boehm, \& Silk}]{Lacroix:2014eea}
+Lacroix, T., Boehm, C., \& Silk, J., {Fitting the Fermi-LAT GeV excess: On the
+  importance of including the propagation of electrons from dark matter}. 2014,
+  Phys. Rev., D90, 043508, \eprint{1403.1987}
+
+\bibitem[{Larson {et~al.}(2011)}]{Larson:2010gs}
+Larson, D. {et~al.}, {Seven-Year Wilkinson Microwave Anisotropy Probe (WMAP)
+  Observations: Power Spectra and WMAP-Derived Parameters}. 2011, ApJS, 192,
+  16, \eprint{1001.4635}
+
+\bibitem[{Leistedt {et~al.}(2014)Leistedt, Peiris, \& Verde}]{Leistedt:2014sia}
+Leistedt, B., Peiris, H.~V., \& Verde, L., {No new cosmological concordance
+  with massive sterile neutrinos}. 2014, Phys. Rev. Lett., 113, 041301,
+  \eprint{1404.5950}
+
+\bibitem[{{Leistedt} {et~al.}(2014){Leistedt}, {Peiris}, \&
+  {Verde}}]{Leistedt:2014}
+{Leistedt}, B., {Peiris}, H.~V., \& {Verde}, L., {No New Cosmological
+  Concordance with Massive Sterile Neutrinos}. 2014, Phys. Rev. Lett., 113,
+  041301, \eprint{1404.5950}
+
+\bibitem[{{Lesgourgues}(2011)}]{Lesgourgues:2011re}
+{Lesgourgues}, J., {The Cosmic Linear Anisotropy Solving System (CLASS) I:
+  Overview}. 2011, ArXiv e-prints, \eprint{1104.2932}
+
+\bibitem[{{Lesgourgues} \& {Pastor}(2006)}]{Lesgourgues:2006}
+{Lesgourgues}, J. \& {Pastor}, S., {Massive neutrinos and cosmology}. 2006,
+  Phys. Rep., 429, 307, \eprint{astro-ph/0603494}
+
+\bibitem[{Lewis(2013)}]{Lewis:2013hha}
+Lewis, A., {Efficient sampling of fast and slow cosmological parameters}. 2013,
+  Phys. Rev., D87, 103529, \eprint{1304.4473}
+
+\bibitem[{Lewis \& Bridle(2002)}]{Lewis:2002ah}
+Lewis, A. \& Bridle, S., {Cosmological parameters from CMB and other data: a
+  Monte- Carlo approach}. 2002, Phys. Rev., D66, 103511,
+  \eprint{astro-ph/0205436}
+
+\bibitem[{{Lewis} \& {Challinor}(2006)}]{2006PhR...429....1L}
+{Lewis}, A. \& {Challinor}, A., {Weak gravitational lensing of the CMB}. 2006,
+  \physrep, 429, 1, \eprint{arXiv:astro-ph/0601594}
+
+\bibitem[{Lewis {et~al.}(2000)Lewis, Challinor, \& Lasenby}]{Lewis:1999bs}
+Lewis, A., Challinor, A., \& Lasenby, A., Efficient Computation of {CMB}
+  anisotropies in closed {FRW} models. 2000, ApJ, 538, 473,
+  \eprint{astro-ph/9911177}
+
+\bibitem[{{Linde}(1999)}]{Linde:1999}
+{Linde}, A., {Toy model for open inflation}. 1999, Phys. Rev., D59, 023503,
+  \eprint{hep-ph/9807493}
+
+\bibitem[{{Linde}(2003)}]{Linde:2003}
+{Linde}, A., {Can we have inflation with {$\Omega>1?$}}. 2003, JCAP, 5, 2,
+  \eprint{astro-ph/0303245}
+
+\bibitem[{Long {et~al.}(2014)Long, Lunardini, \& Sabancilar}]{Long:2014zva}
+Long, A.~J., Lunardini, C., \& Sabancilar, E., {Detecting non-relativistic
+  cosmic neutrinos by capture on tritium: phenomenology and physics potential}.
+  2014, JCAP, 1408, 038, \eprint{1405.7654}
+
+\bibitem[{{Lueker} {et~al.}(2010){Lueker}, {Reichardt}, {Schaffer}, {Zahn},
+  {Ade}, {Aird}, {Benson}, {Bleem}, {Carlstrom}, {Chang}, {Cho}, {Crawford},
+  {Crites}, {de Haan}, {Dobbs}, {George}, {Hall}, {Halverson}, {Holder},
+  {Holzapfel}, {Hrubes}, {Joy}, {Keisler}, {Knox}, {Lee}, {Leitch}, {McMahon},
+  {Mehl}, {Meyer}, {Mohr}, {Montroy}, {Padin}, {Plagge}, {Pryke}, {Ruhl},
+  {Shaw}, {Shirokoff}, {Spieler}, {Stalder}, {Staniszewski}, {Stark},
+  {Vanderlinde}, {Vieira}, \& {Williamson}}]{Lueker:2010}
+{Lueker}, M., {Reichardt}, C.~L., {Schaffer}, K.~K., {et~al.}, {Measurements of
+  Secondary Cosmic Microwave Background Anisotropies with the South Pole
+  Telescope}. 2010, \apj, 719, 1045, \eprint{0912.4317}
+
+\bibitem[{{Luzzi} {et~al.}(2009){Luzzi}, {Shimon}, {Lamagna}, {Rephaeli}, {De
+  Petris}, {Conte}, {De Gregori}, \& {Battistelli}}]{Luzzi2009}
+{Luzzi}, G., {Shimon}, M., {Lamagna}, L., {et~al.}, {Redshift Dependence of the
+  Cosmic Microwave Background Temperature from Sunyaev-Zeldovich Measurements}.
+  2009, \apj, 705, 1122, \eprint{0909.2815}
+
+\bibitem[{Lyth \& Wands(2002)}]{Lyth01}
+Lyth, D. \& Wands, D., Generating the curvature perturbation without an
+  inflaton. 2002, Phys. Lett., B524, 5, \eprint{hep-ph/0110002}
+
+\bibitem[{Lyth(1997)}]{Lyth:1996im}
+Lyth, D.~H., {What would we learn by detecting a gravitational wave signal in
+  the cosmic microwave background anisotropy?} 1997, Phys. Rev. Lett., 78,
+  1861, \eprint{hep-ph/9606387}
+
+\bibitem[{{Ma} {et~al.}(1997){Ma}, {Karwowski}, {Brune}, {Ayer}, {Black},
+  {Blackmon}, {Ludwig}, {Viviani}, {Kievsky}, \& {Schiavilla}}]{Ma:1997}
+{Ma}, L., {Karwowski}, H.~J., {Brune}, C.~R., {et~al.}, {Measurements of
+  {$^{1}$}H(d,{$\gamma$}){$^{3}$}He and {$^{2}$}H(p,{$\gamma$}){$^{3}$}He at
+  very low energies}. 1997, Phys. Rev., C55, 588
+
+\bibitem[{MacCrann {et~al.}(2015)MacCrann, Zuntz, Bridle, Jain, \&
+  Becker}]{MacCrann:2014wfa}
+MacCrann, N., Zuntz, J., Bridle, S., Jain, B., \& Becker, M.~R., {Cosmic
+  Discordance: Are Planck CMB and CFHTLenS weak lensing measurements out of
+  tune?} 2015, MNRAS, 451, 2877, \eprint{1408.4742}
+
+\bibitem[{Madhavacheril {et~al.}(2014)Madhavacheril, Sehgal, \&
+  Slatyer}]{Madhavacheril:2013cna}
+Madhavacheril, M.~S., Sehgal, N., \& Slatyer, T.~R., {Current Dark Matter
+  Annihilation Constraints from CMB and Low-Redshift Data}. 2014, Phys. Rev.,
+  D89, 103508, \eprint{1310.3815}
+
+\bibitem[{{Mandelbaum} {et~al.}(2013){Mandelbaum}, {Slosar}, {Baldauf},
+  {Seljak}, {Hirata}, {Nakajima}, {Reyes}, \& {Smith}}]{Mandelbaum:13}
+{Mandelbaum}, R., {Slosar}, A., {Baldauf}, T., {et~al.}, {Cosmological
+  parameter constraints from galaxy-galaxy lensing and galaxy clustering with
+  the SDSS DR7}. 2013, \mnras, 432, 1544, \eprint{1207.1120}
+
+\bibitem[{Mangano {et~al.}(2002)Mangano, Miele, Pastor, \&
+  Peloso}]{Mangano:2001iu}
+Mangano, G., Miele, G., Pastor, S., \& Peloso, M., {A Precision calculation of
+  the effective number of cosmological neutrinos}. 2002, Phys. Lett., B534, 8,
+  \eprint{astro-ph/0111408}
+
+\bibitem[{{Mantz} {et~al.}(2015){Mantz}, {von der Linden}, {Allen},
+  {Applegate}, {Kelly}, {Morris}, {Rapetti}, {Schmidt}, {Adhikari}, {Allen},
+  {Burchat}, {Burke}, {Cataneo}, {Donovan}, {Ebeling}, {Shandera}, \&
+  {Wright}}]{Mantz:2015}
+{Mantz}, A.~B., {von der Linden}, A., {Allen}, S.~W., {et~al.}, {Weighing the
+  giants - IV. Cosmology and neutrino mass}. 2015, \mnras, 446, 2205,
+  \eprint{1407.4516}
+
+\bibitem[{Marcucci {et~al.}(2005)Marcucci, Viviani, Schiavilla, Kievsky, \&
+  Rosati}]{Marcucci:2005zc}
+Marcucci, L., Viviani, M., Schiavilla, R., Kievsky, A., \& Rosati, S.,
+  {Electromagnetic structure of A=2 and 3 nuclei and the nuclear current
+  operator}. 2005, Phys. Rev., C72, 014001, \eprint{nucl-th/0502048}
+
+\bibitem[{Martins \& Shellard(2002)}]{Martins:2000cs}
+Martins, C. \& Shellard, E., {Extending the velocity dependent one scale string
+  evolution model}. 2002, Phys. Rev., D65, 043514, \eprint{hep-ph/0003298}
+
+\bibitem[{{McCarthy} {et~al.}(2014){McCarthy}, {Le Brun}, {Schaye}, \&
+  {Holder}}]{McCarthy:2014}
+{McCarthy}, I.~G., {Le Brun}, A.~M.~C., {Schaye}, J., \& {Holder}, G.~P., {The
+  thermal Sunyaev-Zel'dovich effect power spectrum in light of Planck}. 2014,
+  \mnras, 440, 3645, \eprint{1312.5341}
+
+\bibitem[{Meerburg(2014)}]{Meerburg:2014bpa}
+Meerburg, P.~D., {Alleviating the tension at low $\ell$ through axion
+  monodromy}. 2014, Phys. Rev., D90, 063529, \eprint{1406.3243}
+
+\bibitem[{Minor \& Kaplinghat(2015)}]{Minor:2014}
+Minor, Q.~E. \& Kaplinghat, M., {Inflation that runs naturally: Gravitational
+  waves and suppression of power at large and small scales}. 2015, Phys. Rev.,
+  D91, 063504, \eprint{1411.0689}
+
+\bibitem[{Mirizzi {et~al.}(2013)Mirizzi, Mangano, Saviano, Borriello, Giunti,
+  {et~al.}}]{Mirizzi:2013kva}
+Mirizzi, A., Mangano, G., Saviano, N., {et~al.}, {The strongest bounds on
+  active-sterile neutrino mixing after Planck data}. 2013, Phys. Lett., B726,
+  8, \eprint{1303.5368}
+
+\bibitem[{{Mollerach}(1990)}]{Mollerach90}
+{Mollerach}, S., {Isocurvature baryon perturbations and inflation}. 1990, Phys.
+  Rev., D42, 313
+
+\bibitem[{{Mortonson} \& {Hu}(2008)}]{Mortonson2008}
+{Mortonson}, M.~J. \& {Hu}, W., {Model-Independent Constraints on Reionization
+  from Large-Scale Cosmic Microwave Background Polarization}. 2008, \apj, 672,
+  737, \eprint{0705.1132}
+
+\bibitem[{{Mortonson} \& {Seljak}(2014)}]{Mortonson:2014}
+{Mortonson}, M.~J. \& {Seljak}, U., {A joint analysis of Planck and BICEP2 B
+  modes including dust polarization uncertainty}. 2014, JCAP, 10, 35,
+  \eprint{1405.5857}
+
+\bibitem[{{Mosher} {et~al.}(2014){Mosher}, {Guy}, {Kessler}, {Astier},
+  {Marriner}, {Betoule}, {Sako}, {El-Hage}, {Biswas}, {Pain}, {Kuhlmann},
+  {Regnault}, {Frieman}, \& {Schneider}}]{Mosher:2014}
+{Mosher}, J., {Guy}, J., {Kessler}, R., {et~al.}, {Cosmological Parameter
+  Uncertainties from SALT-II Type Ia Supernova Light Curve Models}. 2014, \apj,
+  793, 16, \eprint{1401.4065}
+
+\bibitem[{{Mukhanov} {et~al.}(2012){Mukhanov}, {Kim}, {Naselsky}, {Trombetti},
+  \& {Burigana}}]{Mukhanov2012}
+{Mukhanov}, V., {Kim}, J., {Naselsky}, P., {Trombetti}, T., \& {Burigana}, C.,
+  {How accurately can we measure the hydrogen 2S$\rightarrow$1S transition rate
+  from the cosmological data?} 2012, JCAP, 6, 40, \eprint{1205.5949}
+
+\bibitem[{{Nakamura} \& {Petcov}(2014)}]{NakamuraPetcov2014}
+{Nakamura}, K. \& {Petcov}, S.~T. 2014, in {Chin. Phys. C}, Vol.~38, {Review of
+  Particle Physics}, ed. K.~{Olive}, 090001
+
+\bibitem[{{Nollett} \& {Holder}(2011)}]{Nollett:2011aa}
+{Nollett}, K.~M. \& {Holder}, G.~P., {An analysis of constraints on
+  relativistic species from primordial nucleosynthesis and the cosmic microwave
+  background}. 2011, ArXiv e-prints, \eprint{1112.2683}
+
+\bibitem[{{O'Connell} {et~al.}(1975){O'Connell}, {Kollath}, {Duncan}, \&
+  {Kleinpoppen}}]{Connell1975}
+{O'Connell}, D., {Kollath}, K.~J., {Duncan}, A.~J., \& {Kleinpoppen}, H., {The
+  two-photon decay of metastable atomic hydrogen}. 1975, J. Phy. B Atom. Molec.
+  Phys., 8, L214
+
+\bibitem[{{Oka} {et~al.}(2014){Oka}, {Saito}, {Nishimichi}, {Taruya}, \&
+  {Yamamoto}}]{Oka:14}
+{Oka}, A., {Saito}, S., {Nishimichi}, T., {Taruya}, A., \& {Yamamoto}, K.,
+  {Simultaneous constraints on the growth of structure and cosmic expansion
+  from the multipole power spectra of the SDSS DR7 LRG sample}. 2014, \mnras,
+  439, 2515, \eprint{1310.2820}
+
+\bibitem[{{Okumura} {et~al.}(2012){Okumura}, {Seljak}, \&
+  {Desjacques}}]{Okumura:12}
+{Okumura}, T., {Seljak}, U., \& {Desjacques}, V., {Distribution function
+  approach to redshift space distortions. Part III: halos and galaxies}. 2012,
+  JCAP, 11, 14, \eprint{1206.4070}
+
+\bibitem[{Olive {et~al.}(2014)}]{Agashe:2014kda}
+Olive, K. {et~al.}, {Review of Particle Physics}. 2014, Chin. Phys., C38,
+  090001
+
+\bibitem[{{Opher} \& {Pelinson}(2004)}]{Opher2004}
+{Opher}, R. \& {Pelinson}, A., {Studying the decay of the vacuum energy with
+  the observed density fluctuation spectrum}. 2004, Phys. Rev., D70, 063529,
+  \eprint{astro-ph/0405403}
+
+\bibitem[{{Opher} \& {Pelinson}(2005)}]{Opher2005}
+{Opher}, R. \& {Pelinson}, A., {Decay of the vacuum energy into cosmic
+  microwave background photons}. 2005, \mnras, 362, 167,
+  \eprint{astro-ph/0409451}
+
+\bibitem[{Padmanabhan \& Finkbeiner(2005)}]{Padmanabhan:2005es}
+Padmanabhan, N. \& Finkbeiner, D.~P., Detecting Dark Matter Annihilation with
+  CMB Polarization : Signatures and Experimental Prospects. 2005, Phys. Rev.,
+  D72, 023508, \eprint{astro-ph/0503486}
+
+\bibitem[{Palanque-Delabrouille {et~al.}(2015)}]{palanque:2014}
+Palanque-Delabrouille, N. {et~al.}, {Constraint on neutrino masses from
+  SDSS-III/BOSS Ly$\alpha$ forest and other cosmological probes}. 2015, JCAP,
+  1502, 045, \eprint{1410.7244}
+
+\bibitem[{{Pan} {et~al.}(2014){Pan}, {Knox}, \& {White}}]{2014MNRAS.445.2941P}
+{Pan}, Z., {Knox}, L., \& {White}, M., {Dependence of the cosmic microwave
+  background lensing power spectrum on the matter density}. 2014, \mnras, 445,
+  2941, \eprint{1406.5459}
+
+\bibitem[{{Peebles}(1968)}]{Peebles68}
+{Peebles}, P.~J.~E., {Recombination of the Primeval Plasma}. 1968, \apj, 153, 1
+
+\bibitem[{{Peebles} {et~al.}(2000){Peebles}, {Seager}, \& {Hu}}]{Peebles2000}
+{Peebles}, P.~J.~E., {Seager}, S., \& {Hu}, W., {Delayed Recombination}. 2000,
+  \apjl, 539, L1, \eprint{arXiv:astro-ph/0004389}
+
+\bibitem[{{Peebles} \& {Yu}(1970)}]{Peebles1970}
+{Peebles}, P.~J.~E. \& {Yu}, J.~T., {Primeval Adiabatic Perturbation in an
+  Expanding Universe}. 1970, \apj, 162, 815
+
+\bibitem[{{Peimbert}(2008)}]{Peimbert:2008}
+{Peimbert}, M., {The Primordial Helium Abundance}. 2008, ArXiv e-prints,
+  \eprint{0811.2980}
+
+\bibitem[{{Percival} {et~al.}(2010){Percival}, {Reid}, {Eisenstein}, {Bahcall},
+  {Budavari}, {Frieman}, {Fukugita}, {Gunn}, {Ivezi{\'c}}, {Knapp}, {Kron},
+  {Loveday}, {Lupton}, {McKay}, {Meiksin}, {Nichol}, {Pope}, {Schlegel},
+  {Schneider}, {Spergel}, {Stoughton}, {Strauss}, {Szalay}, {Tegmark},
+  {Vogeley}, {Weinberg}, {York}, \& {Zehavi}}]{Percival:2010}
+{Percival}, W.~J., {Reid}, B.~A., {Eisenstein}, D.~J., {et~al.}, {Baryon
+  acoustic oscillations in the Sloan Digital Sky Survey Data Release 7 galaxy
+  sample}. 2010, \mnras, 401, 2148, \eprint{0907.1660}
+
+\bibitem[{{Percival} \& {White}(2009)}]{PercivalW:2009}
+{Percival}, W.~J. \& {White}, M., {Testing cosmological structure formation
+  using redshift-space distortions}. 2009, \mnras, 393, 297, \eprint{0808.0003}
+
+\bibitem[{{Perlmutter} {et~al.}(1999){Perlmutter}, {Aldering}, {Goldhaber},
+  {Knop}, {Nugent}, {Castro}, {Deustua}, {Fabbro}, {Goobar}, {Groom}, {Hook},
+  {Kim}, {Kim}, {Lee}, {Nunes}, {Pain}, {Pennypacker}, {Quimby}, {Lidman},
+  {Ellis}, {Irwin}, {McMahon}, {Ruiz-Lapuente}, {Walton}, {Schaefer}, {Boyle},
+  {Filippenko}, {Matheson}, {Fruchter}, {Panagia}, {Newberg}, {Couch}, \&
+  {Project}}]{Perlmutter:1999}
+{Perlmutter}, S., {Aldering}, G., {Goldhaber}, G., {et~al.}, {Measurements of
+  {$\Omega$} and {$\Lambda$} from 42 High-Redshift Supernovae}. 1999, \apj,
+  517, 565, \eprint{astro-ph/9812133}
+
+\bibitem[{{Pettini} \& {Cooke}(2012)}]{Pettini-Cooke}
+{Pettini}, M. \& {Cooke}, R., {A new, precise measurement of the primordial
+  abundance of deuterium}. 2012, \mnras, 425, 2477, \eprint{1205.3785}
+
+\bibitem[{Pisanti {et~al.}(2008)Pisanti, Cirillo, Esposito, Iocco, Mangano,
+  {et~al.}}]{Pisanti:2007hk}
+Pisanti, O., Cirillo, A., Esposito, S., {et~al.}, {PArthENoPE: Public Algorithm
+  Evaluating the Nucleosynthesis of Primordial Elements}. 2008, Comput. Phys.
+  Commun., 178, 956, \eprint{0705.0290}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2014A}}{Planck Collaboration
+  I}(2014)}]{planck2013-p01}
+{\sorthelp{Planck Collaboration 2014A}}{Planck Collaboration I},
+  {\textit{Planck} 2013 results. I. Overview of products and scientific
+  results}. 2014, \aap, 571, A1, \eprint{1303.5062}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2014O}}{Planck Collaboration
+  XV}(2014)}]{planck2013-p08}
+{\sorthelp{Planck Collaboration 2014O}}{Planck Collaboration XV},
+  {\textit{Planck} 2013 results. XV. CMB power spectra and likelihood}. 2014,
+  \aap, 571, A15, \eprint{1303.5075}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2014P}}{Planck Collaboration
+  XVI}(2014)}]{planck2013-p11}
+{\sorthelp{Planck Collaboration 2014P}}{Planck Collaboration XVI},
+  {\textit{Planck} 2013 results. XVI. Cosmological parameters}. 2014, \aap,
+  571, A16, \eprint{1303.5076}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2014Q}}{Planck Collaboration
+  XVII}(2014)}]{planck2013-p12}
+{\sorthelp{Planck Collaboration 2014Q}}{Planck Collaboration XVII},
+  {\textit{Planck} 2013 results. XVII. Gravitational lensing by large-scale
+  structure}. 2014, \aap, 571, A17, \eprint{1303.5077}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2014T}}{Planck Collaboration
+  XX}(2014)}]{planck2013-p15}
+{\sorthelp{Planck Collaboration 2014T}}{Planck Collaboration XX},
+  {\textit{Planck} 2013 results. XX. Cosmology from Sunyaev-Zeldovich cluster
+  counts}. 2014, \aap, 571, A20, \eprint{1303.5080}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2014V}}{Planck Collaboration
+  XXII}(2014)}]{planck2013-p17}
+{\sorthelp{Planck Collaboration 2014V}}{Planck Collaboration XXII},
+  {\textit{Planck} 2013 results. XXII. Constraints on inflation}. 2014, \aap,
+  571, A22, \eprint{1303.5082}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2014W}}{Planck Collaboration
+  XXIII}(2014)}]{planck2013-p09}
+{\sorthelp{Planck Collaboration 2014W}}{Planck Collaboration XXIII},
+  {\textit{Planck} 2013 results. XXIII. Isotropy and statistics of the CMB}.
+  2014, \aap, 571, A23, \eprint{1303.5083}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2014X}}{Planck Collaboration
+  XXIV}(2014)}]{planck2013-p09a}
+{\sorthelp{Planck Collaboration 2014X}}{Planck Collaboration XXIV},
+  {\textit{Planck} 2013 results. XXIV. Constraints on primordial
+  non-Gaussianity}. 2014, \aap, 571, A24, \eprint{1303.5084}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2014Y}}{Planck Collaboration
+  XXV}(2014)}]{planck2013-p20}
+{\sorthelp{Planck Collaboration 2014Y}}{Planck Collaboration XXV},
+  {\textit{Planck} 2013 results. XXV. Searches for cosmic strings and other
+  topological defects}. 2014, \aap, 571, A25, \eprint{1303.5085}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2014ZE}}{Planck Collaboration
+  XXX}(2014)}]{planck2013-pip56}
+{\sorthelp{Planck Collaboration 2014ZE}}{Planck Collaboration XXX},
+  {\textit{Planck} 2013 results. XXX. Cosmic infrared background measurements
+  and implications for star formation}. 2014, \aap, 571, A30,
+  \eprint{1309.0382}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2014ZF}}{Planck Collaboration
+  XXXI}(2014)}]{planck2013-p01a}
+{\sorthelp{Planck Collaboration 2014ZF}}{Planck Collaboration XXXI},
+  {\textit{Planck} 2013 results. XXXI. Consistency of the \textit{Planck}
+  data}. 2014, \aap, 571, A31, \eprint{1508.03375}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2015A}}{Planck Collaboration
+  I}(2016)}]{planck2014-a01}
+{\sorthelp{Planck Collaboration 2015A}}{Planck Collaboration I},
+  {\textit{Planck} 2015 results. I. Overview of products and results}. 2016,
+  \aap, in press, \eprint{1502.01582}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2015B}}{Planck Collaboration
+  II}(2016)}]{planck2014-a03}
+{\sorthelp{Planck Collaboration 2015B}}{Planck Collaboration II},
+  {\textit{Planck} 2015 results. II. Low Frequency Instrument data processing}.
+  2016, \aap, in press, \eprint{1502.01583}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2015G}}{Planck Collaboration
+  VII}(2016)}]{planck2014-a08}
+{\sorthelp{Planck Collaboration 2015G}}{Planck Collaboration VII},
+  {\textit{Planck} 2015 results. VII. High Frequency Instrument data
+  processing: Time-ordered information and beam processing}. 2016, \aap, in
+  press, \eprint{1502.01586}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2015H}}{Planck Collaboration
+  VIII}(2016)}]{planck2014-a09}
+{\sorthelp{Planck Collaboration 2015H}}{Planck Collaboration VIII},
+  {\textit{Planck} 2015 results. VIII. High Frequency Instrument data
+  processing: Calibration and maps}. 2016, \aap, in press, \eprint{1502.01587}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2015I}}{Planck Collaboration
+  IX}(2016)}]{planck2014-a11}
+{\sorthelp{Planck Collaboration 2015I}}{Planck Collaboration IX},
+  {\textit{Planck} 2015 results. IX. Diffuse component separation: CMB maps}.
+  2016, \aap, in press, \eprint{1502.05956}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2015J}}{Planck Collaboration
+  X}(2016)}]{planck2014-a12}
+{\sorthelp{Planck Collaboration 2015J}}{Planck Collaboration X},
+  {\textit{Planck} 2015 results. X. Diffuse component separation: Foreground
+  maps}. 2016, \aap, in press, \eprint{1502.01588}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2015K}}{Planck Collaboration
+  XI}(2016)}]{planck2014-a13}
+{\sorthelp{Planck Collaboration 2015K}}{Planck Collaboration XI},
+  {\textit{Planck} 2015 results. XI. CMB power spectra, likelihoods, and
+  robustness of parameters}. 2016, \aap, submitted, \eprint{1507.02704}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2015L}}{Planck Collaboration
+  XII}(2016)}]{planck2014-a14}
+{\sorthelp{Planck Collaboration 2015L}}{Planck Collaboration XII},
+  {\textit{Planck} 2015 results. XII. Full Focal Plane simulations}. 2016,
+  \aap, in press, \eprint{1509.06348}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2015N}}{Planck Collaboration
+  XIV}(2016)}]{planck2014-a16}
+{\sorthelp{Planck Collaboration 2015N}}{Planck Collaboration XIV},
+  {\textit{Planck} 2015 results. XIV. Dark energy and modified gravity}. 2016,
+  \aap, in press, \eprint{1502.01590}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2015O}}{Planck Collaboration
+  XV}(2016)}]{planck2014-a17}
+{\sorthelp{Planck Collaboration 2015O}}{Planck Collaboration XV},
+  {\textit{Planck} 2015 results. XV. Gravitational lensing}. 2016, \aap, in
+  press, \eprint{1502.01591}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2015P}}{Planck Collaboration
+  XVI}(2016)}]{planck2014-a18}
+{\sorthelp{Planck Collaboration 2015P}}{Planck Collaboration XVI},
+  {\textit{Planck} 2015 results. XVI. Isotropy and statistics of the CMB}.
+  2016, \aap, in press, \eprint{1506.07135}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2015Q}}{Planck Collaboration
+  XVII}(2016)}]{planck2014-a19}
+{\sorthelp{Planck Collaboration 2015Q}}{Planck Collaboration XVII},
+  {\textit{Planck} 2015 results. XVII. Constraints on primordial
+  non-Gaussianity}. 2016, \aap, in press, \eprint{1502.01592}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2015T}}{Planck Collaboration
+  XX}(2016)}]{planck2014-a24}
+{\sorthelp{Planck Collaboration 2015T}}{Planck Collaboration XX},
+  {\textit{Planck} 2015 results. XX. Constraints on inflation}. 2016, \aap, in
+  press, \eprint{1502.02114}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2015X}}{Planck Collaboration
+  XXIV}(2016)}]{planck2014-a30}
+{\sorthelp{Planck Collaboration 2015X}}{Planck Collaboration XXIV},
+  {\textit{Planck} 2015 results. XXIV. Cosmology from Sunyaev-Zeldovich cluster
+  counts}. 2016, \aap, submitted, \eprint{1502.01597}
+
+\bibitem[{{\sorthelp{Planck Collaboration 2015ZA}}{Planck Collaboration
+  XXVI}(2016)}]{planck2014-a35}
+{\sorthelp{Planck Collaboration 2015ZA}}{Planck Collaboration XXVI},
+  {\textit{Planck} 2015 results. XXVI. The Second Planck Catalogue of Compact
+  Sources}. 2016, \aap, in press, \eprint{1507.02058}
+
+\bibitem[{{\sorthelp{Planck Collaboration IntP}}{Planck Collaboration Int.
+  XVI}(2014)}]{planck2013-XVI}
+{\sorthelp{Planck Collaboration IntP}}{Planck Collaboration Int. XVI},
+  {\textit{Planck} intermediate results. XVI. Profile likelihoods for
+  cosmological parameters}. 2014, \aap, 566, A54, \eprint{1311.1657}
+
+\bibitem[{{\sorthelp{Planck Collaboration IntV}}{Planck Collaboration Int.
+  XXII}(2015)}]{planck2014-XXII}
+{\sorthelp{Planck Collaboration IntV}}{Planck Collaboration Int. XXII},
+  {\textit{Planck} intermediate results. XXII. Frequency dependence of thermal
+  emission from Galactic dust in intensity and polarization}. 2015, \aap,
+  submitted, 576, A107, \eprint{1405.0874}
+
+\bibitem[{{\sorthelp{Planck Collaboration IntZE}}{Planck Collaboration Int.
+  XXX}(2016)}]{planck2014-XXX}
+{\sorthelp{Planck Collaboration IntZE}}{Planck Collaboration Int. XXX},
+  {\textit{Planck} intermediate results. XXX. The angular power spectrum of
+  polarized dust emission at intermediate and high Galactic latitudes}. 2016,
+  \aap, 586, A133, \eprint{1409.5738}
+
+\bibitem[{{\sorthelp{Planck Collaboration IntZU}}{Planck Collaboration Int.
+  XLVI}(2016)}]{planck2014-a10}
+{\sorthelp{Planck Collaboration IntZU}}{Planck Collaboration Int. XLVI},
+  {\textit{Planck} intermediate results. XLVI. Reduction of large-scale
+  systematic effects in HFI polarization maps and estimation of the
+  reionization optical depth}. 2016, \aap, submitted, \eprint{1605.02985}
+
+\bibitem[{Pogosian \& Vachaspati(1999)}]{Pogosian:1999np}
+Pogosian, L. \& Vachaspati, T., {Cosmic microwave background anisotropy from
+  wiggly strings}. 1999, Phys. Rev., D60, 083504, \eprint{astro-ph/9903361}
+
+\bibitem[{{POLARBEAR Collaboration}(2014{\natexlab{a}})}]{2014ApJ...794..171T}
+{POLARBEAR Collaboration}, {A Measurement of the Cosmic Microwave Background
+  B-mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR}.
+  2014{\natexlab{a}}, \apj, 794, 171, \eprint{1403.2369}
+
+\bibitem[{{POLARBEAR Collaboration}(2014{\natexlab{b}})}]{2014PhRvL.112m1302A}
+{POLARBEAR Collaboration}, {Evidence for Gravitational Lensing of the Cosmic
+  Microwave Background Polarization from Cross-Correlation with the Cosmic
+  Infrared Background}. 2014{\natexlab{b}}, Phys. Rev. Lett., 112, 131302,
+  \eprint{1312.6645}
+
+\bibitem[{Polchinski(2005)}]{Polchinski:2004hb}
+Polchinski, J., {Cosmic superstrings revisited}. 2005, Int. J. Mod. Phys., A20,
+  3413, \eprint{hep-th/0410082}
+
+\bibitem[{{Profumo}(2013)}]{Profumo:2013}
+{Profumo}, S., {TASI 2012 Lectures on Astrophysical Probes of Dark Matter}.
+  2013, ArXiv e-prints, \eprint{1301.0952}
+
+\bibitem[{{Reichardt} {et~al.}(2012){Reichardt}, {Shaw}, {Zahn}, {Aird},
+  {Benson}, {Bleem}, {Carlstrom}, {Chang}, {Cho}, {Crawford}, {Crites}, {de
+  Haan}, {Dobbs}, {Dudley}, {George}, {Halverson}, {Holder}, {Holzapfel},
+  {Hoover}, {Hou}, {Hrubes}, {Joy}, {Keisler}, {Knox}, {Lee}, {Leitch},
+  {Lueker}, {Luong-Van}, {McMahon}, {Mehl}, {Meyer}, {Millea}, {Mohr},
+  {Montroy}, {Natoli}, {Padin}, {Plagge}, {Pryke}, {Ruhl}, {Schaffer},
+  {Shirokoff}, {Spieler}, {Staniszewski}, {Stark}, {Story}, {van Engelen},
+  {Vanderlinde}, {Vieira}, \& {Williamson}}]{Reichardt:2012}
+{Reichardt}, C.~L., {Shaw}, L., {Zahn}, O., {et~al.}, {A Measurement of
+  Secondary Cosmic Microwave Background Anisotropies with Two Years of South
+  Pole Telescope Observations}. 2012, \apj, 755, 70, \eprint{1111.0932}
+
+\bibitem[{{Reid} {et~al.}(2014){Reid}, {Seo}, {Leauthaud}, {Tinker}, \&
+  {White}}]{Reid:14}
+{Reid}, B.~A., {Seo}, H.-J., {Leauthaud}, A., {Tinker}, J.~L., \& {White}, M.,
+  {A 2.5 per cent measurement of the growth rate from small-scale redshift
+  space clustering of SDSS-III CMASS galaxies}. 2014, \mnras, 444, 476,
+  \eprint{1404.3742}
+
+\bibitem[{{Rephaeli}(1980)}]{Rephaeli1980}
+{Rephaeli}, Y., {On the determination of the degree of cosmological Compton
+  distortions and the temperature of the cosmic blackbody radiation}. 1980,
+  \apj, 241, 858
+
+\bibitem[{{Rest} {et~al.}(2014){Rest}, {Scolnic}, {Foley}, {Huber}, {Chornock},
+  {Narayan}, {Tonry}, {Berger}, {Soderberg}, {Stubbs}, {Riess}, {Kirshner},
+  {Smartt}, {Schlafly}, {Rodney}, {Botticella}, {Brout}, {Challis}, {Czekala},
+  {Drout}, {Hudson}, {Kotak}, {Leibler}, {Lunnan}, {Marion}, {McCrum},
+  {Milisavljevic}, {Pastorello}, {Sanders}, {Smith}, {Stafford}, {Thilker},
+  {Valenti}, {Wood-Vasey}, {Zheng}, {Burgett}, {Chambers}, {Denneau}, {Draper},
+  {Flewelling}, {Hodapp}, {Kaiser}, {Kudritzki}, {Magnier}, {Metcalfe},
+  {Price}, {Sweeney}, {Wainscoat}, \& {Waters}}]{Rest:2014}
+{Rest}, A., {Scolnic}, D., {Foley}, R.~J., {et~al.}, {Cosmological Constraints
+  from Measurements of Type\,Ia Supernovae Discovered during the First 1.5\,yr
+  of the Pan-STARRS1 Survey}. 2014, \apj, 795, 44, \eprint{1310.3828}
+
+\bibitem[{{Riess} {et~al.}(1998){Riess}, {Filippenko}, {Challis},
+  {Clocchiatti}, {Diercks}, {Garnavich}, {Gilliland}, {Hogan}, {Jha},
+  {Kirshner}, {Leibundgut}, {Phillips}, {Reiss}, {Schmidt}, {Schommer},
+  {Smith}, {Spyromilio}, {Stubbs}, {Suntzeff}, \& {Tonry}}]{Riess:1998}
+{Riess}, A.~G., {Filippenko}, A.~V., {Challis}, P., {et~al.}, {Observational
+  Evidence from Supernovae for an Accelerating Universe and a Cosmological
+  Constant}. 1998, \aj, 116, 1009, \eprint{astro-ph/9805201}
+
+\bibitem[{{Riess} {et~al.}(2011){Riess}, {Macri}, {Casertano}, {Lampeitl},
+  {Ferguson}, {Filippenko}, {Jha}, {Li}, \& {Chornock}}]{Riess:11}
+{Riess}, A.~G., {Macri}, L., {Casertano}, S., {et~al.}, {A 3\% Solution:
+  Determination of the Hubble Constant with the Hubble Space Telescope and Wide
+  Field Camera 3}. 2011, \apj, 730, 119, \eprint{1103.2976}
+
+\bibitem[{Rigault {et~al.}(2015)}]{Rigault:2014}
+Rigault, M. {et~al.}, {Confirmation of a Star Formation Bias in Type Ia
+  Supernova Distances and its Effect on Measurement of the Hubble Constant}.
+  2015, ApJ, 802, 20, \eprint{1412.6501}
+
+\bibitem[{{Robertson} {et~al.}(2013){Robertson}, {Furlanetto}, {Schneider},
+  {Charlot}, {Ellis}, {Stark}, {McLure}, {Dunlop}, {Koekemoer}, {Schenker},
+  {Ouchi}, {Ono}, {Curtis-Lake}, {Rogers}, {Bowler}, \&
+  {Cirasuolo}}]{Robertson:2013}
+{Robertson}, B.~E., {Furlanetto}, S.~R., {Schneider}, E., {et~al.}, {New
+  Constraints on Cosmic Reionization from the 2012 Hubble Ultra Deep Field
+  Campaign}. 2013, \apj, 768, 71, \eprint{1301.1228}
+
+\bibitem[{Roest(2014)}]{Roest:2013fha}
+Roest, D., {Universality classes of inflation}. 2014, JCAP, 1401, 007,
+  \eprint{1309.1285}
+
+\bibitem[{Ross {et~al.}(2015)Ross, Samushia, Howlett, Percival, Burden, \&
+  Manera}]{Ross:14}
+Ross, A.~J., Samushia, L., Howlett, C., {et~al.}, {The clustering of the SDSS
+  DR7 main Galaxy sample – I. A 4 per cent distance measure at $z = 0.15$}.
+  2015, MNRAS, 449, 835, \eprint{1409.3242}
+
+\bibitem[{{Rubi{\~n}o-Mart{\'{\i}}n} {et~al.}(2010){Rubi{\~n}o-Mart{\'{\i}}n},
+  {Chluba}, {Fendt}, \& {Wandelt}}]{Jose2010}
+{Rubi{\~n}o-Mart{\'{\i}}n}, J.~A., {Chluba}, J., {Fendt}, W.~A., \& {Wandelt},
+  B.~D., {Estimating the impact of recombination uncertainties on the
+  cosmological parameter constraints from cosmic microwave background
+  experiments}. 2010, \mnras, 403, 439, \eprint{0910.4383}
+
+\bibitem[{{Rubi{\~n}o-Mart{\'{\i}}n} {et~al.}(2006){Rubi{\~n}o-Mart{\'{\i}}n},
+  {Chluba}, \& {Sunyaev}}]{Jose2006}
+{Rubi{\~n}o-Mart{\'{\i}}n}, J.~A., {Chluba}, J., \& {Sunyaev}, R.~A., {Lines in
+  the cosmic microwave background spectrum from the epoch of cosmological
+  hydrogen recombination}. 2006, \mnras, 371, 1939, \eprint{astro-ph/0607373}
+
+\bibitem[{{Rubi{\~n}o-Mart{\'{\i}}n} {et~al.}(2008){Rubi{\~n}o-Mart{\'{\i}}n},
+  {Chluba}, \& {Sunyaev}}]{Jose2008}
+{Rubi{\~n}o-Mart{\'{\i}}n}, J.~A., {Chluba}, J., \& {Sunyaev}, R.~A., {Lines in
+  the cosmic microwave background spectrum from the epoch of cosmological
+  helium recombination}. 2008, \aap, 485, 377, \eprint{0711.0594}
+
+\bibitem[{{Samushia} {et~al.}(2014){Samushia}, {Reid}, {White}, {Percival},
+  {Cuesta}, {Zhao}, {Ross}, {Manera}, {Aubourg}, {Beutler}, {Brinkmann},
+  {Brownstein}, {Dawson}, {Eisenstein}, {Ho}, {Honscheid}, {Maraston},
+  {Montesano}, {Nichol}, {Roe}, {Ross}, {S{\'a}nchez}, {Schlegel}, {Schneider},
+  {Streblyanska}, {Thomas}, {Tinker}, {Wake}, {Weaver}, \&
+  {Zehavi}}]{Samushia:14}
+{Samushia}, L., {Reid}, B.~A., {White}, M., {et~al.}, {The clustering of
+  galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: measuring
+  growth rate and geometry with anisotropic clustering}. 2014, \mnras, 439,
+  3504, \eprint{1312.4899}
+
+\bibitem[{Saro {et~al.}(2014)}]{Saro2013}
+Saro, A. {et~al.}, {Constraints on the CMB temperature evolution using
+  multiband measurements of the Sunyaev–Zel'dovich effect with the South Pole
+  Telescope}. 2014, MNRAS, 440, 2610, \eprint{1312.2462}
+
+\bibitem[{{Sawyer}(2006)}]{Sawyer:2006ju}
+{Sawyer}, R.~F., {Bulk viscosity of a gas of neutrinos and coupled scalar
+  particles, in the era of recombination}. 2006, \prd, 74, 043527,
+  \eprint{astro-ph/0601525}
+
+\bibitem[{Schmittfull {et~al.}(2013)Schmittfull, Challinor, Hanson, \&
+  Lewis}]{Schmittfull:2013uea}
+Schmittfull, M.~M., Challinor, A., Hanson, D., \& Lewis, A., {On the joint
+  analysis of CMB temperature and lensing-reconstruction power spectra}. 2013,
+  Phys. Rev., D88, 063012, \eprint{1308.0286}
+
+\bibitem[{{Sc{\'o}ccola} {et~al.}(2009){Sc{\'o}ccola}, {Landau}, \&
+  {Vucetich}}]{Scoccola2009}
+{Sc{\'o}ccola}, C.~G., {Landau}, S.~J., \& {Vucetich}, H., {WMAP 5-year
+  constraints on time variation of alpha and m\_e}. 2009, Memorie della Societ
+  Astronomica Italiana, 80, 814, \eprint{0910.1083}
+
+\bibitem[{{Scolnic} {et~al.}(2014){Scolnic}, {Rest}, {Riess}, {Huber}, {Foley},
+  {Brout}, {Chornock}, {Narayan}, {Tonry}, {Berger}, {Soderberg}, {Stubbs},
+  {Kirshner}, {Rodney}, {Smartt}, {Schlafly}, {Botticella}, {Challis},
+  {Czekala}, {Drout}, {Hudson}, {Kotak}, {Leibler}, {Lunnan}, {Marion},
+  {McCrum}, {Milisavljevic}, {Pastorello}, {Sanders}, {Smith}, {Stafford},
+  {Thilker}, {Valenti}, {Wood-Vasey}, {Zheng}, {Burgett}, {Chambers},
+  {Denneau}, {Draper}, {Flewelling}, {Hodapp}, {Kaiser}, {Kudritzki},
+  {Magnier}, {Metcalfe}, {Price}, {Sweeney}, {Wainscoat}, \&
+  {Waters}}]{Scolnic:2014}
+{Scolnic}, D., {Rest}, A., {Riess}, A., {et~al.}, {Systematic Uncertainties
+  Associated with the Cosmological Analysis of the First Pan-STARRS1 Type Ia
+  Supernova Sample}. 2014, \apj, 795, 45, \eprint{1310.3824}
+
+\bibitem[{{Seager} {et~al.}(1999){Seager}, {Sasselov}, \&
+  {Scott}}]{SeagerRecfast1999}
+{Seager}, S., {Sasselov}, D.~D., \& {Scott}, D., {A New Calculation of the
+  Recombination Epoch}. 1999, \apjl, 523, L1
+
+\bibitem[{{Seager} {et~al.}(2000){Seager}, {Sasselov}, \& {Scott}}]{Seager2000}
+{Seager}, S., {Sasselov}, D.~D., \& {Scott}, D., {How Exactly Did the Universe
+  Become Neutral?} 2000, \apjs, 128, 407, \eprint{astro-ph/9912182}
+
+\bibitem[{{Seljak} {et~al.}(2003){Seljak}, {Sugiyama}, {White}, \&
+  {Zaldarriaga}}]{Seljak2003}
+{Seljak}, U., {Sugiyama}, N., {White}, M., \& {Zaldarriaga}, M., {Comparison of
+  cosmological Boltzmann codes: Are we ready for high precision cosmology?}
+  2003, Phys. Rev., D68, 083507, \eprint{arXiv:astro-ph/0306052}
+
+\bibitem[{{Serenelli} \& {Basu}(2010)}]{serenelli10}
+{Serenelli}, A.~M. \& {Basu}, S., {Determining the Initial Helium Abundance of
+  the Sun}. 2010, \apj, 719, 865, \eprint{1006.0244}
+
+\bibitem[{Serpico {et~al.}(2004)Serpico, Esposito, Iocco, Mangano, Miele,
+  {et~al.}}]{Serpico:2004gx}
+Serpico, P.~D., Esposito, S., Iocco, F., {et~al.}, {Nuclear reaction network
+  for primordial nucleosynthesis: A Detailed analysis of rates, uncertainties
+  and light nuclei yields}. 2004, JCAP, 0412, 010, \eprint{astro-ph/0408076}
+
+\bibitem[{{Shaw} \& {Chluba}(2011)}]{Shaw2011}
+{Shaw}, J.~R. \& {Chluba}, J., {Precise cosmological parameter estimation using
+  COSMOREC}. 2011, \mnras, 415, 1343, \eprint{1102.3683}
+
+\bibitem[{{Shull} \& {van Steenberg}(1985)}]{Shull1985}
+{Shull}, J.~M. \& {van Steenberg}, M.~E., {X-ray secondary heating and
+  ionization in quasar emission-line clouds}. 1985, \apj, 298, 268
+
+\bibitem[{{Silverstein} \& {Westphal}(2008)}]{Silverstein:2008}
+{Silverstein}, E. \& {Westphal}, A., {Monodromy in the CMB: Gravity waves and
+  string inflation}. 2008, Phys. Rev., D78, 106003, \eprint{0803.3085}
+
+\bibitem[{{Simet} {et~al.}(2015){Simet}, {Battaglia}, {Mandelbaum}, \&
+  {Seljak}}]{Simet:2015goa}
+{Simet}, M., {Battaglia}, N., {Mandelbaum}, R., \& {Seljak}, U., {Weak lensing
+  calibration of mass bias in the REFLEX+BCS X-ray galaxy cluster catalogue}.
+  2015, ArXiv e-prints, \eprint{1502.01024}
+
+\bibitem[{{Simha} \& {Steigman}(2008)}]{Simha2008}
+{Simha}, V. \& {Steigman}, G., {Constraining the early-Universe baryon density
+  and expansion rate}. 2008, JCAP, 6, 16, \eprint{0803.3465}
+
+\bibitem[{Slatyer {et~al.}(2009)Slatyer, Padmanabhan, \&
+  Finkbeiner}]{Slatyer:2009yq}
+Slatyer, T.~R., Padmanabhan, N., \& Finkbeiner, D.~P., {CMB Constraints on WIMP
+  Annihilation: Energy Absorption During the Recombination Epoch}. 2009, Phys.
+  Rev., D80, 043526, \eprint{0906.1197}
+
+\bibitem[{Smith {et~al.}(2003)}]{Smith:2002dz}
+Smith, R.~E. {et~al.}, Stable clustering, the halo model and nonlinear
+  cosmological power spectra. 2003, MNRAS, 341, 1311, \eprint{astro-ph/0207664}
+
+\bibitem[{{Smith} {et~al.}(2012){Smith}, {Das}, \& {Zahn}}]{tristan}
+{Smith}, T.~L., {Das}, S., \& {Zahn}, O., {Constraints on neutrino and dark
+  radiation interactions using cosmological observations}. 2012, \prd, 85,
+  023001, \eprint{1105.3246}
+
+\bibitem[{{Smoot} {et~al.}(1992){Smoot}, {Bennett}, {Kogut}, {Wright}, {Aymon},
+  {Boggess}, {Cheng}, {de Amici}, {Gulkis}, {Hauser}, {Hinshaw}, {Jackson},
+  {Janssen}, {Kaita}, {Kelsall}, {Keegstra}, {Lineweaver}, {Loewenstein},
+  {Lubin}, {Mather}, {Meyer}, {Moseley}, {Murdock}, {Rokke}, {Silverberg},
+  {Tenorio}, {Weiss}, \& {Wilkinson}}]{Smoot:92}
+{Smoot}, G.~F., {Bennett}, C.~L., {Kogut}, A., {et~al.}, {Structure in the COBE
+  differential microwave radiometer first-year maps}. 1992, \apjl, 396, L1
+
+\bibitem[{{Song} \& {Percival}(2009)}]{Song:09}
+{Song}, Y.-S. \& {Percival}, W.~J., {Reconstructing the history of structure
+  formation using redshift distortions}. 2009, JCAP, 10, 4, \eprint{0807.0810}
+
+\bibitem[{Spergel {et~al.}(2015)Spergel, Flauger, \& Hložek}]{Spergel:2013}
+Spergel, D.~N., Flauger, R., \& Hložek, R., {Planck Data Reconsidered}. 2015,
+  Phys. Rev., D91, 023518, \eprint{1312.3313}
+
+\bibitem[{{Spergel} {et~al.}(2003){Spergel}, {Verde}, {Peiris}, {Komatsu},
+  {Nolta}, {Bennett}, {Halpern}, {Hinshaw}, {Jarosik}, {Kogut}, {Limon},
+  {Meyer}, {Page}, {Tucker}, {Weiland}, {Wollack}, \& {Wright}}]{spergel2003}
+{Spergel}, D.~N., {Verde}, L., {Peiris}, H.~V., {et~al.}, {First-Year Wilkinson
+  Microwave Anisotropy Probe (WMAP) Observations: Determination of Cosmological
+  Parameters}. 2003, \apjs, 148, 175, \eprint{astro-ph/0302209}
+
+\bibitem[{{Spitzer} \& {Greenstein}(1951)}]{Spitzer1951}
+{Spitzer}, Jr., L. \& {Greenstein}, J.~L., {Continuous Emission from Planetary
+  Nebulae}. 1951, \apj, 114, 407
+
+\bibitem[{{Starobinsky}(1980)}]{Starobinsky:1980}
+{Starobinsky}, A.~A., {A new type of isotropic cosmological models without
+  singularity}. 1980, Phys. Lett. B, 91, 99
+
+\bibitem[{{Story} {et~al.}(2013){Story}, {Reichardt}, {Hou}, {Keisler}, {Aird},
+  {Benson}, {Bleem}, {Carlstrom}, {Chang}, {Cho}, {Crawford}, {Crites}, {de
+  Haan}, {Dobbs}, {Dudley}, {Follin}, {George}, {Halverson}, {Holder},
+  {Holzapfel}, {Hoover}, {Hrubes}, {Joy}, {Knox}, {Lee}, {Leitch}, {Lueker},
+  {Luong-Van}, {McMahon}, {Mehl}, {Meyer}, {Millea}, {Mohr}, {Montroy},
+  {Padin}, {Plagge}, {Pryke}, {Ruhl}, {Sayre}, {Schaffer}, {Shaw}, {Shirokoff},
+  {Spieler}, {Staniszewski}, {Stark}, {van Engelen}, {Vanderlinde}, {Vieira},
+  {Williamson}, \& {Zahn}}]{Story:2013}
+{Story}, K.~T., {Reichardt}, C.~L., {Hou}, Z., {et~al.}, {A Measurement of the
+  Cosmic Microwave Background Damping Tail from the 2500-Square-Degree SPT-SZ
+  Survey}. 2013, \apj, 779, 86, \eprint{1210.7231}
+
+\bibitem[{Story {et~al.}(2015)}]{Story:2014hni}
+Story, K.~T. {et~al.}, {A Measurement of the Cosmic Microwave Background
+  Gravitational Lensing Potential from 100 Square Degrees of SPTpol Data}.
+  2015, ApJ, 810, 50, \eprint{1412.4760}
+
+\bibitem[{{Sunyaev} \& {Zeldovich}(1970)}]{Sunyaev1970}
+{Sunyaev}, R.~A. \& {Zeldovich}, Y.~B., {Small-Scale Fluctuations of Relic
+  Radiation}. 1970, \apss, 7, 3
+
+\bibitem[{{Suzuki} {et~al.}(2012){Suzuki}, {Rubin}, {Lidman}, {Aldering},
+  {Amanullah}, {Barbary}, {Barrientos}, {Botyanszki}, {Brodwin}, {Connolly},
+  {Dawson}, {Dey}, {Doi}, {Donahue}, {Deustua}, {Eisenhardt}, {Ellingson},
+  {Faccioli}, {Fadeyev}, {Fakhouri}, {Fruchter}, {Gilbank}, {Gladders},
+  {Goldhaber}, {Gonzalez}, {Goobar}, {Gude}, {Hattori}, {Hoekstra}, {Hsiao},
+  {Huang}, {Ihara}, {Jee}, {Johnston}, {Kashikawa}, {Koester}, {Konishi},
+  {Kowalski}, {Linder}, {Lubin}, {Melbourne}, {Meyers}, {Morokuma}, {Munshi},
+  {Mullis}, {Oda}, {Panagia}, {Perlmutter}, {Postman}, {Pritchard}, {Rhodes},
+  {Ripoche}, {Rosati}, {Schlegel}, {Spadafora}, {Stanford}, {Stanishev},
+  {Stern}, {Strovink}, {Takanashi}, {Tokita}, {Wagner}, {Wang}, {Yasuda},
+  {Yee}, \& {Supernova Cosmology Project}}]{Suzuki:2012}
+{Suzuki}, N., {Rubin}, D., {Lidman}, C., {et~al.}, {The Hubble Space Telescope
+  Cluster Supernova Survey. V. Improving the Dark-energy Constraints above
+  {$z>1$} and Building an Early-type-hosted Supernova Sample}. 2012, \apj, 746,
+  85, \eprint{1105.3470}
+
+\bibitem[{{Switzer} \& {Hirata}(2008)}]{Switzer2007I}
+{Switzer}, E.~R. \& {Hirata}, C.~M., {Primordial helium recombination. I.
+  Feedback, line transfer, and continuum opacity}. 2008, Phys. Rev., D77,
+  083006, \eprint{arXiv:astro-ph/0702143}
+
+\bibitem[{{Takahashi} {et~al.}(2012){Takahashi}, {Sato}, {Nishimichi},
+  {Taruya}, \& {Oguri}}]{Takahashi:2012em}
+{Takahashi}, R., {Sato}, M., {Nishimichi}, T., {Taruya}, A., \& {Oguri}, M.,
+  {Revising the Halofit Model for the Nonlinear Matter Power Spectrum}. 2012,
+  \apj, 761, 152, \eprint{1208.2701}
+
+\bibitem[{{Tammann} \& {Reindl}(2013)}]{Tammann:13}
+{Tammann}, G.~A. \& {Reindl}, B., {The luminosity of supernovae of type Ia from
+  tip of the red-giant branch distances and the value of H$_{0}$}. 2013, \aap,
+  549, A136, \eprint{1208.5054}
+
+\bibitem[{{Tammann} {et~al.}(2008){Tammann}, {Sandage}, \&
+  {Reindl}}]{Tammann:08}
+{Tammann}, G.~A., {Sandage}, A., \& {Reindl}, B., {The expansion field: the
+  value of $H_{0}$}. 2008, \aapr, 15, 289, \eprint{0806.3018}
+
+\bibitem[{{Trac} {et~al.}(2011){Trac}, {Bode}, \& {Ostriker}}]{Trac:2011}
+{Trac}, H., {Bode}, P., \& {Ostriker}, J.~P., {Templates for the
+  Sunyaev-Zel'dovich Angular Power Spectrum}. 2011, \apj, 727, 94,
+  \eprint{1006.2828}
+
+\bibitem[{{Trotta} \& {Melchiorri}(2005)}]{Trotta:2004ty}
+{Trotta}, R. \& {Melchiorri}, A., {Indication for Primordial Anisotropies in
+  the Neutrino Background from the Wilkinson Microwave Anisotropy Probe and the
+  Sloan Digital Sky Survey}. 2005, Phys. Rev. Lett., 95, 011305,
+  \eprint{astro-ph/0412066}
+
+\bibitem[{Tsujikawa(2010)}]{Tsujikawa:2010}
+Tsujikawa, S., {Modified gravity models of dark energy}. 2010, Lect. Notes
+  Phys., 800, 99, \eprint{1101.0191}
+
+\bibitem[{Urrestilla {et~al.}(2008)Urrestilla, Bevis, Hindmarsh, Kunz, \&
+  Liddle}]{Urrestilla:2007sf}
+Urrestilla, J., Bevis, N., Hindmarsh, M., Kunz, M., \& Liddle, A.~R., {Cosmic
+  microwave anisotropies from BPS semilocal strings}. 2008, JCAP, 0807, 010,
+  \eprint{0711.1842}
+
+\bibitem[{Valdes {et~al.}(2010)Valdes, Evoli, \& Ferrara}]{Valdes:2009cq}
+Valdes, M., Evoli, C., \& Ferrara, A., {Particle energy cascade in the
+  Intergalactic Medium}. 2010, \mnras, 404, 1569, \eprint{0911.1125}
+
+\bibitem[{van Engelen {et~al.}(2015)}]{vanEngelen:2014zlh}
+van Engelen, A. {et~al.}, {The Atacama Cosmology Telescope: Lensing of CMB
+  Temperature and Polarization Derived from Cosmic Infrared Background
+  Cross-Correlation}. 2015, ApJ, 808, 7, \eprint{1412.0626}
+
+\bibitem[{{Viero} {et~al.}(2013){Viero}, {Wang}, {Zemcov}, {Addison},
+  {Amblard}, {Arumugam}, {Aussel}, {B{\'e}thermin}, {Bock}, {Boselli}, {Buat},
+  {Burgarella}, {Casey}, {Clements}, {Conley}, {Conversi}, {Cooray}, {De
+  Zotti}, {Dowell}, {Farrah}, {Franceschini}, {Glenn}, {Griffin},
+  {Hatziminaoglou}, {Heinis}, {Ibar}, {Ivison}, {Lagache}, {Levenson},
+  {Marchetti}, {Marsden}, {Nguyen}, {O'Halloran}, {Oliver}, {Omont}, {Page},
+  {Papageorgiou}, {Pearson}, {P{\'e}rez-Fournon}, {Pohlen}, {Rigopoulou},
+  {Roseboom}, {Rowan-Robinson}, {Schulz}, {Scott}, {Seymour}, {Shupe}, {Smith},
+  {Symeonidis}, {Vaccari}, {Valtchanov}, {Vieira}, {Wardlow}, \&
+  {Xu}}]{Viero2013}
+{Viero}, M.~P., {Wang}, L., {Zemcov}, M., {et~al.}, {HerMES: Cosmic Infrared
+  Background Anisotropies and the Clustering of Dusty Star-forming Galaxies}.
+  2013, \apj, 772, 77, \eprint{1208.5049}
+
+\bibitem[{Vilenkin \& Shellard(2000)}]{vilenkin2000cosmic}
+Vilenkin, A. \& Shellard, E. 2000, Cosmic Strings and Other Topological
+  Defects, Cambridge Monographs on Mathematical Physics (Cambridge University
+  Press)
+
+\bibitem[{{Viviani} {et~al.}(2000){Viviani}, {Kievsky}, {Marcucci}, {Rosati},
+  \& {Schiavilla}}]{Viviani:1999us}
+{Viviani}, M., {Kievsky}, A., {Marcucci}, L.~E., {Rosati}, S., \& {Schiavilla},
+  R., {Photodisintegration and electrodisintegration of {$^{3}$}He at threshold
+  and pd radiative capture}. 2000, Phys. Rev., C61, 064001,
+  \eprint{nucl-th/9911051}
+
+\bibitem[{{von der Linden} {et~al.}(2014){von der Linden}, {Mantz}, {Allen},
+  {Applegate}, {Kelly}, {Morris}, {Wright}, {Allen}, {Burchat}, {Burke},
+  {Donovan}, \& {Ebeling}}]{wtgplanck}
+{von der Linden}, A., {Mantz}, A., {Allen}, S.~W., {et~al.}, {Robust
+  weak-lensing mass calibration of Planck galaxy clusters}. 2014, \mnras, 443,
+  1973, \eprint{1402.2670}
+
+\bibitem[{Weinberg(2013)}]{Weinberg:2013kea}
+Weinberg, S., {Goldstone Bosons as Fractional Cosmic Neutrinos}. 2013, Phys.
+  Rev. Lett., 110, 241301, \eprint{1305.1971}
+
+\bibitem[{White {et~al.}(2015)White, Reid, Chuang, Tinker, McBride, Prada, \&
+  Samushia}]{White:14}
+White, M., Reid, B., Chuang, C.-H., {et~al.}, {Tests of redshift-space
+  distortions models in configuration space for the analysis of the BOSS final
+  data release}. 2015, MNRAS, 447, 234, \eprint{1408.5435}
+
+\bibitem[{{Wong} {et~al.}(2008){Wong}, {Moss}, \& {Scott}}]{Wong2008}
+{Wong}, W.~Y., {Moss}, A., \& {Scott}, D., {How well do we understand
+  cosmological recombination?} 2008, \mnras, 386, 1023, \eprint{0711.1357}
+
+\bibitem[{{Wong} \& {Scott}(2007)}]{Wong2007}
+{Wong}, W.~Y. \& {Scott}, D., {The effect of forbidden transitions on
+  cosmological hydrogen and helium recombination}. 2007, \mnras, 375, 1441,
+  \eprint{arXiv:astro-ph/0610691}
+
+\bibitem[{{Wong} {et~al.}(2006){Wong}, {Seager}, \& {Scott}}]{Wong2006}
+{Wong}, W.~Y., {Seager}, S., \& {Scott}, D., {Spectral distortions to the
+  cosmic microwave background from the recombination of hydrogen and helium}.
+  2006, \mnras, 367, 1666, \eprint{astro-ph/0510634}
+
+\bibitem[{Wyman {et~al.}(2014)Wyman, Rudd, Vanderveld, \& Hu}]{Wyman:2013lza}
+Wyman, M., Rudd, D.~H., Vanderveld, R.~A., \& Hu, W., {$\nu\Lambda$CDM:
+  Neutrinos help reconcile Planck with the Local Universe}. 2014, Phys. Rev.
+  Lett., 112, 051302, \eprint{1307.7715}
+
+\bibitem[{Yue {et~al.}(2013)Yue, Dewey, Gilliam, Greene, Laptev,
+  {et~al.}}]{Yue:2013qrc}
+Yue, A., Dewey, M., Gilliam, D., {et~al.}, {Improved Determination of the
+  Neutron Lifetime}. 2013, Phys. Rev. Lett., 111, 222501, \eprint{1309.2623}
+
+\bibitem[{Zaldarriaga {et~al.}(1997)Zaldarriaga, Spergel, \&
+  Seljak}]{Zaldarriaga:1997ch}
+Zaldarriaga, M., Spergel, D.~N., \& Seljak, U., {Microwave background
+  constraints on cosmological parameters}. 1997, ApJ, 488, 1,
+  \eprint{astro-ph/9702157}
+
+\bibitem[{{Zeldovich} {et~al.}(1968){Zeldovich}, {Kurt}, \&
+  {Syunyaev}}]{Zeldovich68}
+{Zeldovich}, Y.~B., {Kurt}, V.~G., \& {Syunyaev}, R.~A., {Recombination of
+  Hydrogen in the Hot Model of the Universe}. 1968, Zhurnal Eksperimental noi i
+  Teoreticheskoi Fiziki, 55, 278
+
+\bibitem[{{Zeldovich} \& {Sunyaev}(1969)}]{Zeldovich1969}
+{Zeldovich}, Y.~B. \& {Sunyaev}, R.~A., {The Interaction of Matter and
+  Radiation in a Hot-Model Universe}. 1969, \apss, 4, 301
+
+\bibitem[{{Zhang} {et~al.}(2006){Zhang}, {Chen}, {Lei}, \& {Si}}]{Zhang2006fr}
+{Zhang}, L., {Chen}, X., {Lei}, Y.-A., \& {Si}, Z.-G., {Impacts of dark matter
+  particle annihilation on recombination and the anisotropies of the cosmic
+  microwave background}. 2006, Phys. Rev., D74, 103519,
+  \eprint{astro-ph/0603425}
+
+\end{thebibliography}

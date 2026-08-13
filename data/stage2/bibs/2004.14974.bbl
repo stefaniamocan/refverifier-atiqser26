@@ -1,0 +1,301 @@
+\begin{thebibliography}{41}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Baly et~al.(2018)Baly, Mohtarami, Glass, M{\`a}rquez, Moschitti, and
+  Nakov}]{baly-etal-2018-integrating}
+Ramy Baly, Mitra Mohtarami, James Glass, Llu{\'\i}s M{\`a}rquez, Alessandro
+  Moschitti, and Preslav Nakov. 2018.
+\newblock Integrating stance detection and fact checking in a unified corpus.
+\newblock In \emph{NAACL}.
+
+\bibitem[{Barr{\'o}n-Cede{\~n}o et~al.(2018)Barr{\'o}n-Cede{\~n}o, Elsayed,
+  Suwaileh, i~Villodre, Atanasova, Zaghouani, Kyuchukov, Martino, and
+  Nakov}]{nakov2018overview}
+Alberto Barr{\'o}n-Cede{\~n}o, Tamer Elsayed, Reem Suwaileh,
+  Llu{\'i}s~M{\`a}rquez i~Villodre, Pepa Atanasova, Wajdi Zaghouani, Spas
+  Kyuchukov, Giovanni Da~San Martino, and Preslav Nakov. 2018.
+\newblock Overview of the clef-2018 checkthat! lab on automatic identification
+  and verification of political claims. task 2: Factuality.
+\newblock In \emph{CLEF}.
+
+\bibitem[{Beller et~al.(2018)Beller, Clark, Tsafnat, Adams, Diehl, Lund,
+  Ouzzani, Thayer, Thomas, Turner, Xia, Robinson, and
+  Glasziou}]{Beller2018MakingPW}
+Elaine Beller, Justin Clark, Guy Tsafnat, Clive~Elliott Adams, Heinz Diehl,
+  Hans Lund, Mourad Ouzzani, Kristina Thayer, James Thomas, Tari Turner, J.~S.
+  Xia, Karen~A. Robinson, and Paul~P Glasziou. 2018.
+\newblock Making progress with the automation of systematic reviews: principles
+  of the international collaboration for the automation of systematic reviews
+  (icasr).
+\newblock \emph{Systematic Reviews}, 7.
+
+\bibitem[{Beltagy et~al.(2019)Beltagy, Lo, and Cohan}]{Beltagy2019SciBERTPC}
+Iz~Beltagy, Kyle Lo, and Arman Cohan. 2019.
+\newblock Scibert: A pretrained language model for scientific text.
+\newblock In \emph{EMNLP}.
+
+\bibitem[{Beltagy et~al.(2020)Beltagy, Peters, and
+  Cohan}]{Beltagy2020LongformerTL}
+Iz~Beltagy, Matthew~E. Peters, and Arman Cohan. 2020.
+\newblock Longformer: The long-document transformer.
+\newblock \emph{ArXiv}, abs/2004.05150.
+
+\bibitem[{Berg-Kirkpatrick et~al.(2012)Berg-Kirkpatrick, Burkett, and
+  Klein}]{BergKirkpatrick2012AnEI}
+Taylor Berg-Kirkpatrick, David Burkett, and Dan Klein. 2012.
+\newblock An empirical investigation of statistical significance in nlp.
+\newblock In \emph{EMNLP}.
+
+\bibitem[{Chen et~al.(2019)Chen, Khashabi, Yin, Callison-Burch, and
+  Roth}]{Chen2019SeeingTF}
+Sihao Chen, Daniel Khashabi, Wenpeng Yin, Chris Callison-Burch, and Dan Roth.
+  2019.
+\newblock Seeing things from a different angle: Discovering diverse
+  perspectives about claims.
+\newblock In \emph{NAACL}.
+
+\bibitem[{Cohan et~al.(2015)Cohan, Soldaini, and
+  Goharian}]{Cohan2015MatchingCT}
+Arman Cohan, Luca Soldaini, and Nazli Goharian. 2015.
+\newblock Matching citation text and cited spans in biomedical literature: a
+  search-oriented approach.
+\newblock In \emph{NAACL}.
+
+\bibitem[{Cohen et~al.(2014)Cohen, Dang, de~Waard, Yadav, and
+  Vanderwende}]{BiomedSumm}
+Kevin~Bretonnel Cohen, Hoa~Trang Dang, Anita de~Waard, Prabha Yadav, and Lucy
+  Vanderwende. 2014.
+\newblock Tac 2014 biomedical summarization track.
+\newblock \url{https://tac.nist.gov/2014/BiomedSumm/}.
+
+\bibitem[{Derczynski et~al.(2017)Derczynski, Bontcheva, Liakata, Procter, Wong
+  Sak~Hoi, and Zubiaga}]{derczynski-etal-2017-semeval}
+Leon Derczynski, Kalina Bontcheva, Maria Liakata, Rob Procter, Geraldine Wong
+  Sak~Hoi, and Arkaitz Zubiaga. 2017.
+\newblock \href {https://doi.org/10.18653/v1/S17-2006} {{S}em{E}val-2017 task
+  8: {R}umour{E}val: Determining rumour veracity and support for rumours}.
+\newblock In \emph{SemEval}.
+
+\bibitem[{Devlin et~al.(2019)Devlin, Chang, Lee, and
+  Toutanova}]{Devlin2019BERTPO}
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. 2019.
+\newblock Bert: Pre-training of deep bidirectional transformers for language
+  understanding.
+\newblock In \emph{NAACL}.
+
+\bibitem[{DeYoung et~al.(2020{\natexlab{a}})DeYoung, Jain, Rajani, Lehman,
+  Xiong, Socher, and Wallace}]{DeYoung2019ERASERAB}
+Jay DeYoung, Sarthak Jain, Nazneen~Fatema Rajani, Eric Lehman, Caiming Xiong,
+  Richard Socher, and Byron~C. Wallace. 2020{\natexlab{a}}.
+\newblock Eraser: A benchmark to evaluate rationalized nlp models.
+\newblock In \emph{ACL}.
+
+\bibitem[{DeYoung et~al.(2020{\natexlab{b}})DeYoung, Lehman, Nye, Marshall, and
+  Wallace}]{DeYoung2020EvidenceI2}
+Jay DeYoung, Eric Lehman, Ben Nye, Iain~James Marshall, and Byron~C. Wallace.
+  2020{\natexlab{b}}.
+\newblock Evidence inference 2.0: More data, better models.
+\newblock In \emph{BioNLP@ACL}.
+
+\bibitem[{Dror et~al.(2018)Dror, Baumer, Shlomov, and Reichart}]{Dror2018TheHG}
+Rotem Dror, Gili Baumer, Segev Shlomov, and Roi Reichart. 2018.
+\newblock The hitchhiker's guide to testing statistical significance in natural
+  language processing.
+\newblock In \emph{ACL}.
+
+\bibitem[{Efron and Tibshirani(1993)}]{Efron1993AnIT}
+Bradley Efron and Robert Tibshirani. 1993.
+\newblock An introduction to the bootstrap.
+
+\bibitem[{Ferreira and Vlachos(2016)}]{ferreira-vlachos-2016-emergent}
+William Ferreira and Andreas Vlachos. 2016.
+\newblock \href {https://doi.org/10.18653/v1/N16-1138} {{E}mergent: a novel
+  data-set for stance classification}.
+\newblock In \emph{NAACL}.
+
+\bibitem[{Gu et~al.(2020)Gu, Tinn, Cheng, Lucas, Usuyama, Liu, Naumann, Gao,
+  and Poon}]{Gu2020DomainSpecificLM}
+Yu~Gu, Robert Tinn, Hao Cheng, M.~Lucas, Naoto Usuyama, Xiaodong Liu, Tristan
+  Naumann, Jianfeng Gao, and Hoifung Poon. 2020.
+\newblock Domain-specific language model pretraining for biomedical natural
+  language processing.
+\newblock \emph{ArXiv}, abs/2007.15779.
+
+\bibitem[{Gururangan et~al.(2020)Gururangan, Marasovic, Swayamdipta, Lo,
+  Beltagy, Downey, and Smith}]{Gururangan2020DONTST}
+Suchin Gururangan, Ana Marasovic, Swabha Swayamdipta, Kyle Lo, Iz~Beltagy, Doug
+  Downey, and Noah~A. Smith. 2020.
+\newblock Don’t stop pretraining: Adapt language models to domains and tasks.
+\newblock In \emph{ACL}.
+
+\bibitem[{Gururangan et~al.(2018)Gururangan, Swayamdipta, Levy, Schwartz,
+  Bowman, and Smith}]{Gururangan2018AnnotationAI}
+Suchin Gururangan, Swabha Swayamdipta, Omer Levy, Roy Schwartz, Samuel~R.
+  Bowman, and Noah~A. Smith. 2018.
+\newblock Annotation artifacts in natural language inference data.
+\newblock In \emph{NAACL}.
+
+\bibitem[{Hanselowski et~al.(2019)Hanselowski, Stab, Schulz, Li, and
+  Gurevych}]{Hanselowski2019ARA}
+Andreas Hanselowski, Christian Stab, Claudia Schulz, Zile Li, and Iryna
+  Gurevych. 2019.
+\newblock A richly annotated corpus for different tasks in automated
+  fact-checking.
+\newblock In \emph{CoNLL}.
+
+\bibitem[{Jaidka et~al.(2017)Jaidka, Chandrasekaran, Jain, and
+  Kan}]{Jaidka2017TheCS}
+Kokil Jaidka, Muthu~Kumar Chandrasekaran, Devanshu Jain, and Min-Yen Kan. 2017.
+\newblock The cl-scisumm shared task 2017: Results and key insights.
+\newblock In \emph{BIRNDL@JCDL}.
+
+\bibitem[{Jin et~al.(2019)Jin, Dhingra, Liu, Cohen, and Lu}]{Jin2019PubMedQAAD}
+Qiao Jin, Bhuwan Dhingra, Zhengping Liu, William~W. Cohen, and Xinghua Lu.
+  2019.
+\newblock Pubmedqa: A dataset for biomedical research question answering.
+\newblock In \emph{EMNLP}.
+
+\bibitem[{Lehman et~al.(2019)Lehman, DeYoung, Barzilay, and
+  Wallace}]{Lehman2019InferringWM}
+Eric Lehman, Jay DeYoung, Regina Barzilay, and Byron~C. Wallace. 2019.
+\newblock Inferring which medical treatments work from reports of clinical
+  trials.
+\newblock In \emph{NAACL}.
+
+\bibitem[{Lei et~al.(2016)Lei, Barzilay, and Jaakkola}]{Lei2016RationalizingNP}
+Tao Lei, Regina Barzilay, and Tommi~S. Jaakkola. 2016.
+\newblock Rationalizing neural predictions.
+\newblock In \emph{ACL}.
+
+\bibitem[{Liu et~al.(2019)Liu, Ott, Goyal, Du, Joshi, Chen, Levy, Lewis,
+  Zettlemoyer, and Stoyanov}]{Liu2019RoBERTaAR}
+Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer
+  Levy, Mike Lewis, Luke Zettlemoyer, and Veselin Stoyanov. 2019.
+\newblock Roberta: A robustly optimized bert pretraining approach.
+\newblock \emph{ArXiv}, abs/1907.11692.
+
+\bibitem[{Lo et~al.(2020)Lo, Wang, Neumann, Kinney, and Weld}]{Lo2019GORCAL}
+Kyle Lo, Lucy~Lu Wang, Mark Neumann, Rodney Kinney, and Daniel~S. Weld. 2020.
+\newblock \href {https://arxiv.org/abs/1911.02782} {{S2ORC: The Semantic
+  Scholar Open Research Corpus}}.
+\newblock In \emph{ACL}.
+
+\bibitem[{Luan et~al.(2018)Luan, He, Ostendorf, and
+  Hajishirzi}]{Luan2018MultiTaskIO}
+Yi~Luan, Luheng He, Mari Ostendorf, and Hannaneh Hajishirzi. 2018.
+\newblock Multi-task identification of entities, relations, and coreference for
+  scientific knowledge graph construction.
+\newblock In \emph{EMNLP}.
+
+\bibitem[{Marshall et~al.(2017)Marshall, Kuiper, Banner, and
+  Wallace}]{Marshall2017AutomatingBE}
+Iain~James Marshall, Jo{\"e}l Kuiper, Edward Banner, and Byron~C. Wallace.
+  2017.
+\newblock Automating biomedical evidence synthesis: Robotreviewer.
+\newblock \emph{ACL}.
+
+\bibitem[{Marshall and Wallace(2019)}]{Marshall2019TowardSR}
+Iain~James Marshall and Byron~C. Wallace. 2019.
+\newblock Toward systematic review automation: a practical guide to using
+  machine learning tools in research synthesis.
+\newblock \emph{Systematic Reviews}, 8.
+
+\bibitem[{Nakov et~al.(2004)Nakov, Schwartz, and Hearst}]{Nakov2004CitancesC}
+Preslav~I Nakov, Ariel~S Schwartz, and Marti Hearst. 2004.
+\newblock Citances: Citation sentences for semantic analysis of bioscience
+  text.
+\newblock In \emph{SIGIR workshop on Search and Discovery in Bioinformatics}.
+
+\bibitem[{Nye et~al.(2018)Nye, Li, Patel, Yang, Marshall, Nenkova, and
+  Wallace}]{Nye2018ACW}
+Benjamin Nye, Junyi~Jessy Li, Roma Patel, Yinfei Yang, Iain~James Marshall, Ani
+  Nenkova, and Byron~C. Wallace. 2018.
+\newblock A corpus with multi-level annotations of patients, interventions and
+  outcomes to support language processing for medical literature.
+\newblock In \emph{ACL}.
+
+\bibitem[{Popat et~al.(2017)Popat, Mukherjee, Str{\"o}tgen, and
+  Weikum}]{Popat2017WhereTT}
+Kashyap Popat, Subhabrata Mukherjee, Jannik Str{\"o}tgen, and Gerhard Weikum.
+  2017.
+\newblock Where the truth lies: Explaining the credibility of emerging claims
+  on the web and social media.
+\newblock In \emph{WWW}.
+
+\bibitem[{Schuster et~al.(2019)Schuster, Shah, Yeo, Filizzola, Santus, and
+  Barzilay}]{Schuster2019TowardsDF}
+Tal Schuster, Darsh~J. Shah, Yun Jie~Serene Yeo, Daniel Filizzola, Enrico
+  Santus, and Regina Barzilay. 2019.
+\newblock Towards debiasing fact verification models.
+\newblock In \emph{EMNLP}.
+
+\bibitem[{Soleimani et~al.(2019)Soleimani, Monz, and
+  Worring}]{Soleimani2019BERTFE}
+Amir Soleimani, Christof Monz, and Marcel Worring. 2019.
+\newblock Bert for evidence retrieval and claim verification.
+\newblock In \emph{European Conference on Information Retrieval}.
+
+\bibitem[{Thorne et~al.(2018)Thorne, Vlachos, Christodoulopoulos, and
+  Mittal}]{Thorne2018FEVERAL}
+James Thorne, Andreas Vlachos, Christos Christodoulopoulos, and Arpit Mittal.
+  2018.
+\newblock Fever: a large-scale dataset for fact extraction and verification.
+\newblock In \emph{NAACL}.
+
+\bibitem[{Tsafnat et~al.(2014)Tsafnat, Glasziou, Choong, Dunn, Galgani, and
+  Coiera}]{Tsafnat2014SystematicRA}
+Guy Tsafnat, Paul~P Glasziou, Miew~Keen Choong, Adam~G. Dunn, Filippo Galgani,
+  and Enrico~W. Coiera. 2014.
+\newblock Systematic review automation technologies.
+\newblock \emph{Systematic Reviews}, 3:74 -- 74.
+
+\bibitem[{Tsatsaronis et~al.(2015)Tsatsaronis, Balikas, Malakasiotis, Partalas,
+  Zschunke, Alvers, Weissenborn, Krithara, Petridis, Polychronopoulos,
+  Almirantis, Pavlopoulos, Baskiotis, Gallinari, Arti{\`e}res, Ngomo, Heino,
+  Gaussier, Barrio-Alvers, Schroeder, Androutsopoulos, and
+  Paliouras}]{Tsatsaronis2015AnOO}
+George Tsatsaronis, Georgios Balikas, Prodromos Malakasiotis, Ioannis Partalas,
+  Matthias Zschunke, Michael~R. Alvers, Dirk Weissenborn, Anastasia Krithara,
+  Sergios Petridis, Dimitris Polychronopoulos, Yannis Almirantis, John
+  Pavlopoulos, Nicolas Baskiotis, Patrick Gallinari, Thierry Arti{\`e}res,
+  Axel-Cyrille~Ngonga Ngomo, Norman Heino, {\'E}ric Gaussier, Liliana
+  Barrio-Alvers, Michael Schroeder, Ion Androutsopoulos, and Georgios
+  Paliouras. 2015.
+\newblock An overview of the bioasq large-scale biomedical semantic indexing
+  and question answering competition.
+\newblock In \emph{BMC Bioinformatics}.
+
+\bibitem[{Vlachos and Riedel(2014)}]{Vlachos2014FactCT}
+Andreas Vlachos and Sebastian Riedel. 2014.
+\newblock Fact checking: Task definition and dataset construction.
+\newblock In \emph{ACL Workshop on Language Technologies and Computational
+  Social Science}.
+
+\bibitem[{Wang et~al.(2020)Wang, Lo, Chandrasekhar, Reas, Yang, Eide, Funk,
+  Kinney, Liu, Merrill, Mooney, Murdick, Rishi, Sheehan, Shen, Stilson, Wade,
+  Wang, Wilhelm, Xie, Raymond, Weld, Etzioni, and Kohlmeier}]{Wang2020CORD19TC}
+Lucy~Lu Wang, Kyle Lo, Yoganand Chandrasekhar, Russell Reas, Jiangjiang Yang,
+  Darrin Eide, Kathryn Funk, Rodney Kinney, Ziyang Liu, William. Merrill, Paul
+  Mooney, Dewey~A. Murdick, Devvret Rishi, Jerry Sheehan, Zhihong Shen, Brandon
+  Stilson, Alex~D. Wade, Kuansan Wang, Christopher Wilhelm, Boya Xie,
+  Douglas~M. Raymond, Daniel~S. Weld, Oren Etzioni, and Sebastian Kohlmeier.
+  2020.
+\newblock Cord-19: The covid-19 open research dataset.
+\newblock \emph{ArXiv}, abs/2004.10706.
+
+\bibitem[{Wang(2017)}]{Wang2017LiarLP}
+William~Yang Wang. 2017.
+\newblock \href {https://doi.org/10.18653/v1/P17-2067} {{``}liar, liar pants on
+  fire{''}: A new benchmark dataset for fake news detection}.
+\newblock In \emph{ACL}.
+
+\bibitem[{Wolf et~al.(2019)Wolf, Debut, Sanh, Chaumond, Delangue, Moi, Cistac,
+  Rault, Louf, Funtowicz, and Brew}]{Wolf2019HuggingFacesTS}
+Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue,
+  Anthony Moi, Pierric Cistac, Tim Rault, R'emi Louf, Morgan Funtowicz, and
+  Jamie Brew. 2019.
+\newblock Huggingface's transformers: State-of-the-art natural language
+  processing.
+\newblock \emph{ArXiv}, abs/1910.03771.
+
+\end{thebibliography}
