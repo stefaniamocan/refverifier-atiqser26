@@ -1,7 +1,8 @@
 # RefVerifier, ATIQSER '26 reproduction package
 
-Evaluations reported in *RefVerifier: Semi-Automated Reference Claim
-Verification for Scientific Manuscripts*. All LLM results use `gpt-5.6-terra`.
+Evaluations reported in [*RefVerifier: Semi-Automated Reference Claim
+Verification for Scientific Manuscripts*](https://arxiv.org/abs/2609.07652).
+All LLM results use `gpt-5.6-terra`.
 
 ## Layout
 
