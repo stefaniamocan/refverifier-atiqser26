@@ -1,0 +1,69 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite the paper below."
+title: "RefVerifier: ATIQSER '26 Reproduction Package"
+type: dataset
+abstract: >-
+  Inputs, ground truth, per-item run outputs and scoring rules for the
+  evaluations reported in "RefVerifier: Semi-Automated Reference Claim
+  Verification for Scientific Manuscripts" (ATIQSER '26). All LLM results use
+  gpt-5.6-terra. The RefVerifier prototype source is not part of this release.
+authors:
+  - family-names: Mocan
+    given-names: Stefania
+    orcid: "https://orcid.org/0009-0005-7587-3193"
+    affiliation: "Technical University of Munich"
+  - family-names: Angermeir
+    given-names: Florian
+    orcid: "https://orcid.org/0000-0001-7903-8236"
+    affiliation: "fortiss"
+  - family-names: Kreitz
+    given-names: Mark
+    orcid: "https://orcid.org/0009-0001-8282-8930"
+    affiliation: "University of the Bundeswehr Munich"
+repository-code: "https://github.com/stefaniamocan/refverifier-atiqser26"
+date-released: "2026-08-14"
+license: MIT
+license-url: "https://github.com/stefaniamocan/refverifier-atiqser26/blob/main/LICENCE"
+keywords:
+  - reference claim verification
+  - peer review integrity
+  - natural language processing
+  - large language models
+preferred-citation:
+  type: conference-paper
+  title: "RefVerifier: Semi-Automated Reference Claim Verification for Scientific Manuscripts"
+  authors:
+    - family-names: Mocan
+      given-names: Stefania
+      orcid: "https://orcid.org/0009-0005-7587-3193"
+      affiliation: "Technical University of Munich"
+    - family-names: Angermeir
+      given-names: Florian
+      orcid: "https://orcid.org/0000-0001-7903-8236"
+      affiliation: "fortiss"
+    - family-names: Kreitz
+      given-names: Mark
+      orcid: "https://orcid.org/0009-0001-8282-8930"
+      affiliation: "University of the Bundeswehr Munich"
+  collection-title: >-
+    Proceedings of the 1st International Workshop on Automated Techniques for
+    Integrity and Quality in Software-Engineering Research (ATIQSER '26)
+  collection-type: proceedings
+  conference:
+    name: >-
+      1st International Workshop on Automated Techniques for Integrity and
+      Quality in Software-Engineering Research
+    city: Munich
+    country: DE
+    date-start: "2026-10-12"
+    date-end: "2026-10-16"
+  publisher:
+    name: "Association for Computing Machinery"
+    city: "New York, NY"
+    country: US
+  year: 2026
+  month: 10
+  isbn: "979-8-4007-2999-7"
+  doi: "10.1145/3844135.3845866"
+  url: "https://doi.org/10.1145/3844135.3845866"
+  license: CC-BY-4.0

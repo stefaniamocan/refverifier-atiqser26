@@ -41,6 +41,26 @@ Participants reviewed their own unpublished manuscripts. To protect their
 privacy, the survey ships closed items only, without timestamps, free text or
 background items, and the per-manuscript runtime measurement is withheld.
 
+## Citation
+
+`CITATION.cff` holds the machine-readable metadata. Cite the paper:
+
+```bibtex
+@inproceedings{Mocan2026RefVerifier,
+  author    = {Mocan, Stefania and Angermeir, Florian and Kreitz, Mark},
+  title     = {{RefVerifier}: Semi-Automated Reference Claim Verification for Scientific Manuscripts},
+  booktitle = {Proceedings of the 1st International Workshop on Automated Techniques for Integrity and Quality in Software-Engineering Research (ATIQSER '26)},
+  year      = {2026},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  doi       = {10.1145/3844135.3845866},
+  isbn      = {979-8-4007-2999-7}
+}
+```
+
+To cite this package itself rather than the paper, use the top-level entry in
+`CITATION.cff`.
+
 ## Licence
 
 Code and manifests: MIT (`LICENCE`). External data keeps its source licence
